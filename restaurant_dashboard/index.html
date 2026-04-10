@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#f7ff00">
+  <meta name="color-scheme" content="dark light">
+  <title>FOODIE//EATS — Brutalist Restaurant Intelligence</title>
+  <link rel="stylesheet" href="style.css?v=2">
+  <link rel="preconnect" href="https://cdn.foodibd.com">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+</head>
+<body data-theme="ink">
+  <div id="loader" class="loader" role="status" aria-live="polite">
+    <div class="loader-stamp">FE//INTEL</div>
+    <div class="loader-title">CHEWING THROUGH DATA</div>
+    <div class="loader-track"><span id="loaderFill"></span></div>
+    <div class="loader-copy"><span id="loaderText">Loading…</span><b id="loaderPct">0%</b></div>
+  </div>
+
+  <div class="ticker" aria-hidden="true">
+    <div class="ticker-track" id="tickerTrack">
+      FOODIEATS // RESTAURANT INTELLIGENCE // DEALS // DELIVERY // MENU FORENSICS // FOODIEATS // RESTAURANT INTELLIGENCE // DEALS // DELIVERY // MENU FORENSICS //
+    </div>
+  </div>
+
+  <div class="app-shell">
+    <div id="sidebarOverlay" class="sidebar-overlay"></div>
+
+    <aside id="sidebar" class="sidebar">
+      <div class="brand-block">
+        <div class="brand-kicker">RESTAURANT OS / 2026</div>
+        <div class="brand-word">FOODI<span>EATS</span></div>
+        <div class="brand-tag">BRUTAL DATA. BETTER BITES.</div>
+      </div>
+
+      <div id="locationTabs" class="location-tabs"></div>
+
+      <label class="sidebar-search">
+        <i class="fa-solid fa-magnifying-glass"></i>
+        <input id="sidebarSearch" type="search" placeholder="FILTER CUISINES" autocomplete="off">
+      </label>
+
+      <div class="sidebar-actions">
+        <button id="favoriteVisibleBtn" class="block-btn mini" title="Favorite visible"><i class="fa-solid fa-heart-circle-plus"></i></button>
+        <button id="favoritesOnlyBtn" class="block-btn mini" title="Favorites only"><i class="fa-solid fa-heart"></i></button>
+        <button id="resetBtn" class="block-btn mini" title="Reset filters"><i class="fa-solid fa-rotate-left"></i></button>
+        <button id="sidebarClose" class="block-btn mini mobile-only" title="Close sidebar"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+
+      <div class="side-heading"><span>CUISINE INDEX</span><b id="cuisineCount">0</b></div>
+      <div id="cuisineList" class="cuisine-list"></div>
+
+      <div class="sidebar-foot">
+        <div class="mini-metric"><span>VISIBLE</span><b id="sideVisible">0</b></div>
+        <div class="mini-metric"><span>SAVED</span><b id="sideSaved">0</b></div>
+        <div class="mini-metric"><span>LOCATION</span><b id="sideLocation">—</b></div>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="masthead">
+        <div class="masthead-left">
+          <button id="sidebarOpen" class="square-btn mobile-menu" aria-label="Open filters"><i class="fa-solid fa-bars-staggered"></i></button>
+          <div class="headline">
+            <span class="overline">LIVE CATALOGUE / <b id="scrapedAt">—</b></span>
+            <h1 id="viewTitle">RESTAURANT WAR ROOM</h1>
+          </div>
+        </div>
+
+        <div class="masthead-center">
+          <label class="global-search">
+            <i class="fa-solid fa-magnifying-glass"></i>
+            <input id="globalSearch" type="search" placeholder="SEARCH RESTAURANTS, DISHES, CUISINES…" autocomplete="off">
+            <button id="clearSearch" type="button" aria-label="Clear search"><i class="fa-solid fa-xmark"></i></button>
+          </label>
+          <div id="suggestions" class="suggestions"></div>
+        </div>
+
+        <div class="masthead-actions">
+          <button id="themeBtn" class="square-btn" title="Switch palette"><i class="fa-solid fa-circle-half-stroke"></i></button>
+          <button id="watchBtn" class="counter-btn" title="Watchlist"><i class="fa-solid fa-bell"></i><span>WATCH</span><b id="watchCount">0</b></button>
+          <button id="compareBtn" class="counter-btn" title="Compare"><i class="fa-solid fa-code-compare"></i><span>COMPARE</span><b id="compareCount">0</b></button>
+          <button id="cartBtn" class="counter-btn acid" title="Cart"><i class="fa-solid fa-cart-shopping"></i><span>CART</span><b id="cartCount">0</b></button>
+        </div>
+      </header>
+
+      <nav class="view-tabs" aria-label="Primary views">
+        <button class="view-tab active" data-view="restaurants"><span>01</span> RESTAURANTS</button>
+        <button class="view-tab" data-view="dishes"><span>02</span> DISHES</button>
+        <button class="view-tab" data-view="analytics"><span>03</span> INTELLIGENCE</button>
+      </nav>
+
+      <section class="stat-wall" aria-label="Dataset statistics">
+        <article class="stat-brick pink"><span>RESTAURANTS</span><b id="statRestaurants">0</b><small id="statRestaurantsSub">ALL LOCATIONS</small></article>
+        <article class="stat-brick yellow"><span>DISHES</span><b id="statDishes">0</b><small id="statDishesSub">MENU INVENTORY</small></article>
+        <article class="stat-brick cyan"><span>DISCOUNTED</span><b id="statDiscounted">0</b><small id="statDiscountedSub">ACTIVE MARKDOWNS</small></article>
+        <article class="stat-brick orange"><span>OPEN NOW</span><b id="statOpen">0</b><small id="statOpenSub">DHAKA TIME</small></article>
+        <article class="stat-brick white"><span>AVG DELIVERY</span><b id="statDelivery">0m</b><small id="statDeliverySub">CURRENT LOCATION</small></article>
+      </section>
+
+      <section class="control-deck">
+        <div class="control-line primary-filters" id="primaryFilters">
+          <button class="filter-chip" data-filter="open"><i class="fa-solid fa-door-open"></i> OPEN NOW</button>
+          <button class="filter-chip" data-filter="closing"><i class="fa-solid fa-hourglass-end"></i> CLOSING SOON</button>
+          <button class="filter-chip" data-filter="fast"><i class="fa-solid fa-bolt"></i> 15 MIN</button>
+          <button class="filter-chip" data-filter="lowfee"><i class="fa-solid fa-motorcycle"></i> LOW FEE</button>
+          <button class="filter-chip" data-filter="preorder"><i class="fa-solid fa-calendar-check"></i> PREORDER</button>
+          <button class="filter-chip" data-filter="pickup"><i class="fa-solid fa-bag-shopping"></i> PICKUP</button>
+          <button class="filter-chip" data-filter="photo"><i class="fa-solid fa-camera-retro"></i> PHOTO RICH</button>
+          <button class="filter-chip" data-filter="custom"><i class="fa-solid fa-sliders"></i> CUSTOMIZABLE</button>
+          <button class="filter-chip" data-filter="dealstorm"><i class="fa-solid fa-percent"></i> DEAL STORM</button>
+        </div>
+
+        <div class="control-line selectors">
+          <label><span>CUISINE</span><select id="cuisineSelect"><option value="">ALL</option></select></label>
+          <label><span>RATING</span><select id="ratingSelect"><option value="0">ANY</option><option value="3">3+</option><option value="3.5">3.5+</option><option value="4">4+</option><option value="4.5">4.5+</option></select></label>
+          <label><span>MAX FEE</span><select id="feeSelect"><option value="999">ANY</option><option value="40">৳40</option><option value="45">৳45</option><option value="50">৳50</option></select></label>
+          <label><span>DISTANCE</span><select id="distanceSelect"><option value="999">ANY</option><option value="0.5">≤ 0.5 KM</option><option value="1">≤ 1 KM</option><option value="2">≤ 2 KM</option></select></label>
+          <label class="sort-field"><span>SORT</span><select id="sortSelect"></select></label>
+          <label class="range-field"><span>DENSITY</span><input id="gridRange" type="range" min="2" max="6" value="4"><b id="gridValue">4</b></label>
+          <button id="loadAllToggle" class="load-all-toggle" type="button" aria-pressed="false"><i class="fa-solid fa-layer-group"></i><span>LOAD ALL</span><b id="loadAllState">OFF</b></button>
+        </div>
+
+        <div id="dishControls" class="control-line dish-controls" hidden>
+          <div id="priceFilterStrip" class="price-filter-strip">
+            <button class="deal-chip" data-price-filter="great_deal">GREAT DEAL 15%+</button>
+            <button class="deal-chip" data-price-filter="good_buy">GOOD BUY 5%+</button>
+            <button class="deal-chip" data-price-filter="price_change">PRICE CHANGED</button>
+            <button class="deal-chip" data-price-filter="custom_change">CUSTOM CHANGE</button>
+            <button class="deal-chip" data-price-filter="wait">PRICE RISING</button>
+            <button class="deal-chip" data-price-filter="all_time_low">ALL-TIME LOW</button>
+            <button class="deal-chip" data-price-filter="new_items">NEW ITEMS</button>
+            <button class="deal-chip" data-price-filter="new_range">DATE RANGE</button>
+          </div>
+          <label class="range-field"><span>CHANGE %</span><input id="customChangePct" type="range" min="1" max="95" value="12"></label>
+          <label class="range-field"><span>NEW DAYS</span><input id="newDays" type="range" min="1" max="365" value="7"></label>
+          <label class="number-box"><span>NEW FROM</span><input id="newFrom" type="date"></label>
+          <label class="number-box"><span>NEW TO</span><input id="newTo" type="date"></label>
+          <label class="number-box"><span>MEAN FROM</span><input id="meanFrom" type="date"></label>
+          <label class="number-box"><span>MEAN TO</span><input id="meanTo" type="date"></label>
+          <button id="clearMean" class="block-btn mini">CLEAR MEAN</button>
+        </div>
+      </section>
+
+      <section id="activeSummary" class="active-summary">
+        <div><span class="summary-label">MODE</span><b id="summaryMode">RESTAURANTS</b></div>
+        <div><span class="summary-label">RESULTS</span><b id="summaryResults">0</b></div>
+        <div><span class="summary-label">SIGNAL</span><b id="summarySignal">UNFILTERED</b></div>
+        <button id="surpriseBtn" class="surprise-btn"><i class="fa-solid fa-dice"></i> FEED ME SOMETHING</button>
+      </section>
+
+      <div id="historyDataNote" class="history-data-note"></div>
+      <section id="grid" class="card-grid" aria-live="polite"></section>
+      <button id="loadMoreBtn" class="load-more" hidden>LOAD MORE // <span id="remainingCount">0</span> LEFT</button>
+
+      <section id="analytics" class="analytics" hidden>
+        <div id="analyticsHero" class="analytics-hero"></div>
+        <div class="analytics-grid">
+          <article class="analysis-panel wide"><header><span>01</span><h3>LOCATION BATTLEBOARD</h3></header><div id="locationBoard"></div></article>
+          <article class="analysis-panel"><header><span>02</span><h3>TOP CUISINES</h3></header><div id="cuisineBars" class="bar-stack"></div></article>
+          <article class="analysis-panel"><header><span>03</span><h3>DISCOUNT LADDER</h3></header><div id="discountLadder" class="bar-stack"></div></article>
+          <article class="analysis-panel"><header><span>04</span><h3>CUSTOMIZATION STOCK</h3></header><div id="customStats"></div></article>
+          <article class="analysis-panel"><header><span>05</span><h3>OPERATING PROFILE</h3></header><div id="opsStats"></div></article>
+          <article class="analysis-panel wide"><header><span>06</span><h3>TOP VALUE RESTAURANTS</h3></header><div id="valueBoard" class="rank-table"></div></article>
+          <article class="analysis-panel wide"><header><span>07</span><h3>DATA COMPLETENESS</h3></header><div id="qualityBoard"></div></article>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <div id="compareTray" class="compare-tray" hidden>
+    <div><span>COMPARE QUEUE</span><b id="compareTrayCount">0 / 4</b></div>
+    <div id="compareTrayItems" class="compare-tray-items"></div>
+    <button id="compareNowBtn" class="block-btn acid">COMPARE NOW</button>
+    <button id="compareClearBtn" class="block-btn">CLEAR</button>
+  </div>
+
+  <div id="detailModal" class="modal" aria-hidden="true">
+    <div class="modal-shell">
+      <button class="modal-close" data-close-modal aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+      <div id="detailContent"></div>
+    </div>
+  </div>
+
+  <div id="drawer" class="drawer" aria-hidden="true">
+    <div class="drawer-head"><div><span id="drawerKicker">PANEL</span><h2 id="drawerTitle">DETAILS</h2></div><button id="drawerClose" class="square-btn"><i class="fa-solid fa-xmark"></i></button></div>
+    <div id="drawerContent" class="drawer-content"></div>
+  </div>
+  <div id="drawerOverlay" class="drawer-overlay"></div>
+
+  <div id="toastHost" class="toast-host" aria-live="polite"></div>
+
+  <div id="dishViewer" class="dish-viewer" aria-hidden="true">
+    <div class="dish-viewer-topbar">
+      <button id="dishViewerPrev" class="square-btn" aria-label="Previous"><i class="fa-solid fa-chevron-left"></i></button>
+      <span id="viewerPosition">0 / 0</span>
+      <button id="dishViewerNext" class="square-btn" aria-label="Next"><i class="fa-solid fa-chevron-right"></i></button>
+      <button id="dishViewerClose" class="square-btn" aria-label="Close"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+    <div id="dishViewerStage" class="dish-viewer-stage"></div>
+    <div id="dishViewerHeader" class="dish-viewer-header"></div>
+    <div class="dish-viewer-history">
+      <div class="history-info"><span>SOURCE:</span> <b id="historySource">—</b></div>
+      <div id="historyEmpty" class="history-empty"></div>
+      <div id="historyPlot" class="history-plot">
+        <canvas id="priceHistoryCanvas"></canvas>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js?v=2"></script>
+</body>
+</html>
