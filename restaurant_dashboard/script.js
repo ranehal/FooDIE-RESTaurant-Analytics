@@ -293,6 +293,7 @@ function setupListeners() {
   $('compareTrayItems').addEventListener('click',(e)=>{const b=e.target.closest('[data-remove-compare]');if(b)removeCompare(b.dataset.removeCompare);});
   $('detailModal').addEventListener('click',(e)=>{ if(e.target===$('detailModal')||e.target.closest('[data-close-modal]'))closeModal(); else handleModalAction(e); });
   $('dishViewerClose').addEventListener('click',closeDishViewer);
+  $('historyCloseBtn')?.addEventListener('click',closeDishViewer);
   $('dishViewerPrev').addEventListener('click',()=>cycleDish(-1)); $('dishViewerNext').addEventListener('click',()=>cycleDish(1));
   $('dishViewerHeader').addEventListener('click',handleViewerAction);
   $('dishViewerStage').addEventListener('pointerdown',(e)=>{state.viewerPointerX=e.clientX;});
@@ -301,7 +302,27 @@ function setupListeners() {
   $('drawerClose').addEventListener('click', closeDrawer); $('drawerOverlay').addEventListener('click',closeDrawer);
   $('drawerContent').addEventListener('click',handleDrawerClick);
   $('sidebarOpen').addEventListener('click',openSidebar); $('sidebarClose').addEventListener('click',closeSidebar); $('sidebarOverlay').addEventListener('click',closeSidebar);
-  document.addEventListener('keydown',(e)=>{if(e.key==='Escape'){closeDishViewer();closeModal();closeDrawer();closeSidebar();return;}if(state.viewerKey&&(e.key==='ArrowLeft'||e.key==='ArrowRight')){e.preventDefault();cycleDish(e.key==='ArrowRight'?1:-1);return;}if(e.key==='/'&&!/INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName)){e.preventDefault();$('globalSearch').focus();}});
+  document.addEventListener('keydown',(e)=>{
+    const isInput = /INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName) || document.activeElement.isContentEditable;
+    const isCloseKey = e.key === 'Escape' || (!isInput && (e.key === ' ' || e.code === 'Space'));
+    if (isCloseKey && (state.viewerKey || $('detailModal').classList.contains('open') || $('drawer').classList.contains('open') || $('sidebar').classList.contains('open'))) {
+      e.preventDefault();
+      closeDishViewer();
+      closeModal();
+      closeDrawer();
+      closeSidebar();
+      return;
+    }
+    if (state.viewerKey && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) {
+      e.preventDefault();
+      cycleDish(e.key === 'ArrowRight' ? 1 : -1);
+      return;
+    }
+    if (e.key === '/' && !isInput) {
+      e.preventDefault();
+      $('globalSearch').focus();
+    }
+  });
 }
 
 function setLocation(index) {

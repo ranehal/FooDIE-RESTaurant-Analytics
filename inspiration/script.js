@@ -589,19 +589,26 @@ function setupEventListeners() {
     });
 
     document.addEventListener('keydown', (e) => {
-        if (e.key === 'Escape') {
+        const isInput = /INPUT|SELECT|TEXTAREA/.test(document.activeElement.tagName) || document.activeElement.isContentEditable;
+        const isCloseKey = e.key === 'Escape' || (!isInput && (e.key === ' ' || e.code === 'Space'));
+
+        if (isCloseKey) {
+            const chartModal = document.getElementById('chart-modal');
+            if (chartModal && !chartModal.classList.contains('hidden') && chartModal.style.display !== 'none') {
+                e.preventDefault();
+                closeModal();
+                return;
+            }
             document.querySelectorAll('.modal').forEach(m => {
                 m.classList.add('hidden');
                 m.style.display = 'none';
             });
-            document.getElementById('search-suggestions').style.display = 'none';
+            const searchSuggestions = document.getElementById('search-suggestions');
+            if (searchSuggestions) searchSuggestions.style.display = 'none';
         }
-        if (document.getElementById('chart-modal').classList.contains('hidden') === false) {
+        if (document.getElementById('chart-modal') && document.getElementById('chart-modal').classList.contains('hidden') === false) {
             if (e.key === 'ArrowRight') cycleProduct(1);
             if (e.key === 'ArrowLeft') cycleProduct(-1);
-            if (e.key === 'Escape') {
-                closeModal();
-            }
         }
     });
 
