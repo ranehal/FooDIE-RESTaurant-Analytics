@@ -267049,7 +267049,7 @@
           "image": "/restaurant-service/Logo-3f09-20260114081622470.jpg",
           "coverImage": "/restaurant-service/Cover-9150-20260114081622497.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-07-29T02:00:00Z",
+          "openAt": "2026-07-30T02:00:00Z",
           "distance": 1.3465480860903105,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.079288516541865,
@@ -323166,7 +323166,8 @@
               "priorityNumber": 0,
               "menuIds": [
                 777439,
-                777438
+                777438,
+                777442
               ]
             },
             {
@@ -323194,11 +323195,8 @@
                 777435,
                 809858,
                 777407,
-                781433,
-                781432,
                 777406,
-                777434,
-                777433
+                777434
               ]
             },
             {
@@ -323207,8 +323205,6 @@
               "priorityNumber": 3,
               "menuIds": [
                 777384,
-                777385,
-                777386,
                 777334,
                 777379,
                 781437,
@@ -323247,6 +323243,8 @@
                 777286,
                 777288,
                 777308,
+                777287,
+                777284,
                 777306,
                 777305,
                 777309,
@@ -323259,7 +323257,6 @@
               "priorityNumber": 6,
               "menuIds": [
                 777272,
-                777458,
                 777270,
                 777464
               ]
@@ -323268,10 +323265,7 @@
               "id": 107992,
               "name": "Dessert",
               "priorityNumber": 7,
-              "menuIds": [
-                777462,
-                777459
-              ]
+              "menuIds": []
             },
             {
               "id": 124127,
@@ -323351,20 +323345,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "777385": {
-              "id": 777385,
-              "name": "Bagda Chingri Bhuna - 3/4 Pcs",
-              "price": "96",
-              "oldPrice": "120",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Bagda-Chingri-673e-20251106110531023.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Bagda-Chingri-3b14-20251106110531148.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "921176": {
               "id": 921176,
               "name": "Beef Kolija Bhuna  ",
@@ -323401,20 +323381,6 @@
               "hasVariation": 0,
               "image": null,
               "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "777386": {
-              "id": 777386,
-              "name": "Golda Chingri Bhuna - 2/3 Pcs",
-              "price": "176",
-              "oldPrice": "220",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Golda-Chingri-01a7-20251109075509460.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Golda-Chingri-a8b0-20251109075509524.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -323533,20 +323499,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "777462": {
-              "id": 777462,
-              "name": "Shemai - 250ml",
-              "price": "104",
-              "oldPrice": "130",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Shemai-4f27-20251106114501897.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Shemai-ab27-20251106114501965.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "777308": {
               "id": 777308,
               "name": "Palong Shak",
@@ -323659,6 +323611,20 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "777287": {
+              "id": 777287,
+              "name": "Borboti Bhaji",
+              "price": "52",
+              "oldPrice": "65",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Borboti-Bhaji-6bc7-20251109075525014.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Borboti-Bhaji-1cf2-20251109075525138.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "777413": {
               "id": 777413,
               "name": "Mutton Mogoj Bhuna -  1 Plate",
@@ -323687,6 +323653,20 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "777284": {
+              "id": 777284,
+              "name": "Korola Bhaji",
+              "price": "52",
+              "oldPrice": "65",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Korola-Bhaji-7640-20251106113051083.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Korola-Bhaji-4ef4-20251106113051138.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "809858": {
               "id": 809858,
               "name": "Plain Dal",
@@ -323701,34 +323681,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "777459": {
-              "id": 777459,
-              "name": "Doi Chira",
-              "price": "120",
-              "oldPrice": "150",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Doi-Chira-936c-20251106112758409.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Doi-Chira-c8f6-20251106112758529.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "777458": {
-              "id": 777458,
-              "name": "Sweet Bread Omelette - 4 Pcs",
-              "price": "80",
-              "oldPrice": "100",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Sweet-Bread-Omelette-8ebb-20251106115316603.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Sweet-Bread-Omelette-de6f-20251106115316642.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "777407": {
               "id": 777407,
               "name": "Sonali Chicken Curry - 3 Pcs",
@@ -323737,34 +323689,6 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Sonali-Chicken-Curry-87f2-20251106115303854.webp",
               "bannerImage": "/restaurant-service/RestaurantMenuitem/Sonali-Chicken-Curry-9de7-20251106115304111.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "781433": {
-              "id": 781433,
-              "name": "Duck Bhuna 4Pcs",
-              "price": "240",
-              "oldPrice": "300",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Duck-Bhuna-ba1d-20251109075437008.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Duck-Bhuna-6d30-20251109075437036.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "781432": {
-              "id": 781432,
-              "name": "Mutton Bhuna 3Pcs",
-              "price": "240",
-              "oldPrice": "300",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Mutton-Bhuna-6b29-20251109075436910.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Mutton-Bhuna-fd46-20251109075436980.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -324009,20 +323933,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "777433": {
-              "id": 777433,
-              "name": "Chicken Roast -  1 Pc",
-              "price": "144",
-              "oldPrice": "180",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Roast-3c21-20251106111535170.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Roast-222c-20251106111535219.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "777381": {
               "id": 777381,
               "name": "Ilish Fish - 1 Pc",
@@ -324073,6 +323983,20 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/tiger-chingri-ss-a273-20260420052547577.jpg",
               "bannerImage": "/restaurant-service/RestaurantMenuitem/tiger-chingri-ss-f3b8-20260420052547649.jpg",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "777442": {
+              "id": 777442,
+              "name": "Chicken Tehari",
+              "price": "160",
+              "oldPrice": "200",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Tehari-37c8-20251106111551427.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Tehari-f108-20251106111551487.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -360873,6 +360797,6 @@
     }
   ],
   "totalRestaurants": 337,
-  "totalDishes": 13731,
-  "scrapedAt": "2026-07-28T18:40:48.314923+00:00"
+  "totalDishes": 13726,
+  "scrapedAt": "2026-07-28T21:32:52.623135+00:00"
 }
