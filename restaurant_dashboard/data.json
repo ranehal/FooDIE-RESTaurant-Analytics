@@ -17024,8 +17024,8 @@
               "menuIds": [
                 876564,
                 876565,
-                876660,
-                876663
+                876663,
+                876661
               ]
             },
             {
@@ -17170,20 +17170,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "876660": {
-              "id": 876660,
-              "name": "Alu Bhaji",
-              "price": "44",
-              "oldPrice": "55",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Alu-Bhaji-2993-20260122070158734.jpg",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "876663": {
               "id": 876663,
               "name": "Begun Bhaji",
@@ -17191,6 +17177,20 @@
               "oldPrice": "39",
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Begun-bhaji-eb34-20260122070158929.jpg",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "876661": {
+              "id": 876661,
+              "name": "Korola Bhaji",
+              "price": "42.4",
+              "oldPrice": "53",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Korolla-Bhaji-n-015d-20260122070158858.jpg",
               "bannerImage": null,
               "isPopular": false,
               "description": null,
@@ -17308,7 +17308,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-01T02:00:00Z",
+          "openAt": "2026-08-02T02:00:00Z",
           "distance": 0.7063300993358052,
           "deliveryTime": 15,
           "totalDeliveryTime": 15,
@@ -22045,7 +22045,7 @@
           "deliveryCharge": 40,
           "rating": 3.792857,
           "ratingCount": 14,
-          "averageReviewCount": 3.792856931686402,
+          "averageReviewCount": 3.7928569316864014,
           "totalReviewCount": 14,
           "priceRange": "৳৳",
           "location": {
@@ -22770,7 +22770,7 @@
           "deliveryCharge": 40,
           "rating": 3.8545454,
           "ratingCount": 22,
-          "averageReviewCount": 3.854545354843139,
+          "averageReviewCount": 3.8545453548431396,
           "totalReviewCount": 22,
           "priceRange": "৳৳",
           "location": {
@@ -81891,7 +81891,7 @@
           "deliveryCharge": 45,
           "rating": 3.8638036,
           "ratingCount": 326,
-          "averageReviewCount": 3.863803625106811,
+          "averageReviewCount": 3.8638036251068115,
           "totalReviewCount": 326,
           "priceRange": "৳৳",
           "location": {
@@ -84943,7 +84943,7 @@
           "deliveryCharge": 45,
           "rating": 3.957143068313598,
           "ratingCount": 56,
-          "averageReviewCount": 3.957143068313598,
+          "averageReviewCount": 3.9571430683135986,
           "totalReviewCount": 56,
           "priceRange": "৳৳",
           "location": {
@@ -116290,7 +116290,7 @@
           "deliveryCharge": 47,
           "rating": 3.910967111587525,
           "ratingCount": 155,
-          "averageReviewCount": 3.910967111587525,
+          "averageReviewCount": 3.9109671115875244,
           "totalReviewCount": 155,
           "priceRange": "৳৳",
           "location": {
@@ -130241,7 +130241,7 @@
           "deliveryCharge": 45,
           "rating": 3.8701298,
           "ratingCount": 77,
-          "averageReviewCount": 3.870129823684693,
+          "averageReviewCount": 3.8701298236846924,
           "totalReviewCount": 77,
           "priceRange": "৳৳",
           "location": {
@@ -144021,7 +144021,7 @@
           "deliveryCharge": 55,
           "rating": 3.881511211395264,
           "ratingCount": 2304,
-          "averageReviewCount": 3.881511211395264,
+          "averageReviewCount": 3.8815112113952637,
           "totalReviewCount": 2304,
           "priceRange": "৳৳",
           "location": {
@@ -145066,7 +145066,7 @@
           "deliveryCharge": 50,
           "rating": 3.8285716,
           "ratingCount": 14,
-          "averageReviewCount": 3.8285715579986577,
+          "averageReviewCount": 3.8285715579986572,
           "totalReviewCount": 14,
           "priceRange": "৳৳",
           "location": {
@@ -195992,7 +195992,7 @@
           "deliveryCharge": 40,
           "rating": 3.9823527,
           "ratingCount": 34,
-          "averageReviewCount": 3.982352733612061,
+          "averageReviewCount": 3.9823527336120605,
           "totalReviewCount": 34,
           "priceRange": "৳৳",
           "location": {
@@ -266995,7 +266995,7 @@
           "image": "/restaurant-service/Logo-3f09-20260114081622470.jpg",
           "coverImage": "/restaurant-service/Cover-9150-20260114081622497.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-01T02:00:00Z",
+          "openAt": "2026-08-02T02:00:00Z",
           "distance": 1.3465480860903105,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.079288516541865,
@@ -277264,7 +277264,7 @@
           "deliveryCharge": 50,
           "rating": 3.881511211395264,
           "ratingCount": 2304,
-          "averageReviewCount": 3.8815112113952637,
+          "averageReviewCount": 3.881511211395264,
           "totalReviewCount": 2304,
           "priceRange": "৳৳",
           "location": {
@@ -277604,7 +277604,7 @@
           "deliveryCharge": 45,
           "rating": 3.837037,
           "ratingCount": 108,
-          "averageReviewCount": 3.837037086486816,
+          "averageReviewCount": 3.8370370864868164,
           "totalReviewCount": 108,
           "priceRange": "৳৳",
           "location": {
@@ -312681,7 +312681,7 @@
           "deliveryCharge": 45,
           "rating": 3.8638036,
           "ratingCount": 326,
-          "averageReviewCount": 3.8638036251068115,
+          "averageReviewCount": 3.863803625106811,
           "totalReviewCount": 326,
           "priceRange": "৳৳",
           "location": {
@@ -338840,7 +338840,7 @@
           "deliveryCharge": 47,
           "rating": 3.910967111587525,
           "ratingCount": 155,
-          "averageReviewCount": 3.9109671115875244,
+          "averageReviewCount": 3.910967111587525,
           "totalReviewCount": 155,
           "priceRange": "৳৳",
           "location": {
@@ -358588,5 +358588,5 @@
   ],
   "totalRestaurants": 332,
   "totalDishes": 13609,
-  "scrapedAt": "2026-07-31T19:25:05.702518+00:00"
+  "scrapedAt": "2026-07-31T21:18:29.798463+00:00"
 }
