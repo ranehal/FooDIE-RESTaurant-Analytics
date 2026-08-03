@@ -361999,20 +361999,7 @@
               "id": 110860,
               "name": "Lunch & Dinner",
               "priorityNumber": 2,
-              "menuIds": [
-                810074,
-                810070,
-                810028,
-                809987,
-                810021,
-                810068,
-                810071,
-                810072,
-                810069,
-                810073,
-                810066,
-                810024
-              ]
+              "menuIds": []
             },
             {
               "id": 110861,
@@ -362027,176 +362014,6 @@
               "menuIds": []
             }
           ],
-          "menus": {
-            "810074": {
-              "id": 810074,
-              "name": "Patla Daal   ",
-              "price": "25",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/plain-dal-Copy-16-1478-20260115044219462.png",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/plain-dal-Copy-17-db14-20260115044219529.png",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810070": {
-              "id": 810070,
-              "name": "Beef Chaap   ",
-              "price": "220",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810028": {
-              "id": 810028,
-              "name": "Rui Mach",
-              "price": "100",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "809987": {
-              "id": 809987,
-              "name": "Sada Bhat",
-              "price": "25",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810021": {
-              "id": 810021,
-              "name": "Sobji ",
-              "price": "30",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810068": {
-              "id": 810068,
-              "name": "Chicken Roast      ",
-              "price": "130",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810071": {
-              "id": 810071,
-              "name": "Beef Kacchi       ",
-              "price": "180",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810072": {
-              "id": 810072,
-              "name": "Beef Tehari          ",
-              "price": "200",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Beef-Tehari-Copy-6-944b-20260131061410759.jpg",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Beef-Tehari-Copy-6-f51a-20260131061410814.jpg",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810069": {
-              "id": 810069,
-              "name": "Chicken Jhal Fry      ",
-              "price": "100",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810073": {
-              "id": 810073,
-              "name": "Chicken Biryani       ",
-              "price": "170",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810066": {
-              "id": 810066,
-              "name": "koi Mach    ",
-              "price": "80",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "810024": {
-              "id": 810024,
-              "name": "Korola",
-              "price": "30",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": null,
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            }
-          },
           "variations": {
             "43015": {
               "id": 43015,
@@ -364907,6 +364724,6 @@
     }
   ],
   "totalRestaurants": 331,
-  "totalDishes": 13877,
-  "scrapedAt": "2026-08-03T21:15:07.696679+00:00"
+  "totalDishes": 13865,
+  "scrapedAt": "2026-08-03T22:01:46.982864+00:00"
 }
