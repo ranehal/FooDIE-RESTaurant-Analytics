@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121701",
+    "sku": "T24700WOG",
+    "name": "Timex Signio Square Blue Dial Automatic Men's Watch (TWEG24700)",
+    "slug": "timex-signio-square-blue-dial-automatic-men-s-watch-tweg24700",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tweg24700-27-july-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40000.0,
+    "special_price": 28000.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40000.0,
+      "special_price": 28000.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:22"
+    }
+  ]
+}

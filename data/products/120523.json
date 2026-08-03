@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120523",
+    "sku": "P1109FLGTCL",
+    "name": "TCL 9KG Smart Direct Motion Inverter Front Load Washing Machine (P1109FLG)",
+    "slug": "tcl-9kg-smart-direct-motion-inverter-front-load-washing-machine-p1109flg",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/1/p1109flg-1-jun-2026.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 72900.0,
+    "special_price": 64390.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72900.0,
+      "special_price": 64390.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

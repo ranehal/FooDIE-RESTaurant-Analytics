@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120970",
+    "sku": "MF2219VJNN",
+    "name": "NPC 22 Inch 120Hz Full HD LED Monitor (MF2219-V)",
+    "slug": "npc-22-inch-120hz-full-hd-led-monitor-mf2219-v",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/p/npc-mf2219-v-25-6-26-2_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10813.0,
+    "special_price": 9830.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10813.0,
+      "special_price": 9830.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

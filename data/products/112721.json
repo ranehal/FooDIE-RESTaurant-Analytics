@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112721",
+    "sku": "L82XX00JALKSER",
+    "name": "Lenovo IdeaPad Flex 5 14\" Ryzen 5 5625U 16GB 512GB SSD 14ABR8 WUXZA X360 Touch Laptop- Arctic Grey (82XX00JALK)",
+    "slug": "lenovo-ideapad-flex-5-14-ryzen-5-5625u-16gb-512gb-ssd-14abr8-wuxza-x360-touch-laptop-arctic-grey-82xx00jalk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/lenovo-ideapad-flex-5-10-9-25-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 90200.0,
+    "special_price": 84000.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 90200.0,
+      "special_price": 84000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

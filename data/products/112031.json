@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112031",
+    "sku": "S32H5000FSBN",
+    "name": "Samsung H5000 32 Inch LED HD Smart TV (32H5000F)",
+    "slug": "samsung-h5000-32-inch-led-hd-smart-tv-32h5000f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/32h5000f-5_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:31"
+    }
+  ]
+}

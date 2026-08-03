@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109164",
+    "sku": "GP7P12GB128GB",
+    "name": "Google Pixel 7 Pro 5G 12GB/128GB",
+    "slug": "google-pixel-7-pro-5g-12gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/i/pixel-7-pro-12gb-2-8-26.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 59999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:05"
+    }
+  ]
+}

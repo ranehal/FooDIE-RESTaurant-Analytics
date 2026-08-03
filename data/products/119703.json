@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119703",
+    "sku": "AE1700H1A2VDFAMZ",
+    "name": "Casio Youth Dual Time Digital Resin Belt Men\u2019s Watch (AE-1700H-1A2VDF)",
+    "slug": "casio-youth-dual-time-digital-resin-belt-watch-ae-1700h-1a2vdf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/_/1_32_17.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6890.0,
+    "special_price": 5890.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6890.0,
+      "special_price": 5890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:46"
+    }
+  ]
+}

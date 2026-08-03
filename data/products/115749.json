@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115749",
+    "sku": "ASR60IATMOV",
+    "name": "Anker Soundcore R60i NC TWS Earbuds",
+    "slug": "anker-soundcore-r60i-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soundcore-r60i--27-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3999.0,
+    "special_price": 3099.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3999.0,
+      "special_price": 3099.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112986",
+    "sku": "HP440G11SER",
+    "name": "HP ProBook 440 G11 Intel Core Ultra 5 125U Processor 8GB RAM 512GB SSD 14\" FHD Laptop (B7PE1PT)",
+    "slug": "hp-probook-440-g11-intel-core-ultra-5-processor-8gb-ram-512gb-ssd-14-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/4/440-g11-1.jpg",
+    "unit": "g",
+    "unit_value": 440.0,
+    "price": 102300.0,
+    "special_price": 94900.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 102300.0,
+      "special_price": 94900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109194",
+    "sku": "DFTL24TV16T1DDKO",
+    "name": "Daikin 2 Ton Non-Inverter Split Type Air Conditioner (FTL24TV16T1D)",
+    "slug": "daikin-2-ton-non-inverter-split-type-air-conditioner-ftl24tv16t1d",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/daikin-non-inverter-ac-9-4-25_1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 117900.0,
+    "special_price": 107900.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 117900.0,
+      "special_price": 107900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:35"
+    }
+  ]
+}

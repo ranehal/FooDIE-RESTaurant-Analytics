@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118953",
+    "sku": "RERC160KHS",
+    "name": "Reeoo 1M PD 27W Type-C to Lightning Data Cable",
+    "slug": "reeoo-1m-pd-27w-type-c-to-lightning-data-cable-rc160",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/R/e/Reeoo_RC160.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

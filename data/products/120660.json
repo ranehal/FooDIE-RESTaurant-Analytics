@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120660",
+    "sku": "BLCPE600EUJNN",
+    "name": "LB-Link BL-CPE600EU AX300 Wi-Fi 6 4G LTE Pocket Router",
+    "slug": "lb-link-bl-cpe600eu-ax300-wifi-6-4g-lte-pocket-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/_/f_1.png",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 3619.0,
+    "special_price": 3290.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3619.0,
+      "special_price": 3290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

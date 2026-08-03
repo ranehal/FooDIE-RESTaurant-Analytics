@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "73341",
+    "sku": "KM3580WMBT",
+    "name": "Kemei KM-3580 4 in 1 Rechargeable Professional Grooming Kit",
+    "slug": "kemei-km-3580-4-in-1-rechargeable-professional-grooming-kit",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kemei-km-3580-black.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:11:17"
+    }
+  ]
+}

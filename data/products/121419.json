@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121419",
+    "sku": "WMG0019WBWWDL",
+    "name": "Walton Antique Wired Gaming Mouse (WMG0019WB)",
+    "slug": "walton-antique-wired-gaming-mouse-wmg0019wb",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/m/wmg0019wb-14-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1275.0,
+    "special_price": 1100.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1275.0,
+      "special_price": 1100.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119979",
+    "sku": "AAK820V2DTR",
+    "name": "Ajazz AK820 V2 Tri-Mode Mechanical Keyboard (Coconut Flake)",
+    "slug": "ajazz-ak820-v2-tri-mode-mechanical-keyboard-coconut-flake",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/k/ak820-v2-12-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5200.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

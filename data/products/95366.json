@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "95366",
+    "sku": "W43D210E11UGTWLT",
+    "name": "Walton 43 Inch 4K UHD Android 11 Smart TV (W43D210E11UGT)",
+    "slug": "walton-43-inch-4k-uhd-android-11-smart-tv-w43d210e11ugt",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/4/w43d210e11ugt-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 39690.0,
+    "special_price": 29999.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 39690.0,
+      "special_price": 29999.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:42"
+    }
+  ]
+}

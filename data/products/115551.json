@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115551",
+    "sku": "AFA6RL144WGLO",
+    "name": "ASUS TUF Gaming A16 Ryzen 7 7445HS 16\" FHD+ Gaming Laptop (FA607NUG-RL144W)",
+    "slug": "asus-tuf-gaming-a16-ryzen-7-7445hs-16-fhd-gaming-laptop-fa607nug-rl144w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fa607nug-rl144w-19-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 159000.0,
+    "special_price": 158100.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 159000.0,
+      "special_price": 158100.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

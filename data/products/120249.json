@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120249",
+    "sku": "CPOE15GLO",
+    "name": "Cudy Outdoor Gigabit PoE+ Extender (POE15)",
+    "slug": "cudy-outdoor-gigabit-poe-extender-poe15",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/o/poe15-19-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 5800.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 5800.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:01"
+    }
+  ]
+}

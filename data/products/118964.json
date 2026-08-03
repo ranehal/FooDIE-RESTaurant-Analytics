@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118964",
+    "sku": "TW2V269JHSP",
+    "name": "Timex Essex Ave Women\u2019s Watch (TW2V269009J)",
+    "slug": "timex-essex-ave-women-s-watch-tw2v269009j",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw2v269009j-27-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11799.0,
+    "special_price": 10260.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11799.0,
+      "special_price": 10260.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:46"
+    }
+  ]
+}

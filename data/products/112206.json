@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112206",
+    "sku": "IXPAD206GB128GBLTE",
+    "name": "Infinix XPAD 20 6GB/128GB (LTE)",
+    "slug": "infinix-xpad-20-6gb-128gb-lte",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/p/xpad-20-6gb-128gb-2-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:05"
+    }
+  ]
+}

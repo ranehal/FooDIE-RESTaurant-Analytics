@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112068",
+    "sku": "XCC06ZXGO",
+    "name": "Xiaomi 37W Dual Port Car Charger (CC06ZM)",
+    "slug": "xiaomi-37w-dual-port-car-charger-cc06zm",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-37w-dual-port-car-charger-_cc06zm_-5-426-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1499.0,
+    "special_price": 1349.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1499.0,
+      "special_price": 1349.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:46"
+    }
+  ]
+}

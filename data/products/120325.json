@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120325",
+    "sku": "LPC40CLVP",
+    "name": "Livpure 40L Multicool Air Cooler",
+    "slug": "livpure-40l-multicool-air-cooler",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/cooler40l-20-5-26.jpg",
+    "unit": "L",
+    "unit_value": 40.0,
+    "price": 21500.0,
+    "special_price": 20490.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21500.0,
+      "special_price": 20490.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:43"
+    }
+  ]
+}

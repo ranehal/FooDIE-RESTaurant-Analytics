@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121473",
+    "sku": "W1TBM2P001WDL",
+    "name": "Walton Antique 1TB M.2 Portable SATA SSD (W1TBM2P001)",
+    "slug": "walton-antique-1tb-m-2-portable-sata-ssd-w1tbm2p001",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/1/w1tbm2p001-15-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9950.0,
+    "special_price": 8800.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9950.0,
+      "special_price": 8800.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

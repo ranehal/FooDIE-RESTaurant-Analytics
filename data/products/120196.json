@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120196",
+    "sku": "CPOE200GLO",
+    "name": "Cudy 30W Gigabit PoE+ Injector Adapter (POE200)",
+    "slug": "cudy-30w-gigabit-poe-injector-adapter-poe200",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/o/poe200-18-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1450.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1450.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:01"
+    }
+  ]
+}

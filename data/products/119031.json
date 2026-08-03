@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119031",
+    "sku": "S4UQ1A3ACRNG",
+    "name": "LG 1 Ton Dual Inverter Deluxe Air Conditioner (S4UQ12JA3AC)",
+    "slug": "lg-1-ton-dual-inverter-deluxe-air-conditioner-s4uq12ja3ac",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/4/s4uq12ja3ac-1ton-28-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 100900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 100900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:24"
+    }
+  ]
+}

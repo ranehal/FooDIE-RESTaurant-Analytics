@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121034",
+    "sku": "T55C6KSTCL",
+    "name": "TCL 55C6KS 55 Inch QD MiniLED 4K Google TV",
+    "slug": "tcl-55c6ks-55-qd-miniled-4k-google-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/55c6ks-30-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 121990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 121990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

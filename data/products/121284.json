@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121284",
+    "sku": "EFV640DC1AVWOG",
+    "name": "Casio Standard Chronograph Watch for Men (EFV-640DC-1AV)",
+    "slug": "casio-standard-chronograph-watch-for-men-efv-640dc-1av",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efv-640dc-9-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24000.0,
+    "special_price": 18000.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24000.0,
+      "special_price": 18000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

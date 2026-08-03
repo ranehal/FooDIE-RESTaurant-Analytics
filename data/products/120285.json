@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120285",
+    "sku": "MJGHHC2LFIOT",
+    "name": "Xiaomi Mijia Hair Clipper 2 (MJGHHC2LF)",
+    "slug": "xiaomi-mijia-hair-clipper-2-mjghhc2lf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mijia-hair-clipper-2-19-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 3990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 3990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:40"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111991",
+    "sku": "AZ20WA2699MOV",
+    "name": "Anker Zolo 20W Type-C Adapter PD & IQ (A2699)",
+    "slug": "anker-zolo-20w-usb-c-charger-pd-iq-a2699",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a2699-7-9-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1299.0,
+    "special_price": 749.0,
+    "discount": 42.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1299.0,
+      "special_price": 749.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:46"
+    }
+  ]
+}

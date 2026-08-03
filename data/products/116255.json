@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116255",
+    "sku": "HW120HRB",
+    "name": "Haier 12Kg Inverter Front Load Washing Machine (HW120-BP12357S8)",
+    "slug": "haier-12kg-inverter-front-load-washing-machine-hw120-bp12357s8",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/p/bp12357s8-3-17-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 12.0,
+    "price": 84900.0,
+    "special_price": 69990.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 84900.0,
+      "special_price": 69990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

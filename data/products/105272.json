@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105272",
+    "sku": "M15410PASMST",
+    "name": "MyOne 1.5 Ton Non-Inverter Split Air Conditioner (MY18K410P-AS)",
+    "slug": "myone-1-5-ton-split-air-conditioner-my18k410p-as",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/y/my18k410p-as-22.9.24-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59900.0,
+    "special_price": 42900.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59900.0,
+      "special_price": 42900.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121468",
+    "sku": "L15ACS3QRNG",
+    "name": "LG 1.5 Ton Dual Inverter Air Conditioner (S3Q18KL3BZ)",
+    "slug": "lg-1-5-ton-dual-inverter-air-conditioner-s3q18kl3bz",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/3/s3q18kl3bz-15-july-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 105900.0,
+    "special_price": 95490.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 105900.0,
+      "special_price": 95490.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:21"
+    }
+  ]
+}

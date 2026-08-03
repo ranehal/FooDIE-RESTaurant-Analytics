@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120332",
+    "sku": "SOCN1IOT",
+    "name": "Xiaomi Soocas N1 Nose Hair & Eyebrow Trimmer",
+    "slug": "xiaomi-soocas-n1-nose-hair-eyebrow-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soocas-n1-22-jun-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2490.0,
+    "special_price": 1990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2490.0,
+      "special_price": 1990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:40"
+    }
+  ]
+}

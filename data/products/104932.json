@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104932",
+    "sku": "EG307SMT",
+    "name": "Edifier G30 ll 7.1 Virtual Surround Sound Gaming Headset",
+    "slug": "edifier-g30-ll-7-1-virtual-surround-sound-gaming-headset",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/d/edifier-g30-ll-25-5-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:38"
+    }
+  ]
+}

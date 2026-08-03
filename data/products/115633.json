@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115633",
+    "sku": "HHSU12TAHRB",
+    "name": "Haier 1 Ton Aquacool Non Inverter Air Conditioner [HSU-12TurboAqua(FIX)(Pro)]",
+    "slug": "haier-1-ton-aquacool-non-inverter-air-conditioner-hsu-12turboaqua-fix-pro",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/s/hsu-12turboaqua_fix_pro-21-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 50990.0,
+    "special_price": 38990.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 50990.0,
+      "special_price": 38990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:32"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120730",
+    "sku": "H1TTACDBL",
+    "name": "Hyundai 1 Ton Wall Type Split Inverter Air Conditioner (HYA-12CIW G3)",
+    "slug": "hyundai-1-ton-wall-type-split-inverter-air-conditioner-hya-12ciw-g3",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/y/hyundai-2026-more-then-1-ton-11-6-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 53786.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 53786.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:21"
+    }
+  ]
+}

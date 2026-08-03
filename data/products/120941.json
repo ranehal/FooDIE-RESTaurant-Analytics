@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120941",
+    "sku": "PMG3911GSB",
+    "name": "Philips MG3911/15 3000 Series 7 in 1 Trimmer",
+    "slug": "philips-mg3911-15-3000-series-7-in-1-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg3911-21-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4830.0,
+    "special_price": 3180.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4830.0,
+      "special_price": 3180.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

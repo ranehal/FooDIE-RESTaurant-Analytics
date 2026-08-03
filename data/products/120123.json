@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120123",
+    "sku": "A4FX60HGLO",
+    "name": "A4Tech Fstyler FX60H Scissor Switch USB Wired Keyboard",
+    "slug": "a4tech-fstyler-fx60h-scissor-switch-usb-wired-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/x/fx60h-16-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4450.0,
+    "special_price": 3500.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4450.0,
+      "special_price": 3500.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

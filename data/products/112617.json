@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112617",
+    "sku": "RP28256WF",
+    "name": "Redmi Pad 2 8GB/256GB (Wi-Fi)",
+    "slug": "redmi-pad-2-8-256-wi-fi",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-8gb-256gb-_wi-fi_-8-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 29999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

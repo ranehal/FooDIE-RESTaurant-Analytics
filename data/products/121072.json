@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121072",
+    "sku": "RP24GB128GB974G",
+    "name": "Redmi Pad 2 4GB/128GB 9.7'' Display (4G)",
+    "slug": "redmi-pad-2-4gb-128gb-9-7-inch-display-4g",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-4gb-128gb-9.7-_lte_-8-1-26-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 24999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

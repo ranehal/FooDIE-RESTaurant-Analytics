@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113536",
+    "sku": "XAP654KXGO",
+    "name": "Xiaomi TV A Pro 65 Inch 4K QLED Google TV (2026)",
+    "slug": "xiaomi-tv-a-pro-65-inch-4k-qled-google-tv-2026",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-tv-a-pro-65-2026-7-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 114999.0,
+    "special_price": 97999.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 114999.0,
+      "special_price": 97999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:31"
+    }
+  ]
+}

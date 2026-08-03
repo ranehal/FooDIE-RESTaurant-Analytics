@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120850",
+    "sku": "JSYL02GSB",
+    "name": "Joyroom SY-L02 2-in-1 Lightning to Dual Lightning Audio Adapter",
+    "slug": "joyroom-sy-l02-2-in-1-lightning-to-dual-lightning-audio-adapter",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/y/sy-l02-18-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1120.0,
+    "special_price": 740.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1120.0,
+      "special_price": 740.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

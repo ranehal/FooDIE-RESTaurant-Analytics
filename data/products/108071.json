@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108071",
+    "sku": "AA81B5H21MOV-Black",
+    "name": "Anker 322 3ft Braided USB-C to Lightning Data Cable -Black (A81B5H11)",
+    "slug": "anker-322-3ft-braided-usb-c-to-lightning-data-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-322-3ft-c-to-c-blk-4-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1599.0,
+    "special_price": 1199.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1599.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:57"
+    }
+  ]
+}

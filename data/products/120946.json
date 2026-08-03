@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120946",
+    "sku": "WAC01WDL",
+    "name": "Walton Arc 150W 120mm RGB Liquid CPU Cooler (WAC01)",
+    "slug": "walton-arc-150w-120mm-rgb-liquid-cpu-cooler-wac01",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/wac01-22-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4500.0,
+    "special_price": 2430.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4500.0,
+      "special_price": 2430.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

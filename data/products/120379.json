@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120379",
+    "sku": "UCM888ATL",
+    "name": "UGREEN (CM888) 7-in-1 Type-C Multifunction Hub",
+    "slug": "ugreen-cm888-7-in-1-type-c-multifunction-hub",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/m/cm888-21-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3213.0,
+    "special_price": 2899.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3213.0,
+      "special_price": 2899.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:58"
+    }
+  ]
+}

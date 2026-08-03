@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120581",
+    "sku": "CF5A7PAJNN",
+    "name": "HP 15-fd0841TU (CF5A7PA) Intel 13th Gen Core i3 1315U 1.2 to 4.5GHz, 8GB DDR4, 512GB SSD, Win 11, 15.6 Inch Full HD Laptop",
+    "slug": "hp-15-fd0841tu-cf5a7pa-intel-13th-gen-core-i3-1315u-1-2-to-4-5ghz-8gb-ddr4-512gb-ssd-win-11-15-6-inch-full-hd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/_/f.png",
+    "unit": "g",
+    "unit_value": 4.5,
+    "price": 79000.0,
+    "special_price": 71900.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 79000.0,
+      "special_price": 71900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:11"
+    }
+  ]
+}

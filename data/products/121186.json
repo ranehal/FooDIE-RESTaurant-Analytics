@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121186",
+    "sku": "K65S20M2SSO",
+    "name": "Sony Bravia 2 65 Inch 4K Smart LED TV (K-65S20M2)",
+    "slug": "sony-bravia-2-65-inch-4k-smart-led-tv-k-65s20m2",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/-/k-65s20m2-8-2-2-6-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 222900.0,
+    "special_price": 157990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 222900.0,
+      "special_price": 157990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

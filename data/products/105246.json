@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105246",
+    "sku": "A151502ZABQ324WJNN",
+    "name": "Asus VivoBook 15 X1502ZA (BQ324W) 15\u2019\u2019 FHD Display i3-1220P 4GB RAM 512GB SSD  Windows 11 Laptop",
+    "slug": "asus-vivobook-15-x1502za-bq324w-15-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq324w--21.9.24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 76230.0,
+    "special_price": 69300.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 76230.0,
+      "special_price": 69300.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

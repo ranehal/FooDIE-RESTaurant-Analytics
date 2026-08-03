@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111986",
+    "sku": "SUA43F6000SBN",
+    "name": "Samsung F6000 43 Inch FHD Smart TV (UA43F6000FRSER)",
+    "slug": "samsung-f6000-43-inch-fhd-smart-tv-ua43f6000frser",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/a/ua43f6000frser-4-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 48900.0,
+    "special_price": 37490.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 48900.0,
+      "special_price": 37490.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:20"
+    }
+  ]
+}

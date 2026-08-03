@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120731",
+    "sku": "NCP235JNN",
+    "name": "Mikuso Shun-1 Blue LED Laptop Cooler Pad (NCP-235)",
+    "slug": "mikuso-shun-1-blue-led-laptop-cooler-pad-ncp-235",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_86_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1298.0,
+    "special_price": 1180.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1298.0,
+      "special_price": 1180.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

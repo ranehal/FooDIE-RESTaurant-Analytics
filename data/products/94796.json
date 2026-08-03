@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "94796",
+    "sku": "LG32LQ636BRNG",
+    "name": "LG 32 Inch Smart HD LED TV (32LQ636BPSA)",
+    "slug": "lg-32lq636b-32-inch-smart-hd-led-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/32lq636bpsa-21-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 37900.0,
+    "special_price": 31990.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 37900.0,
+      "special_price": 31990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:42"
+    }
+  ]
+}

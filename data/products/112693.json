@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112693",
+    "sku": "HP15FC0266AUSER",
+    "name": "HP 15.6\" AMD Ryzen 3 7320U 8GB RAM 512GB SSD Laptop (15-fc0266AU)",
+    "slug": "hp-15-6-amd-ryzen-3-7320u-8gb-ram-512gb-ssd-laptop-15-fc0266au",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/p/ep0200tu-1_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 54230.0,
+    "special_price": 51500.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 54230.0,
+      "special_price": 51500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:21"
+    }
+  ]
+}

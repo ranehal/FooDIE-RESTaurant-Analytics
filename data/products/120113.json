@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120113",
+    "sku": "A4BM320GLO",
+    "name": "A4tech Bloody M320 Wireless Gaming Headphone",
+    "slug": "a4tech-bloody-m320-wireless-gaming-headphone",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/3/m30-16-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11500.0,
+    "special_price": 9500.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11500.0,
+      "special_price": 9500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

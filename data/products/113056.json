@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113056",
+    "sku": "R156GB128GB",
+    "name": "Redmi 15 6GB/128GB",
+    "slug": "redmi-15-6gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-15-6gb-128gb-8-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101426",
+    "sku": "QLDX2MQBS",
+    "name": "Qbits Lania DX2 Mini PC Intel Core i5 12th Gen 8GB DDR4 RAM 500GB M.2 NVMe SSD Windows 11 Pro Desktop",
+    "slug": "qbits-lania-dx2-core-i5-8gb-ram-500gb-ssd-desktop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/b/qbits-lania-dx2-15.5.24.jpg-base.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 44000.0,
+    "special_price": 42999.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 44000.0,
+      "special_price": 42999.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

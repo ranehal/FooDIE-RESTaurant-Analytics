@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113781",
+    "sku": "ANXK6TSI00AJNN",
+    "name": "Acer Aspire 3 A315-59-390P 15.6\u201d FHD Intel 12th Gen i3-1215U Processor 8GB RAM 512GB SSD Laptop with Win 11 (NX.K6TSI.00A)",
+    "slug": "acer-aspire-3-a315-59-390p-15-6-fhd-intel-12th-gen-i3-1215u-processor-8gb-ram-512gb-ssd-laptop-with-win-11-nx-k6tsi-00a",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/x/nx-k6tsi-00a-29-10-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 65835.0,
+    "special_price": 59850.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 65835.0,
+      "special_price": 59850.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

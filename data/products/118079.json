@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118079",
+    "sku": "AK3605VCGLO",
+    "name": "Asus Vivobook 16X 16\" 144Hz Intel Core i5-13420H Processor 8GB RAM 512GB SSD RTX 3050 Graphics Laptop (K3605VC-RP405W)",
+    "slug": "asus-vivobook-16x-16-144hz-intel-core-i5-13420h-processor-8gb-ram-512gb-ssd-rtx-3050-graphics-laptop-k3605vc-rp405w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vivobook-16x-k3605vc-9-4-26-1.jpg",
+    "unit": "g",
+    "unit_value": 3050.0,
+    "price": 103000.0,
+    "special_price": 101796.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 103000.0,
+      "special_price": 101796.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

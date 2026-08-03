@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118341",
+    "sku": "GM5RW1WOG",
+    "name": "Casio G-STEEL 5600 Series Watch for Men (GM-5600RW-1)",
+    "slug": "casio-g-steel-5600-series-gm-5600rw-1",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/G/M/GM-5600RW-1_a.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 46000.0,
+    "special_price": 36800.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 46000.0,
+      "special_price": 36800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

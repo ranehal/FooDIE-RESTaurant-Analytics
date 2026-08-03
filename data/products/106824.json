@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106824",
+    "sku": "DI1FGJNN",
+    "name": "Dell Inspiron 15 3520 Core i5 1235U 12th Gen 15.6\" FHD 8GB RAM 512GB SSD Laptop",
+    "slug": "dell-inspiron-15-3520-core-i5-1235u-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/5/3520--18-12-24--1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 81400.0,
+    "special_price": 74000.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 81400.0,
+      "special_price": 74000.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

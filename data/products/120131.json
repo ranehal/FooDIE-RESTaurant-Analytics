@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120131",
+    "sku": "A4FB50CPGLO",
+    "name": "A4Tech Fstyler FB50C Plus Dual-Mode Wireless Mouse",
+    "slug": "a4tech-fstyler-fb50c-plus-dual-mode-wireless-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fb50c-plus-16-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2299.0,
+    "special_price": 1899.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2299.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

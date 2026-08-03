@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115505",
+    "sku": "B10WOI105B0INRNG",
+    "name": "BOSCH 10Kg Series 6 Automatic Top Loader Washing Machine (WOI105B0IN)",
+    "slug": "bosch-10kg-series-6-automatic-top-loader-washing-machine-woi105b0in",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/bosch-10kg-series-6-automatic-top-loader-washing-machine-_woi105b0in_-6-17-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 10.0,
+    "price": 75900.0,
+    "special_price": 61490.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 75900.0,
+      "special_price": 61490.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113567",
+    "sku": "HWM801269S6HRB",
+    "name": "Haier 8Kg\u00a0Top Load Automatic Washing Machine (HWM80-1269S6)",
+    "slug": "haier-8kg-top-load-automatic-washing-machine-hwm80-1269s6",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-8kg-top-load-automatic-washing-machine-_hwm80-1269s6_-8-2-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 29900.0,
+    "special_price": 22490.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29900.0,
+      "special_price": 22490.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

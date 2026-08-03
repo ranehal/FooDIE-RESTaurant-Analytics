@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118078",
+    "sku": "AX1504VAGLO",
+    "name": "Asus Vivobook 15 15.6\" Intel Core-i7-1355U Processor 16GB RAM 512GB SSD Laptop (X1504VA-BQ721)",
+    "slug": "asus-vivobook-15-15-6-intel-core-i7-1355u-processor-16gb-ram-512gb-ssd-laptop-x1504va-bq721",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/1/x1504va-bq721-9-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 96500.0,
+    "special_price": 95370.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 96500.0,
+      "special_price": 95370.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

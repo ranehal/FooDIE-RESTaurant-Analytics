@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "97116",
+    "sku": "ATUFA15GNI",
+    "name": "Asus TUF A15 FA507XI-HQ015W Ryzen 9 15.6\u201d 16GB RAM 1TB SSD Windows 11 Gaming Laptop - Grey",
+    "slug": "asus-tuf-a15-16gb-ram-1tb-ssd-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/6/4637351014.png",
+    "unit": "g",
+    "unit_value": 11.0,
+    "price": 219000.0,
+    "special_price": 189490.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 219000.0,
+      "special_price": 189490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

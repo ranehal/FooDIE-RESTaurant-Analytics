@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112020",
+    "sku": "HD1054HVOSRNG",
+    "name": "Hitachi 10.5kg & 7kg Front Load Washer+Dryer Washing Machine (BD-D1054HVOS)",
+    "slug": "hitachi-front-loading-washer-dryer-washing-machine-wash-10-5kg-dry-7kg-d1054hvos",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/d/bd-d1054hvos-4-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 10.5,
+    "price": 92400.0,
+    "special_price": 77990.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 92400.0,
+      "special_price": 77990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

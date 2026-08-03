@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113183",
+    "sku": "MHH100MGI",
+    "name": "Mango Earphone (H100)",
+    "slug": "mango-headphone-h100",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/1/h100-8-10-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 149.0,
+    "special_price": 120.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 149.0,
+      "special_price": 120.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

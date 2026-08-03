@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120141",
+    "sku": "A4FBX72CGLO",
+    "name": "A4tech Fstyler FBX72C Dual-Mode Scissor Switch Wireless Keyboard",
+    "slug": "a4tech-fstyler-fbx72c-dual-mode-scissor-switch-wireless-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fbx72c-16-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4100.0,
+    "special_price": 3500.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4100.0,
+      "special_price": 3500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

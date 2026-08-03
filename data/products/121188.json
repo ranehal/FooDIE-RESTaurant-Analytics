@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121188",
+    "sku": "SK85XR50SSO",
+    "name": "Sony Bravia 5 85 Inch Class Mini LED 4K HDR Google TV (K-85XR50)",
+    "slug": "sony-bravia-5-85-inch-class-mini-led-4k-hdr-google-tv-k-85xr50",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/5/85-inch-7-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 742900.0,
+    "special_price": 526990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 742900.0,
+      "special_price": 526990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

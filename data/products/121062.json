@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121062",
+    "sku": "NA18MG1DBL",
+    "name": "Panasonic 9Kg Inverter Front Load Washing Machine with Heater (NA-18MG1)",
+    "slug": "panasonic-9kg-inverter-front-load-washing-machine-na-18mg1",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/a/na-18mg1-5-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 94900.0,
+    "special_price": 71690.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 94900.0,
+      "special_price": 71690.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

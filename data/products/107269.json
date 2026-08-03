@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107269",
+    "sku": "GGS18XLMV32GRO",
+    "name": "Gree 1.5 Ton Split Type Inverter Air Conditioner (GS18XLMV32)",
+    "slug": "gree-lomo-1-5-ton-split-type-inverter-air-conditioner-gs18xlmv32",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs18xlmv32-10-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 79390.0,
+    "special_price": 59990.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 79390.0,
+      "special_price": 59990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

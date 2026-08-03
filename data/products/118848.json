@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118848",
+    "sku": "BI59EHSP",
+    "name": "Citizen\u00a0Analog Black Dial Men\u2019s Watch (BI5010-59E)",
+    "slug": "citizen-analog-black-dial-men-s-watch-bi5010-59e",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/i/bi5010-59e-25-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24253.0,
+    "special_price": 21090.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24253.0,
+      "special_price": 21090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121478",
+    "sku": "RDRCTDIM",
+    "name": "Smart RC Drift Remote Control Car Toy",
+    "slug": "smart-rc-drift-remote-control-car-toy",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc-drift-car-toy-16-7-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4500.0,
+    "special_price": 1990.0,
+    "discount": 56.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4500.0,
+      "special_price": 1990.0,
+      "discount": 56.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

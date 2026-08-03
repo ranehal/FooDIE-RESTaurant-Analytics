@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115365",
+    "sku": "OOCD115LMOV",
+    "name": "Oraimo USB to Lightning 2.4A 1M Charging Cable (OCD-115L)",
+    "slug": "oraimo-usb-to-lightning-2-4a-1m-charging-cable-ocd-115l",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocd-115l-2-april-2026.jpg",
+    "unit": "L",
+    "unit_value": 115.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "114575",
+    "sku": "HH65M80FUXHRB",
+    "name": "Haier 65 Inch Mini LED 4K UHD Google TV (H65M80FUX)",
+    "slug": "haier-65-inch-mini-led-4k-uhd-google-tv-h65m80fux",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-65-inch-mini-led-4k-uhd-google-tv-_h65m80fux_-7-8-2-61.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 145900.0,
+    "special_price": 114900.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 145900.0,
+      "special_price": 114900.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:28"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110744",
+    "sku": "HWM120316S6HRB",
+    "name": "Haier 12kg Top Load Automatic Washing Machine (HWM120-316S6)-Starry Silver",
+    "slug": "haier-12kg-top-load-automatic-washing-machine-hwm120-316s6-starry-silver",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hwm120-316s6-6-7-25.jpg",
+    "unit": "kg",
+    "unit_value": 12.0,
+    "price": 49900.0,
+    "special_price": 42990.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 49900.0,
+      "special_price": 42990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

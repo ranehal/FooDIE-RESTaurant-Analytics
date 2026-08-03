@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120119",
+    "sku": "A4FX61GLO",
+    "name": "A4Tech Fstyler FX61 Mini Scissor Switch USB Type-C Wired Keyboard",
+    "slug": "a4tech-fstyler-fx61-scissor-switch-usb-type-c-wired-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/x/fx61-16-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3499.0,
+    "special_price": 2900.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3499.0,
+      "special_price": 2900.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

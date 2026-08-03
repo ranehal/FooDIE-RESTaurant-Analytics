@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112987",
+    "sku": "HPB7PE2PTSER",
+    "name": "HP ProBook 440 G11 Intel Core Ultra 7 155U Processor 8GB RAM 512GB SSD 14\" FHD Laptop (B7PE2PT)",
+    "slug": "hp-probook-440-g11-intel-core-ultra-7-155u-processor-8gb-ram-512gb-ssd-14-fhd-laptop-b7pe2pt",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/4/440-g11-1_1.jpg",
+    "unit": "g",
+    "unit_value": 440.0,
+    "price": 120500.0,
+    "special_price": 114500.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 120500.0,
+      "special_price": 114500.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

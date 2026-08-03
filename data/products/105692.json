@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105692",
+    "sku": "MI43Q35FVBMST",
+    "name": "Minister 43 Inch FHD Frameless Voice Control Smart TV (MI43Q35FVB)",
+    "slug": "minister-43-inch-fhd-frameless-voice-control-smart-tv-mi43q35fvb",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mi43q35fvb-7-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:34"
+    }
+  ]
+}

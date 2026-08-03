@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109377",
+    "sku": "QN1NBTTZ",
+    "name": "QCY TuneArc N1 Neckband-Black",
+    "slug": "qcy-tunearc-n1-neckband-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tunearc-n1-20-4-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1399.0,
+    "special_price": 1229.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1399.0,
+      "special_price": 1229.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:57"
+    }
+  ]
+}

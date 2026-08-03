@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110211",
+    "sku": "PDL64GBPDGLO",
+    "name": "PNY Duo Link 64GB USB 3.2 Type-C Dual Pen Drive",
+    "slug": "pny-duo-link-64gb-usb-3-2-type-c-dual-pen-drive",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/n/pny-duo-link-256gb-22-5-25-1_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1649.0,
+    "special_price": 1250.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1649.0,
+      "special_price": 1250.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:38"
+    }
+  ]
+}

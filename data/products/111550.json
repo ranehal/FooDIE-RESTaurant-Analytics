@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111550",
+    "sku": "CMFB2PNCMF",
+    "name": "CMF Buds 2 Plus by Nothing ANC TWS Earbuds",
+    "slug": "cmf-buds-2-plus-by-nothing-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/m/cmf-buds-2-plus-9-11-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6299.0,
+    "special_price": 4499.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6299.0,
+      "special_price": 4499.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:46"
+    }
+  ]
+}

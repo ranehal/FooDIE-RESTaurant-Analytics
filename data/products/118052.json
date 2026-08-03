@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118052",
+    "sku": "ESE24CRNEHT",
+    "name": "Elite 2 Ton Super Cool Inverter Air Conditioner (ESE-24CRN)",
+    "slug": "elite-2-ton-super-cool-inverter-air-conditioner-ese-24crn",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/ese-18crn-4-8-26-1_3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 63000.0,
+    "special_price": 55990.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 63000.0,
+      "special_price": 55990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:30"
+    }
+  ]
+}

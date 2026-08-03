@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103950",
+    "sku": "WA10CG4545SBN",
+    "name": "Samsung 10KG Top Load Washing Machine (WA10CG4545BDSP)",
+    "slug": "samsung-10kg-top-loading-washing-machine-wa10cg4545bdsp",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/wa10cg4545bdsp-01_1.jpg",
+    "unit": "kg",
+    "unit_value": 10.0,
+    "price": 61900.0,
+    "special_price": 50990.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 61900.0,
+      "special_price": 50990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

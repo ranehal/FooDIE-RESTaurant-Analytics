@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120665",
+    "sku": "PJ202JNN",
+    "name": "Havit PJ202 (300 Lumens) 1080p Full HD Portable Projector",
+    "slug": "havit-pj202-300-lumens-1080p-full-hd-portable-projector",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/r/rr_1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 21775.0,
+    "special_price": 19795.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21775.0,
+      "special_price": 19795.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

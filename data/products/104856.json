@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104856",
+    "sku": "EPDN980IOT",
+    "name": "Samsung Galaxy 25W Type-C to Type-C Fast Charging Data Cable (EP-DN980)",
+    "slug": "samsung-galaxy-25w-type-c-to-type-c-fast-charging-data-cable-ep-dn980",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/n/dn980-4.9.24-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 890.0,
+    "special_price": 449.0,
+    "discount": 50.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 890.0,
+      "special_price": 449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

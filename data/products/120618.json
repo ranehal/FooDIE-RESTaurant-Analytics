@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120618",
+    "sku": "HW1007S8HRB",
+    "name": "Haier 10Kg Inverter Front Load Washing Machine (HW100-BP12357S8)",
+    "slug": "haier-10kg-inverter-front-load-washing-machine-hw100-bp12357s8",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-10kg-inverter-front-load-washing-machine-_hw100-bp12357s8_-6-30-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 10.0,
+    "price": 74900.0,
+    "special_price": 63990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 74900.0,
+      "special_price": 63990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

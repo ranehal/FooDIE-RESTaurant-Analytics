@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121066",
+    "sku": "HCSHLGOA",
+    "name": "Honor Choice VZ Sport Mate Headphones Lite",
+    "slug": "honor-choice-sports-headphone-lite",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/sports-headphone-lite-blk-1-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1999.0,
+    "special_price": 1799.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1999.0,
+      "special_price": 1799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

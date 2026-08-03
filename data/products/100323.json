@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100323",
+    "sku": "MMG65FW1KSE",
+    "name": "Mango 65 Inch Borderless 4K UHD LED Smart TV (MG65FW1) ",
+    "slug": "mango-65-inch-borderless-4k-uhd-led-smart-tv-mg65fw1",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg65fw1-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 85900.0,
+    "special_price": 78900.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 85900.0,
+      "special_price": 78900.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

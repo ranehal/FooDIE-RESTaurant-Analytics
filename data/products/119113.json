@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119113",
+    "sku": "XTVSML85XGO",
+    "name": "Xiaomi TV S Mini LED 85 Inch 4K Google TV (2026)",
+    "slug": "xiaomi-tv-s-mini-led-85-inch-4k-google-tv-2026",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-tv-s-mini-led-85-2026-p37v-zd-7-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 245999.0,
+    "special_price": 225999.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 245999.0,
+      "special_price": 225999.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118173",
+    "sku": "ALY049WGLO",
+    "name": "Asus Vivobook S14 14\" AMD Ryzen 7 260 Processor 16GB RAM 1TB SSD Laptop (M3407HA-LY049W)",
+    "slug": "asus-vivobook-s14-14-amd-ryzen-7-260-processor-16gb-ram-1tb-ssd-laptop-m3407ha-ly049w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/3/m3407ha-ly049w-13-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 127000.0,
+    "special_price": 125460.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 127000.0,
+      "special_price": 125460.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:13"
+    }
+  ]
+}

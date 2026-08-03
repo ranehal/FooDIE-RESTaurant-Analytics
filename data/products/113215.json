@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113215",
+    "sku": "IP17PM512GB",
+    "name": "iPhone 17 Pro Max 512GB with Free 20W Adapter",
+    "slug": "iphone-17-pro-max-512gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/7/17-pro-max-512gb--20-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 289999.0,
+    "special_price": 246999.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 289999.0,
+      "special_price": 246999.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:02"
+    }
+  ]
+}

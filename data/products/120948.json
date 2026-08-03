@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120948",
+    "sku": "KM03WDL",
+    "name": "Walton Antique KM03 RGB Wired Mechanical Keyboard (Blue Switch)",
+    "slug": "walton-antique-km03-rgb-wired-mechanical-keyboard-blue-switch",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/m/km03-22-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2850.0,
+    "special_price": 2585.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2850.0,
+      "special_price": 2585.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

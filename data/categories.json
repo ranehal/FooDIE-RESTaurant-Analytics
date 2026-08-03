@@ -1,0 +1,1031 @@
+[
+  {
+    "id": "3757",
+    "name": "5G Smartphone",
+    "slug": "5g-smartphone",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "440",
+    "name": "Action Cameras",
+    "slug": "action-camera-camcorder",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "64",
+    "name": "Air Conditioner",
+    "slug": "air-conditioner",
+    "parent_id": "7",
+    "prod_count": 170
+  },
+  {
+    "id": "2936",
+    "name": "Air Fryer",
+    "slug": "air-fryer",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "452",
+    "name": "Air Purifier",
+    "slug": "air-purifier",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3926",
+    "name": "Bike Accessories",
+    "slug": "bike-accessories",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "2528",
+    "name": "Bluetooth Headphone",
+    "slug": "bluetooth-headphone",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "148",
+    "name": "Camera Accessories",
+    "slug": "camera-accessories",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "1742",
+    "name": "Case & Cover",
+    "slug": "cases-covers",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "201",
+    "name": "Charger & Adapter",
+    "slug": "charger",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "3565",
+    "name": "Chigo",
+    "slug": "chigo",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "71",
+    "name": "Coffee Maker",
+    "slug": "coffee-maker",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "20",
+    "name": "Computer Accessories",
+    "slug": "computer-accessories",
+    "parent_id": "",
+    "prod_count": 199
+  },
+  {
+    "id": "167",
+    "name": "Computer Casing",
+    "slug": "computer-case",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "4",
+    "name": "Computers",
+    "slug": "computer-pc",
+    "parent_id": "",
+    "prod_count": 184
+  },
+  {
+    "id": "1731",
+    "name": "Converter & Cable",
+    "slug": "cable-connector-adapter",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "3589",
+    "name": "DAEWOO",
+    "slug": "daewoo-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3591",
+    "name": "DAEWOO",
+    "slug": "daewoo-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "3515",
+    "name": "Daikin",
+    "slug": "daikin-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3486",
+    "name": "Danaaz",
+    "slug": "danaaz-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3492",
+    "name": "Danaaz",
+    "slug": "danaaz-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4203",
+    "name": "Dash Camera",
+    "slug": "dash-camera",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "205",
+    "name": "Data Cable",
+    "slug": "data-cable",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "122",
+    "name": "Dishwashers",
+    "slug": "dishwashers",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3925",
+    "name": "Drone & Accessories",
+    "slug": "drone-accessories",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "3551",
+    "name": "Edison",
+    "slug": "edison-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "75",
+    "name": "Electric Kettle",
+    "slug": "kettle",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3531",
+    "name": "Electric Vehicle (EV)",
+    "slug": "electric-vehicle",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "7",
+    "name": "Electronics & Appliances",
+    "slug": "electronics-appliances",
+    "parent_id": "",
+    "prod_count": 0
+  },
+  {
+    "id": "4312",
+    "name": "Elite",
+    "slug": "elite",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "4044",
+    "name": "Energy Solutions",
+    "slug": "energy-solutions",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "19",
+    "name": "Explore Mac",
+    "slug": "apple-mac",
+    "parent_id": "4",
+    "prod_count": 0
+  },
+  {
+    "id": "88",
+    "name": "Fan",
+    "slug": "fan",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "73",
+    "name": "Food Processor",
+    "slug": "food-processor",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "6",
+    "name": "Gaming Gears",
+    "slug": "gaming-console",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "165",
+    "name": "Gas Burner",
+    "slug": "gas-stove",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3482",
+    "name": "General",
+    "slug": "general-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "274",
+    "name": "Geyser",
+    "slug": "geyser",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3047",
+    "name": "Gift Set",
+    "slug": "gift-set",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "2723",
+    "name": "Gimbal",
+    "slug": "gimbal",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "337",
+    "name": "Google",
+    "slug": "google",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3477",
+    "name": "Gree",
+    "slug": "gree-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "69",
+    "name": "Grinder & Blender",
+    "slug": "blender",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "59",
+    "name": "HDD & SSD",
+    "slug": "hdd",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "175",
+    "name": "HTC",
+    "slug": "htc",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3478",
+    "name": "Haier",
+    "slug": "haier-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3472",
+    "name": "Haier",
+    "slug": "haier-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "391",
+    "name": "Hair Dryers",
+    "slug": "hair-dryer",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "389",
+    "name": "Hair Straighteners",
+    "slug": "hair-straightener",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "324",
+    "name": "Headset",
+    "slug": "headphone-headset",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "3984",
+    "name": "Healthcare and Accessories",
+    "slug": "health-care-and-accessories",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "3479",
+    "name": "Hisense",
+    "slug": "hisense-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3473",
+    "name": "Hisense",
+    "slug": "hisense-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "30",
+    "name": "Home Theater & Sound System",
+    "slug": "home-theater-sound-system",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "1227",
+    "name": "Honor",
+    "slug": "honor",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "190",
+    "name": "Huawei",
+    "slug": "huawei",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3507",
+    "name": "Hyundai",
+    "slug": "hyundai-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "216",
+    "name": "IP Cameras",
+    "slug": "ip-camera",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "474",
+    "name": "IPS",
+    "slug": "ips",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "74",
+    "name": "Induction Cooker",
+    "slug": "induction-cooker",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "441",
+    "name": "Infinix",
+    "slug": "infinix",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "86",
+    "name": "Iron",
+    "slug": "iron",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "156",
+    "name": "Kitchen Hood",
+    "slug": "chimney-kitchen-hood",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "4469",
+    "name": "LG",
+    "slug": "lg-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3578",
+    "name": "LG",
+    "slug": "lg-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "18",
+    "name": "Laptop & Notebook",
+    "slug": "laptop-notebook",
+    "parent_id": "4",
+    "prod_count": 0
+  },
+  {
+    "id": "1837",
+    "name": "Lifestyle",
+    "slug": "lifestyle",
+    "parent_id": "",
+    "prod_count": 200
+  },
+  {
+    "id": "3915",
+    "name": "Light",
+    "slug": "light",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3496",
+    "name": "Mango",
+    "slug": "mango-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "212",
+    "name": "Memory Card",
+    "slug": "memory-card",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "566",
+    "name": "Men's Watches",
+    "slug": "mens-watch",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "3480",
+    "name": "Midea",
+    "slug": "midea-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3105",
+    "name": "Mini PC",
+    "slug": "mini-pc",
+    "parent_id": "4",
+    "prod_count": 0
+  },
+  {
+    "id": "3483",
+    "name": "Minister",
+    "slug": "minister-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3491",
+    "name": "Minister",
+    "slug": "minister-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "197",
+    "name": "Mobile Accessories",
+    "slug": "mobile-accessories",
+    "parent_id": "",
+    "prod_count": 200
+  },
+  {
+    "id": "47",
+    "name": "Monitor",
+    "slug": "monitor",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "46",
+    "name": "Motherboard",
+    "slug": "motherboard",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "1581",
+    "name": "Motorola",
+    "slug": "motorola",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "61",
+    "name": "Mouse & Keyboard",
+    "slug": "mouse",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "4036",
+    "name": "Musical Instruments",
+    "slug": "musical-instruments",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "3484",
+    "name": "MyONE",
+    "slug": "myone-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3493",
+    "name": "MyONE",
+    "slug": "myone-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "185",
+    "name": "Nokia",
+    "slug": "nokia",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "536",
+    "name": "Nubia",
+    "slug": "nubia",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "183",
+    "name": "OPPO",
+    "slug": "oppo",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "187",
+    "name": "OnePlus",
+    "slug": "oneplus",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "2257",
+    "name": "Others",
+    "slug": "electronics-others",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "202",
+    "name": "Others ",
+    "slug": "mobile-accessories-others",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "1983",
+    "name": "Others Accessories",
+    "slug": "others-accessories",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "68",
+    "name": "Oven",
+    "slug": "microwave-oven",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "52",
+    "name": "Pen Drive",
+    "slug": "pendrive",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "4057",
+    "name": "Portable Power Station",
+    "slug": "portable-power-station",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "203",
+    "name": "Power Bank",
+    "slug": "power-bank",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "3135",
+    "name": "Presenter",
+    "slug": "presenter",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "56",
+    "name": "Printer",
+    "slug": "printer",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "329",
+    "name": "Projectors",
+    "slug": "projector",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "3592",
+    "name": "Rangs",
+    "slug": "rangs-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "67",
+    "name": "Refrigerator & Freezer",
+    "slug": "refrigerator",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "77",
+    "name": "Rice Cooker",
+    "slug": "rice-cooker",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "308",
+    "name": "Room Heater",
+    "slug": "room-heater",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "325",
+    "name": "Router & Networking",
+    "slug": "networking-accessories",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "3490",
+    "name": "Rowa",
+    "slug": "rowa-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "3487",
+    "name": "Samsung",
+    "slug": "samsung-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "172",
+    "name": "Samsung",
+    "slug": "samsung",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3471",
+    "name": "Samsung",
+    "slug": "samsung-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "200",
+    "name": "Screen Protector",
+    "slug": "screen-protector",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "1767",
+    "name": "Selfie Stick",
+    "slug": "selfie-sticks-vr-otg",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "3494",
+    "name": "Sharp",
+    "slug": "sharp-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "392",
+    "name": "Shaver & Trimmer",
+    "slug": "shaver-trimmer",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "3593",
+    "name": "Singer",
+    "slug": "singer-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4202",
+    "name": "Smart",
+    "slug": "smart-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "334",
+    "name": "Smart Band",
+    "slug": "wearable",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "2299",
+    "name": "Smart Gadget",
+    "slug": "smart-gadgets",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "3842",
+    "name": "Smart Home",
+    "slug": "smart-home",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "226",
+    "name": "Smart Watch",
+    "slug": "smart-watches",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "1765",
+    "name": "Smart Watch Accessories",
+    "slug": "smart-watches-accessories",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "171",
+    "name": "Smartphones",
+    "slug": "smartphone",
+    "parent_id": "",
+    "prod_count": 187
+  },
+  {
+    "id": "3475",
+    "name": "Sony",
+    "slug": "sony-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "3497",
+    "name": "Sony Plus",
+    "slug": "sony-plus-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "2022",
+    "name": "Sound System",
+    "slug": "sound-system",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "211",
+    "name": "Speaker",
+    "slug": "bluetooth-speaker",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "4046",
+    "name": "Switches & Sockets",
+    "slug": "switches-sockets",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "174",
+    "name": "Symphony",
+    "slug": "symphony",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3770",
+    "name": "TCL",
+    "slug": "tcl-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "1635",
+    "name": "TECNO",
+    "slug": "tecno",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "180",
+    "name": "Tablets ",
+    "slug": "tablet",
+    "parent_id": "4",
+    "prod_count": 0
+  },
+  {
+    "id": "29",
+    "name": "Television",
+    "slug": "television",
+    "parent_id": "",
+    "prod_count": 192
+  },
+  {
+    "id": "418",
+    "name": "Tools & Hardware",
+    "slug": "tools-hardware",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "3476",
+    "name": "Toshiba",
+    "slug": "toshiba-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "2057",
+    "name": "True Wireless Earbuds",
+    "slug": "true-wireless-earbud",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "460",
+    "name": "UPS",
+    "slug": "ups",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "3485",
+    "name": "Viomi",
+    "slug": "viomi-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "3481",
+    "name": "Walton",
+    "slug": "walton-ac",
+    "parent_id": "64",
+    "prod_count": 0
+  },
+  {
+    "id": "66",
+    "name": "Washing Machine",
+    "slug": "washing-machine",
+    "parent_id": "",
+    "prod_count": 99
+  },
+  {
+    "id": "4148",
+    "name": "Water Pump",
+    "slug": "water-pump",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "78",
+    "name": "Water Purifiers & Filters",
+    "slug": "water-filter",
+    "parent_id": "7",
+    "prod_count": 0
+  },
+  {
+    "id": "57",
+    "name": "Webcam",
+    "slug": "webcam",
+    "parent_id": "20",
+    "prod_count": 0
+  },
+  {
+    "id": "206",
+    "name": "Wired Headphone ",
+    "slug": "headphones",
+    "parent_id": "197",
+    "prod_count": 0
+  },
+  {
+    "id": "568",
+    "name": "Women's Watches",
+    "slug": "womens-watch",
+    "parent_id": "1837",
+    "prod_count": 0
+  },
+  {
+    "id": "239",
+    "name": "Xiaomi",
+    "slug": "xiaomi",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3474",
+    "name": "Xiaomi",
+    "slug": "xiaomi-television",
+    "parent_id": "29",
+    "prod_count": 0
+  },
+  {
+    "id": "4471",
+    "name": "Xtra",
+    "slug": "xtra",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "173",
+    "name": "iPhone",
+    "slug": "iphone",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "3173",
+    "name": "itel",
+    "slug": "itel",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "1833",
+    "name": "realme",
+    "slug": "realme",
+    "parent_id": "171",
+    "prod_count": 0
+  },
+  {
+    "id": "1636",
+    "name": "vivo",
+    "slug": "vivo",
+    "parent_id": "171",
+    "prod_count": 0
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121801",
+    "sku": "WMS003WNWDL",
+    "name": "Walton Antique Wired Mouse (WMS003WN)",
+    "slug": "walton-antique-wired-mouse-wms003wn",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/m/wms003wn-1-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 335.0,
+    "special_price": 320.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 335.0,
+      "special_price": 320.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:38"
+    }
+  ]
+}

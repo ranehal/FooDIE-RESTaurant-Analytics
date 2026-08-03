@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106909",
+    "sku": "XMDZ38DBXGO",
+    "name": "Xiaomi 30W Sound Outdoor Portable Speaker (MDZ-38-DB)",
+    "slug": "xiaomi-30w-sound-outdoor-portable-speaker-mdz-38-db",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/d/mdz-38-db-28-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6999.0,
+    "special_price": 6299.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6999.0,
+      "special_price": 6299.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

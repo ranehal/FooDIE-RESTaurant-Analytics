@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120052",
+    "sku": "OS8089MGLO",
+    "name": "Ofitech SOHO OS808-9M Micro Cut Paper Shredder",
+    "slug": "ofitech-soho-os808-9m-micro-cut-paper-shredder",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/os808-9m7-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

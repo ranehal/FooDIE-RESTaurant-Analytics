@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120727",
+    "sku": "H15TACDBL",
+    "name": "Hyundai 1.5 Ton Wall Type Split Inverter Air Conditioner (HYA-18CIW G3)",
+    "slug": "hyundai-1-5-ton-wall-type-split-inverter-air-conditioner-hya-18ciw-g3",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/y/hyundai-2026-more-then-1-ton-11-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 72299.0,
+    "special_price": 59990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72299.0,
+      "special_price": 59990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:21"
+    }
+  ]
+}

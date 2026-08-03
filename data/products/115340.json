@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115340",
+    "sku": "RN15PP12GB512GB",
+    "name": "Redmi Note 15 Pro Plus 5G 12GB/512GB with Free Travel Bag",
+    "slug": "redmi-note-15-pro-plus-5g-12gb-512gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-note-15-pro_-5g-12gb-512gb-8-1-2-61.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 59999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:09"
+    }
+  ]
+}

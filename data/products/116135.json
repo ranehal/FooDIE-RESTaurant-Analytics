@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116135",
+    "sku": "SBK43S20M2SSO",
+    "name": "Sony Bravia 2 43 Inch LED 4K Smart Google TV (K-43S20M2)",
+    "slug": "sony-bravia-2-43-inch-led-4k-smart-google-tv-k-43s20m2",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/-/k-43s20m2-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 126900.0,
+    "special_price": 89990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 126900.0,
+      "special_price": 89990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:25"
+    }
+  ]
+}

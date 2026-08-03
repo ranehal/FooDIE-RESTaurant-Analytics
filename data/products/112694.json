@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112694",
+    "sku": "HP14SDQ3139TUSER",
+    "name": "HP 14\" Intel Celeron N4500 8GB RAM 256GB SSD Laptop (14s-dq3139TU)",
+    "slug": "hp-14-intel-celeron-n4500-8gb-ram-256gb-ssd-laptop-14s-dq3139tu",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/p/ep0200tu-1_3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42860.0,
+    "special_price": 39990.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42860.0,
+      "special_price": 39990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:21"
+    }
+  ]
+}

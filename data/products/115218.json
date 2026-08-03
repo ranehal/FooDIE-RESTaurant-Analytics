@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115218",
+    "sku": "LWT1410NHEGRNG",
+    "name": "LG 14Kg Washer & 10Kg Dryer All-In-One Front Load Inverter Washing Machine (WT1410NHEG)",
+    "slug": "lg-14kg-washer-10kg-dryer-all-in-one-front-loading-inverter-washing-machine-wt1410nheg",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/g/lg-14kg-4-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 14.0,
+    "price": 389900.0,
+    "special_price": 329990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 389900.0,
+      "special_price": 329990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

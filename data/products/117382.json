@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117382",
+    "sku": "HP15fr0077TUSTR",
+    "name": "HP 15-fr0077TU Intel Core i5 13420H 16GB RAM 512GB SSD 15.6 Inch FHD Laptop",
+    "slug": "hp-15-fr0077tu-intel-core-i5-13420h-16gb-ram-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp-15-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 86500.0,
+    "special_price": 78222.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 86500.0,
+      "special_price": 78222.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

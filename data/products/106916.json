@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106916",
+    "sku": "RASM11AIOT",
+    "name": "Redmi 4W Bluetooth Portable Speaker (ASM11A)",
+    "slug": "redmi-4w-bluetooth-portable-speaker-asm11a",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asm11a-28-12-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3990.0,
+    "special_price": 2549.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3990.0,
+      "special_price": 2549.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

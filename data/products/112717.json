@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112717",
+    "sku": "L83J2003JINSER",
+    "name": "Lenovo IdeaPad Slim 5 13.3\" Ryzen 7 7735HS 16GB RAM 512GB SSD 13ARP10 WUXGA Laptop- Cloud Grey (83J2003JIN)",
+    "slug": "lenovo-ideapad-slim-5-13-3-ryzen-7-7735hs-16gb-ram-512gb-ssd-13arp10-wuxga-laptop-cloud-grey-83j2003jin",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/lenovo-ideapad-slim-5-10-9-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 99000.0,
+    "special_price": 93000.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 99000.0,
+      "special_price": 93000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

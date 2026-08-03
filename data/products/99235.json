@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "99235",
+    "sku": "HD802HVOSTSD",
+    "name": "Hitachi Front Load Inverter Washer Dryer Washing Machine (Wash 8kg/Dry 5kg) (D802HVOS)",
+    "slug": "hitachi-front-loading-inverter-washer-dryer-d802hvos",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/8/d802hvos-1-5-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 101400.0,
+    "special_price": 89990.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 101400.0,
+      "special_price": 89990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:58"
+    }
+  ]
+}

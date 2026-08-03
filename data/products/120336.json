@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120336",
+    "sku": "CAP1300WGLO",
+    "name": "Cudy AP1300 Wall AC1200 Gigabit Wi-Fi Access Point",
+    "slug": "cudy-ap1300-wall-ac1200-gigabit-wi-fi-access-point",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/ap1300_wall-20-may-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 1200.0,
+    "price": 6800.0,
+    "special_price": 6300.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6800.0,
+      "special_price": 6300.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:58"
+    }
+  ]
+}

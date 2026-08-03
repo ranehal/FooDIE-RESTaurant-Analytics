@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121815",
+    "sku": "IH70P8GB128GB",
+    "name": "Infinix Hot 70 Pro 5G+ 8GB/128GB (Pre-Book)",
+    "slug": "infinix-hot-70-pro-8gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hot-70-pro-8-2-2-61.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 36999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 36999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

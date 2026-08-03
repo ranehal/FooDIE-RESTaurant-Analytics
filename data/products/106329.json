@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106329",
+    "sku": "SEPT2510IOT",
+    "name": "Samsung 25W PD (2 Pin) Type-C Fast Charging Adapter (EP-T2510)",
+    "slug": "samsung-25w-pd-type-c-adapter-ep-t2510",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/p/ep-t2510-black-19-11-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1590.0,
+    "special_price": 924.0,
+    "discount": 42.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1590.0,
+      "special_price": 924.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

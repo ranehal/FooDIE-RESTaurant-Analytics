@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121239",
+    "sku": "GM110BD1A9WOG",
+    "name": "Casio G-Steel110 Series Watch for Men (GM-110BD-1A9)",
+    "slug": "casio-g-steel110-series-watch-for-men-gm-110bd-1a9",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/1/110bd-8-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 54000.0,
+    "special_price": 37800.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 54000.0,
+      "special_price": 37800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

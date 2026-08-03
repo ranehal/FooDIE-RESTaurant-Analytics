@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "83614",
+    "sku": "VT9BHTMBT",
+    "name": "Vintage T9 Beard & Hair Trimmer",
+    "slug": "vintage-t9-beard-hair-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vintage-t9_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1480.0,
+    "special_price": 386.0,
+    "discount": 74.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1480.0,
+      "special_price": 386.0,
+      "discount": 74.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:17"
+    }
+  ]
+}

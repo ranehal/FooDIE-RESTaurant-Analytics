@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118157",
+    "sku": "AFA608UMGLO",
+    "name": "Asus TUF Gaming A16 16\" FHD+ AMD Ryzen 7 260 Processor 16GB RAM 512GB SSD RTX 5060 Gaming Laptop (FA608UM-RV055W)",
+    "slug": "asus-tuf-gaming-a16-16-fhd-amd-ryzen-7-260-processor-16gb-ram-512gb-ssd-rtx-5060-gaming-laptop-fa608um-rv055w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/f/_fa608um-12-4-26-1.jpg",
+    "unit": "g",
+    "unit_value": 5060.0,
+    "price": 192000.0,
+    "special_price": 191760.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 192000.0,
+      "special_price": 191760.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

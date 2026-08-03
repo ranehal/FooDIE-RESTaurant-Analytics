@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106987",
+    "sku": "RWLSWXGO",
+    "name": "Redmi Watch 5 Lite Bluetooth Calling Smart Watch",
+    "slug": "redmi-watch-5-lite-bluetooth-calling-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/watch-5-lite-28-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7699.0,
+    "special_price": 6999.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7699.0,
+      "special_price": 6999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

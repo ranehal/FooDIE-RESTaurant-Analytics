@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121656",
+    "sku": "TS50P4GB128GB",
+    "name": "Tecno Spark 50 Pro 4GB/128GB",
+    "slug": "tecno-spark-50-pro-4b-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-spark-50-pro-4gb-128gb-7-22-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

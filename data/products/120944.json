@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120944",
+    "sku": "WWLC24A2WDL",
+    "name": "Walton Arc 120mm RGB Liquid CPU Cooler (WLC24A2)",
+    "slug": "walton-arc-120mm-rgb-liquid-cpu-cooler-wlc24a2",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/l/wlc24a2-22-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7200.0,
+    "special_price": 3890.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7200.0,
+      "special_price": 3890.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

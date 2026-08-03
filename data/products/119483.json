@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119483",
+    "sku": "WCIHEXACOMB36GWLT",
+    "name": "Walton 3 Ton Cassette Type Air Conditioner (WCI-HEXACOMB-36G)",
+    "slug": "walton-3-ton-cassette-type-air-conditioner-wci-hexacomb-36g",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/c/wci-hexacomb-36g-5-5-2-6-1.jpg",
+    "unit": "g",
+    "unit_value": 36.0,
+    "price": 167900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 167900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:24"
+    }
+  ]
+}

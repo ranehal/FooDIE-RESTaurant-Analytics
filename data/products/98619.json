@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "98619",
+    "sku": "AM1502IAJNN",
+    "name": "Asus Vivobook 15 M1502IA Ryzen 5 4600H 15.6\" FHD 8GB RAM 512GB SSD Laptop (EJ388W)",
+    "slug": "asus-vivobook-15-m1502ia-8gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1502ia-10.1.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 84315.0,
+    "special_price": 76650.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 84315.0,
+      "special_price": 76650.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

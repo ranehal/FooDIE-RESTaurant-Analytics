@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109158",
+    "sku": "DFTKL18TV16TDDKO",
+    "name": "Daikin 1.5 Ton Inverter Split Type Air Conditioner (FTKL18TV16TD)",
+    "slug": "daikin-1-5-ton-inverter-split-type-air-conditioner-ftkl18tv16td",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/t/ftkl18tv16td-8-5-25.jpg-base-image-second.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 128900.0,
+    "special_price": 114790.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 128900.0,
+      "special_price": 114790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

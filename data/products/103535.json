@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103535",
+    "sku": "BCALKLFBG1INV",
+    "name": "Baseus Cafule 1.5A 2M USB to Lightning Data Cable (CALKLF-CG1) \u2013 Black & Grey",
+    "slug": "baseus-cafule-1-5a-2m-usb-to-lightning-data-cable-calklf-cg1-black-grey",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/calklf-cg1-16.8.23-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 349.0,
+    "special_price": 249.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

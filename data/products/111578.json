@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111578",
+    "sku": "H75A6NHSO",
+    "name": "Hisense 75 Inch 4K LED Google Smart TV (75A6N)",
+    "slug": "hisense-75-inch-4k-led-google-smart-tv-75a6n",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/5/75a6n-8-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 149900.0,
+    "special_price": 127990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 149900.0,
+      "special_price": 127990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:31"
+    }
+  ]
+}

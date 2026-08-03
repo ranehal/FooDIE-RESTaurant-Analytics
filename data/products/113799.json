@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113799",
+    "sku": "AB1403CTASTR",
+    "name": "Asus ExpertBook B1 Core 3 N355 512GB SSD 14\" FHD Laptop (B1403CTA)",
+    "slug": "asus-expertbook-b1-core-3-n355-512gb-ssd-14-fhd-laptop-b1403cta",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/1/b1403cta-10-20-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 58300.0,
+    "special_price": 57490.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 58300.0,
+      "special_price": 57490.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

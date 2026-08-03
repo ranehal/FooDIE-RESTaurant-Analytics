@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121088",
+    "sku": "TECGBDTTN",
+    "name": "Teton ECG-Basic ECG Device",
+    "slug": "teton-ecg-basic-ecg-device",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/y/myecgai-basic-2-7-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10000.0,
+    "special_price": 7999.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10000.0,
+      "special_price": 7999.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120290",
+    "sku": "CWE1300GLO",
+    "name": "Cudy AC1300 Wireless Dual-Band PCI-E Adapter (WE1300)",
+    "slug": "cudy-ac1300-wireless-dual-band-pci-e-adapter-we1300",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/e/we1300-19-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2450.0,
+    "special_price": 2350.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2450.0,
+      "special_price": 2350.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:58"
+    }
+  ]
+}

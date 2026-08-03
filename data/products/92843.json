@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92843",
+    "sku": "QLX48GBDDR4QBS",
+    "name": "Qbits Lania X1 Mini PC Intel\u00ae Core\u2122 i7 11th Gen Performance Kit 8GB DDR4 RAM 1TB M.2 NVMe SSD Windows 11\u00a0Desktop",
+    "slug": "qbits-lania-x1-mini-pc-i7-11th-gen-desktop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/b/qbits-lania-new-base.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 49999.0,
+    "special_price": 48999.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 49999.0,
+      "special_price": 48999.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

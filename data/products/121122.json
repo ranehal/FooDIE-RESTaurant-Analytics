@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121122",
+    "sku": "TPBE400TPO",
+    "name": "TP-Link Archer BE400 BE6500 Dual-Band Wi-Fi 7 Router",
+    "slug": "tp-link-archer-be400-be6500-dual-band-wi-fi-7-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/r/archer-be400-4-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22390.0,
+    "special_price": 18990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22390.0,
+      "special_price": 18990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:45"
+    }
+  ]
+}

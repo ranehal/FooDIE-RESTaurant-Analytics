@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120605",
+    "sku": "AA121DGLMOV",
+    "name": "Anker Nano 45W GaN US Plug Fast Charging Adapter with Display (A121D)-Global Version",
+    "slug": "anker-nano-45w-gan-us-fast-charging-adapter-with-display-a121d-global",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-nano-45w-dis-7-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3999.0,
+    "special_price": 3499.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3999.0,
+      "special_price": 3499.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

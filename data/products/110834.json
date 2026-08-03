@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110834",
+    "sku": "ICE20WICE",
+    "name": "ICE 20W Dual Port Fast Charging Adapter (US Plug)-Metallic Grey",
+    "slug": "ice-20w-dual-port-fast-charging-adapter-us-plug-metallic-grey",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/c/ice-20w-dual-21-1-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1369.0,
+    "special_price": 899.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1369.0,
+      "special_price": 899.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:52"
+    }
+  ]
+}

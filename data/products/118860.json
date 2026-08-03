@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118860",
+    "sku": "NY9XHSP",
+    "name": "Citizen Promaster Mechanical Diver Men\u2019s Watch (NY0121-09X)",
+    "slug": "citizen-promaster-mechanical-diver-men-s-watch-ny0121-09x",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/y/ny0121-09x-25-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 47196.0,
+    "special_price": 41040.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 47196.0,
+      "special_price": 41040.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:51"
+    }
+  ]
+}

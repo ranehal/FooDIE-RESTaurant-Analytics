@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120335",
+    "sku": "ENA1BHSIOT",
+    "name": "Enchen A1 Electric Body Hair Shaver",
+    "slug": "enchen-a1-electric-body-hair-shaver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/o/model-a1-20-5-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3490.0,
+    "special_price": 2890.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3490.0,
+      "special_price": 2890.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:40"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115959",
+    "sku": "OOWH1151MOV",
+    "name": "Oraimo PowerDock 15W Wireless Charging Pad with Type-C to Type-C Cable (OWH-1151)",
+    "slug": "oraimo-powerdock-15w-wireless-charging-pad-with-type-c-to-type-c-cable-owh-1151",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-powerdock-15w-wireless-charging-pad-with-type-c-to-type-c-cable-_owh-1151_-4-15-2-61.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1700.0,
+    "special_price": 1400.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1700.0,
+      "special_price": 1400.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:30"
+    }
+  ]
+}

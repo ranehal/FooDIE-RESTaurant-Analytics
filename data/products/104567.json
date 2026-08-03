@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104567",
+    "sku": "A2561IOT",
+    "name": "Apple A2561 Type-C to Lightning 1M Cable (MUQ93ZM/A)",
+    "slug": "apple-usb-c-to-lightning-1m-cable-a2561",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/s/usb-c-to-lightning-cable-_1-m_-02.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1990.0,
+    "special_price": 1649.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1990.0,
+      "special_price": 1649.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

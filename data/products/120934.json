@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120934",
+    "sku": "CGMWBD1CWOG",
+    "name": "Casio G-Shock Full Metal 5000 Series Watch for Men (GMW-B5000D-1C)",
+    "slug": "casio-g-shock-full-metal-5000-series-watch-for-men-gmw-b5000d-1c",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/m/gmw-b5000d-1c-21-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 95000.0,
+    "special_price": 76000.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 95000.0,
+      "special_price": 76000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

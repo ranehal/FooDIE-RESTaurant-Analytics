@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110841",
+    "sku": "ASL5NCECIL",
+    "name": "Anker Soundcore Liberty 5 Active Noise Cancelling TWS Earbuds",
+    "slug": "anker-soundcore-liberty-5-nc-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soundcore-liberty-5-30-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9499.0,
+    "special_price": 7999.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9499.0,
+      "special_price": 7999.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:52"
+    }
+  ]
+}

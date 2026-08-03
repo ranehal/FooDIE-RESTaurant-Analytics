@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110810",
+    "sku": "HWT5J9513DTBD3HSO",
+    "name": "Hisense 9.5 kg Top Load Washing Machine (WT5J9513DT/BD3)",
+    "slug": "hisense-9-5-kg-top-load-washing-machine-wt5j9513dt-bd3",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/t/wt5j9513dt-5-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.5,
+    "price": 40900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

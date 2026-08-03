@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113319",
+    "sku": "SGS25FE5G8GB256GB",
+    "name": "Samsung Galaxy S25 FE 5G 8GB/256GB",
+    "slug": "samsung-galaxy-s25-fe-5g-8gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/galaxy-s25-fe-8gb-1-8-26.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 99999.0,
+    "special_price": 79999.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 99999.0,
+      "special_price": 79999.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:02"
+    }
+  ]
+}

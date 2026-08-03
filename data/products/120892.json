@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120892",
+    "sku": "HDUP09ADR",
+    "name": "Hoco DUP09 8-in-1 Docking Hub Converter Adapter",
+    "slug": "hoco-dup09-8-in-1-docking-hub-converter-adapter",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/S/8/S8844e5e08a3b47138d0e79e252cee021Y_jpg_720x720q80-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 2200.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 2200.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

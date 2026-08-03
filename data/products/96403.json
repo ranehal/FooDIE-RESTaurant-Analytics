@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "96403",
+    "sku": "HH65P7UXHRB",
+    "name": "Haier 65 Inch\u00a0Bezel-Less HQLED 4K UHD Google TV (H65P7UX)",
+    "slug": "haier-65-inch-hqled-4k-uhd-google-tv-h65p7ux",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/6/h65p7ux-4gb-16-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 111900.0,
+    "special_price": 85990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 111900.0,
+      "special_price": 85990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:42"
+    }
+  ]
+}

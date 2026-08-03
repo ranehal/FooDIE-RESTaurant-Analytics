@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112689",
+    "sku": "HP14EP0200TUSER",
+    "name": "HP 14 inch Intel 13th Gen Core i5-1335U 8GB RAM 512GB SSD Laptop (14-ep0200TU)",
+    "slug": "hp-14-inch-intel-13th-gen-core-i5-1335u-8gb-ram-512gb-ssd-laptop-14-ep0200tu",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/p/ep0200tu-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 77000.0,
+    "special_price": 74000.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 77000.0,
+      "special_price": 74000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:21"
+    }
+  ]
+}

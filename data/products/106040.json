@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106040",
+    "sku": "RTX30506GBGLCMB",
+    "name": "Acer Nitro V 15 15.6\u2033 FHD 8GB RAM 512 SSD RTX3050 6GB Gaming Laptop",
+    "slug": "acer-nitro-v-15-15-6-fhd-8gb-ram-512-ssd-rtx3050-6gb-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acernitrov15-2-11-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 103609.0,
+    "special_price": 98429.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 103609.0,
+      "special_price": 98429.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116582",
+    "sku": "S2612GB256GB",
+    "name": "Samsung Galaxy S26 12GB/256GB",
+    "slug": "samsung-galaxy-s26-12gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/galaxy-s26-12gb-1-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 130299.0,
+    "special_price": 128499.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 130299.0,
+      "special_price": 128499.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:55"
+    }
+  ]
+}

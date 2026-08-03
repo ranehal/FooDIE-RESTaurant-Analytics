@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92030",
+    "sku": "DZIAC12KXESQ",
+    "name": "Danaaz 1 Ton Inverter Air Conditioner (DZIAC12KX)",
+    "slug": "danaaz-1-ton-inverter-air-conditioner-dziac12kx",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/z/dziac-12kx-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59900.0,
+    "special_price": 59290.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59900.0,
+      "special_price": 59290.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

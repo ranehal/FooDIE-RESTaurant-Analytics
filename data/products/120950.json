@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120950",
+    "sku": "WMS020RNWDL",
+    "name": "Walton Antique Rechargeable Wireless Mouse (WMS020RN)",
+    "slug": "walton-antique-rechargeable-wireless-mouse-wms020rn",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/m/wms020rn-22-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 950.0,
+    "special_price": 820.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 950.0,
+      "special_price": 820.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

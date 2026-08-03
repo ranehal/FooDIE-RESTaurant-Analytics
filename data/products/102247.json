@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102247",
+    "sku": "HBD802HVRNG",
+    "name": "Hitachi 8kg Front Load Inverter Washing Machine (BD-802HVOS/W)",
+    "slug": "hitachi-8kg-front-loading-inverter-washing-machine-bd-802hvos-w",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/i/hitachi-8kg-front-load-inverter-washing-machine-_bd-802hvos-7-30-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 72900.0,
+    "special_price": 57990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72900.0,
+      "special_price": 57990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

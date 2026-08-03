@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121184",
+    "sku": "SK55XR80M2SSO",
+    "name": "Sony Bravia 8 II 55 Inch Class QD-OLED 4K HDR Google TV (K-55XR80M2)",
+    "slug": "sony-bravia-8-ii-55-inch-class-qd-oled-4k-hdr-google-tv-k-55xr80m2",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/-/k-55xr80m2-7-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 579900.0,
+    "special_price": 410990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 579900.0,
+      "special_price": 410990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

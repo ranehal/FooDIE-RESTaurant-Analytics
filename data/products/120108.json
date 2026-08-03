@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120108",
+    "sku": "AM51516GB512GBNXT",
+    "name": "Apple MacBook Air M5 Chip 15 Inch 16GB/512GB",
+    "slug": "apple-macbook-air-m5-chip-15-inch-16gb-512gb",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/a/macbook-air-m5-chip-13-inch-5-12-26-1_6.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:13"
+    }
+  ]
+}

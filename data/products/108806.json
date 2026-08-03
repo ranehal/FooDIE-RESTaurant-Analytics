@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108806",
+    "sku": "SMFIC16FHDSLSMT",
+    "name": "SMART Flairedge Intel Celeron FHD 15.6\u2033 8GB RAM 256GB SSD Laptop (N4020C)-Silver ",
+    "slug": "smart-flairedge-intel-celeron-n4020c-15-6-fhd-silver-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smt-17-03-2025---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 29400.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

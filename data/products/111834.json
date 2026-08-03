@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111834",
+    "sku": "AANV15CMB",
+    "name": " Acer Nitro V 15 15.6\u2033 FHD 165Hz Core i9-13900H 8GB RAM 512GB SSD RTX 4060 8GB Graphics Gaming Laptop (ANV15)",
+    "slug": "acer-nitro-v-15-15-6-fhd-165hz-core-i9-13900h-8gb-ram-512gb-ssd-rtx-4060-8gb-graphics-gaming-laptop-anv15",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anv15--27-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 148900.0,
+    "special_price": 145000.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 148900.0,
+      "special_price": 145000.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

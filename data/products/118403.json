@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118403",
+    "sku": "MRSFWMBT",
+    "name": "Multifunctional 4-in-1 Lady Shaver Beauty kit electric rechargeable shaver and trimmer (SN-8866)",
+    "slug": "multifunctional-rechargeable-shaver-for-women",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/h/shaver-19-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1349.0,
+    "special_price": 1099.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1349.0,
+      "special_price": 1099.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

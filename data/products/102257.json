@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102257",
+    "sku": "HWF3S8043BWHSO",
+    "name": "Hisense 8kg Inverter Front Load Washing Machine (WF3S8043BW)",
+    "slug": "hisense-8kg-inverter-front-load-washing-machine-wf3s8043bw",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wf3s8043bw-5-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 64900.0,
+    "special_price": 53318.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 64900.0,
+      "special_price": 53318.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

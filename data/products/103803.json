@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "103803",
+    "sku": "BWAN28093BSH",
+    "name": "BOSCH 7kg Series 4 Front Loader Washing Machine (WAN28093)",
+    "slug": "bosch-7kg-series-4-front-loader-washing-machine-wan28093",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/wan28093-4-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 7.0,
+    "price": 133900.0,
+    "special_price": 125400.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 133900.0,
+      "special_price": 125400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

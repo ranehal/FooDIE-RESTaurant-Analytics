@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121255",
+    "sku": "VY5006GB256GB",
+    "name": "vivo Y500 6GB/256GB",
+    "slug": "vivo-y500-6gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vivo_y500-6gb256gb-2-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

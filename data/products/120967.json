@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120967",
+    "sku": "WDF14D24IWDL",
+    "name": "Walton\u00a0Cinexa 23.8\" 100Hz FHD Monitor (WDF14D24I)",
+    "slug": "walton-cinexa-23-8-100hz-fhd-monitor-wdf14d24i",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/d/wdf14d24i-22-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13650.0,
+    "special_price": 12530.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13650.0,
+      "special_price": 12530.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

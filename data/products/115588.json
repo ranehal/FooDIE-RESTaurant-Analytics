@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115588",
+    "sku": "HN63CTCCIL",
+    "name": "Hoco N63 Gentle PD30W+QC3.0 Charger Set (C to C) (EU)",
+    "slug": "hoco-n63-gentle-pd30w-qc3-0-charger-set-c-to-c-eu",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-n63-gentle-20-1-26.jpg",
+    "unit": "g",
+    "unit_value": 63.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

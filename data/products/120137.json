@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120137",
+    "sku": "C4WGS2GLO",
+    "name": "Cudy 24-GbE 400W PoE L2 Managed Switch (GS2028PS4)",
+    "slug": "cudy-24-gbe-400w-poe-l2-managed-switch-gs2028ps4",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs2028ps4-16-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 39000.0,
+    "special_price": 36000.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 39000.0,
+      "special_price": 36000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

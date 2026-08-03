@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110559",
+    "sku": "HN61PD20WCIL",
+    "name": "Hoco N61 Gentle PD20W+QC3.0 Charger with Type-C Cable",
+    "slug": "hoco-n61-gentle-pd20w-qc3-0-charger-with-type-c-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-n61-20-1-26.jpg",
+    "unit": "g",
+    "unit_value": 61.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:09:52"
+    }
+  ]
+}

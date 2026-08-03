@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "90451",
+    "sku": "SWT93TMSBN",
+    "name": "Samsung 9KG 3 Ticks Top Load Digital Inverter Washing Machine (WA90T5260BYUTL)",
+    "slug": "samsung-9kg-3-ticks-top-loading-washing-machine-wa90t5260byutl",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/wa90t_4_1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 56900.0,
+    "special_price": 46390.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 56900.0,
+      "special_price": 46390.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:58"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120133",
+    "sku": "A4FG1200SGLO",
+    "name": "A4Tech Fstyler FG1200S 2.4G Wireless Keyboard and Mouse Combo",
+    "slug": "a4tech-fstyler-fg1200s-2-4g-wireless-keyboard-and-mouse-combo",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/g/fg1200s-16-5-26-1.jpg",
+    "unit": "g",
+    "unit_value": 2.4,
+    "price": 2350.0,
+    "special_price": 1950.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2350.0,
+      "special_price": 1950.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

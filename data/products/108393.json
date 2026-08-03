@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108393",
+    "sku": "HSU24CCPHRB",
+    "name": "Haier 2 Ton CleanCool Inverter Pro Air Conditioner [HSU-24CleanCool(INV)(Pro)] ",
+    "slug": "haier-2-ton-cleancool-inverter-pro-air-conditioner-hsu-24cleancool-inv-pro",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-2-ton-cleancool-inverter--7-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 91990.0,
+    "special_price": 69990.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 91990.0,
+      "special_price": 69990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:24"
+    }
+  ]
+}

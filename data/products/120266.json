@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120266",
+    "sku": "SP3PJNN",
+    "name": "ViewSonic SP3 4800 Lumens SVGA Business Projector",
+    "slug": "viewsonic-sp3-4800-lumens-svga-business-projector",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/_/r_1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 50490.0,
+    "special_price": 45900.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 50490.0,
+      "special_price": 45900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:01"
+    }
+  ]
+}

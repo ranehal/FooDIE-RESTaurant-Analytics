@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112241",
+    "sku": "WPN50P14FJNN",
+    "name": "Walton Prelude N50 Pro 14\u2033 FHD Intel Pentium Silver N5030 8GB RAM 256GB SSD Laptop",
+    "slug": "walton-prelude-n50-pro-14-fhd-intel-pentium-silver-n5030-8gb-ram-256gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/4/n41-pro-14-8-25-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40392.0,
+    "special_price": 36720.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40392.0,
+      "special_price": 36720.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

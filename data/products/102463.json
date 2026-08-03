@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102463",
+    "sku": "VMA215TACVOF",
+    "name": "Viomi A2 1.5 Ton Split Type Non-Inverter Air Conditioner",
+    "slug": "viomi-a2-1-5-ton-split-type-non-inverter-air-conditioner",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/viomi-a2-1.5-ton-split-type-non-inverter-air-conditioner-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59990.0,
+    "special_price": 44990.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59990.0,
+      "special_price": 44990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

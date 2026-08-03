@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106028",
+    "sku": "HSBCSMSMOV",
+    "name": "Haylou Solar 5 BT Calling Smart Watch (Metallic Strap)",
+    "slug": "haylou-solar-5-bt-calling-smart-watch-metallic-strap",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/solar-5-bt-metallic-30-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7999.0,
+    "special_price": 6499.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7999.0,
+      "special_price": 6499.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

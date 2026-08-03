@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112003",
+    "sku": "AZ30WA2698MOV",
+    "name": "Anker Zolo 30W Type-C Power Adapter (A2698)",
+    "slug": "anker-zolo-30w-usb-c-power-adapter-a2698",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-zolo-30w-6-6-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1399.0,
+    "special_price": 999.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1399.0,
+      "special_price": 999.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:46"
+    }
+  ]
+}

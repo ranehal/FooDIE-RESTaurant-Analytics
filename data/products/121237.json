@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121237",
+    "sku": "GRB3001AWOG",
+    "name": "Casio Master of G\u2013Air GravityMaster Analogue Watch for Men (GR-B300-1A)",
+    "slug": "casio-master-of-g-air-gravitymaster-analogue-watch-for-men-gr-b300-1a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/3/b300-8-7-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 45000.0,
+    "special_price": 33750.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 45000.0,
+      "special_price": 33750.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

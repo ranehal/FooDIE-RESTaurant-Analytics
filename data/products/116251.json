@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116251",
+    "sku": "SB3K50S30SSO",
+    "name": "SONY BRAVIA 3 50 Inch LED 4K Google TV (K-50S30)",
+    "slug": "sony-bravia-3-50-inch-led-4k-google-tv-k-50s30",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/-/k-50s30-2-17-2_6-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 149900.0,
+    "special_price": 110900.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 149900.0,
+      "special_price": 110900.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:25"
+    }
+  ]
+}

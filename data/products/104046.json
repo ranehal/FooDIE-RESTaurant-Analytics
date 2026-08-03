@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104046",
+    "sku": "43DM54UABDWO",
+    "name": "DAEWOO 43 Inch 4K UHD Android TV (43DM54UAB)",
+    "slug": "daewoo-43-inch-2gb-16gb-4k-uhd-android-tv-43dm54uab",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/3/43dm54uab-7-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 43900.0,
+    "special_price": 35990.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 43900.0,
+      "special_price": 35990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:37"
+    }
+  ]
+}

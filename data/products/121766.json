@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121766",
+    "sku": "MKP7PROEXL",
+    "name": "MARSRIVA KP7 Pro 24000mAh Smart Mini DC UPS",
+    "slug": "marsriva-kp7-pro-24000mah-smart-mini-dc-ups",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/p/kp7-pro-29-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9363.0,
+    "special_price": 8200.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9363.0,
+      "special_price": 8200.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:38"
+    }
+  ]
+}

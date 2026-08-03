@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120676",
+    "sku": "WSIKL18MWLT",
+    "name": "Walton Krystaline 1.5 Ton Inverter Air Conditioner (WSI-KRYSTALINE-18M) [SMART PLASMA]",
+    "slug": "walton-krystaline-1-5-ton-inverter-air-conditioner-wsi-krystaline-18m-smart-plasma",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-krystaline-1.5-ton-inverter-air-conditioner-_wsi-krystaline-18m_-_smart-plasma_-8-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 75400.0,
+    "special_price": 55690.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 75400.0,
+      "special_price": 55690.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:21"
+    }
+  ]
+}

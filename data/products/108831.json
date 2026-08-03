@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108831",
+    "sku": "HYA18CIB3G1HYD",
+    "name": "Hyundai 1.5 Ton Inverter Air Conditioner (HYA-18CIB3 G1)",
+    "slug": "hyundai-1-5-ton-inverter-air-conditioner-hya-18cib3-g1",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/y/hyundai_base_image_ac_17-3-25_1.jpg",
+    "unit": "g",
+    "unit_value": 3.0,
+    "price": 78900.0,
+    "special_price": 57990.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 78900.0,
+      "special_price": 57990.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

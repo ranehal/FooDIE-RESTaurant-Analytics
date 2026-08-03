@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "98316",
+    "sku": "QSi51240P16GBQBS",
+    "name": "Qbits Sigma X2 Laptop Intel Core i5-1240P Processor with 16GB RAM and 1TB M.2 Windows 11",
+    "slug": "qbits-sigma-x2-laptop-intelr-coretm-i5-1240p-processor-with-16gb-ram-and-1tb-m-2-windows-11",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/6/16gb-ram-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 70999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 70999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

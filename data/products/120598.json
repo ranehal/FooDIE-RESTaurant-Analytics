@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120598",
+    "sku": "AA82E2HMOV",
+    "name": "Anker 240W Upcycled-Braided USB-C to USB-C Cable 3ft (A82E2H)",
+    "slug": "anker-240w-upcycled-braided-usb-c-to-usb-c-cable-3ft-a82e2h",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-240w-cable-4-6-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1199.0,
+    "special_price": 899.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1199.0,
+      "special_price": 899.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

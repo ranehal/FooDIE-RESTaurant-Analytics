@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115672",
+    "sku": "HSU19SIWFAHRB",
+    "name": "Haier Solar 1.6 Ton Hybrid Inverter Air Conditioner [HSU-19SolarCool (INV)(Wifi)(FA)]",
+    "slug": "haier-solar-1-6-ton-hybrid-inverter-air-conditioner-hsu-19solarcool-inv-wifi-fa",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/s/hsu-19solarcool-_inv_wifi_fa_-21-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 155000.0,
+    "special_price": 144990.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 155000.0,
+      "special_price": 144990.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:32"
+    }
+  ]
+}

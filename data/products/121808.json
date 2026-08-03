@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121808",
+    "sku": "RCYD18CBD",
+    "name": "Miyako 1200W Electric Hair Dryer (RCY-D18)",
+    "slug": "miyako-1200w-electric-hair-dryer-rcy-d18",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/r/dryer-1-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1950.0,
+    "special_price": 1590.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1950.0,
+      "special_price": 1590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:17"
+    }
+  ]
+}

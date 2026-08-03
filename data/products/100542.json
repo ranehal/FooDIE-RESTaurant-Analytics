@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100542",
+    "sku": "H2TIACHSO",
+    "name": "Hisense 2 Ton Full DC Inverter Air Conditioner (AS-22TW4RXBTD00BU)",
+    "slug": "hisense-2-ton-inverter-air-conditioner-as-22tr4rxbtd00a",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/6/66_9.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 95900.0,
+    "special_price": 69990.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 95900.0,
+      "special_price": 69990.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

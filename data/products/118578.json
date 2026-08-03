@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118578",
+    "sku": "HHSU48CHRB",
+    "name": "Haier 4 Ton Inverter Ceiling Type Air Conditioner [HSU-48CeilingType:(INV)]",
+    "slug": "haier-4-ton-inverter-ceiling-type-air-conditioner-hsu-48ceilingtype-inv",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/h/_hsu-36ceilingtype_-7-6-26_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 222990.0,
+    "special_price": 177990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 222990.0,
+      "special_price": 177990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:27"
+    }
+  ]
+}

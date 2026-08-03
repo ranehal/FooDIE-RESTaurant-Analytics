@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "91924",
+    "sku": "SWW90TA047AXOTLSBN",
+    "name": "Samsung 9KG Front Load Washing Machine with Hygiene Steam (WW90TA047AXOTL)",
+    "slug": "samsung-ww90ta047axotl-9kg-front-loading-washing-machine-with-hygiene-steam",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/w/ww90ta047axotl-4-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 79900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 79900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:58"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105239",
+    "sku": "AL13199WNFHDOJNN",
+    "name": "Asus VivoBook S15 S513EA (L13199WN) 15.6\u2019\u2019 FHD OLED Display i3-1115G4 8GB RAM 512GB SSD Windows 11 Laptop",
+    "slug": "asus-vivobook-s15-s513ea-l13199wn-15-6-11-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asus-l13wn-21.9.24--1.jpg",
+    "unit": "g",
+    "unit_value": 1115.0,
+    "price": 68355.0,
+    "special_price": 65100.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 68355.0,
+      "special_price": 65100.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

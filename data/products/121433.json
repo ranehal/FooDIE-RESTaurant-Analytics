@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121433",
+    "sku": "L8WMFB120RNG",
+    "name": "LG 8Kg Front Load Washing Machine (FB1208S850)",
+    "slug": "lg-8kg-front-load-washing-machine-fb1208s850",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fb1208s850-14-july-2026-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 92900.0,
+    "special_price": 69990.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 92900.0,
+      "special_price": 69990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

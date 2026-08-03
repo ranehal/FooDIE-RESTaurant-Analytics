@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115097",
+    "sku": "H8HW80BP12929AHRB",
+    "name": "Haier 8 KG Inverter Front Load Washing Machine (HW80-BP12929A)",
+    "slug": "haier-8-kg-inverter-front-load-washing-machine-hw80-bp12929a",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-8-kg-inverter-front-load-washing-machine-_hw80-bp12929a_-7-30-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 61900.0,
+    "special_price": 53990.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 61900.0,
+      "special_price": 53990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

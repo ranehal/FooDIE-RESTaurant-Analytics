@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116359",
+    "sku": "TC508GB256GB",
+    "name": "TECNO Camon 50 8GB/256GB",
+    "slug": "tecno-camon-50-8gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/camon-50-8gb-256gb-2-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 38999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 38999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:09"
+    }
+  ]
+}

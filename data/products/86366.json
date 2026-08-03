@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "86366",
+    "sku": "GASGG12CPTAVZESQ",
+    "name": "General 1.0 Ton Inverter Air Conditioner (ASGG-12CPTA-V)",
+    "slug": "general-inverter-1-0-ton-air-conditioner-asgg-12cpta-v",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/2/12cpta-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 89900.0,
+    "special_price": 88900.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 89900.0,
+      "special_price": 88900.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:43"
+    }
+  ]
+}

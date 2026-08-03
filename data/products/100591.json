@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100591",
+    "sku": "FSESHDKWDC",
+    "name": "Desktop PC with Ryzen 5 5600g, Corsair 16GB RAM, Adata Legend 512GB NVMe SSD, Revenger 21.5\u201d Monitor, Marvo CM306 Combo and Value-Top VT-M700 Casing with VT-P250B PSU",
+    "slug": "desktop-pc-with-ryzen-5-5600g",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casing-01-----14-3-24---1.jpg",
+    "unit": "g",
+    "unit_value": 5600.0,
+    "price": 57000.0,
+    "special_price": 48699.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57000.0,
+      "special_price": 48699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117321",
+    "sku": "A1WCUCCIL",
+    "name": "Anker Charger (140W, 4-Port, PD 3.1) with USB-C Cable",
+    "slug": "anker-charger-140w-4-port-pd-3-1-with-usb-c-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-charger-_140w_--25-3-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6999.0,
+    "special_price": 5299.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6999.0,
+      "special_price": 5299.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:30"
+    }
+  ]
+}

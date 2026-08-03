@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118910",
+    "sku": "TW4B130HSP",
+    "name": "Timex Expedition Scout Brown Leather Watch (TW4B11300)",
+    "slug": "timex-expedition-scout-brown-leather-watch-tw4b11300",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw4b11300-26-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11537.0,
+    "special_price": 10032.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11537.0,
+      "special_price": 10032.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:51"
+    }
+  ]
+}

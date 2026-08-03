@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110777",
+    "sku": "HLTL09M00GGRNG",
+    "name": "Hitachi 9kg Top Load Washing Machine (LTL 09M00 GG)",
+    "slug": "hitachi-9kg-washing-machine-ltl-09m00-gg",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltl-09m00-gg-3-28-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 46800.0,
+    "special_price": 37990.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 46800.0,
+      "special_price": 37990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

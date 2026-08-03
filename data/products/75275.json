@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "75275",
+    "sku": "PER2031KSMBT",
+    "name": "Panasonic ER-2031K Beard/Hair Trimmer For Men",
+    "slug": "panasonic-er-2031-beard-hair-trimmer-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/4/t4-29-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7699.0,
+    "special_price": 6190.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7699.0,
+      "special_price": 6190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:17"
+    }
+  ]
+}

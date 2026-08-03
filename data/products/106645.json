@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106645",
+    "sku": "RM2420E1XGO",
+    "name": "Redmi Buds 6 Play Bean Shaped TWS Earbuds (M2420E1)",
+    "slug": "redmi-buds-6-play-bean-shaped-tws-earbuds-m2420e1",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/buds-6-play-8-3-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1499.0,
+    "special_price": 1349.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1499.0,
+      "special_price": 1349.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

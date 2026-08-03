@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121002",
+    "sku": "WA80F12S5CTLRNG",
+    "name": "Samsung 12Kg Top Load Washing Machine with AI Wash (WA80F12S5CTL)",
+    "slug": "samsung-12kg-top-load-washing-machine-with-ai-wash-wa80f12s5ctl",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/wa80f12s5ctl-25-6-26-5.jpg",
+    "unit": "kg",
+    "unit_value": 12.0,
+    "price": 70900.0,
+    "special_price": 56490.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 70900.0,
+      "special_price": 56490.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

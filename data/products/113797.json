@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113797",
+    "sku": "AB1503CVASTR",
+    "name": "Asus ExpertBook B1 Core i7 13th Gen 8GB RAM 15.6\" FHD Laptop (B1503CVA)",
+    "slug": "asus-expertbook-b1-core-i7-13th-gen-8gb-ram-15-6-fhd-laptop-b1503cva",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/1/b1503cva-30-20-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 89100.0,
+    "special_price": 87000.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 89100.0,
+      "special_price": 87000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

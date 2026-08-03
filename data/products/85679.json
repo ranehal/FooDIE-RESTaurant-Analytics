@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "85679",
+    "sku": "HTCAT538SMBT",
+    "name": "HTC AT-538 Hair & Beard Trimmer For Men",
+    "slug": "htc-at-538-hair-beard-trimmer-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/htc-at-538--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1050.0,
+    "special_price": 527.0,
+    "discount": 50.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1050.0,
+      "special_price": 527.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:17"
+    }
+  ]
+}

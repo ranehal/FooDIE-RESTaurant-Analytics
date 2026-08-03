@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104235",
+    "sku": "HWD105B1HRB",
+    "name": "Haier 10.5 & 7kg AI Direct Motion Washer Dryer Combo (HWD105-B14959S8U1)",
+    "slug": "haier-10-5-7kg-ai-direct-motion-washer-dryer-combo-hwd105-b14959s8u1",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hwd105-b14959s8u1-6-7-25.jpg",
+    "unit": "kg",
+    "unit_value": 7.0,
+    "price": 98900.0,
+    "special_price": 86900.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 98900.0,
+      "special_price": 86900.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

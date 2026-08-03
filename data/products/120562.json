@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120562",
+    "sku": "SG2201FJNN",
+    "name": "Suirge 22 Inch 100Hz FHD IPS Monitor (SG-2201F)",
+    "slug": "suirge-22-inch-100hz-fhd-ips-monitor-sg-2201f",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/g/sg-2201f-29-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11990.0,
+    "special_price": 10490.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11990.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:55"
+    }
+  ]
+}

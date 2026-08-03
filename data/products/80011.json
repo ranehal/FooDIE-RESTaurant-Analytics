@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "80011",
+    "sku": "S32T4400SBN",
+    "name": "Samsung 32 Inch Smart LED TV (32T4400)",
+    "slug": "samsung-32t4400-smart-led-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/32t4400-26-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 31500.0,
+    "special_price": 23900.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 31500.0,
+      "special_price": 23900.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:45"
+    }
+  ]
+}

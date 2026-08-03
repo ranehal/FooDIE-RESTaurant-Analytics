@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "114582",
+    "sku": "FE35FJABA",
+    "name": "E35 EPP Foam RC Fighter Jet with Batteries",
+    "slug": "flh-e35-epp-foam-rc-fighter-jet-with-batteries",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/7/e72-jet-18-12-25-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2600.0,
+    "special_price": 1559.0,
+    "discount": 40.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2600.0,
+      "special_price": 1559.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

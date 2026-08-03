@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112713",
+    "sku": "L1483DR0080LKSER",
+    "name": "Lenovo IdeaPad 5 2-in-1 14\" AMD Ryzen 5 8645HS 16GB RAM 512GB SSD Touch Laptop (83DR0080LK)",
+    "slug": "lenovo-14-amd-ryzen-5-8645hs-16gb-ram-512gb-ssd-ideapad-5-2-in-1-touch-laptop-83dr0080lk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/lenovo-ideapad-5-10-9-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 102000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 102000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

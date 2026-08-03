@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112851",
+    "sku": "OCD114LMOV",
+    "name": "Oraimo RobustLine 2A 1m Lightning Charging Cable (OCD-114L)",
+    "slug": "oraimo-robustline-2a-1m-lightning-charging-cable-ocd-114l",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/o/robustline-2a-lighting-2-april-2026.jpg",
+    "unit": "L",
+    "unit_value": 114.0,
+    "price": 170.0,
+    "special_price": 165.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 170.0,
+      "special_price": 165.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

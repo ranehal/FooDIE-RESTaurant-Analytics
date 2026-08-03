@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101945",
+    "sku": "H32A4F4HSO",
+    "name": "Hisense 32 Inch Bezelless HD Wi-Fi DTS Smart Android TV (32A4F4)",
+    "slug": "hisense-32-inch-bezel-less-hd-wi-fi-dts-smart-android-tv-32a4f4",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/32a4f4-8-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25900.0,
+    "special_price": 21990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25900.0,
+      "special_price": 21990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

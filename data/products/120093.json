@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120093",
+    "sku": "I28WTACICE",
+    "name": "ICE 28W Type-A to Type-C Data Cable",
+    "slug": "ice-28w-type-a-to-type-c-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/-/a-to-c-14-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 399.0,
+    "discount": 50.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 399.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:24"
+    }
+  ]
+}

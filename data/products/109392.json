@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109392",
+    "sku": "ICEAETWSEBICE",
+    "name": "ICE Aura ENC TWS Earbuds-Black",
+    "slug": "ice-aura-enc-tws-earbuds-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/u/aura-enc-21-1-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1999.0,
+    "special_price": 1499.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1999.0,
+      "special_price": 1499.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:57"
+    }
+  ]
+}

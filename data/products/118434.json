@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118434",
+    "sku": "HWM75ABFIS6HRB",
+    "name": "Haier 7.5Kg Top Loading Fully Automatic Washing Machine (HWM75-ABFIS6)-Starry Silver",
+    "slug": "haier-7-5kg-top-loading-fully-automatic-washing-machine-hwm75-abfis6-starry-silver",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-7.5kg-top-loading-fully-automatic-washing-machine-_hwm75-abfis6_-starry-silver-7-30-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 7.5,
+    "price": 29900.0,
+    "special_price": 20590.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29900.0,
+      "special_price": 20590.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

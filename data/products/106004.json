@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106004",
+    "sku": "WAN28282GCBSH",
+    "name": "BOSCH 8kg Series 4 Washing Machine ",
+    "slug": "bosch-8kg-series-4-washing-machine-wan28282gc",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/bos14-20-7-26.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 151900.0,
+    "special_price": 148862.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 151900.0,
+      "special_price": 148862.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119701",
+    "sku": "WS1500H3BVDFAMZ",
+    "name": "Casio Standard Moon Phase Digital Resin Belt Men's Watch (WS-1500H-3BVDF)",
+    "slug": "casio-standard-moon-phase-digital-resin-belt-watch-ws-1500h-3bvdf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/_/1_32_15.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5790.0,
+    "special_price": 4890.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5790.0,
+      "special_price": 4890.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:46"
+    }
+  ]
+}

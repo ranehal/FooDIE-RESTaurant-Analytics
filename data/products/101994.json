@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101994",
+    "sku": "H55A6F3HSO",
+    "name": "Hisense 55 Inch Bezelless Dolby Vision 4K UHD Smart LED Voice Control Google DTS TV (55A6F3)",
+    "slug": "hisense-55-inch-bezel-less-4k-uhd-led-dts-smart-google-tv-55a6f3",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/55a6f3-8-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 72900.0,
+    "special_price": 58990.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72900.0,
+      "special_price": 58990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:37"
+    }
+  ]
+}

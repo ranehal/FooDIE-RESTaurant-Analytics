@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "95280",
+    "sku": "PBT330215MBT",
+    "name": "Philips BT3302/15 Beard Trimmer Series 3000 for Men",
+    "slug": "philips-bt3302-15-beard-trimmer-series-3000-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/7/t7-29-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3499.0,
+    "special_price": 2570.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3499.0,
+      "special_price": 2570.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:13"
+    }
+  ]
+}

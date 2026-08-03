@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108814",
+    "sku": "SMFGFL7G12SMT",
+    "name": "SMART Flairedge Intel Core i7 12th Gen 8GB DDR4 512GB SSD 15.6\u2033 FHD Laptop (i7G12)",
+    "slug": "smart-flairedge-intel-core-i7-12th-gen-8gb-ddr4-512gb-ssd-15-6-fhd-laptop-i7g12",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/i/_i3g13-15.6_-grey_-17-03-25---1_1.jpg",
+    "unit": "g",
+    "unit_value": 7.0,
+    "price": 71925.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 71925.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

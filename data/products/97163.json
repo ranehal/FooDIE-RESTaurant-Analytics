@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "97163",
+    "sku": "PHBVGBT123318SHL",
+    "name": "Philips BT1233/18 Cordless Trimmer",
+    "slug": "philips-bt1233-18-cordless-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/t/bt1233-18-2-jun-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2850.0,
+    "special_price": 1720.0,
+    "discount": 40.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2850.0,
+      "special_price": 1720.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:13"
+    }
+  ]
+}

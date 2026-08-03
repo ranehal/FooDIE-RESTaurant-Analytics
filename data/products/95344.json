@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "95344",
+    "sku": "R50U62WHE",
+    "name": "Rowa 50U62 50 Inch 4K Android Google Smart TV",
+    "slug": "rowa-50u62-50-inch-4k-android-google-smart-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/0/50u62-7-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59000.0,
+    "special_price": 47999.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59000.0,
+      "special_price": 47999.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:42"
+    }
+  ]
+}

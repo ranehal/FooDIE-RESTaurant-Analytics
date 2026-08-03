@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92260",
+    "sku": "S55LS03BSBN",
+    "name": "Samsung 55 Inch QLED 4K The Frame Smart TV (QA55LS03BAR)",
+    "slug": "samsung-55ls03b-55-the-frame-qled-4k-smart-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/a/qa55ls03bar-26-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 222900.0,
+    "special_price": 149900.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 222900.0,
+      "special_price": 149900.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:42"
+    }
+  ]
+}

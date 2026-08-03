@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "99441",
+    "sku": "WSUPERSAVER12JWLT",
+    "name": "Walton 1 Ton Inverter Air Conditioner (WSI-INVERNA (SUPERSAVER)-12J [PLASMA])",
+    "slug": "walton-1-ton-inverter-air-conditioner-wsi-inverna-supersaver-12f-plasma",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-1-ton-inverter-air-conditioner-_wsi-inverna-_supersaver_-12j-_plasma_-8-2-2-6-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 57900.0,
+    "special_price": 45690.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57900.0,
+      "special_price": 45690.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:24"
+    }
+  ]
+}

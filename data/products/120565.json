@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120565",
+    "sku": "82XM005BLKJNN",
+    "name": "Lenovo IdeaPad 3 15ABR8 (82XM005BLK) AMD Ryzan 7 7730U 2.0GHz to 4.50GHz, 8GB, 512GB SSD, 15.6 Inch FHD IPS Laptop",
+    "slug": "lenovo-ideapad-3-15abr8-82xm005blk-amd-ryzan-7-7730u-2-0ghz-to-4-50ghz-8gb-512gb-ssd-15-6-inch-fhd-ips-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/_/n.png",
+    "unit": "g",
+    "unit_value": 2.0,
+    "price": 85470.0,
+    "special_price": 77700.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 85470.0,
+      "special_price": 77700.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:13"
+    }
+  ]
+}

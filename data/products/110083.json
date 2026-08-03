@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110083",
+    "sku": "CCL16TPTC",
+    "name": "CHARG TWS Earbuds (CL-16)-White",
+    "slug": "charg-tws-earbuds-cl-16",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/l/cl16-18-5-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1470.0,
+    "special_price": 750.0,
+    "discount": 49.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1470.0,
+      "special_price": 750.0,
+      "discount": 49.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:57"
+    }
+  ]
+}

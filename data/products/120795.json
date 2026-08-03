@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120795",
+    "sku": "HOHB56ADR",
+    "name": "Hoco HB56 Victory USB & Type-C Portable 3-in-1 Card Reader",
+    "slug": "hoco-hb56-victory-usb-and-type-c-portable-3-in-1-card-reader-metal-grey",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA009187201A_1_.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10000.0,
+    "special_price": 789.0,
+    "discount": 92.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10000.0,
+      "special_price": 789.0,
+      "discount": 92.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

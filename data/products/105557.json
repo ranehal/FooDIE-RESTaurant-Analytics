@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105557",
+    "sku": "SWD11T754DBXSESBN",
+    "name": "Samsung 11+7Kg Inverter Front Load Washer Dryer Combo (WD11T754DBX/SE)",
+    "slug": "samsung-11-7kg-inverter-washer-dryer-combo-wd11t754dbx-se",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-11-4-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 7.0,
+    "price": 109900.0,
+    "special_price": 99900.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 109900.0,
+      "special_price": 99900.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

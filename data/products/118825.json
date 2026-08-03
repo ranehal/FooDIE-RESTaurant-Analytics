@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118825",
+    "sku": "HSU24GX6HRB",
+    "name": "Haier Gravity AI Series 2 Ton Inverter Air Conditioners [HSU-24Gravity(INV)(Pro)(X6)]",
+    "slug": "haier-gravity-ai-series-2-ton-air-conditioners-hsu-24gravity-inv-pro-x6",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/r/gravity-ai-series-2-7-6-26.jpg",
+    "unit": "g",
+    "unit_value": 24.0,
+    "price": 99990.0,
+    "special_price": 87990.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 99990.0,
+      "special_price": 87990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:27"
+    }
+  ]
+}

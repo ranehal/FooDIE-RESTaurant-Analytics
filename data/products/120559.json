@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120559",
+    "sku": "M1170JNN",
+    "name": "Epson EcoTank M1170 (C11CH44502) Single Function Mono-SFP Printer",
+    "slug": "epson-ecotank-m1170-c11ch44502-single-function-mono-sfp-printer",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_45_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 38016.0,
+    "special_price": 34560.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 38016.0,
+      "special_price": 34560.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:55"
+    }
+  ]
+}

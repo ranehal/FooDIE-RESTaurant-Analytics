@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104701",
+    "sku": "LAOUGHQBS",
+    "name": "Qbits Rover X2 Intel Core i5-12450H 8GB DDR4 RAM 500GB M.2 NVMe SSD Windows 11 Pro Laptop",
+    "slug": "qbits-rover-x2-intel-core-i5-12450h-8gb-ddr4-ram-500gb-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/g/8gb--29-8-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 57999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

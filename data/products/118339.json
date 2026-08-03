@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118339",
+    "sku": "DH5MB2WOG",
+    "name": "Casio G-SQUAD 5600 Series Watch for Men (DW-H5600MB-2)",
+    "slug": "casio-g-squad-5600-series-dw-h5600mb-2",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/D/W/DW-H5600MB-2_f.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 62000.0,
+    "special_price": 49600.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 62000.0,
+      "special_price": 49600.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

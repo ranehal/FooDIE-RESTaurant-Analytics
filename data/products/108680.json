@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108680",
+    "sku": "GS12XLMV32GRO",
+    "name": "Gree 1 Ton Split Inverter Air Conditioner (GS-12XLMV32)",
+    "slug": "gree-1-ton-split-inverter-air-conditioner-gs-12xlmv32",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs-12xlmv32-12-3-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59390.0,
+    "special_price": 49990.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59390.0,
+      "special_price": 49990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118952",
+    "sku": "REC190KHS",
+    "name": "Reeoo 150w PD Fast Charging Type-C to Type-C Braided Cable",
+    "slug": "reeoo-150w-pd-fast-charging-type-c-to-type-c-charging-braided-cable-1m-black-c190",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/R/e/Reeoo_C190.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "97112",
+    "sku": "HPV1616RGNI",
+    "name": "HP Victus 16 16-e1112ax Ryzen 5 FHD 16.1\u2033 8GB RAM 512GB SSD Windows 11 Gaming Laptop - Blue",
+    "slug": "hp-victus-16-8gb-ram-512gb-ssd-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp-victus-16-blue-23.11.23..jpg",
+    "unit": "g",
+    "unit_value": 11.0,
+    "price": 119900.0,
+    "special_price": 105190.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 119900.0,
+      "special_price": 105190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "91160",
+    "sku": "R32S5232WHE",
+    "name": "Rowa 32S52 32 Inch HD Smart TV",
+    "slug": "rowa-32s52-32-hd-smart-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/32s52-7-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26000.0,
+    "special_price": 22990.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26000.0,
+      "special_price": 22990.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:45"
+    }
+  ]
+}

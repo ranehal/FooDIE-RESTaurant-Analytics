@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116694",
+    "sku": "CLT400E4GLTEN300GLO",
+    "name": "Cudy LT400E - 4G LTE N300 Mbps Cat.4 WiFi Router",
+    "slug": "cudy-lt400e-4g-lte-n300-mbps-cat-4-wifi-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/lt400e-22-jun-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 4400.0,
+    "special_price": 4050.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4400.0,
+      "special_price": 4050.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:38"
+    }
+  ]
+}

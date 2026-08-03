@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "98149",
+    "sku": "S43CU8000SBN",
+    "name": "Samsung 43 Inch Crystal 4K UHD Smart TV (43CU8000) ",
+    "slug": "samsung-43-inch-crystal-4k-uhd-smart-tv-43cu8000-2023",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/3/43cu8000-26-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 76900.0,
+    "special_price": 49900.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 76900.0,
+      "special_price": 49900.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

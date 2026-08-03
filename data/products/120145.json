@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120145",
+    "sku": "A4OP550SGLO",
+    "name": "A4Tech OP-550S Wired Silent Click Optical Mouse",
+    "slug": "a4tech-op-550s-wired-silent-click-optical-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/p/op-550s-16-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 499.0,
+    "special_price": 425.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 499.0,
+      "special_price": 425.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

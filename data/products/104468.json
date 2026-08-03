@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104468",
+    "sku": "ECGHDJGLO",
+    "name": "Adata UC310 ECO 64GB USB 3.2 Pen Drive",
+    "slug": "adata-uc310-eco-64gb-usb-3-2-pen-drive",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/e/ueco--25-8-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 700.0,
+    "special_price": 630.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 700.0,
+      "special_price": 630.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:38"
+    }
+  ]
+}

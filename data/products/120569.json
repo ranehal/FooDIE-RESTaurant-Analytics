@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120569",
+    "sku": "HPIT319JNN",
+    "name": " HP Ink Tank 319 (Z6Z13A) Multifunction Color Printer",
+    "slug": "hp-ink-tank-319-z6z13a-multifunction-color-printer",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/a/tank_319_9-6-26_1_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 16038.0,
+    "special_price": 14580.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16038.0,
+      "special_price": 14580.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:55"
+    }
+  ]
+}

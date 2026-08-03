@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113761",
+    "sku": "H32K85FXHRB",
+    "name": "Haier 32 Inch Bezel Less Google TV (H32K85GX) ",
+    "slug": "haier-32-inch-bezel-less-google-tv-h32k85fx",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-32-inch-bezel-less-google-tv-_h32k85gx_-7-30-26-1.jpg",
+    "unit": "g",
+    "unit_value": 85.0,
+    "price": 27900.0,
+    "special_price": 20990.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 27900.0,
+      "special_price": 20990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:28"
+    }
+  ]
+}

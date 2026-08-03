@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117099",
+    "sku": "APA12TTZ",
+    "name": "Awei 30000mAh 22.5W Fast Charging Power Bank (PA-12)",
+    "slug": "awei-30000mah-22-5w-fast-charging-power-bank-pa-12",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/w/awei-pa-12-10-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2450.0,
+    "special_price": 2199.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2450.0,
+      "special_price": 2199.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:30"
+    }
+  ]
+}

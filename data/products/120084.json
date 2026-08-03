@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120084",
+    "sku": "I60WTCICE",
+    "name": "ICE 60W Type-C to Type-C Data Cable",
+    "slug": "ice-60w-type-c-to-type-c-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/-/c-to-c-14-5-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 699.0,
+    "discount": 42.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:24"
+    }
+  ]
+}

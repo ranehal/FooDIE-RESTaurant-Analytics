@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115745",
+    "sku": "WSIRRP12JWLT",
+    "name": "Walton 1 Ton Riverine Prime Intelligent Inverter Air Conditioner (WSI-RIVERINE (PRIME)-12J)",
+    "slug": "walton-1-ton-riverine-inverter-air-conditioner-wsi-riverine-prime-12j",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/s/wsi-riverine-_prime_-18m-7-6-26-1_1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 52990.0,
+    "special_price": 39690.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52990.0,
+      "special_price": 39690.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:21"
+    }
+  ]
+}

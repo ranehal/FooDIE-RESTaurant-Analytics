@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100321",
+    "sku": "MMG75FW1KSE",
+    "name": "Mango 75 Inch Borderless 4K UHD LED Smart TV (MG75FW1)",
+    "slug": "mango-75-inch-borderless-4k-uhd-led-smart-tv-mg75fw1",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg75fw1-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 149500.0,
+    "special_price": 122900.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 149500.0,
+      "special_price": 122900.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

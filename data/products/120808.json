@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120808",
+    "sku": "HA7010W7WMHAO",
+    "name": "Hafele Amara 7010W Front Load 7 kg Washing Machine",
+    "slug": "hafele-amara-7010w-front-load-7-kg-washing-machine",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/hafele-amara-16-6-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 7.0,
+    "price": 59600.0,
+    "special_price": 56020.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59600.0,
+      "special_price": 56020.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

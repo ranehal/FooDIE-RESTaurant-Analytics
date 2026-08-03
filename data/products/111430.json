@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111430",
+    "sku": "B9736XBSGB",
+    "name": "Beko 9Kg Front Loading Washing Machine (BOWM-WCV9736XB0M)",
+    "slug": "beko-9kg-front-loading-washing-machine-bowm-wcv9736xb0m",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/e/beko-9kg-front-loading-washing-machine-_bowm-wcv9736xb0m_-6-6-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 72490.0,
+    "special_price": 57990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72490.0,
+      "special_price": 57990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

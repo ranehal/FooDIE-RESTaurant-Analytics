@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108862",
+    "sku": "SMFAIC128DFMPCSSMT",
+    "name": "SMART FlairSuite AIO Intel Core i5-1235U 8GB DDR4 512GB SSD 23.8\u2033 FHD Mini PC (SUFlairSuite5.8.512.23.8)",
+    "slug": "smart-flairsuite-aio-intel-core-i5-1235u-8gb-ddr4-512gb-ssd-23-8-fhd-mini-pc-suflairsuite5-8-512-23-8",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smart-flairsuite-aio-_suflairsuite3.8.512.23.8__1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 64050.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 64050.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

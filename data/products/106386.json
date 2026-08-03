@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106386",
+    "sku": "SWW80AGAS21AXLPSBN",
+    "name": "Samsung 8Kg Front Load Washing Machine (WW80AGAS21AXLP)",
+    "slug": "samsung-8kg-front-loading-washing-machine-ww80agas21axlp",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/w/ww80agas21axlp-20-11-24_1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 76900.0,
+    "special_price": 64690.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 76900.0,
+      "special_price": 64690.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

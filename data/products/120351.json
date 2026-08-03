@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120351",
+    "sku": "CAP3600IGLO",
+    "name": "Cudy AP3600 Indoor BE3600 Wi-Fi 7 Access Point",
+    "slug": "cudy-ap3600-indoor-be3600-wi-fi-7-access-point",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/ap3600-indoor-20-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11400.0,
+    "special_price": 10450.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11400.0,
+      "special_price": 10450.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:58"
+    }
+  ]
+}

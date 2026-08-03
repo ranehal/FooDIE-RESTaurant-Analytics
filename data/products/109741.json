@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109741",
+    "sku": "IPPM411256GBWIFI",
+    "name": "Apple iPad Pro M4 11 Inch 256GB (Wi-Fi)",
+    "slug": "ipad-pro-m4-11-inch-256gb-wi-fi",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/4/m4-11-inch-256gb-5-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121079",
+    "sku": "CLBP171DNPNW",
+    "name": "Canon ImageClass LBP171DN Single Function Mono Laser Printer (Toner Model- CRG 072)",
+    "slug": "canon-imageclass-lbp171dn-single-function-mono-laser-printer-toner-model-crg-072",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/b/lbp171dn-1-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 31750.0,
+    "special_price": 26750.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 31750.0,
+      "special_price": 26750.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:45"
+    }
+  ]
+}

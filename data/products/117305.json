@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117305",
+    "sku": "SS4GBSMOV",
+    "name": "Anker Soundcore Select 4 Go Bluetooth Speaker",
+    "slug": "anker-soundcore-select-4-go-bluetooth-speaker",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/e/select-4-go-4-6-26-1_1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 3499.0,
+    "special_price": 2699.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3499.0,
+      "special_price": 2699.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:30"
+    }
+  ]
+}

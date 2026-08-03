@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121383",
+    "sku": "T12085211051WOG",
+    "name": "Tissot Seastar 1000 GMT 40mm Men's Watch (T120.852.11.051.00)",
+    "slug": "tissot-seastar-1000-gmt-40mm-men-s-watch-t120-852-11-051-00",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/e/seastar-13-7-26.jpg",
+    "unit": "g",
+    "unit_value": 1000.0,
+    "price": 120000.0,
+    "special_price": 86000.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 120000.0,
+      "special_price": 86000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:26"
+    }
+  ]
+}

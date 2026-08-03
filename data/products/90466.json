@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "90466",
+    "sku": "HW80BP12929S6HRB",
+    "name": "Haier 8Kg Front Load Washing Machine (HW80-BP12929S6)",
+    "slug": "haier-8-kg-front-loading-washing-machine-hw80-bp12929s6",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hw80-bp12929s6-6-7-25.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 62900.0,
+    "special_price": 52990.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 62900.0,
+      "special_price": 52990.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:58"
+    }
+  ]
+}

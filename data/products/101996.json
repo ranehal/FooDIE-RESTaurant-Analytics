@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101996",
+    "sku": "GDRSFA19AMG",
+    "name": "Awei Colorful Light Portable Bluetooth Speaker (KA19)",
+    "slug": "awei-colorful-light-portable-bluetooth-speaker-ka19",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/a/ka19--4-5-24---2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2420.0,
+    "special_price": 2139.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2420.0,
+      "special_price": 2139.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

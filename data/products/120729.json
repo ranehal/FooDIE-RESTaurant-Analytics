@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120729",
+    "sku": "NCP071JNN",
+    "name": "Mikuso Patu-1 RGB Laptop Cooler Pad (NCP-071)",
+    "slug": "mikuso-patu-1-rgb-laptop-cooler-pad-ncp-071",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_85__1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1419.0,
+    "special_price": 1290.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1419.0,
+      "special_price": 1290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

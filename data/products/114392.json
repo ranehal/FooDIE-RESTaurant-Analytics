@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "114392",
+    "sku": "VR20MACSTI",
+    "name": "VOLTME Revo 20 Mini PD 20W US Fast Charging Adapter with Type-C to Lightning Cable",
+    "slug": "voltme-revo-20-mini-pd-20w-us-fast-charging-adapter-with-type-c-to-lightning-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/voltme-revo-20-mini-9-12-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 1549.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1549.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118815",
+    "sku": "XFG08XOO",
+    "name": "XO\u2011FG08 Neck & Shoulder Handheld Massager",
+    "slug": "xo-fg08-neck-shoulder-handheld-massager",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/g/fg08-25-april-2026-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5125.0,
+    "special_price": 3960.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5125.0,
+      "special_price": 3960.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

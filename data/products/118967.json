@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118967",
+    "sku": "TW4B309JHSP",
+    "name": "Timex Expedition Scout Men\u2019s Watch (TW4B340009J)",
+    "slug": "timex-expedition-scout-men-s-watch-tw4b340009j",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw4b340009j-27-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11537.0,
+    "special_price": 10032.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11537.0,
+      "special_price": 10032.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:46"
+    }
+  ]
+}

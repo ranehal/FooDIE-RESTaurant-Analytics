@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112009",
+    "sku": "RW5LIOT",
+    "name": "Realme Buds 5 Lite Bluetooth Neckband",
+    "slug": "realme-buds-wireless-5-lite",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/realme-buds-wireless-5-8-3-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2990.0,
+    "special_price": 2349.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2990.0,
+      "special_price": 2349.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:46"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109941",
+    "sku": "R14T5G8GB256GB",
+    "name": "realme 14T 5G 26GB (8GB+18GB)/256GB",
+    "slug": "realme-14t-5g-26gb-8gb-18gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/realme-14t-5g-8gb-256gb-5-23-26-1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:08:05"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115471",
+    "sku": "TSGO34GB64GB",
+    "name": "TECNO SPARK Go 3 4GB/64GB",
+    "slug": "tecno-spark-go-3-4gb-64gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spark-go-3-4gb-64gb-2-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:07:59"
+    }
+  ]
+}

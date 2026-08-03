@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92066",
+    "sku": "HSUINVTCHRB",
+    "name": "Haier 1 Ton CleanCool Inverter Air Conditioner [HSU-12CleanCool:(INV)(Pro)]",
+    "slug": "haier-1-ton-cleancool-inverter-air-conditioner-hsu-12cleancool",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-1-ton-cleancool--7-6-26_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 57990.0,
+    "special_price": 42990.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57990.0,
+      "special_price": 42990.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119509",
+    "sku": "SA378GB128GB",
+    "name": "Samsung Galaxy A37 5G 8GB/128GB",
+    "slug": "samsung-galaxy-a37-5g-8gb-128gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/galaxy-a37-5g-8gb-1-8-26.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 60499.0,
+    "special_price": 53999.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 60499.0,
+      "special_price": 53999.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:49"
+    }
+  ]
+}

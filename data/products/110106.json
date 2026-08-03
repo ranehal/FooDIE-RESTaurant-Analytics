@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110106",
+    "sku": "CHARGC3BPTC",
+    "name": "CHARG 1m USB to Micro-USB Data Cable (C-3B)",
+    "slug": "charg-1m-usb-to-micro-usb-data-cable-c-3b",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/cable-19-5-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 175.0,
+    "special_price": 145.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 175.0,
+      "special_price": 145.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:52"
+    }
+  ]
+}

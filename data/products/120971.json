@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120971",
+    "sku": "WD215I10JNN",
+    "name": "Walton CiNEXA  21.45 inch 100Hz FDH IPS Monitor (WD215I10)",
+    "slug": "walton-cinexa-21-45-inch-100hz-fdh-ips-monitor-wd215i10",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/d/wd215i10-29-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10990.0,
+    "special_price": 9990.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10990.0,
+      "special_price": 9990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

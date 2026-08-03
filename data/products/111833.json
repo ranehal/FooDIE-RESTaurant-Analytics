@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111833",
+    "sku": "A7RTX3050GLCMB",
+    "name": "Acer Aspire 7 15.6\u2033 FHD 144Hz Core i5-13420H 8GB RAM 512GB SSD RTX 3050 6GB Graphics Gaming Laptop",
+    "slug": "acer-aspire-7-15-6-fhd-144hz-core-i5-13420h-8gb-ram-512gb-ssd-rtx-3050-6gb-graphics-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/aspire-7-27-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 95000.0,
+    "special_price": 91000.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 95000.0,
+      "special_price": 91000.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

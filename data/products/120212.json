@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120212",
+    "sku": "CSM10GSAGLO",
+    "name": "Cudy 10G SFP+ Single-Mode Optical Module Transceiver (SM10GSA-10)",
+    "slug": "cudy-10g-sfp-single-mode-optical-module-transceiver-sm10gsa-10",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/sm10gsa-10-18-may-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 10.0,
+    "price": 1300.0,
+    "special_price": 1200.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1300.0,
+      "special_price": 1200.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:01"
+    }
+  ]
+}

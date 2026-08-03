@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121422",
+    "sku": "HL10MWMRNG",
+    "name": "Hitachi 10Kg Top Loading Washing Machine (LTL 10MV00 GG)",
+    "slug": "hitachi-10kg-top-loading-washing-machine-ltl-10mv00-gg",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltl-10mv00-gg-14-july-2026-1.jpg",
+    "unit": "kg",
+    "unit_value": 10.0,
+    "price": 61900.0,
+    "special_price": 48990.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 61900.0,
+      "special_price": 48990.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

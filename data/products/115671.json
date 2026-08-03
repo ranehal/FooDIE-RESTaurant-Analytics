@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115671",
+    "sku": "HHSU18WHRB",
+    "name": "Haier 1.5 Ton WifiCool Inverter Air Conditioner [HSU-18WifiCool(INV) (3DF) (QCG)]",
+    "slug": "haier-1-5-ton-wificool-inverter-air-conditioner-hsu-18wificool-inv-3df-qcg",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-1.5-ton-wificool-7-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 75990.0,
+    "special_price": 53990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 75990.0,
+      "special_price": 53990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:32"
+    }
+  ]
+}

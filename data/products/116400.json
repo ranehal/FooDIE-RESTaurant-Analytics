@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "116400",
+    "sku": "SK65XR50SSO",
+    "name": "Sony Bravia 5 65 Inch Mini LED 4K\u00a0Ultra HD Smart Google TV (K-65XR50)",
+    "slug": "sony-bravia-5-65-inch-mini-led-4k-smart-google-tv-k-65xr50",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/-/k-65xr50-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 415900.0,
+    "special_price": 294990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 415900.0,
+      "special_price": 294990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:25"
+    }
+  ]
+}

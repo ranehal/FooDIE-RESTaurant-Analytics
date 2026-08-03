@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "89597",
+    "sku": "MSIGF66CMB",
+    "name": "MSI Katana GF66 12UC 12th Gen i7-12650H 15.6\u201d FHD 8GB RAM 512GB SSD RTX3050 4GB Windows 11 Gaming Laptop",
+    "slug": "msi-katana-gf66-12uc-12th-gen-i7-12700h-15-6-fhd-8gb-ram-512gb-ssd-rtx3050-4gb-windows-11-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/s/msc-2121.jpg",
+    "unit": "g",
+    "unit_value": 11.0,
+    "price": 152900.0,
+    "special_price": 134000.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 152900.0,
+      "special_price": 134000.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:35"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120128",
+    "sku": "CRE300GLO",
+    "name": "Cudy N300 300Mbps Mesh Wi-Fi Range Extender (RE300)",
+    "slug": "cudy-n300-300mbps-mesh-wi-fi-range-extender-re300",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/re300-16-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1750.0,
+    "special_price": 1600.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1750.0,
+      "special_price": 1600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

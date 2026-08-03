@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120576",
+    "sku": "BQ1333JNN",
+    "name": "Asus VivoBook Go 15 E1504FA (BQ1333) Ryzen 5-7520U 2.80 to 4.30 GHz, 8GB, 512GB SSD, 15.6 Inch FHD Laptop",
+    "slug": "asus-vivobook-go-15-e1504fa-bq1333-ryzen-5-7520u-2-80-to-4-30-ghz-8gb-512gb-ssd-15-6-inch-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/_/n_1.png",
+    "unit": "g",
+    "unit_value": 4.3,
+    "price": 80850.0,
+    "special_price": 73500.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 80850.0,
+      "special_price": 73500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:11"
+    }
+  ]
+}

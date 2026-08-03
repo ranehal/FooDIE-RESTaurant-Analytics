@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118975",
+    "sku": "BJ715EHSP",
+    "name": "Citizen Promaster\u00a0Eco-Drive Men\u2019s Watch (BJ7129-05E)",
+    "slug": "citizen-promaster-eco-drive-men-s-watch-bj7129-05e",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/j/bj7129-05e-27-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 55062.0,
+    "special_price": 47880.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 55062.0,
+      "special_price": 47880.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:46"
+    }
+  ]
+}

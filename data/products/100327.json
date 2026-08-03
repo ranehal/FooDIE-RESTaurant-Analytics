@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100327",
+    "sku": "MMG55FG1KSE",
+    "name": "Mango 55 Inch Bezel-Less 4K UHD Google TV (MG55FG1)",
+    "slug": "mango-55-inch-bezel-less-4k-uhd-google-tv-mg55fg1",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg55fg1-5-july-2026_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 74990.0,
+    "special_price": 58900.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 74990.0,
+      "special_price": 58900.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

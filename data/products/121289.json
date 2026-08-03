@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121289",
+    "sku": "TW2W10UJWOG",
+    "name": "Timex Marlin Men Silver-Tone Analog Round Stainless Steel Dial Watch (TW2W10400UJ)",
+    "slug": "timex-marlin-men-silver-tone-analog-round-stainless-steel-dial-watch-tw2w10400uj",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw2w10400uj-9-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 29000.0,
+    "special_price": 20300.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 29000.0,
+      "special_price": 20300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "114576",
+    "sku": "HH75M80FUXHRB",
+    "name": "Haier 75 Inch Mini LED 4K UHD Google TV (H75M80FUX)",
+    "slug": "haier-75-inch-mini-led-4k-uhd-google-tv-h75m80fux",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/7/h75m80fux-13-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 197900.0,
+    "special_price": 155900.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 197900.0,
+      "special_price": 155900.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:28"
+    }
+  ]
+}

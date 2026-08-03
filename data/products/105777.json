@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105777",
+    "sku": "X6A1TATCXGO",
+    "name": "Xiaomi 6A Type-A to Type-C Cable (1m)",
+    "slug": "xiaomi-6a-1m-type-a-to-type-c-fast-charging-data-cable-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-6a-9-3-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1099.0,
+    "special_price": 999.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1099.0,
+      "special_price": 999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

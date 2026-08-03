@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118824",
+    "sku": "AC0P10BHSP",
+    "name": "Orient Bambino 2nd Generation Version-4 Grey Dial Men's Watch (RA-AC0P04Y10B)",
+    "slug": "orient-bambino-2nd-generation-version-4-grey-dial-men-s-watch-ra-ac0p04y10b",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/ra-ac0p04y10b-25-4-26.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 45885.0,
+    "special_price": 39900.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 45885.0,
+      "special_price": 39900.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115385",
+    "sku": "SQA85QN950FRSERSBN",
+    "name": "Samsung 85 Inch NEO QLED 8K Smart TV (QA85QN950FRSER)",
+    "slug": "samsung-85-inch-neo-qled-8k-smart-tv-qa85qn950frser",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/a/qa85qn950frser-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1199900.0,
+    "special_price": 922990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1199900.0,
+      "special_price": 922990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:25"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118897",
+    "sku": "FS5447HSP",
+    "name": "Fossil Minimalist Two-Hand Black Leather Men\u2019s Watch (FS5447)",
+    "slug": "fossil-minimalist-two-hand-black-leather-men-s-watch-fs5447",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/s/fs5447-26-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15732.0,
+    "special_price": 13680.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15732.0,
+      "special_price": 13680.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:51"
+    }
+  ]
+}

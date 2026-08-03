@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112047",
+    "sku": "HPFD0268TUSER",
+    "name": "HP 15.6 inch 15-fd0268TU (9X4G8PA) Intel 13th Gen Core i5-1334U 8GB RAM 512GB SSD Laptop",
+    "slug": "hp-15-6-inch-15-fd0268tu-9x4g8pa-intel-13th-gen-core-i5-1334u-8gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/d/fd0268tu-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 78100.0,
+    "special_price": 75100.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 78100.0,
+      "special_price": 75100.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

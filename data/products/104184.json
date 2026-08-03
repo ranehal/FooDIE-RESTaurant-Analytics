@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104184",
+    "sku": "WWMATV90WLT",
+    "name": "Walton 9KG Automatic Top Load Washing Machine (WWM-ATV90)",
+    "slug": "walton-9kg-automatic-top-loading-washing-machine-wwm-atv90",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/w/wwm-atv90-4gb-16-6-26.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 37900.0,
+    "special_price": 33490.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 37900.0,
+      "special_price": 33490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:55"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118046",
+    "sku": "MSE18CRNEHT",
+    "name": "Midea 1.5 Ton Flash Cool Inverter Air Conditioner (MSE-18CRN)",
+    "slug": "midea-1-5-ton-flash-cool-inverter-air-conditioner-mse-18crn",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/midea-1.5-ton-16-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 71900.0,
+    "special_price": 47690.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 71900.0,
+      "special_price": 47690.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:30"
+    }
+  ]
+}

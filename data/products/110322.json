@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110322",
+    "sku": "W7WWMATP70WLT",
+    "name": "Walton 7Kg Top Load Washing Machine (WWM-ATP70)",
+    "slug": "walton-7kg-top-loading-washing-machine-wwm-atp70",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-7kg-top-load-washing-machine-_wwm-atp70_-7-30-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 7.0,
+    "price": 23900.0,
+    "special_price": 19690.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23900.0,
+      "special_price": 19690.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

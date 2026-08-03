@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118337",
+    "sku": "GAB27AWOG",
+    "name": "Casio 2100 Series Analog-Digital Watch (GA-B2100FC-7A)",
+    "slug": "casio-analog-digital-2100-series-ga-b2100fc-7a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/G/A/GA-B2100FC-7A.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26000.0,
+    "special_price": 19760.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26000.0,
+      "special_price": 19760.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:55"
+    }
+  ]
+}

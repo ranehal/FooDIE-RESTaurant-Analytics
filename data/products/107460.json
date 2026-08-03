@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107460",
+    "sku": "WDC11704RGDWPO",
+    "name": "Whirlpool 11Kg Washer & Dryer Front Load Washing Machine (WDC11704RG-D)",
+    "slug": "whirlpool-11kg-washer-dryer-front-loading-washing-machine-wdc11704rg-d",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/d/wdc11704rg-1-4-2-61.jpg",
+    "unit": "kg",
+    "unit_value": 11.0,
+    "price": 82990.0,
+    "special_price": 66990.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 82990.0,
+      "special_price": 66990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121572",
+    "sku": "WBX710UWDL",
+    "name": "Walton Passion 15.6\u2033 FHD Intel Core i7-10510U 8GB RAM 512GB SSD Laptop (BX710U)",
+    "slug": "walton-passion-15-6-fhd-intel-core-i7-10510u-8gb-ram-512gb-ssd-laptop-bx710u",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/x/bx510u-19-7-26_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59990.0,
+    "special_price": 53775.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59990.0,
+      "special_price": 53775.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:11"
+    }
+  ]
+}

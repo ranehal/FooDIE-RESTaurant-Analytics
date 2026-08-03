@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121743",
+    "sku": "KEHS007WMNC",
+    "name": "Decakila 1600W Hair Dryer (KEHS007W)",
+    "slug": "decakila-1600w-hair-dryer-kehs007w",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/r/dryer-7-26-4-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2530.0,
+    "special_price": 2290.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2530.0,
+      "special_price": 2290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:22"
+    }
+  ]
+}

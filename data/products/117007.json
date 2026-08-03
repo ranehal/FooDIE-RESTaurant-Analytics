@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117007",
+    "sku": "XPB2020XGO",
+    "name": "Xiaomi Power Bank 20000mAh (Integrated Cable) GL\u00a0(PB2020MI)",
+    "slug": "xiaomi-20000mah-22-5w-fast-charging-power-bank-with-built-in-cable-pb2020mi",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb2020mi-8-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2699.0,
+    "special_price": 2399.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2699.0,
+      "special_price": 2399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:30"
+    }
+  ]
+}

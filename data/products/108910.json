@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108910",
+    "sku": "QA155FG1TBQBS",
+    "name": "Qbits Alpha N95 Intel Processor N95 15.6\u201d FHD 16GB RAM 1TB M.2 Western Digital NVMe SSD Windows 11 Pro Laptop (A15-5FG)",
+    "slug": "qbits-alpha-n95-intel-processor-n95-15-6-fhd-16gb-ram-1tb-m-2-western-digital-nvme-ssd-windows-11-pro-laptop-a15-5fg",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/l/alpha-n95-8-12-24_1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

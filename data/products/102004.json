@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102004",
+    "sku": "GDHSFP39KTTZ",
+    "name": "Awei 20W PD 10000mAh Magnetic Wireless Power Bank (P39K)",
+    "slug": "awei-20w-pd-magnetic-wireless-power-bank-p39k",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/3/p39k-25-8-24-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2899.0,
+    "special_price": 2399.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2899.0,
+      "special_price": 2399.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

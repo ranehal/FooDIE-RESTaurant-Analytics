@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115640",
+    "sku": "HHSU19HRB",
+    "name": "Haier 1.6 Ton HeatCool Inverter Pro Wi-Fi Control Air Conditioner [HSU-19HeatCool (INV)(Pro)]",
+    "slug": "haier-1-6-ton-heatcool-inverter-pro-wi-fi-control-air-conditioner-hsu-19heatcool-inv-pro",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/s/hsu-19heatcool-_inv_pro_-14-6-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 78990.0,
+    "special_price": 62300.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 78990.0,
+      "special_price": 62300.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:32"
+    }
+  ]
+}

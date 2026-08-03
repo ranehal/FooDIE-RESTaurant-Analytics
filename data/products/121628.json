@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121628",
+    "sku": "M24K410GEFCMST",
+    "name": "Minister Split 2 Ton Inverter Air Conditioner (INV-M24K410GE-FC)",
+    "slug": "minister-split-2-ton-inverter-air-conditioner-inv-m24k410ge-fc",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mini3-21-7-26.jpg",
+    "unit": "g",
+    "unit_value": 410.0,
+    "price": 95688.0,
+    "special_price": 60990.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 95688.0,
+      "special_price": 60990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:21"
+    }
+  ]
+}

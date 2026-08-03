@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118083",
+    "sku": "ASM3407HAGLO",
+    "name": "Asus Vivobook S14 14\" Ryzen 5 220 Processor 16GB RAM 1TB SSD Laptop (M3407HA-LY048W)",
+    "slug": "asus-vivobook-s14-14-ryzen-5-220-processor-16gb-ram-1tb-ssd-laptop-m3407ha-ly048w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/1/s14-_m3407ha-ly048w_-9-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 111000.0,
+    "special_price": 109140.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 111000.0,
+      "special_price": 109140.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

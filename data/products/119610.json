@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119610",
+    "sku": "XPB2067XGO",
+    "name": "Xiaomi 67W Power Bank 20000mAh (Integrated Cable) (PB2067)",
+    "slug": "xiaomi-67w-power-bank-20000mah-integrated-cable-pb2067",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb2067-28-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4999.0,
+    "special_price": 4499.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4999.0,
+      "special_price": 4499.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:24"
+    }
+  ]
+}

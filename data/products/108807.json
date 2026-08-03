@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108807",
+    "sku": "SMF3G12SSMT",
+    "name": "SMART Flairedge Intel Core i3 12th Gen 15.6\u2033 8GB RAM 512GB SSD FHD Silver Laptop (i3G12)- Silver",
+    "slug": "smart-flairedge-intel-core-i3-12th-gen-15-6-8gb-ram-512gb-ssd-fhd-silver-laptop-i3g12-silver",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/i/_i3g12-15.6_-silver_-17-03-25---1.jpg",
+    "unit": "g",
+    "unit_value": 3.0,
+    "price": 47250.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 47250.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

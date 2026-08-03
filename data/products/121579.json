@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121579",
+    "sku": "VAL695BADR",
+    "name": "Value Top 6D Wireless Mouse (MW695B) - Black",
+    "slug": "value-top-mw695b-black-6d-wireless-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/a/value-top-mw695b-black-6d-wireless-11739867509-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 780.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 780.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

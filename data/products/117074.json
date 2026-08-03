@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117074",
+    "sku": "HHW140HRB",
+    "name": "Haier 14Kg 3 Drum Front Loading Automatic Washing Machine (HW140-BD14697WU1)",
+    "slug": "haier-14kg-front-loading-automatic-washing-machine-hw140-bd14697wu1",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/w/hw140-bd14697wu1--12-4-26.jpg",
+    "unit": "kg",
+    "unit_value": 14.0,
+    "price": 179900.0,
+    "special_price": 170905.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 179900.0,
+      "special_price": 170905.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

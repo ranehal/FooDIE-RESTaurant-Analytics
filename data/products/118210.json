@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118210",
+    "sku": "UN.31ZSI.01YJNN",
+    "name": "Acer Aspire Lite AL15-41 (UN.31ZSI.01Y)\u00a015.6\" FHD AMD Ryzen 5 5625U 8GB RAM\u00a0512GB SSD\u00a0Laptop",
+    "slug": "acer-aspire-lite-al15-41-un-31zsi-01y-15-6-fhd-amd-ryzen-5-5625u-8gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/v/dvndv.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 76230.0,
+    "special_price": 69300.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 76230.0,
+      "special_price": 69300.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:13"
+    }
+  ]
+}

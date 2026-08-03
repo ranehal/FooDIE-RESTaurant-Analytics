@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121391",
+    "sku": "SPB501J1WOG",
+    "name": "Seiko Prospex SPB501J1 Heritage Diver PADI Special Edition Men's Watch - Green",
+    "slug": "seiko-prospex-spb501j1-heritage-diver-padi-special-edition-men-s-watch-green",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spb501j1-13-july-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350000.0,
+    "special_price": 245000.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350000.0,
+      "special_price": 245000.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:26"
+    }
+  ]
+}

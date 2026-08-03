@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121085",
+    "sku": "HW5ULSGOA",
+    "name": "Honor Watch 5 Ultra Smartwatch with GPS (Leather Strap) (46mm)",
+    "slug": "honor-watch-5-ultra-smartwatch-with-gps-leather-strap-46mm",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/watch-5-ultra-leather-30-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 34999.0,
+    "special_price": 31999.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 34999.0,
+      "special_price": 31999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

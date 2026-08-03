@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106080",
+    "sku": "APHGBSSLCMB",
+    "name": "Acer Predator Helios Neo 16 16\u2019\u2019 WUXGA 8GB RAM 512GB SSD 6GB RTX4050 Gaming Laptop (PHN16)",
+    "slug": "acer-predator-helios-neo-16-16-wuxga-8gb-ram-512gb-ssd-6gb-rtx4050-gaming-laptop-phn16",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acer-3-11-24--1_1.jpg",
+    "unit": "g",
+    "unit_value": 4050.0,
+    "price": 161788.0,
+    "special_price": 153699.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 161788.0,
+      "special_price": 153699.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

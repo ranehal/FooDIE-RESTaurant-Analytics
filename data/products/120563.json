@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120563",
+    "sku": "SG2401FJNN",
+    "name": "Suirge 24 Inch 100Hz FHD Gaming Monitor (SG-2401F)",
+    "slug": "suirge-24-inch-100hz-fhd-gaming-monitor-sg-2401f",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/suirge-sg-2401f-24-inch-25-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15675.0,
+    "special_price": 14250.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15675.0,
+      "special_price": 14250.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:55"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101889",
+    "sku": "S55Q60CSBN",
+    "name": "Samsung 55 Inch QLED 4K Smart TV (55Q60C) (2023)",
+    "slug": "samsung-55-inch-q60c-qled-4k-smart-tv-55q60c-2023",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-55-inch-qled-4k-smart-tv-_55q60c_-26-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 165900.0,
+    "special_price": 101900.0,
+    "discount": 39.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 165900.0,
+      "special_price": 101900.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92844",
+    "sku": "MSIGF63CMB",
+    "name": "MSI GF63 Thin 11SC i7-11800H 15.6\u2033 FHD 8GB RAM 512GB SSD Gaming Laptop (2021)",
+    "slug": "msi-gf63-thin-11sc-i7-11800h-gaming-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/s/msi-thin-gf63-10uc-13.4.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 104900.0,
+    "special_price": 98900.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 104900.0,
+      "special_price": 98900.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

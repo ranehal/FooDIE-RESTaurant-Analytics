@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121238",
+    "sku": "GM5600YM8WOG",
+    "name": "Casio G-Shock G-Steel 5600 Series Resin Band Men\u2019s Watch (GM-5600YM-8)",
+    "slug": "casio-g-shock-g-steel-5600-series-resin-band-men-s-watch-gm-5600ym-8",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/m/gm-5600ym-8-8-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40000.0,
+    "special_price": 28000.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40000.0,
+      "special_price": 28000.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120547",
+    "sku": "R36MX2GDX",
+    "name": "R36 Max 2 Handheld Game Console with Wi-Fi",
+    "slug": "r36-max-2-handheld-game-console-with-wi-fi",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/e/He38ed2a507a7426d9f90e7cbb77b6721d.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8590.0,
+    "special_price": 7280.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8590.0,
+      "special_price": 7280.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:55"
+    }
+  ]
+}

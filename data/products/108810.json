@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108810",
+    "sku": "SM5G12SSMT",
+    "name": "SMART Flairedge Intel Core i5-1235U 8GB DDR4 512GB SSD 16\u2033 FHD IPS Laptop (i5G12)-Silver",
+    "slug": "smart-flairedge-intel-core-i5-1235u-8gb-ddr4-512gb-ssd-16-fhd-ips-laptop-i5g12-silver",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/i/_i5g12-15.jpg---2_1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 59325.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59325.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

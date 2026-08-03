@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115732",
+    "sku": "INE8GB256GB",
+    "name": "Infinix Note Edge 8GB/256GB",
+    "slug": "infinix-note-edge-8gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/o/note-edge-8gb-256gb-2-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 34999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 34999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:55"
+    }
+  ]
+}

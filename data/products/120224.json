@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120224",
+    "sku": "CPE10GGLO",
+    "name": "Cudy 10Gbps PCI-E Ethernet Adapter (PE10G)",
+    "slug": "cudy-10gbps-pci-e-ethernet-adapter-pe10g",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/e/pe10g-18-may-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 10.0,
+    "price": 10200.0,
+    "special_price": 9300.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10200.0,
+      "special_price": 9300.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:01"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115349",
+    "sku": "IS10X67253GB64GB",
+    "name": "Infinix Smart 10 3GB/64GB",
+    "slug": "infinix-smart-10-x6725-3gb-64gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smart-10-3gb-64gb-2-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:09"
+    }
+  ]
+}

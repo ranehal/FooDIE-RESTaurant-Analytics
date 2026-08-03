@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113782",
+    "sku": "ANXKHJSI005JNN",
+    "name": "Acer Aspire 5 5P-A515-58P-32E2 15.6\u201d FHD Intel 13th Gen i3-1305U Processor 8GB RAM 512GB SSD Laptop with Win 11 (NX.KHJSI.005)",
+    "slug": "acer-aspire-5-5p-a515-58p-32e2-15-6-fhd-intel-13th-gen-i3-1305u-processor-8gb-ram-512gb-ssd-laptop-with-win-11-nx-khjsi-005",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/x/nx-khjsi-005_29-10-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 71610.0,
+    "special_price": 65100.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 71610.0,
+      "special_price": 65100.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

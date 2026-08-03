@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120713",
+    "sku": "NCP062JNN",
+    "name": "Mikuso Nugts-1 Dual RGB Fan Laptop Cooler Pad (NCP-062)",
+    "slug": "mikuso-nugts-1-ncp-062-dual-rgb-fan-laptop-cooler-pad",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_81_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1540.0,
+    "special_price": 1400.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1540.0,
+      "special_price": 1400.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107454",
+    "sku": "HAT509MBT",
+    "name": "HTC Rechargeable Men\u2019s Beard Trimmer (AT-509)",
+    "slug": "htc-rechargeable-men-s-beard-trimmer-at-509",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/t/at-509-26-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1190.0,
+    "special_price": 585.0,
+    "discount": 51.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1190.0,
+      "special_price": 585.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:13"
+    }
+  ]
+}

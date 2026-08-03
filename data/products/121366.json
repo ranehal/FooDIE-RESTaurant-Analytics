@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121366",
+    "sku": "SPB543J1WOG",
+    "name": "Seiko Prospex SPB543J1 Limited Edition Men\u2019s Watch - Blue",
+    "slug": "seiko-prospex-spb543j1-limited-edition-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spb543j1-13-july-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 180000.0,
+    "special_price": 117000.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 180000.0,
+      "special_price": 117000.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

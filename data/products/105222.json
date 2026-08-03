@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105222",
+    "sku": "AFH5GRAHDJNN",
+    "name": "Asus VivoBook X515EA 15.6\" FHD Display i5-1135G7 4GB RAM 1TB HDD Windows 11 Laptop (BQ2313W)",
+    "slug": "asus-vivobook-x515ea-bq2313w-15-6-fhd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq---21-9-24---1.jpg",
+    "unit": "g",
+    "unit_value": 1135.0,
+    "price": 76800.0,
+    "special_price": 69825.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 76800.0,
+      "special_price": 69825.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

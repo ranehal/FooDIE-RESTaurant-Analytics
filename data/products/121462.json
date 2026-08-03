@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121462",
+    "sku": "ASCBG3ISCIL",
+    "name": "Anker soundcore Boom Go 3i Portable Bluetooth Speaker",
+    "slug": "anker-soundcore-boom-go-3i-portable-bluetooth-speaker",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boom-15-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8990.0,
+    "special_price": 6699.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8990.0,
+      "special_price": 6699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

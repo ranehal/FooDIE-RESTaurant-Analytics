@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102454",
+    "sku": "LG55QNED80RNG",
+    "name": "LG QNED 80 Series 55 Inch QNED 4K UHD LED Smart TV (55QNED80)",
+    "slug": "lg-qned80-55-inch-qned-4k-uhd-led-smart-tv-55qned80",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/55qned80-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 209900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 209900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:37"
+    }
+  ]
+}

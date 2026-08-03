@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "89652",
+    "sku": "SBKD55X75KSSO",
+    "name": "Sony Bravia 55 Inch 4K Ultra HD Smart HDR Google TV (KD-55X75K)",
+    "slug": "sony-bravia-55x75k-55-inch-4k-ultra-hd-smart-hdr-google-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/d/kd-55x75k-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 125900.0,
+    "special_price": 90990.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 125900.0,
+      "special_price": 90990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:45"
+    }
+  ]
+}

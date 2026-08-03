@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112716",
+    "sku": "L83D5002RLKSER",
+    "name": "Lenovo IdeaPad Pro 5 16\" Ryzen 7 8845HS 16GB RAM 512GB SSD 16AHP9 OLED Laptop- Arctic Grey (83D5002RLK)",
+    "slug": "lenovo-16-ryzen-7-8845hs-16gb-ram-512gb-ssd-ideapad-pro-5-16ahp9-oled-laptop-arctic-grey-83d5002rlk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/e/lenovo-ideapad-pro-5-10-9-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 166400.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 166400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

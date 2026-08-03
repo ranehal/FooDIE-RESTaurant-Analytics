@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120579",
+    "sku": "EB595WJNN",
+    "name": "Asus Vivobook Go 14 L1404FA (EB595W) AMD Ryzen 5 7520U 2.80GHz to 4.30GHz 16GB RAM 512GB SSD 14\"Inch FHD Display Laptop",
+    "slug": "asus-vivobook-go-14-l1404fa-eb595w-amd-ryzen-5-7520u-2-80ghz-to-4-30ghz-16gb-ram-512gb-ssd-14-inch-fhd-display-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/_/b.png",
+    "unit": "g",
+    "unit_value": 2.8,
+    "price": 105105.0,
+    "special_price": 95550.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 105105.0,
+      "special_price": 95550.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:11"
+    }
+  ]
+}

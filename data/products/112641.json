@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112641",
+    "sku": "LIS382XN006BLKSER",
+    "name": "Lenovo IdeaPad Slim 3 14AMN8 Ryzen 5 7520U Arctic Grey 16GB RAM 512GB SSD 14\" FHD Laptop (82XN006BLK)",
+    "slug": "lenovo-ideapad-slim-3-14amn8-ryzen-5-7520u-arctic-grey-16gb-ram-512gb-ssd-14-fhd-laptop-82xn006blk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/4/14abr8-1_3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 72600.0,
+    "special_price": 67500.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72600.0,
+      "special_price": 67500.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:21"
+    }
+  ]
+}

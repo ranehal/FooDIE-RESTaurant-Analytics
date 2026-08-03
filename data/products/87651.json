@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "87651",
+    "sku": "DDZLE43AS21XESQ",
+    "name": "Danaaz 43 Inch Android Smart LED TV (DZLE-43AS21X)",
+    "slug": "danaaz-43-android-smart-led-tv-dzle-43as21x",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/z/dzle-43as21x-6-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42900.0,
+    "special_price": 42490.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42900.0,
+      "special_price": 42490.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:45"
+    }
+  ]
+}

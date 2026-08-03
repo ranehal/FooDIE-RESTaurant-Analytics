@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109489",
+    "sku": "AMAM415I256VTE",
+    "name": "Apple MacBook Air M4 15 Inch 16GB/256GB",
+    "slug": "apple-macbook-air-m4-15-inch-16gb-256gb",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/air-m4-15-mn-27-4-25-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

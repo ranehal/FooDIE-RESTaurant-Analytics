@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121033",
+    "sku": "T55T6DTCL",
+    "name": "TCL 55T6D 55 Inch 4K QLED Google TV",
+    "slug": "tcl-55t6d-55-4k-qled-google-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/55t6d-30-6-26-5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 87990.0,
+    "special_price": 69990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 87990.0,
+      "special_price": 69990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

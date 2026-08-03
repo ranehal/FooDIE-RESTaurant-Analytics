@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121461",
+    "sku": "SHT9JPRNG",
+    "name": "Sharp 9Kg Heat Pump Front Loading Washer Dryer (KD-HT9JP-G)",
+    "slug": "sharp-9kg-heat-pump-front-loading-washer-dryer-kd-ht9jp-g",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/d/kd-ht9jp-g-15-july-2026-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 129900.0,
+    "special_price": 95990.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 129900.0,
+      "special_price": 95990.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

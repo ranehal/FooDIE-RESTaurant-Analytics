@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121231",
+    "sku": "GW95001WOG",
+    "name": "Casio Master of G\u2013Land Mudman Digital Watch for Men (GW-9500-1)",
+    "slug": "casio-master-of-g-land-mudman-digital-watch-for-men-gw-9500-1",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/9500-1-8-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 62000.0,
+    "special_price": 46500.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 62000.0,
+      "special_price": 46500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

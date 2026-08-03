@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121230",
+    "sku": "GBD2001A1WOG",
+    "name": "Casio G-Shock Digital Watch for Men (GBD-200-1A1)",
+    "slug": "casio-g-shock-digital-watch-for-men-gbd-200-1a1",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/a/1a1-8-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 28000.0,
+    "special_price": 22400.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 28000.0,
+      "special_price": 22400.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "98140",
+    "sku": "HPV151022GNI",
+    "name": "HP Victus 15-fa1022tx i5-13500H 15.6\u201d 16GB RAM 512GB SSD 13th Gen Gaming Laptop - Mica Silver ",
+    "slug": "hp-victus-15-fa1022tx-16gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/victus-laptop-21.12.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 134900.0,
+    "special_price": 116900.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 134900.0,
+      "special_price": 116900.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

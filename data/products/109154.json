@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109154",
+    "sku": "DFTKL12TV16WDDKO",
+    "name": "Daikin 1 Ton Inverter Split Type Air Conditioner (FTKL12TV16WD)",
+    "slug": "daikin-1-ton-inverter-split-type-air-conditioner-ftkl12tv16wd",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/daikin-ac-8-4-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 94900.0,
+    "special_price": 83590.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 94900.0,
+      "special_price": 83590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

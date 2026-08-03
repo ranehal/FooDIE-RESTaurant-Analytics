@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120648",
+    "sku": "MF880SJNN",
+    "name": "Jio JioFi LTE-Advanced MF880s 4G LTE WiFi Pocket Router",
+    "slug": "jio-jiofi-lte-advanced-mf880s-4g-lte-wifi-pocket-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/_/2_5.png",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 1837.0,
+    "special_price": 1670.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1837.0,
+      "special_price": 1670.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

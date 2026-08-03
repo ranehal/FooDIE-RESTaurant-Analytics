@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113798",
+    "sku": "AI5B1403CVASTR",
+    "name": "Asus ExpertBook B1 Core i5 13th Gen 512GB SSD 14\" FHD Laptop (B1403CVA)",
+    "slug": "asus-expertbook-b1-core-i5-13th-gen-512gb-ssd-14-fhd-laptop-b1403cva",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/1/b1403cva-10-20-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 82100.0,
+    "special_price": 78500.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 82100.0,
+      "special_price": 78500.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

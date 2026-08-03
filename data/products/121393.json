@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121393",
+    "sku": "SPB519J1WOG",
+    "name": "Seiko Prospex SPB519J1 Heritage Diver Men's Watch - Silver",
+    "slug": "seiko-prospex-spb519j1-heritage-diver-gmt-60th-anniversary-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/p/spb519j1-13-july-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350000.0,
+    "special_price": 245000.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350000.0,
+      "special_price": 245000.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:26"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "114998",
+    "sku": "L65NANO81TSARNG",
+    "name": "LG Nano81 65 Inch 4K UHD LED Smart TV (65NANO81TSA)",
+    "slug": "lg-nano81-65-inch-4k-uhd-led-smart-tv-65nano81tsa",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/5/65nano81tsa-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 185900.0,
+    "special_price": 157990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 185900.0,
+      "special_price": 157990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:28"
+    }
+  ]
+}

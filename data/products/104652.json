@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104652",
+    "sku": "XBHR7670CNIOT",
+    "name": "Xiaomi 3.5mm In-Ear Wired Earphone (BHR7670CN)-Black",
+    "slug": "xiaomi-basic-3-5mm-in-ear-wired-earphone-bhr7670cn",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/h/bhr7670cn-28-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 460.0,
+    "discount": 54.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 460.0,
+      "discount": 54.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

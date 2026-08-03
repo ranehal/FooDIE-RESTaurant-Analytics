@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120129",
+    "sku": "A4FG2300GLO",
+    "name": "A4Tech Fstyler FG2300 Air2 2.4G Wireless Keyboard and Mouse Combo",
+    "slug": "a4tech-fstyler-fg2300-air2-2-4g-wireless-keyboard-and-mouse-combo",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/g/fg2300-air2-16-5-26-1.jpg",
+    "unit": "g",
+    "unit_value": 2.4,
+    "price": 2699.0,
+    "special_price": 2300.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2699.0,
+      "special_price": 2300.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

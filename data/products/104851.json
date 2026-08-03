@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104851",
+    "sku": "S55DU8000SBN",
+    "name": "Samsung 55 Inch Class Crystal UHD 4K Smart TV (55DU8000)",
+    "slug": "samsung-55-inch-class-crystal-uhd-4k-smart-tv-du8000",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/55du8000-26-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 85900.0,
+    "special_price": 59990.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 85900.0,
+      "special_price": 59990.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:34"
+    }
+  ]
+}

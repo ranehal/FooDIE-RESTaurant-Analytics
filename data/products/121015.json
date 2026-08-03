@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121015",
+    "sku": "SK2632BRLMHS",
+    "name": "SKMEI 2632 Analog Digital Watch\u00a0for Men - Silver",
+    "slug": "skmei-2632-analog-digital-watches-for-man-s-silver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/6/66418.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1699.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1699.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120647",
+    "sku": "MF848JNN",
+    "name": "Ieasun MF848 4G MiFi SIM Pocket Router With 8000 mAh Power Bank",
+    "slug": "ieasun-mf848-4g-mifi-sim-pocket-router-with-8000-mah-power-bank",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/_/i.png",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 4510.0,
+    "special_price": 4100.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4510.0,
+      "special_price": 4100.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:55"
+    }
+  ]
+}

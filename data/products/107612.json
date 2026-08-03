@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107612",
+    "sku": "HWTJA8012USBD3HSO",
+    "name": "Hisense 8kg Top Load Washing Machine (WTJA8012US/BD3)-Silver ",
+    "slug": "hisense-8kg-top-load-washing-machine-wtja8012us-bd3-silver",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/t/wtja8012us-bd3-6-5-25.jpg_1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 31900.0,
+    "special_price": 26990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 31900.0,
+      "special_price": 26990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

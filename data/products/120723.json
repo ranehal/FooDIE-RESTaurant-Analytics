@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120723",
+    "sku": "NCP076JNN",
+    "name": "Mikuso Enjoy-6 Six RGB Fan Laptop Cooler Pad (NCP-076)",
+    "slug": "mikuso-enjoy-6-six-rgb-fan-laptop-cooler-pad-ncp-076",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_85_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1958.0,
+    "special_price": 1780.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1958.0,
+      "special_price": 1780.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

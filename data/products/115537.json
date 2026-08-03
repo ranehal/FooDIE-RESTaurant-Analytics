@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115537",
+    "sku": "AGHN223WGLO",
+    "name": "ASUS TUF Gaming A15 Ryzen 7 7445HS 8GB RAM 512GB SSD RTX 3050 Graphics Gaming Laptop (FA506NCG-HN223W)",
+    "slug": "asus-tuf-gaming-a15-ryzen-7-7445hs-8gb-ram-512gb-ssd-rtx-3050-graphics-gaming-laptop-fa506ncg-hn223w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fa506ncg-hn223w-19-1-26-1.jpg",
+    "unit": "g",
+    "unit_value": 3050.0,
+    "price": 121500.0,
+    "special_price": 119850.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 121500.0,
+      "special_price": 119850.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

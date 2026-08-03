@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121030",
+    "sku": "WWMAFB80WLT",
+    "name": "Walton 8Kg Front Loading Washing Machine (WWM-AFB80)",
+    "slug": "walton-8kg-front-loading-washing-machine-wwm-afb80",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-8kg-front-loading-washing-machine-_wwm-afb80_-6-30-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 8.0,
+    "price": 54990.0,
+    "special_price": 44690.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 54990.0,
+      "special_price": 44690.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:47"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106175",
+    "sku": "HC40K6FGHRB",
+    "name": "Haier Candy 40 Inch FHD Bezel-Less Android Smart TV (C40K6FG) ",
+    "slug": "haier-candy-40-inch-fhd-bezel-less-android-smart-tv-c40k6fg",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-candy-40-inch-fhd-bezel-less-android-smart-tv-_c40k6fg_-1-21-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 30900.0,
+    "special_price": 23990.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 30900.0,
+      "special_price": 23990.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:34"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107475",
+    "sku": "MSA18CRNEHT",
+    "name": "Midea 1.5 Ton Non-Inverter Air Conditioner (MSA18CRN)",
+    "slug": "midea-1-5-ton-non-inverter-air-conditioner-msa18crn",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/midea-1.5-ton-16-6-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 50000.0,
+    "special_price": 47290.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 50000.0,
+      "special_price": 47290.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

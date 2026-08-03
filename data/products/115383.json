@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115383",
+    "sku": "S50Q7FSBN",
+    "name": "Samsung 50 inch QLED 4K UHD Vision AI Smart TV (50Q7F)",
+    "slug": "samsung-50-inch-qled-4k-uhd-vision-ai-smart-tv-50q7f",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/0/50q7f-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 104900.0,
+    "special_price": 83490.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 104900.0,
+      "special_price": 83490.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:25"
+    }
+  ]
+}

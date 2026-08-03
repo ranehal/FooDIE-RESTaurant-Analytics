@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106512",
+    "sku": "HJ101BCIL",
+    "name": "Hoco Astute 22.5W 30000mAh Power Bank (J101B)",
+    "slug": "hoco-astute-22-5w-30000mah-power-bank-j101b",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/1/j101b-black-30-11-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3249.0,
+    "special_price": 3020.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3249.0,
+      "special_price": 3020.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:03"
+    }
+  ]
+}

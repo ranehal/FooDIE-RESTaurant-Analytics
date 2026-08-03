@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118463",
+    "sku": "V70FE5G12GB256GB",
+    "name": "vivo V70 FE 5G 12GB/256GB",
+    "slug": "vivo-v70-fe-5g-12gb-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vivo_v70-fe-5g-12gb256gb-28-26-1.jpg",
+    "unit": "g",
+    "unit_value": 5.0,
+    "price": 65999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 65999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:52"
+    }
+  ]
+}

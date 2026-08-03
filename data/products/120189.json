@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120189",
+    "sku": "CGS1005PGLO",
+    "name": "Cudy 5-Port Gigabit PoE+ Switch (GS1005P)",
+    "slug": "cudy-5-port-gigabit-poe-switch-gs1005p",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/s/gs1005p-18-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4200.0,
+    "special_price": 3900.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4200.0,
+      "special_price": 3900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:01"
+    }
+  ]
+}

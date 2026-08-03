@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121037",
+    "sku": "T75C6KSTCL",
+    "name": "TCL 75C6KS 75 Inch QD MiniLED 4K Google TV",
+    "slug": "tcl-75c6ks-75-qd-miniled-4k-google-tv",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/5/75c6ks-30-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 210990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 210990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:23"
+    }
+  ]
+}

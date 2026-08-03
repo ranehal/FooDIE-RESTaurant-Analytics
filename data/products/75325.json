@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "75325",
+    "sku": "KKM531MBT",
+    "name": "Kemei KM-531 Professional Hair Straightener",
+    "slug": "kemei-km-531-professional-hair-straightener",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kemei-km-531-professional-hair-straightener.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1290.0,
+    "special_price": 936.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1290.0,
+      "special_price": 936.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:17"
+    }
+  ]
+}

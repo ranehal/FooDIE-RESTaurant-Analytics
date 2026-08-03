@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "119705",
+    "sku": "OM100GDX",
+    "name": "OLAX 10000mAh Dual-Band Pocket Router & Power Bank (M100)",
+    "slug": "olax-10000mah-dual-band-pocket-router-power-bank-m100",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m100-22-jun-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4097.0,
+    "special_price": 3472.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4097.0,
+      "special_price": 3472.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

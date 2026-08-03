@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "99478",
+    "sku": "SAR12CVFAMWK1EFSBN",
+    "name": "Samsung 1 Ton WindFree Air Conditioner with AI Control & Digital Inverter (AR12CVFAMWK1EF)",
+    "slug": "samsung-1-ton-windfree-air-conditioner-ar12cvfamwk1ef",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-1-ton-with-ai-control-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 89900.0,
+    "special_price": 73900.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 89900.0,
+      "special_price": 73900.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

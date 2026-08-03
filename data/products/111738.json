@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111738",
+    "sku": "XMDY11EXXGO",
+    "name": "Xiaomi 33W Charging Combo (Type-A) (MDY-16-EF)",
+    "slug": "xiaomi-33w-2nd-generation-charger-kit-mdy-12-ea",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/3/33w-14-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1499.0,
+    "special_price": 1349.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1499.0,
+      "special_price": 1349.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:46"
+    }
+  ]
+}

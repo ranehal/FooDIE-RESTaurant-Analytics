@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106654",
+    "sku": "QLR716GB1TBQBS",
+    "name": "Qbits Lania R7 Mini PC AMD Ryzen 7 16GB DDR5 RAM 1TB M.2 Western Digital NVMe SSD Windows 11 Pro Desktop (L1EA0B)",
+    "slug": "qbits-lania-r7-16gb-ram-1tb-ssd-desktop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/b/qbits-lania-r7-8-12-24_1_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 68999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 68999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

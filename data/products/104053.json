@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "104053",
+    "sku": "65DM55UQBDWO",
+    "name": "DAEWOO 65 Inch 4K QLED\u00a0Android TV (65DM55UQB)",
+    "slug": "daewoo-65-inch-2gb-16gb-4k-qled-android-tv-65dm55uqb",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/5/65dm55uqb-7-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 109900.0,
+    "special_price": 95900.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 109900.0,
+      "special_price": 95900.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:37"
+    }
+  ]
+}

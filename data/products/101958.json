@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101958",
+    "sku": "H43U6F3HSO",
+    "name": "Hisense 43 Inch Quantum Dot 4K ULED Smart Dolby Atmos Dolby Vision Voice Control Google TV (43U6F3)",
+    "slug": "hisense-43-inch-quantum-dot-4k-uled-smart-google-tv-43u6f3",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/3/43u6f3-8-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 49900.0,
+    "special_price": 38999.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 49900.0,
+      "special_price": 38999.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:39"
+    }
+  ]
+}

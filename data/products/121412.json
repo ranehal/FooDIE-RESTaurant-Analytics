@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121412",
+    "sku": "WDQ16F24IWDL",
+    "name": "Walton\u00a0Cinexa 23.8\" 100Hz QHD\u00a0Monitor (WDQ16F24I)",
+    "slug": "walton-cinexa-23-8-100hz-qhd-monitor-wdq16f24i",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/d/wdq16f24i-14-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18900.0,
+    "special_price": 17350.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18900.0,
+      "special_price": 17350.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

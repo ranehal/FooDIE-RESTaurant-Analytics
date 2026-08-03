@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101415",
+    "sku": "H1T12TW4RYETACHSO",
+    "name": "Hisense 1 Ton Full DC Inverter Air Conditioner (AS-12TW4RYETD00BU)",
+    "slug": "hisense-1-ton-inverter-air-conditioner-as-12tw4ryetd00bu",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/2/12tw4ryetd00bu-main_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59900.0,
+    "special_price": 45490.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59900.0,
+      "special_price": 45490.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

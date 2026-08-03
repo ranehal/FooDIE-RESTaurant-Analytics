@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118161",
+    "sku": "AFX607VBLGLO",
+    "name": "Asus TUF Gaming F16 16\" FHD+ Intel Core 5-210H Processor 8GB RAM 512GB SSD RTX 3050A Gaming Laptop (FX607VB-RL012W)",
+    "slug": "asus-tuf-gaming-f16-16-fhd-intel-core-5-210h-processor-8gb-ram-512gb-ssd-rtx-3050a-gaming-laptop-fx607vb-rl012w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/x/fx607vb-rl012w-12-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 115990.0,
+    "special_price": 114240.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 115990.0,
+      "special_price": 114240.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:16"
+    }
+  ]
+}

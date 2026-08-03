@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108832",
+    "sku": "HYA24CIB3G1HYD",
+    "name": "Hyundai 2 Ton Inverter Air Conditioner (HYA-24CIB3 G1)",
+    "slug": "hyundai-2-ton-inverter-air-conditioner-hya-24cib3-g1",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/y/hyundai_base_image_ac_17-3-25_2.jpg",
+    "unit": "g",
+    "unit_value": 3.0,
+    "price": 94900.0,
+    "special_price": 68990.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 94900.0,
+      "special_price": 68990.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:38"
+    }
+  ]
+}

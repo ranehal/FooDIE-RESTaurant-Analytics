@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109178",
+    "sku": "DJTKJ21TV16UDDKO",
+    "name": "Daikin 1.8 Ton Inverter Split Type Air Conditioner (JTKJ21TV16UD)",
+    "slug": "daikin-1-8-ton-inverter-split-type-air-conditioner-jtkj21tv16ud",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/daikin-premium-ac-8-4-25_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 163900.0,
+    "special_price": 145990.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 163900.0,
+      "special_price": 145990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:35"
+    }
+  ]
+}

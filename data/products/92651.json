@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92651",
+    "sku": "SAR12TVHYDWK1FESBN",
+    "name": "Samsung 1 Ton Inverter Smart Air Conditioner with AI & Digital Inverter (AR12CVFYAWK1FE)",
+    "slug": "samsung-1-ton-inverter-step-up-air-conditioner-with-digital-inverter-ar12cvfyawk1fe",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-1-ton-ac-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 86900.0,
+    "special_price": 67900.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 86900.0,
+      "special_price": 67900.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

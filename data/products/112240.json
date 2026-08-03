@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112240",
+    "sku": "WPN41P14FWDL",
+    "name": "Walton Prelude N41 Pro 14\u2033 FHD Intel Celeron N4120 8GB RAM 256GB SSD Laptop",
+    "slug": "walton-prelude-n41-pro-14-fhd-intel-celeron-n4120-8gb-ram-256gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/4/n41-pro-15-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 33950.0,
+    "special_price": 31160.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 33950.0,
+      "special_price": 31160.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:24"
+    }
+  ]
+}

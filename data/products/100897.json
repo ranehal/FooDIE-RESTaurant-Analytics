@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100897",
+    "sku": "WFC105604RTDWPO",
+    "name": "Whirlpool 10.5KG Front Load Washing Machine (WFC105604RT-D)",
+    "slug": "whirlpool-10-5kg-front-loading-washing-machine-wfc105604rt-d",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wfc105604rt-d-23.3.24._1.jpg",
+    "unit": "kg",
+    "unit_value": 10.5,
+    "price": 77990.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 77990.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:58"
+    }
+  ]
+}

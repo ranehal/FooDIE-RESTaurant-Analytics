@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120136",
+    "sku": "CM33PRGLO",
+    "name": "Cudy M3000 3-Pack AX3000 Dual Band Wi-Fi 6 Mesh Router-White",
+    "slug": "cudy-m3000-3-pack-ax3000-dual-band-wi-fi-6-mesh-router-white",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/3/m3000-3-pack-16-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17000.0,
+    "special_price": 16500.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17000.0,
+      "special_price": 16500.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:05"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120761",
+    "sku": "EG2SW7SMT",
+    "name": "Edifier G2 S Wireless 7.1 Gaming Headset",
+    "slug": "edifier-g2-s-wireless-7-1-gaming-headset",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/2/g2-s-14-6-26.jpg",
+    "unit": "g",
+    "unit_value": 7.1,
+    "price": 6649.0,
+    "special_price": 5899.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6649.0,
+      "special_price": 5899.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

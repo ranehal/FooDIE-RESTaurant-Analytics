@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121668",
+    "sku": "MYSTSKLGDX",
+    "name": "Xiaomi Mi\u00a0360\u00b0 Motion Detection WiFi Security Camera (MJSXJ05CM)-\u00a0White",
+    "slug": "xiaomi-mi-mjsxj05cm-360-motion-detection-wifi-security-camera-white",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/M/J/MJSXJ05CM-500x500_jpg_2_.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4448.0,
+    "special_price": 2780.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4448.0,
+      "special_price": 2780.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

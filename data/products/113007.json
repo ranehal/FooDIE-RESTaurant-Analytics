@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113007",
+    "sku": "OOCD114CLMOV",
+    "name": "Oraimo RobustLine 3A 1m Type-C to Lightning Charging Cable (OCD-114CL)",
+    "slug": "oraimo-robustline-3a-1m-type-c-to-lightning-charging-cable-ocd-114cl",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/o/robustline-3a-1m-light-cable-2-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

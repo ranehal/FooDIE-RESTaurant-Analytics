@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113179",
+    "sku": "IP17P256GB",
+    "name": "iPhone 17 Pro 256GB (Australia Variant)",
+    "slug": "iphone-17-pro-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/p/iphone-17-pro-deep-blue-8-10-25.jpg_3_1_5.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 229999.0,
+    "special_price": 159999.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 229999.0,
+      "special_price": 159999.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:02"
+    }
+  ]
+}

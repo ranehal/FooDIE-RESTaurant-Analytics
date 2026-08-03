@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115504",
+    "sku": "AL1504FAGLO",
+    "name": "ASUS Vivobook Go 15 AMD Ryzen 5 7520U 16GB RAM 512GB SSD 15.6\" FHD Display Laptop (L1504FA-BQ2546W)",
+    "slug": "asus-vivobook-go-15-amd-ryzen-5-7520u-16gb-ram-512gb-ssd-15-6-fhd-display-laptop-l1504fa-bq2546w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l1504fa-bq2546w-19-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 80000.0,
+    "special_price": 78438.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 80000.0,
+      "special_price": 78438.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:19"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121333",
+    "sku": "CO010ADR",
+    "name": "COTECi Foldable Laptop Stand (52010) - Silver",
+    "slug": "coteci-52010-foldable-laptop-stand-aluminum-alloy-silver",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/C/O/COTECi-52010-Foldable-Laptop-Stand-Aluminum-Alloy-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1730.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1730.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:42"
+    }
+  ]
+}

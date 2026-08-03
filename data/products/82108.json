@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "82108",
+    "sku": "SESF160GRNG",
+    "name": "Sharp 16 KG Top Load Washing Machine (ES-F160G)",
+    "slug": "sharp-16-kg-top-load-washing-machine-es-f160g",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/es-f160g-5-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 16.0,
+    "price": 76900.0,
+    "special_price": 62490.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 76900.0,
+      "special_price": 62490.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:58"
+    }
+  ]
+}

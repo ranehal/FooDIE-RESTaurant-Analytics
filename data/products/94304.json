@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "94304",
+    "sku": "DXPS71260PCMB",
+    "name": "Dell XPS 13 Plus 9320 Intel Core i7-1260P 13.4\u201d OLED Display 16GB RAM 512GB SSD Win 11 Gen 12 Laptop",
+    "slug": "dell-xps-plus-9320-intel-core-i7-16gb-ram-512gb-ssd-win-11-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/dell-xps-13-plus-9320.jpg",
+    "unit": "g",
+    "unit_value": 11.0,
+    "price": 268900.0,
+    "special_price": 249000.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 268900.0,
+      "special_price": 249000.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

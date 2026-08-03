@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117025",
+    "sku": "XPB1165MXGO",
+    "name": "Xiaomi 165W Power Bank 10000mAh (Integrated Cable) (PB1165M)",
+    "slug": "xiaomi-10000mah-165w-fast-charging-power-bank-with-built-in-cable-pb1165m",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb1165m-28-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5499.0,
+    "special_price": 4999.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5499.0,
+      "special_price": 4999.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:30"
+    }
+  ]
+}

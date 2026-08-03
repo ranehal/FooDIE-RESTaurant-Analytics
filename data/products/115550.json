@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115550",
+    "sku": "BWNA2E4UCINRNG",
+    "name": "BOSCH 10.5 & 6Kg Series 6 Automatic Front Load Washer Dryer (WNA2E4UCIN)",
+    "slug": "bosch-10-5-6kg-series-6-automatic-front-load-washer-dryer-wna2e4ucin",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/n/wna2e4ucin-4-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 6.0,
+    "price": 130900.0,
+    "special_price": 106990.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 130900.0,
+      "special_price": 106990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:50"
+    }
+  ]
+}

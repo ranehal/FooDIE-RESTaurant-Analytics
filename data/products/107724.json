@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "107724",
+    "sku": "C9SCQWHG",
+    "name": "Curren 9095 Stainless Steel Classic Quartz Women\u2019s Watch",
+    "slug": "curren-9095-stainless-steel-classic-quartz-women-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/curren-9095-2-8-25---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:11:13"
+    }
+  ]
+}

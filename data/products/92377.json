@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92377",
+    "sku": "MINVM18K410MST",
+    "name": "Minister 1.5 Ton Split Inverter Air Conditioner (INV-M18K410G-WHT)",
+    "slug": "minister-split-1-5-ton-inverter-air-conditioner-inv-m18k410g-wht",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/n/inv-m18k410g-wht-17-3-25_1.jpg",
+    "unit": "g",
+    "unit_value": 410.0,
+    "price": 65990.0,
+    "special_price": 54690.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 65990.0,
+      "special_price": 54690.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:41"
+    }
+  ]
+}

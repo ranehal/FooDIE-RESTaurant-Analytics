@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120959",
+    "sku": "WS2149WDL",
+    "name": "Walton\u00a0Chorus Bluetooth Multimedia 2.1 Speaker (WS2149)",
+    "slug": "walton-chorus-bluetooth-multimedia-2-1-speaker-ws2149",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/chorus-2149-22-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6550.0,
+    "special_price": 5870.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6550.0,
+      "special_price": 5870.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:48"
+    }
+  ]
+}

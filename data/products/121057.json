@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121057",
+    "sku": "HX7LEGOA",
+    "name": "Honor Choice X7 Lite ANC\u00a0TWS Earbuds",
+    "slug": "honor-choice-x7-lite-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/choice-x7-lite-21-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3499.0,
+    "special_price": 2649.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3499.0,
+      "special_price": 2649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

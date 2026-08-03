@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115390",
+    "sku": "SUA65U8500FRSERSBN",
+    "name": "Samsung 65 Inch Crystal UHD 4K Smart TV (UA65U8500FRSER)",
+    "slug": "samsung-65-inch-crystal-uhd-4k-smart-tv-ua65u8500frser",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/a/ua65u8500frser-5-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 133900.0,
+    "special_price": 102990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 133900.0,
+      "special_price": 102990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:25"
+    }
+  ]
+}

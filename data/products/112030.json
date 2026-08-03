@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112030",
+    "sku": "SQA55S85FSBN",
+    "name": "Samsung S85F 55 Inch OLED 4K Smart TV (QA55S85FAESER)",
+    "slug": "samsung-s85f-55-inch-oled-4k-smart-tv-qa55s85faeser",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/8/s85f-5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 259900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 259900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:31"
+    }
+  ]
+}

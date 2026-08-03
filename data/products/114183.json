@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "114183",
+    "sku": "MKBMPRO1AMG",
+    "name": "MKB Max PRO1 ANC+ENC TWS Earbuds",
+    "slug": "mkb-max-pro1-anc-enc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/a/max-pro1-25-11-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

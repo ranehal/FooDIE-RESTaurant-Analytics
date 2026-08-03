@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "98623",
+    "sku": "HP153619AUJNN",
+    "name": "HP 15s-eq3619AU Ryzen 5 5625U 15.6\" FHD 8GB RAM 512GB SSD Laptop (7K1K5PA)",
+    "slug": "hp-15s-eq3619au-8gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/5/15s-eq3619au-10.1.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 94710.0,
+    "special_price": 86100.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 94710.0,
+      "special_price": 86100.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

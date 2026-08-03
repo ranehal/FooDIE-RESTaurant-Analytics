@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112944",
+    "sku": "CNNCTWSEPTC",
+    "name": "CHARG Nextbuds ANC TWS Earbuds-Black",
+    "slug": "charg-nextbuds-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/charg-nextbuds-23-9-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2350.0,
+    "special_price": 1450.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2350.0,
+      "special_price": 1450.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:41"
+    }
+  ]
+}

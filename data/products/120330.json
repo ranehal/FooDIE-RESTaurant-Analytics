@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120330",
+    "sku": "HB11PSBL",
+    "name": "Huawei Band 11 Pro",
+    "slug": "huawei-band-11-pro",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/band-11-pro-30-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8999.0,
+    "special_price": 8699.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8999.0,
+      "special_price": 8699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:24"
+    }
+  ]
+}

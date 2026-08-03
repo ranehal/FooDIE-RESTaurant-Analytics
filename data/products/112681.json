@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112681",
+    "sku": "M15443XBDSER",
+    "name": "MSI Modern 15 B7M AMD Ryzen 5 7430U 16GB RAM 512GB SSD 15.6\" FHD Laptop (443XBD-CBAR5430U16GXXDXX)",
+    "slug": "msi-modern-15-b7m-amd-ryzen-5-7430u-16gb-ram-512gb-ssd-15-6-fhd-laptop-443xbd-cbar5430u16gxxdxx",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/4/443xbd-1.jpg",
+    "unit": "g",
+    "unit_value": 16.0,
+    "price": 70400.0,
+    "special_price": 66000.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 70400.0,
+      "special_price": 66000.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:21"
+    }
+  ]
+}

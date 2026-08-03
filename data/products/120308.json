@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120308",
+    "sku": "CLT500GLO",
+    "name": "Cudy 4G AC1200 Dual Band Wi-Fi Router (LT500)",
+    "slug": "cudy-4g-ac1200-dual-band-wi-fi-router-lt500",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/lt500-20-may-2026-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 7500.0,
+    "special_price": 7200.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7500.0,
+      "special_price": 7200.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:58"
+    }
+  ]
+}

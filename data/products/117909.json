@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "117909",
+    "sku": "XRA7P4GB64GB",
+    "name": "Redmi A7 Pro 4GB/64GB",
+    "slug": "xiaomi-redmi-a7-pro-4gb-64gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-a7-pro-4gb-64gb-8-2-261.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 16999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:06"
+    }
+  ]
+}

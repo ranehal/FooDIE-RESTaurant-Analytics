@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "106007",
+    "sku": "BOWGA14400GCBSH",
+    "name": "BOSCH 9kg Series 4 Washing Machine ",
+    "slug": "bosch-9-kg-series-4-washing-machine-wga14400gc",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/bos11-20-7-26_1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

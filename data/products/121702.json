@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121702",
+    "sku": "TW2Y07400UJWOG",
+    "name": "Q Timex Blue Dial Mechanical Automatic Unisex Watch (TW2Y07400UJ)",
+    "slug": "q-timex-blue-dial-mechanical-automatic-unisex-watch-tw2y07400uj",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/i/timex9-27-7-26-4-jpg.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 40000.0,
+    "special_price": 28000.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 40000.0,
+      "special_price": 28000.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:22"
+    }
+  ]
+}

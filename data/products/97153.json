@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "97153",
+    "sku": "AROGSG17GNI",
+    "name": "Asus ROG Strix G17 G713RC-HX032W Ryzen 7 17.3\u201d 16GB DDR5 RAM 512GB SSD Windows 11 Gaming Laptop (2022)",
+    "slug": "asus-rog-strix-g17-g713rc-hx032w-ryzen-7-17-3-16gb-ddr5-ram-512gb-ssd-windows-11-gaming-laptop-2022",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asus-strix-g17--25.11.23..jpg",
+    "unit": "g",
+    "unit_value": 17.0,
+    "price": 187000.0,
+    "special_price": 131590.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 187000.0,
+      "special_price": 131590.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

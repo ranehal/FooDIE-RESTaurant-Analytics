@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "105167",
+    "sku": "QCYHT08TTZ",
+    "name": "QCY HT08 MeloBuds Pro ANC TWS Earbuds",
+    "slug": "qcy-ht08-melobuds-pro-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/ht08-18.9.24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:08"
+    }
+  ]
+}

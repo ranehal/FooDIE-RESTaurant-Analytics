@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121236",
+    "sku": "PRW61ANS3WOG",
+    "name": "Casio Pro Trek Resin Band Men\u2019s Watch (PRW-61ANS-3)",
+    "slug": "casio-pro-trek-resin-band-men-s-watch-prw-61ans-3",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prw-61ans-3-8-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 80000.0,
+    "special_price": 60000.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 80000.0,
+      "special_price": 60000.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

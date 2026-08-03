@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115635",
+    "sku": "HHSU19ACHRB",
+    "name": "Haier 1.6 Ton AntirustCool Inverter Pro Air Conditioner [HSU-19 AntirustCool(INV)(Pro)]",
+    "slug": "haier-1-6-ton-antirustcool-inverter-pro-air-conditioner-hsu-19-antirustcool-inv-pro",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-1.6-ton-antirustcool-inverter-pro-air-conditioner-_hsu-19-antirustcool_inv_pro_-7-30-261.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 75990.0,
+    "special_price": 56990.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 75990.0,
+      "special_price": 56990.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:32"
+    }
+  ]
+}

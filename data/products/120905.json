@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120905",
+    "sku": "CB109D3AVWOG",
+    "name": "Casio Edifice 3-Hand Analog Men\u2019s Watch (EFB-109D-3AV)",
+    "slug": "casio-edifice-3-hand-analog-men-s-watch-efb-109d-3av",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efb-109d-3av-21-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25000.0,
+    "special_price": 18750.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25000.0,
+      "special_price": 18750.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

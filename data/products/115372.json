@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115372",
+    "sku": "OOCD115MMOV",
+    "name": "Oraimo USB-A to Micro-USB 2A 1M Charging Cable (OCD-115M)",
+    "slug": "oraimo-usb-a-to-micro-usb-2a-1m-charging-cable-ocd-115m",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocd-115m-2-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 195.0,
+    "special_price": 190.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 195.0,
+      "special_price": 190.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

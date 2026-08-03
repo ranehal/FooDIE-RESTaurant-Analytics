@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118027",
+    "sku": "AWP117PBTTZ",
+    "name": "Awei WP-117 10000mAh Mini Power Bank with Detachable Cable",
+    "slug": "awei-wp-117-10000mah-mini-power-bank-with-detachable-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/p/wp-117-8-april-2026-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1379.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1379.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:24"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120171",
+    "sku": "WAIAR2TWLT",
+    "name": "Walton Aroma 2 Ton Inverter Air Conditioner (WSI-AROMA (PRIME SAVER)-24H [UV])",
+    "slug": "walton-aroma-2-ton-inverter-air-conditioner-wsi-aroma-prime-saver-24h-uv",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-aroma-1.5-ton-inverter-air-conditioner-7-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:07:24"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121700",
+    "sku": "TW2Y67700IKWOG",
+    "name": "Timex Green Dial Mechanical Automatic Men\u2019s Watch (TW2Y67700IK)",
+    "slug": "timex-green-dial-mechanical-automatic-men-s-watch-tw2y67700ik",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/i/timex8-27-7-26-4-jpg.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 42000.0,
+    "special_price": 29400.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 42000.0,
+      "special_price": 29400.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:22"
+    }
+  ]
+}

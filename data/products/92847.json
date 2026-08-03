@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92847",
+    "sku": "MSP951235UCMB",
+    "name": "Microsoft Surface Pro 9 i5-1235U 13\u201d 120Hz Display 8GB RAM 256GB SSD Touch Laptop (2022)",
+    "slug": "microsoft-surface-pro-9-i5-1235u-touch-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/w/swe11.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

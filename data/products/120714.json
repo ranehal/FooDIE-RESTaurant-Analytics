@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120714",
+    "sku": "NCP236JNN",
+    "name": "Mikuso Tornado-2 Dual Blue LED Laptop Cooler Pad (NCP-236)",
+    "slug": "mikuso-tornado-2-ncp-236-dual-blue-led-laptop-cooler-pad",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/U/n/Untitled_design_82_.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1639.0,
+    "special_price": 1490.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1639.0,
+      "special_price": 1490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

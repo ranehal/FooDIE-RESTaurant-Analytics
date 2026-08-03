@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112423",
+    "sku": "HP105G8GB256GBWF",
+    "name": "HONOR Pad 10 8GB/256GB (Wi-Fi) ",
+    "slug": "honor-pad-10-5g-8gb-256gb-lte",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/honor_pad-10-8gb-2-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 37999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 37999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:11"
+    }
+  ]
+}

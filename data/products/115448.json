@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115448",
+    "sku": "MBPA2DBPMTDC",
+    "name": "Microlife BP-A2 Classic Digital Blood Pressure Monitor Machine",
+    "slug": "microlife-bp-a2-classic-digital-blood-pressure-monitor-machine",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/microlife-bp-a2-2-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2675.0,
+    "special_price": 2380.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2675.0,
+      "special_price": 2380.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:13"
+    }
+  ]
+}

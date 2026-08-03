@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109202",
+    "sku": "HSU19CCINVPHRB",
+    "name": "Haier 1.6 Ton CleanCool Inverter Pro DC Inverter Air Conditioner [HSU-19CleanCool(INV)(Pro)]",
+    "slug": "haier-1-6-ton-inverter-air-conditioner-hsu-19cleancool-inv-pro",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier-1.6-ton-cleancool-inverter-pro-dc-inverter-air-conditioner-_hsu-19cleancool_inv_pro_-7-30-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 74990.0,
+    "special_price": 53990.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 74990.0,
+      "special_price": 53990.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:24"
+    }
+  ]
+}

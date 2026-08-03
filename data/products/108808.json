@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108808",
+    "sku": "SMF3G13GSMT",
+    "name": "SMART Flairedge Intel Core i3-1315U 8GB DDR4 512GB SSD 15.6\u2033 FHD IPS Laptop (i3G13)-Grey",
+    "slug": "smart-flairedge-intel-core-i3-1315u-8gb-ddr4-512gb-ssd-15-6-fhd-ips-laptop-i3g13-grey",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/i/_i3g13-15.6_-grey_-17-03-25---1.jpg",
+    "unit": "g",
+    "unit_value": 3.0,
+    "price": 49875.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 49875.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115386",
+    "sku": "OOCW5251ECCMOV",
+    "name": "Oraimo 25W EU GaN Fast Charging Adapter with Type-C to Type-C Cable (OCW-5251ECC)",
+    "slug": "oraimo-25w-eu-gan-fast-charging-adapter-with-type-c-to-type-c-cable-ocw-5251ecc",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/c/ocw-5251ecc-2-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 610.0,
+    "special_price": 580.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 610.0,
+      "special_price": 580.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

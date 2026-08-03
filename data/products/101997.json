@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "101997",
+    "sku": "H65A6F3HSO",
+    "name": "Hisense 65 Inch Class A6 Series DTS Virtual X LED 4K UHD Google Smart TV (65A6N)",
+    "slug": "hisense-65-inch-class-a6-series-dts-virtual-x-led-4k-uhd-google-smart-tv-65a6n",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/5/65a6n-8-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 109900.0,
+    "special_price": 85599.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 109900.0,
+      "special_price": 85599.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:37"
+    }
+  ]
+}

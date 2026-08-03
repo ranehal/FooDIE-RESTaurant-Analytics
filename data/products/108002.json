@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108002",
+    "sku": "QCYBQT43ETTZ",
+    "name": "QCY Buds QT43 TWS Earbuds",
+    "slug": "qcy-buds-qt43-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/t/qt43-13-2-25-1_1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1499.0,
+    "special_price": 1400.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1499.0,
+      "special_price": 1400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:57"
+    }
+  ]
+}

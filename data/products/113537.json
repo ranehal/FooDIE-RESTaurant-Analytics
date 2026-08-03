@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113537",
+    "sku": "XTRAX20",
+    "name": "XTRA X20",
+    "slug": "xtra-x20",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/t/xtra-x20-black-22-10-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1899.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1899.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 16:45:09"
+    }
+  ]
+}

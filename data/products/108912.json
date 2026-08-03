@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "108912",
+    "sku": "QLR48GB500GBQBS",
+    "name": "Qbits Lania R4 AMD Ryzen 7 4800H 8GB DDR4 RAM 500GB M.2 Western Digital NVMe SSD Windows 11 Desktop",
+    "slug": "qbits-lania-r4-8gb-ram-500gb-ssd-desktop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/lania_r4_20-3-25_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 33999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 33999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:27"
+    }
+  ]
+}

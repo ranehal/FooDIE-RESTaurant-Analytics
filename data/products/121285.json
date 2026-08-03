@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121285",
+    "sku": "EFR552L5AVWOG",
+    "name": "Casio Standard Chronograph Watch for Men (EFR-552L-5AV)",
+    "slug": "casio-standard-chronograph-watch-for-men-efr-552l-5av",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/552l-9-7-26.jpg",
+    "unit": "L",
+    "unit_value": 552.0,
+    "price": 17000.0,
+    "special_price": 12750.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17000.0,
+      "special_price": 12750.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "100894",
+    "sku": "QSi58GBQBS",
+    "name": "Qbits Sigma X2 Laptop Intel\u00ae Core\u2122 i5-1240P Processor with 8GB RAM and 500GB Western Digital M.2 SSD",
+    "slug": "qbits-sigma-x2-laptop-intel-core-i5-with-8gb-ram-and-500gb-ssd",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/b/qbits-sigma-x2--3-23-2024-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 61999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 61999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:29"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "110714",
+    "sku": "SESVD900PNE",
+    "name": "Sharp ES-VD900 9kg Washer & Dryer Combo Washing Machine",
+    "slug": "sharp-es-vd900-9kg-washer-dryer-combo-washing-machine",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/es-vd900-5-7-26-1.jpg",
+    "unit": "kg",
+    "unit_value": 9.0,
+    "price": 97550.0,
+    "special_price": 88790.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 97550.0,
+      "special_price": 88790.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111181",
+    "sku": "WWE75WMWPO",
+    "name": "Whirlpool Whitemagic Elite 7.5Kg Top Load Washing Machine",
+    "slug": "whirlpool-whitemagic-elite-7-5kg-washing-machine",
+    "category_id": "66",
+    "category_name": "Washing Machine",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/h/whirlpool-whitemagic-elite-6-7-25.jpg",
+    "unit": "kg",
+    "unit_value": 7.5,
+    "price": 36990.0,
+    "special_price": 25990.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 36990.0,
+      "special_price": 25990.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:53"
+    }
+  ]
+}

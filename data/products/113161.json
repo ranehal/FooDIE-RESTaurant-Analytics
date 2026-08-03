@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113161",
+    "sku": "IP17256GB",
+    "name": "iPhone 17 256GB with Free 20W Adapter",
+    "slug": "iphone-17-256gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/p/iphone-17-256gb-20-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 179999.0,
+    "special_price": 153999.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 179999.0,
+      "special_price": 153999.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:02"
+    }
+  ]
+}

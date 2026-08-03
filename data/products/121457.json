@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121457",
+    "sku": "AA8895MOV",
+    "name": "Anker 140W 2-in-1 USB-C to USB-C Cable (A8895)",
+    "slug": "anker-140w-2-in-1-usb-c-to-usb-c-cable-a8895",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/8/a8895-15-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2499.0,
+    "special_price": 1799.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2499.0,
+      "special_price": 1799.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:19"
+    }
+  ]
+}

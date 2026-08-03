@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109600",
+    "sku": "WSIDIAMOND12JWLT",
+    "name": "Walton 1 Ton Intelligent Inverter Air Conditioner [WSI-DIAMOND-12J (FROST CLEAN)]",
+    "slug": "walton-1-ton-intelligent-inverter-air-conditioner-wsi-diamond-12j-frost-clean",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-1.5-ton-intelligent-inverter-air-conditioner-_wsi-diamond-18m-_frost-clean_-7-5-2-61_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 52990.0,
+    "special_price": 41990.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52990.0,
+      "special_price": 41990.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:35"
+    }
+  ]
+}

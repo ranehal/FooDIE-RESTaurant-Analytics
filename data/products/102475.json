@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "102475",
+    "sku": "MMI43M30PVBMST",
+    "name": "Minister 43 Inch Voice Control Android TV (MI43M30PVB) ",
+    "slug": "minister-m-43-43-inch-1gb-8gb-voice-control-android-tv-mi43m30pvb",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mi43m30pvb-7-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 43900.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 43900.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:37"
+    }
+  ]
+}

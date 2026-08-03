@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115483",
+    "sku": "AY1000RSAMG",
+    "name": "Awei Y1000 RGB Portable Bluetooth Speaker",
+    "slug": "awei-y1000-rgb-portable-bluetooth-speaker",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/1/y1000-black-18-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5850.0,
+    "special_price": 4950.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5850.0,
+      "special_price": 4950.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

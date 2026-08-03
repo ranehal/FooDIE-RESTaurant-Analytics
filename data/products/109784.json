@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "109784",
+    "sku": "H2AS24CW4RBTKF00AUHSO",
+    "name": "Hisense 2 Ton Smart Comfort Non-Inverter Air Conditioner (AS-24CW4RBTKF00AU)",
+    "slug": "hisense-2-ton-smart-comfort-air-conditioner-as-24cw4rbtkf00au",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/as-24cw4rbtkf00au-7-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 77900.0,
+    "special_price": 59990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 77900.0,
+      "special_price": 59990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:07:35"
+    }
+  ]
+}

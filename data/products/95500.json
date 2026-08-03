@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "95500",
+    "sku": "HP250G951235UHQB",
+    "name": "HP 250 G9 i5-1235U 12th Gen FHD 15.6\" 8GB DDR4-3200Mhz RAM 512GB SSD Laptop",
+    "slug": "hp-250-g9-i5-1235u-8gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp-250-g9-16.4.24..jpg",
+    "unit": "g",
+    "unit_value": 250.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}

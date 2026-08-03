@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120324",
+    "sku": "CWR300SGLO",
+    "name": "Cudy 300Mbps Multi-Mode Wi-Fi Router (WR300S)",
+    "slug": "cudy-300mbps-multi-mode-wi-fi-router-wr300s",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/r/wr300s-20-may-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1850.0,
+    "special_price": 1700.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1850.0,
+      "special_price": 1700.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:58"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121071",
+    "sku": "CMGX4070PNW",
+    "name": "Canon Maxify GX4070 A4 Multi-Function WiFi Four Color Printer (Ink Code: GI-76)",
+    "slug": "canon-maxify-gxg4070-a4-multi-function-wifi-four-color-printer-ink-code-gi-76",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/canon-maxify-gx4070-7-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 52070.0,
+    "special_price": 43870.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52070.0,
+      "special_price": 43870.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:45"
+    }
+  ]
+}

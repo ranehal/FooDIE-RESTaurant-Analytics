@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121017",
+    "sku": "SK2578SlMHS",
+    "name": "Skmei 2578SLV Stainless Steel Watch for Women",
+    "slug": "skmei-2578slv-fashion-steel-watch-for-women-s",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-2578slv-9-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1510.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1510.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

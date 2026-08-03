@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115548",
+    "sku": "IPPENCLICE",
+    "name": "ICE Prime Pro ENC TWS Earbuds-Lavender ",
+    "slug": "ice-prime-pro-enc-tws-earbuds-lavender",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prime-pro-enc-lvn-13-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3500.0,
+    "special_price": 2599.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3500.0,
+      "special_price": 2599.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

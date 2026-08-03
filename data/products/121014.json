@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121014",
+    "sku": "NF9213SLMHS",
+    "name": "Naviforce\u00a0Analog Stainless Steel Men's Watch (NF9213)-Gold & Silver ",
+    "slug": "naviforce-nf9213-analog-watch-for-men-silver-gold",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/f/nfnf9213-16-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2300.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2300.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:36"
+    }
+  ]
+}

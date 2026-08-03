@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "115584",
+    "sku": "A322CTC6FCIL",
+    "name": "Anker 322 USB-C To USB-C Fast Charging Cable (6ft)",
+    "slug": "anker-322-usb-c-to-usb-c-fast-charging-cable-6ft",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/8/a81f5h11-5-3-25-1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 799.0,
+    "special_price": 599.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 799.0,
+      "special_price": 599.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:09:36"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120116",
+    "sku": "A4B230NGLO",
+    "name": "A4Tech Bloody B230N Neon Illuminate Lighting USB Gaming Keyboard",
+    "slug": "a4tech-bloody-b230n-neon-illuminate-lighting-usb-gaming-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/2/b230n-16-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2900.0,
+    "special_price": 2450.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2900.0,
+      "special_price": 2450.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

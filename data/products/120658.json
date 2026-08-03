@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120658",
+    "sku": "DHAC12JNN",
+    "name": "Dahua DH-AC12 AC1200 Dual-Band Wi-Fi 5 Router",
+    "slug": "dahua-dh-ac12-ac1200-dual-band-wifi-5-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/_/h_2.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 3146.0,
+    "special_price": 2860.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3146.0,
+      "special_price": 2860.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:51"
+    }
+  ]
+}

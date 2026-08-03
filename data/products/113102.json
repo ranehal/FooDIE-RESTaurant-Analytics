@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "113102",
+    "sku": "SGA074GB64GB",
+    "name": "Samsung Galaxy A07 4GB/64GB",
+    "slug": "samsung-galaxy-a07-4gb-64gb",
+    "category_id": "171",
+    "category_name": "Smartphones",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/l/alaxy-a07-4gb-1-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17199.0,
+    "special_price": 16999.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17199.0,
+      "special_price": 16999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:08:05"
+    }
+  ]
+}

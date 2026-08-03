@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "92339",
+    "sku": "QS155F5GQBS",
+    "name": "Qbits Sigma 15 Laptop 10th Gen Intel\u00ae Core\u2122 i3 Processor 8GB DDR4 3200MHz RAM 512GB M.2 NVMe SSD Windows 11",
+    "slug": "qbits-sigma-15-4gb-ram-512gb-ssd-laptop",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/1/s15-5f5g_base.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 56490.0,
+    "special_price": 44999.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 56490.0,
+      "special_price": 44999.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:35"
+    }
+  ]
+}

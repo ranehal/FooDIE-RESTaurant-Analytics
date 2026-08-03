@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "120258",
+    "sku": "NG001AIOT",
+    "name": "Pawbby Pet Nail Clipper (NG001A)",
+    "slug": "pawbby-pet-nail-clipper-ng001a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/g/ng001a-19-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2490.0,
+    "special_price": 1890.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2490.0,
+      "special_price": 1890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:40"
+    }
+  ]
+}

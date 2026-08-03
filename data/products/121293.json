@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121293",
+    "sku": "TWEG26101WOG",
+    "name": "Timex Vector Men Silver Round Dial Analog Watch (TWEG26101)",
+    "slug": "timex-vector-men-silver-round-dial-analog-watch-tweg26101",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tweg26101-9-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 30000.0,
+    "special_price": 21000.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 30000.0,
+      "special_price": 21000.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:31"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "112640",
+    "sku": "LIS382XM014FLKSER",
+    "name": "Lenovo IdeaPad Slim 3 15ABR8 Ryzen 5 5625U Arctic Grey 16GB RAM 512GB SSD 15.6\" FHD Laptop (82XM014FLK)",
+    "slug": "lenovo-ideapad-slim-3-15abr8-ryzen-5-5625u-arctic-grey-16gb-ram-512gb-ssd-15-6-fhd-laptop-82xm014flk",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/4/14abr8-2_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 66000.0,
+    "special_price": 61500.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 66000.0,
+      "special_price": 61500.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:10:21"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "118976",
+    "sku": "XTX01XOO",
+    "name": "XO-TX01 EU 1200Mbps Dual Band 2-in-1 Repeater & Wi-Fi Router",
+    "slug": "xo-tx01-eu-1200mbps-dual-band-2-in-1-repeater-wi-fi-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/x/tx01-27-april-2026-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2940.0,
+    "special_price": 2275.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2940.0,
+      "special_price": 2275.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-02 17:11:08"
+    }
+  ]
+}

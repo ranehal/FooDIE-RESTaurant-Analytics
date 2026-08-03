@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "94324",
+    "sku": "AP16PHN16CMB",
+    "name": "Acer Predator Helios Neo 16 PHN16 Intel Core i5-13500HX 16\u201d WUXGA 512GB SSD Win 11 Gen 13th Gaming Laptop (2023)",
+    "slug": "acer-predator-16-phn16-core-i5-13500hx-16-512gb-ssd-gaming-laptop-2023",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/phn16-8gb-1_1.jpg",
+    "unit": "g",
+    "unit_value": 11.0,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-02 17:10:32"
+    }
+  ]
+}
