@@ -48335,7 +48335,7 @@
           "deliveryCharge": 48,
           "rating": 3.8215456008911137,
           "ratingCount": 427,
-          "averageReviewCount": 3.8215456008911137,
+          "averageReviewCount": 3.8215456008911133,
           "totalReviewCount": 427,
           "priceRange": "৳৳",
           "location": {
@@ -327500,8 +327500,7 @@
               "priorityNumber": 0,
               "menuIds": [
                 777439,
-                777438,
-                777442
+                777438
               ]
             },
             {
@@ -327526,9 +327525,14 @@
                 777411,
                 777269,
                 777413,
+                777435,
+                809858,
                 777407,
                 781433,
-                781432
+                781432,
+                777406,
+                777434,
+                777433
               ]
             },
             {
@@ -327559,6 +327563,7 @@
               "priorityNumber": 4,
               "menuIds": [
                 777316,
+                777310,
                 777313,
                 777312,
                 777315,
@@ -327924,6 +327929,20 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "777310": {
+              "id": 777310,
+              "name": "Chepa Shutki Bhorta",
+              "price": "42.5",
+              "oldPrice": "50",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Chepa-Shutki-Bhorta-e57b-20251106111241756.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chepa-Shutki-Bhorta-0746-20251106111241813.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "777313": {
               "id": 777313,
               "name": "Dhonia Pata Bhorta",
@@ -328036,6 +328055,20 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "777435": {
+              "id": 777435,
+              "name": "Beef Tikka - 6 Pcs",
+              "price": "170",
+              "oldPrice": "200",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Beef-Tikka-a7c4-20251106111003671.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Beef-Tikka-9a17-20251106111003789.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "777284": {
               "id": 777284,
               "name": "Korola Bhaji",
@@ -328044,6 +328077,20 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Korola-Bhaji-7640-20251106113051083.webp",
               "bannerImage": "/restaurant-service/RestaurantMenuitem/Korola-Bhaji-4ef4-20251106113051138.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "809858": {
+              "id": 809858,
+              "name": "Plain Dal",
+              "price": "34",
+              "oldPrice": "40",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/plain-Daal-9500-20251124080408301.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/plain-Daal-f721-20251124080408366.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -328274,6 +328321,20 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "777406": {
+              "id": 777406,
+              "name": "Broiler Chicken Curry - 3 Pcs",
+              "price": "119",
+              "oldPrice": "140",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Broiler-Chicken-Curry-13dc-20251106111225509.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Broiler-Chicken-Curry-9891-20251106111225571.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "777312": {
               "id": 777312,
               "name": "Lal Morich Bhorta",
@@ -328282,6 +328343,20 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Lal-Morich-Bhorta-43ac-20251106113107171.webp",
               "bannerImage": "/restaurant-service/RestaurantMenuitem/Lal-Morich-Bhorta-61dd-20251106113107225.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "777434": {
+              "id": 777434,
+              "name": "Chicken Tikka - 6 Pcs",
+              "price": "127.5",
+              "oldPrice": "150",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Tikka-e00d-20251106111608926.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Tikka-3e5e-20251106111609056.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -328324,6 +328399,20 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Piyaj-Morich-Bhorta-ddb0-20251106113946870.webp",
               "bannerImage": "/restaurant-service/RestaurantMenuitem/Piyaj-Morich-Bhorta-aad5-20251106113946933.webp",
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "777433": {
+              "id": 777433,
+              "name": "Chicken Roast -  1 Pc",
+              "price": "153",
+              "oldPrice": "180",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Roast-3c21-20251106111535170.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Roast-222c-20251106111535219.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -328380,20 +328469,6 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/tiger-chingri-ss-a273-20260420052547577.jpg",
               "bannerImage": "/restaurant-service/RestaurantMenuitem/tiger-chingri-ss-f3b8-20260420052547649.jpg",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "777442": {
-              "id": 777442,
-              "name": "Chicken Tehari",
-              "price": "170",
-              "oldPrice": "200",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Tehari-37c8-20251106111551427.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Tehari-f108-20251106111551487.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -355853,6 +355928,6 @@
     }
   ],
   "totalRestaurants": 325,
-  "totalDishes": 13505,
-  "scrapedAt": "2026-08-05T19:44:00.829344+00:00"
+  "totalDishes": 13510,
+  "scrapedAt": "2026-08-05T19:56:53.879955+00:00"
 }
