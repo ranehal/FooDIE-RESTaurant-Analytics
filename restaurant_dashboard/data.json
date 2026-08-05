@@ -90325,7 +90325,6 @@
               "priorityNumber": 0,
               "menuIds": [
                 735321,
-                735361,
                 735320,
                 735241
               ]
@@ -90483,14 +90482,7 @@
               "id": 102165,
               "name": "Rice",
               "priorityNumber": 11,
-              "menuIds": [
-                908585,
-                735362,
-                735360,
-                908633,
-                735361,
-                735363
-              ]
+              "menuIds": []
             },
             {
               "id": 102156,
@@ -91989,20 +91981,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "908585": {
-              "id": 908585,
-              "name": "Chicken Popcorn Rice - Classic",
-              "price": "197.1",
-              "oldPrice": "219",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/HomeProductV1-ChickenPopcornRiceClassic-5226-20260218094033466.jpg",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/CrossellProductV1-ChickenPopcornRiceClassic-1eae-20260218094033504.jpg",
-              "isPopular": false,
-              "description": "An appetizing rice bowl crowned with golden chicken popcorn, delicately seasoned to let the flavors shine. Wholesome, hearty, and thoughtfully simple.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "735289": {
               "id": 735289,
               "name": "Peri Peri Wings",
@@ -92204,20 +92182,6 @@
                   }
                 }
               }
-            },
-            "735362": {
-              "id": 735362,
-              "name": "Sausage & Keema Chicken Rice Bowl - Cheesy",
-              "price": "179.1",
-              "oldPrice": "199",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/rice-keema-809f-20250705043415178.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/rice-keema-158d-20250705043415241.webp",
-              "isPopular": false,
-              "description": "Perfect combination of oregano-rice, chicken sausage & keema with domino's signature gravy & cheese",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
             },
             "766325": {
               "id": 766325,
@@ -92660,62 +92624,6 @@
                   }
                 }
               }
-            },
-            "735360": {
-              "id": 735360,
-              "name": "Sausage & Keema Chicken Rice Bowl - Classic",
-              "price": "161.1",
-              "oldPrice": "179",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/classic-a3a6-20250705043504221.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/2567adeb-16e0-4c03-bb73-18111c42b4f8-2ff6-20260729031522277.webp",
-              "isPopular": false,
-              "description": "Perfect combination of oregano-rice, chicken sausage & keema with domino's signature gravy",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "908633": {
-              "id": 908633,
-              "name": "Chicken Popcorn Rice - Cheesy",
-              "price": "224.1",
-              "oldPrice": "249",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/HomeProductV1-ChickenPopcornRiceCheesy-f96f-20260218094033539.jpg",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/MenuPage-ChickenPopcornRiceCheesy-53a9-20260218094033585.jpg",
-              "isPopular": false,
-              "description": "An indulgent reinterpretation of comfort food. Flavorful rice layered with crispy chicken popcorn and lavishly finished with melted cheese, creating a rich, decadent experience in every spoonful.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "735361": {
-              "id": 735361,
-              "name": "Curried Beef Rice Bowl - Classic",
-              "price": "215.1",
-              "oldPrice": "239",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/e5ad44de-3c00-42a1-9f08-e0054f426bbd-9039-20260729034146598.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/e5ad44de-3c00-42a1-9f08-e0054f426bbd-3914-20260729034146658.webp",
-              "isPopular": true,
-              "description": "Perfect combination of oregano-rice & beef with domino's signature gravy",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "735363": {
-              "id": 735363,
-              "name": "Curried Beef Rice Bowl - Cheesy",
-              "price": "233.1",
-              "oldPrice": "259",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Rice-curried-be-aa1f-20250705043301457.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Rice-curried-be-cd6a-20250705043301542.webp",
-              "isPopular": false,
-              "description": "Perfect combination of oregano-rice & beef with domino's signature gravy & cheese",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
             },
             "735240": {
               "id": 735240,
@@ -202097,7 +202005,6 @@
               "priorityNumber": 0,
               "menuIds": [
                 735321,
-                735361,
                 735320,
                 735241
               ]
@@ -202255,14 +202162,7 @@
               "id": 102165,
               "name": "Rice",
               "priorityNumber": 11,
-              "menuIds": [
-                908585,
-                735362,
-                735360,
-                908633,
-                735361,
-                735363
-              ]
+              "menuIds": []
             },
             {
               "id": 102156,
@@ -203761,20 +203661,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "908585": {
-              "id": 908585,
-              "name": "Chicken Popcorn Rice - Classic",
-              "price": "197.1",
-              "oldPrice": "219",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/HomeProductV1-ChickenPopcornRiceClassic-5226-20260218094033466.jpg",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/CrossellProductV1-ChickenPopcornRiceClassic-1eae-20260218094033504.jpg",
-              "isPopular": false,
-              "description": "An appetizing rice bowl crowned with golden chicken popcorn, delicately seasoned to let the flavors shine. Wholesome, hearty, and thoughtfully simple.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "735289": {
               "id": 735289,
               "name": "Peri Peri Wings",
@@ -203976,20 +203862,6 @@
                   }
                 }
               }
-            },
-            "735362": {
-              "id": 735362,
-              "name": "Sausage & Keema Chicken Rice Bowl - Cheesy",
-              "price": "179.1",
-              "oldPrice": "199",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/rice-keema-809f-20250705043415178.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/rice-keema-158d-20250705043415241.webp",
-              "isPopular": false,
-              "description": "Perfect combination of oregano-rice, chicken sausage & keema with domino's signature gravy & cheese",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
             },
             "766325": {
               "id": 766325,
@@ -204432,62 +204304,6 @@
                   }
                 }
               }
-            },
-            "735360": {
-              "id": 735360,
-              "name": "Sausage & Keema Chicken Rice Bowl - Classic",
-              "price": "161.1",
-              "oldPrice": "179",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/classic-a3a6-20250705043504221.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/2567adeb-16e0-4c03-bb73-18111c42b4f8-2ff6-20260729031522277.webp",
-              "isPopular": false,
-              "description": "Perfect combination of oregano-rice, chicken sausage & keema with domino's signature gravy",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "908633": {
-              "id": 908633,
-              "name": "Chicken Popcorn Rice - Cheesy",
-              "price": "224.1",
-              "oldPrice": "249",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/HomeProductV1-ChickenPopcornRiceCheesy-f96f-20260218094033539.jpg",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/MenuPage-ChickenPopcornRiceCheesy-53a9-20260218094033585.jpg",
-              "isPopular": false,
-              "description": "An indulgent reinterpretation of comfort food. Flavorful rice layered with crispy chicken popcorn and lavishly finished with melted cheese, creating a rich, decadent experience in every spoonful.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "735361": {
-              "id": 735361,
-              "name": "Curried Beef Rice Bowl - Classic",
-              "price": "215.1",
-              "oldPrice": "239",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/e5ad44de-3c00-42a1-9f08-e0054f426bbd-9039-20260729034146598.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/e5ad44de-3c00-42a1-9f08-e0054f426bbd-3914-20260729034146658.webp",
-              "isPopular": true,
-              "description": "Perfect combination of oregano-rice & beef with domino's signature gravy",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "735363": {
-              "id": 735363,
-              "name": "Curried Beef Rice Bowl - Cheesy",
-              "price": "233.1",
-              "oldPrice": "259",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Rice-curried-be-aa1f-20250705043301457.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Rice-curried-be-cd6a-20250705043301542.webp",
-              "isPopular": false,
-              "description": "Perfect combination of oregano-rice & beef with domino's signature gravy & cheese",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
             },
             "735240": {
               "id": 735240,
@@ -219310,10 +219126,10 @@
           "isPopular": false,
           "isTakePreOrder": true,
           "deliveryCharge": 40,
-          "rating": 3.73698616027832,
-          "ratingCount": 146,
-          "averageReviewCount": 3.7369861602783203,
-          "totalReviewCount": 146,
+          "rating": 3.7455780506134033,
+          "ratingCount": 147,
+          "averageReviewCount": 3.7455780506134033,
+          "totalReviewCount": 147,
           "priceRange": "৳৳",
           "location": {
             "latitude": 23.765626562412884,
@@ -238698,19 +238514,15 @@
               "priorityNumber": 1,
               "menuIds": [
                 308197,
-                307940,
-                307924,
                 308133,
                 308111,
                 308115,
                 308114,
                 307923,
                 308112,
-                308116,
                 307922,
                 307921,
-                308113,
-                307941
+                308113
               ]
             },
             {
@@ -239083,20 +238895,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "307940": {
-              "id": 307940,
-              "name": "B.B.Q. Wings - 6pcs",
-              "price": "180",
-              "oldPrice": "225",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/BBQ-Wings-ef5d-20250918091015729.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/BBQ-Wings-92c5-20250918091015850.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "307984": {
               "id": 307984,
               "name": "Beef Chilli Onion",
@@ -239133,20 +238931,6 @@
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Veg-sand-5ac8-20250918095839137.webp",
               "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "307924": {
-              "id": 307924,
-              "name": "Crispy Chicken Wings - 6pcs",
-              "price": "164",
-              "oldPrice": "205",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Crispy-Chicken-Wings-1e9e-20250918092538795.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Crispy-Chicken-Wings-4100-20250918092538898.webp",
               "isPopular": false,
               "description": null,
               "variationIds": [],
@@ -239663,20 +239447,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "308116": {
-              "id": 308116,
-              "name": "Spring Roll - 6pcs",
-              "price": "108",
-              "oldPrice": "135",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Spring-roll-83e3-20250918101050920.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "308251": {
               "id": 308251,
               "name": "Set Menu- 04",
@@ -239921,20 +239691,6 @@
               "addOnCategoryIds": [
                 14842
               ],
-              "variationOtherInfo": {}
-            },
-            "307941": {
-              "id": 307941,
-              "name": "Hot Wings - 6pcs",
-              "price": "180",
-              "oldPrice": "225",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Hot-Chicken-Wings-a43f-20250918093119191.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Hot-Chicken-Wings-8e99-20250918093119319.webp",
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
               "variationOtherInfo": {}
             }
           },
@@ -289331,7 +289087,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-06T02:00:00Z",
+          "openAt": "2026-08-07T02:00:00Z",
           "distance": 1.4868074137607907,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.920844482564746,
@@ -289851,7 +289607,7 @@
           "image": "/restaurant-service/Logo-3f09-20260114081622470.jpg",
           "coverImage": "/restaurant-service/Cover-9150-20260114081622497.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-06T02:00:00Z",
+          "openAt": "2026-08-07T02:00:00Z",
           "distance": 1.4868074137607907,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.920844482564746,
@@ -356097,6 +355853,6 @@
     }
   ],
   "totalRestaurants": 325,
-  "totalDishes": 13521,
-  "scrapedAt": "2026-08-05T18:21:37.241701+00:00"
+  "totalDishes": 13505,
+  "scrapedAt": "2026-08-05T19:30:12.042466+00:00"
 }
