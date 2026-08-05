@@ -46910,7 +46910,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-06T02:00:00Z",
+          "openAt": "2026-08-07T02:00:00Z",
           "distance": 1.1798304379151265,
           "deliveryTime": 15,
           "totalDeliveryTime": 15,
@@ -48335,7 +48335,7 @@
           "deliveryCharge": 48,
           "rating": 3.8215456008911137,
           "ratingCount": 427,
-          "averageReviewCount": 3.8215456008911133,
+          "averageReviewCount": 3.8215456008911137,
           "totalReviewCount": 427,
           "priceRange": "৳৳",
           "location": {
@@ -355854,5 +355854,5 @@
   ],
   "totalRestaurants": 325,
   "totalDishes": 13505,
-  "scrapedAt": "2026-08-05T19:30:12.042466+00:00"
+  "scrapedAt": "2026-08-05T19:44:00.829344+00:00"
 }
