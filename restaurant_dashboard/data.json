@@ -133308,7 +133308,7 @@
           "deliveryCharge": 46,
           "rating": 3.9168460369110103,
           "ratingCount": 279,
-          "averageReviewCount": 3.9168460369110103,
+          "averageReviewCount": 3.9168460369110107,
           "totalReviewCount": 279,
           "priceRange": "৳৳",
           "location": {
@@ -350897,5 +350897,5 @@
   ],
   "totalRestaurants": 330,
   "totalDishes": 13494,
-  "scrapedAt": "2026-08-10T20:28:49.122489+00:00"
+  "scrapedAt": "2026-08-10T21:27:28.890439+00:00"
 }
