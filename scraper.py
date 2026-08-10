@@ -5,6 +5,7 @@ stores products + daily price snapshots in SQLite.
 Run: python scraper.py [--categories 171,64] [--max-pages 50] [--delay 0.5]
 """
 import sqlite3, requests, re, time, argparse, sys, io
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, date
 # Fix Windows console encoding
 try: sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
@@ -199,14 +200,19 @@ def main():
     wanted = set(args.categories.split(',')) if args.categories else None
 
     total_new = total_skip = 0
-    for cat in cats:
-        if wanted and cat['id'] not in wanted:
-            continue
-        if not cat['id']:
-            continue
-        new, skip = scrape_category(cat['id'], cat['name'], args.max_pages, args.delay)
-        total_new  += new
-        total_skip += skip
+    jobs = [(cat['id'], cat['name']) for cat in cats
+            if (not wanted or cat['id'] in wanted) and cat['id']]
+    with ThreadPoolExecutor(max_workers=5) as ex:
+        futures = {ex.submit(scrape_category, cid, cname, args.max_pages, args.delay): (cid, cname)
+                   for cid, cname in jobs}
+        for fut in as_completed(futures):
+            cid, cname = futures[fut]
+            try:
+                new, skip = fut.result()
+                total_new  += new
+                total_skip += skip
+            except Exception as e:
+                print(f"  ⚠  Category failed ({cname}, id={cid}): {e}")
 
     print(f"\n[DONE] {total_new} new price records, {total_skip} already recorded today.\n")
 
