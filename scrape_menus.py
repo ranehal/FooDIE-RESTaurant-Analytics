@@ -8,6 +8,8 @@ import json
 import base64
 import time
 import os
+import threading
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -33,6 +35,7 @@ LOCATIONS = [
 
 PAGE_LIMIT = 20
 REQUEST_DELAY = 0.3
+MAX_WORKERS = 5
 
 
 def double_b64(val):
@@ -274,6 +277,58 @@ def merge_into_restaurant(rest, detail):
         rest["totalReviewCount"] = detail["totalReviewCount"]
 
 
+_thread_local = threading.local()
+_worker_clients = []
+_worker_clients_lock = threading.Lock()
+_save_lock = threading.Lock()
+
+
+def _worker_client():
+    client = getattr(_thread_local, "client", None)
+    if client is None:
+        client = httpx.Client(http2=True, follow_redirects=True)
+        _thread_local.client = client
+        with _worker_clients_lock:
+            _worker_clients.append(client)
+    return client
+
+
+def scrape_restaurant_menu(rest, lat, lng, seed_sxsrf, idx, total_to_scrape):
+    client = _worker_client()
+    sxsrf = getattr(_thread_local, "sxsrf", seed_sxsrf)
+    consecutive_fails = getattr(_thread_local, "consecutive_fails", 0)
+    req_count = getattr(_thread_local, "req_count", 0)
+
+    rid = rest["id"]
+    rname = rest.get("name", str(rid))
+
+    ok = False
+    try:
+        sxsrf, consecutive_fails = ensure_sxsrf(client, lat, lng, sxsrf, consecutive_fails, req_count)
+
+        detail, sxsrf = fetch_branch_detail(client, rid, lat, lng, sxsrf)
+
+        if detail:
+            parsed = parse_branch_detail(detail)
+            merge_into_restaurant(rest, parsed)
+            dish_count = len(parsed.get("menus", {}))
+            if dish_count > 0:
+                print(f"  [{idx+1}/{total_to_scrape}] {rname}: {dish_count} dishes")
+            else:
+                print(f"  [{idx+1}/{total_to_scrape}] {rname}: empty menu")
+            ok = True
+        else:
+            print(f"  [{idx+1}/{total_to_scrape}] {rname}: FAIL")
+    except Exception as exc:
+        print(f"  [{idx+1}/{total_to_scrape}] {rname}: EXC {exc!r}")
+    finally:
+        _thread_local.sxsrf = sxsrf
+        _thread_local.consecutive_fails = 0 if ok else consecutive_fails + 1
+        _thread_local.req_count = req_count + 1
+        time.sleep(REQUEST_DELAY)
+    return ok
+
+
 def main():
     print("=" * 60)
     print("  FoodiEATS Live Scraper")
@@ -305,36 +360,27 @@ def main():
 
         scraped = 0
         failed = 0
-        consecutive_fails = 0
         total_to_scrape = len(restaurants)
 
-        for i, rest in enumerate(restaurants):
-            rid = rest["id"]
-            rname = rest.get("name", str(rid))
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+            futures = [
+                executor.submit(scrape_restaurant_menu, rest, lat, lng, sxsrf, i, total_to_scrape)
+                for i, rest in enumerate(restaurants)
+            ]
 
-            sxsrf, consecutive_fails = ensure_sxsrf(client, lat, lng, sxsrf, consecutive_fails, i)
-
-            detail, sxsrf = fetch_branch_detail(client, rid, lat, lng, sxsrf)
-
-            if detail:
-                parsed = parse_branch_detail(detail)
-                merge_into_restaurant(rest, parsed)
-                dish_count = len(parsed.get("menus", {}))
-                scraped += 1
-                consecutive_fails = 0
-                if dish_count > 0:
-                    print(f"  [{i+1}/{total_to_scrape}] {rname}: {dish_count} dishes")
+            for completed, future in enumerate(as_completed(futures), 1):
+                try:
+                    ok = future.result()
+                except Exception as exc:
+                    print(f"  [worker] task raised: {exc!r}")
+                    ok = False
+                if ok:
+                    scraped += 1
                 else:
-                    print(f"  [{i+1}/{total_to_scrape}] {rname}: empty menu")
-            else:
-                failed += 1
-                consecutive_fails += 1
-                print(f"  [{i+1}/{total_to_scrape}] {rname}: FAIL")
+                    failed += 1
 
-            time.sleep(REQUEST_DELAY)
-
-            if (i + 1) % 20 == 0:
-                _save(output_locations)
+                if completed % 20 == 0:
+                    _save(output_locations)
 
         loc_dishes = sum(len(r.get("menus", {})) for r in restaurants)
         total_restaurants += len(restaurants)
@@ -351,6 +397,8 @@ def main():
         print(f"\n  Location summary: {len(restaurants)} restaurants, {loc_dishes} dishes ({scraped} ok, {failed} failed)")
 
     client.close()
+    for wc in _worker_clients:
+        wc.close()
 
     output = {
         "locations": output_locations,
@@ -376,8 +424,9 @@ def _save(locations):
         return
     total_r = sum(len(loc["restaurants"]) for loc in locations)
     total_d = sum(len(r.get("menus", {})) for loc in locations for r in loc["restaurants"])
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump({"locations": locations, "totalRestaurants": total_r, "totalDishes": total_d}, f, ensure_ascii=False)
+    with _save_lock:
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump({"locations": locations, "totalRestaurants": total_r, "totalDishes": total_d}, f, ensure_ascii=False)
 
 
 if __name__ == "__main__":
