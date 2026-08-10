@@ -16047,9 +16047,7 @@
               "menuIds": [
                 876663,
                 876564,
-                876661,
                 876565,
-                876644,
                 876660
               ]
             },
@@ -16127,20 +16125,6 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "876661": {
-              "id": 876661,
-              "name": "Korola Bhaji",
-              "price": "42.4",
-              "oldPrice": "53",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Korolla-Bhaji-n-015d-20260122070158858.jpg",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "876565": {
               "id": 876565,
               "name": "Poached Egg",
@@ -16162,20 +16146,6 @@
               "oldPrice": "55",
               "hasVariation": 0,
               "image": "/restaurant-service/RestaurantMenuitem/Egg-Curry-n-2-981d-20260122065030247.jpg",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "876644": {
-              "id": 876644,
-              "name": "Plain Dal",
-              "price": "24",
-              "oldPrice": "30",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Dal-6696-20260122065030193.jpg",
               "bannerImage": null,
               "isPopular": false,
               "description": null,
@@ -17803,9 +17773,9 @@
               "priorityNumber": 0,
               "menuIds": [
                 429448,
-                429449,
                 429445,
-                429453
+                429453,
+                429449
               ]
             },
             {
@@ -17813,9 +17783,9 @@
               "name": "Hut Meal Combo",
               "priorityNumber": 1,
               "menuIds": [
+                484774,
                 484748,
                 484826,
-                484774,
                 484800
               ]
             },
@@ -17866,10 +17836,10 @@
               "menuIds": [
                 429433,
                 429428,
-                429432,
-                429431,
                 429429,
-                429430
+                429431,
+                429430,
+                429432
               ]
             },
             {
@@ -17877,15 +17847,15 @@
               "name": "Pan Pizza",
               "priorityNumber": 5,
               "menuIds": [
-                429455,
-                429444,
                 429451,
                 429457,
                 429448,
-                429442,
-                429449,
                 429445,
-                429453
+                429453,
+                429455,
+                429444,
+                429442,
+                429449
               ]
             },
             {
@@ -17893,11 +17863,11 @@
               "name": "Thin Crust Pizza",
               "priorityNumber": 6,
               "menuIds": [
-                429470,
-                429467,
                 429471,
                 429468,
                 429469,
+                429470,
+                429467,
                 429472
               ]
             },
@@ -17906,15 +17876,15 @@
               "name": "Stuffed Crust Sausage",
               "priorityNumber": 7,
               "menuIds": [
+                429529,
                 429538,
                 429527,
+                429528,
                 429531,
                 429536,
-                429539,
                 429535,
-                429530,
-                429529,
-                429528
+                429539,
+                429530
               ]
             },
             {
@@ -17923,13 +17893,13 @@
               "priorityNumber": 8,
               "menuIds": [
                 607296,
-                607270,
-                429476,
                 429480,
+                429476,
                 429477,
                 429475,
                 429478,
-                429479
+                429479,
+                607270
               ]
             },
             {
@@ -17937,11 +17907,11 @@
               "name": "Baked Pasta",
               "priorityNumber": 9,
               "menuIds": [
-                429516,
-                429513,
-                429514,
                 429517,
-                429515
+                429516,
+                429515,
+                429513,
+                429514
               ]
             },
             {
@@ -17966,61 +17936,78 @@
               "priorityNumber": 11,
               "menuIds": [
                 429543,
-                429540,
                 429541,
+                429540,
                 429542
               ]
             }
           ],
           "menus": {
-            "429455": {
-              "id": 429455,
-              "name": "Chicken Exotica Pan Pizza",
-              "price": "379",
+            "484774": {
+              "id": 484774,
+              "name": "Duo Meal",
+              "price": "949",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Exotica-Pan-Pizza-d544-20250212122030437.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Exotica-Pan-Pizza-7fba-20250212122030517.webp",
+              "image": "/restaurant-service/RestaurantMenuitem/Duo-Meal-cef2-20250212122654569.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Duo-Meal-53fe-20250212122654674.webp",
               "isPopular": false,
-              "description": "Beef, onions, black olives, capsicum.",
+              "description": "1 Medium Pan Pizza (BBQ Chicken), half portion Garlic Bread Cheese & 1 Choco Volcano",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "429529": {
+              "id": 429529,
+              "name": "BBQ Temptation Sausage Stuffed Crust Pizza",
+              "price": "1549",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Bbq Temptation_492f_20240508053318640.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Our signature crust stuffed with sausage, topped with cheese and our delicious BBQ glaze.",
               "variationIds": [
                 23792,
-                23793,
                 23799
               ],
               "addOnCategoryIds": [],
               "variationOtherInfo": {
                 "23792": {
-                  "price": "749",
+                  "price": "1549",
                   "oldPrice": "0",
                   "addOnCategoryIds": [
                     19033
                   ],
                   "addonCategoryUniqueIds": {
-                    "19033": 102200
-                  }
-                },
-                "23793": {
-                  "price": "379",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19023
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19023": 102224
+                    "19033": 102210
                   }
                 },
                 "23799": {
-                  "price": "1349",
+                  "price": "2249",
                   "oldPrice": "0",
                   "addOnCategoryIds": [
                     19028
                   ],
                   "addonCategoryUniqueIds": {
-                    "19028": 102277
+                    "19028": 102287
                   }
                 }
               }
+            },
+            "429517": {
+              "id": 429517,
+              "name": "Baked Fusilli Cheese Baked Pasta with Arabiata Sauce",
+              "price": "519",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Backed-Fusilli-Cheese-Baked-pasta-with-Arabiata-Sauce-f1d5-20250212122248117.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Backed-Fusilli-Cheese-Baked-pasta-with-Arabiata-Sauce-9c0f-20250212122248211.webp",
+              "isPopular": false,
+              "description": "Pasta coated withPasta coated with chunky arabiatta sauce topped with capsicum, onion, tomato & mozzarella cheese. chunky arabiatta sauce topped with capsicum, onion, tomato & mozzarella cheese.",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
             },
             "429437": {
               "id": 429437,
@@ -18056,44 +18043,6 @@
                   ],
                   "addonCategoryUniqueIds": {
                     "19028": 125340
-                  }
-                }
-              }
-            },
-            "429538": {
-              "id": 429538,
-              "name": "Spicy Chicken Sausage Stuffed Crust Pizza",
-              "price": "1499",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Spicy Chicken_0de7_20240508055925072.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Chicken, mushroom, onion, green chilies.",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1499",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102215
-                  }
-                },
-                "23799": {
-                  "price": "2149",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102292
                   }
                 }
               }
@@ -18136,51 +18085,40 @@
                 }
               }
             },
-            "429444": {
-              "id": 429444,
-              "name": "Beef Lovers Pan Pizza",
-              "price": "399",
+            "429538": {
+              "id": 429538,
+              "name": "Spicy Chicken Sausage Stuffed Crust Pizza",
+              "price": "1499",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Beef Lovers Personal Pan_3e36_20240508071416591.webp",
+              "image": "/restaurant-service/menuitem/Spicy Chicken_0de7_20240508055925072.webp",
               "bannerImage": null,
               "isPopular": false,
-              "description": "Beef, onions, black olives, capsicum.",
+              "description": "Chicken, mushroom, onion, green chilies.",
               "variationIds": [
                 23792,
-                23793,
                 23799
               ],
               "addOnCategoryIds": [],
               "variationOtherInfo": {
                 "23792": {
-                  "price": "849",
+                  "price": "1499",
                   "oldPrice": "0",
                   "addOnCategoryIds": [
                     19033
                   ],
                   "addonCategoryUniqueIds": {
-                    "19033": 102194
-                  }
-                },
-                "23793": {
-                  "price": "399",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19023
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19023": 102218
+                    "19033": 102215
                   }
                 },
                 "23799": {
-                  "price": "1499",
+                  "price": "2149",
                   "oldPrice": "0",
                   "addOnCategoryIds": [
                     19028
                   ],
                   "addonCategoryUniqueIds": {
-                    "19028": 102271
+                    "19028": 102292
                   }
                 }
               }
@@ -18261,20 +18199,6 @@
                 }
               }
             },
-            "607296": {
-              "id": 607296,
-              "name": "Tandoori Chicken Wings",
-              "price": "499",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Tandoori-Wings-1-63a7-20250508112754190.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Tandoori-Wings-1-a684-20250508112754254.webp",
-              "isPopular": false,
-              "description": "Tender and Juicy Chicken Wins with Tandoori Sauce",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "429543": {
               "id": 429543,
               "name": "Hot BBQ Sauce Dip",
@@ -18285,6 +18209,20 @@
               "bannerImage": null,
               "isPopular": false,
               "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "607296": {
+              "id": 607296,
+              "name": "Tandoori Chicken Wings",
+              "price": "499",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Tandoori-Wings-1-63a7-20250508112754190.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Tandoori-Wings-1-a684-20250508112754254.webp",
+              "isPopular": false,
+              "description": "Tender and Juicy Chicken Wins with Tandoori Sauce",
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
@@ -18376,33 +18314,55 @@
                 }
               }
             },
-            "775680": {
-              "id": 775680,
-              "name": "Sizzler Melts ",
-              "price": "229",
+            "429480": {
+              "id": 429480,
+              "name": "Spicy Garlic Mushrooms",
+              "price": "549",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Sizzler-Melts-Single-92da-20251101105933667.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Sizzler-Melts-Double-95f9-20251101105933744.webp",
+              "image": "/restaurant-service/menuitem/Spicy Garlic Mushrooms_5056_20240421063054128.webp",
+              "bannerImage": null,
               "isPopular": false,
-              "description": "Spicy Chicken, Capsicum, Red Paprika",
+              "description": "Button mushrooms lightly sauteed in a blend of herbs & spicy garlic",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "429528": {
+              "id": 429528,
+              "name": "Beef Pepperoni Sausage Stuffed Crust",
+              "price": "1549",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Beef Pepperoni Sausage Stuffed Crust_1d9c_20240508065606041.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Slices of pepperoni (our pepperoni is 100% halal beef)",
               "variationIds": [
-                23794,
-                23795
+                23792,
+                23799
               ],
               "addOnCategoryIds": [],
               "variationOtherInfo": {
-                "23794": {
-                  "price": "389",
+                "23792": {
+                  "price": "1549",
                   "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102209
+                  }
                 },
-                "23795": {
-                  "price": "229",
+                "23799": {
+                  "price": "2249",
                   "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102286
+                  }
                 }
               }
             },
@@ -18444,41 +18404,33 @@
                 }
               }
             },
-            "429470": {
-              "id": 429470,
-              "name": "Beef Supremo Thin Crust",
-              "price": "1099",
+            "775680": {
+              "id": 775680,
+              "name": "Sizzler Melts ",
+              "price": "229",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Beef Supremo_1820_20240508042739312.webp",
-              "bannerImage": null,
+              "image": "/restaurant-service/RestaurantMenuitem/Sizzler-Melts-Single-92da-20251101105933667.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Sizzler-Melts-Double-95f9-20251101105933744.webp",
               "isPopular": false,
-              "description": "Beef pepperoni , beef, mushrooms.",
+              "description": "Spicy Chicken, Capsicum, Red Paprika",
               "variationIds": [
-                23792,
-                23799
+                23794,
+                23795
               ],
               "addOnCategoryIds": [],
               "variationOtherInfo": {
-                "23792": {
-                  "price": "1099",
+                "23794": {
+                  "price": "389",
                   "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102205
-                  }
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
                 },
-                "23799": {
-                  "price": "1799",
+                "23795": {
+                  "price": "229",
                   "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102282
-                  }
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
                 }
               }
             },
@@ -18520,58 +18472,6 @@
                 }
               }
             },
-            "429467": {
-              "id": 429467,
-              "name": "Beef Lovers Thin Crust",
-              "price": "849",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Beef-Lovers-Thin-Crust-04ab-20250212122105644.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Beef-Lovers-Thin-Crust-c06a-20250212122105863.webp",
-              "isPopular": false,
-              "description": "Beef, onions, black olives, capsicum",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "849",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102202
-                  }
-                },
-                "23799": {
-                  "price": "1499",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102279
-                  }
-                }
-              }
-            },
-            "429473": {
-              "id": 429473,
-              "name": "Veggie Mayo Salad 1:1",
-              "price": "119",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Veggie-Mayo-Salad-1401-20250212123304531.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Veggie-Mayo-Salad-d4e6-20250212123304592.webp",
-              "isPopular": false,
-              "description": "Prepared with capsicum, cabbage, carrot, black olives & sweet corn blended with mayonnaise dressing",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "429458": {
               "id": 429458,
               "name": "Baked Rice with BBQ Chicken",
@@ -18586,35 +18486,57 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
-            "775732": {
-              "id": 775732,
-              "name": "Spicy Keema Melts ",
-              "price": "229",
+            "429429": {
+              "id": 429429,
+              "name": "Pan Tandoori Chicken Pizza",
+              "price": "749",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Spicy-Keema-Melts-Single-68d2-20251101110039758.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Spicy-Keema-Melts-Double-75cc-20251101110039827.webp",
+              "image": "/restaurant-service/menuitem/Pan Tandoori Chicken_ab6a_20240507074331462.webp",
+              "bannerImage": null,
               "isPopular": false,
-              "description": "Beef Keema, Onion, Green Chili",
+              "description": "Chicken Tandoori, Onion, Tomato",
               "variationIds": [
-                23794,
-                23795
+                23792,
+                23799
               ],
               "addOnCategoryIds": [],
               "variationOtherInfo": {
-                "23794": {
-                  "price": "389",
+                "23792": {
+                  "price": "749",
                   "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102188
+                  }
                 },
-                "23795": {
-                  "price": "229",
+                "23799": {
+                  "price": "1299",
                   "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102265
+                  }
                 }
               }
+            },
+            "429541": {
+              "id": 429541,
+              "name": "Garlic Mayo Dip",
+              "price": "39",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Garlic Mayo Dip_49c6_20240421050541157.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
             },
             "429471": {
               "id": 429471,
@@ -18651,36 +18573,6 @@
                   "addonCategoryUniqueIds": {
                     "19028": 102283
                   }
-                }
-              }
-            },
-            "775654": {
-              "id": 775654,
-              "name": "Tikka Melts",
-              "price": "229",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Tikka-Melts-Single-87dc-20251101105912175.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Tikka-Melts-double-b1b0-20251101105912241.webp",
-              "isPopular": false,
-              "description": "Chicken Tikka, Tomato, Capsicum",
-              "variationIds": [
-                23794,
-                23795
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23794": {
-                  "price": "389",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
-                },
-                "23795": {
-                  "price": "229",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
                 }
               }
             },
@@ -18733,20 +18625,6 @@
                 }
               }
             },
-            "484748": {
-              "id": 484748,
-              "name": "Double Delight",
-              "price": "1099",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Double-Delight-8dc0-20250212122457231.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Double-Delight-bfcb-20250212122457433.webp",
-              "isPopular": false,
-              "description": "1 Medium Pan Pizza(Red N Hot) & 1 Personal pan pizza (Ultimate Hot Chicken)",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
             "429448": {
               "id": 429448,
               "name": "Double Cheese Pan Pizza",
@@ -18796,43 +18674,19 @@
                 }
               }
             },
-            "429435": {
-              "id": 429435,
-              "name": "Premium Chicken Momo",
-              "price": "949",
+            "484748": {
+              "id": 484748,
+              "name": "Double Delight",
+              "price": "1099",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Premium Chicken Momo_858e_20240421062355717.webp",
-              "bannerImage": null,
+              "image": "/restaurant-service/RestaurantMenuitem/Double-Delight-8dc0-20250212122457231.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Double-Delight-bfcb-20250212122457433.webp",
               "isPopular": false,
-              "description": "Chicken momo with chicken, chicken sausage, mushroom, tomato",
-              "variationIds": [
-                23792,
-                23799
-              ],
+              "description": "1 Medium Pan Pizza(Red N Hot) & 1 Personal pan pizza (Ultimate Hot Chicken)",
+              "variationIds": [],
               "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "949",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 125393
-                  }
-                },
-                "23799": {
-                  "price": "1699",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 125392
-                  }
-                }
-              }
+              "variationOtherInfo": {}
             },
             "429540": {
               "id": 429540,
@@ -18847,55 +18701,6 @@
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
-            },
-            "429442": {
-              "id": 429442,
-              "name": "The Works Pan Pizza",
-              "price": "519",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/The Works Pan Pizza_7c18_20240508071619506.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Beef pepperoni, beef, spicy chicken, chicken, onions, mushrooms, capsicum, black olives.",
-              "variationIds": [
-                23792,
-                23793,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1099",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102193
-                  }
-                },
-                "23793": {
-                  "price": "519",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19023
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19023": 102217
-                  }
-                },
-                "23799": {
-                  "price": "1799",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102270
-                  }
-                }
-              }
             },
             "429516": {
               "id": 429516,
@@ -18924,69 +18729,6 @@
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
-            },
-            "429513": {
-              "id": 429513,
-              "name": "Baked Fusilli Chicken Mushroom Pasta",
-              "price": "679",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Screenshot-2025-11-01-170308-6156-20251101110422774.webp",
-              "bannerImage": "",
-              "isPopular": false,
-              "description": "Pasta coated with creamy mushroom sauce topped with spicy chicken, capsicum, onion, tomato & mozzarella cheese.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "429449": {
-              "id": 429449,
-              "name": "BBQ Temptation Pan Pizza",
-              "price": "459",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menu/Bbq Temptation_d79a_20240507085010838.webp",
-              "bannerImage": null,
-              "isPopular": true,
-              "description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
-              "variationIds": [
-                23792,
-                23793,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "949",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102197
-                  }
-                },
-                "23793": {
-                  "price": "459",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19023
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19023": 102221
-                  }
-                },
-                "23799": {
-                  "price": "1699",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102274
-                  }
-                }
-              }
             },
             "429536": {
               "id": 429536,
@@ -19026,16 +18768,16 @@
                 }
               }
             },
-            "429432": {
-              "id": 429432,
-              "name": "Pan Tandoori Tikka Supreme Pizza",
+            "429431": {
+              "id": 429431,
+              "name": "Pan Spiced Tandoori Chicken Pizza",
               "price": "849",
               "oldPrice": "0",
               "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Tandoori Tikka Supreme_07e2_20240507081446469.webp",
+              "image": "/restaurant-service/menuitem/Pan Spiced Tandoori Chicken Pizza_4616_20240507081409348.webp",
               "bannerImage": null,
               "isPopular": false,
-              "description": "Chicken Tandoori, Chicken Tikka, Capsicum, Tomato, Black Olive",
+              "description": "Chicken Tandoori, Capsicum, Onion, Green Chilli, Sweet Corn",
               "variationIds": [
                 23792,
                 23799
@@ -19049,7 +18791,7 @@
                     19033
                   ],
                   "addonCategoryUniqueIds": {
-                    "19033": 102191
+                    "19033": 102190
                   }
                 },
                 "23799": {
@@ -19059,38 +18801,10 @@
                     19028
                   ],
                   "addonCategoryUniqueIds": {
-                    "19028": 102268
+                    "19028": 102267
                   }
                 }
               }
-            },
-            "607270": {
-              "id": 607270,
-              "name": "Schezwan Chicken Wings",
-              "price": "499",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Schezwan-Wings-2-1917-20250508112754003.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Schezwan-Wings-2-722c-20250508112754111.webp",
-              "isPopular": false,
-              "description": "Tender and Juicy Chicken Wins with Hot Schezwan Sauce",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "429514": {
-              "id": 429514,
-              "name": "Baked Fusilli Chicken Arabiatta Pasta",
-              "price": "569",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Screenshot-2025-11-01-170342-2f5f-20251101110504800.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Screenshot-2025-11-01-170342-8cf3-20251101110504901.webp",
-              "isPopular": false,
-              "description": "Pasta coated with chunky arabiatta sauce topped with spicy chicken, capsicum, onion, tomato & mozzarella cheese.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
             },
             "429445": {
               "id": 429445,
@@ -19137,44 +18851,6 @@
                   ],
                   "addonCategoryUniqueIds": {
                     "19028": 102272
-                  }
-                }
-              }
-            },
-            "429431": {
-              "id": 429431,
-              "name": "Pan Spiced Tandoori Chicken Pizza",
-              "price": "849",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Pan Spiced Tandoori Chicken Pizza_4616_20240507081409348.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Chicken Tandoori, Capsicum, Onion, Green Chilli, Sweet Corn",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "849",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102190
-                  }
-                },
-                "23799": {
-                  "price": "1499",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102267
                   }
                 }
               }
@@ -19230,188 +18906,6 @@
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
-            },
-            "775706": {
-              "id": 775706,
-              "name": "Fiery Chicken Melts ",
-              "price": "229",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Fiery-Chicken-Single-2b65-20251101110009972.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Fiery-Chicken-Double-cdae-20251101110010048.webp",
-              "isPopular": false,
-              "description": "Chicken, Tomato, Green Chili",
-              "variationIds": [
-                23794,
-                23795
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23794": {
-                  "price": "389",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
-                },
-                "23795": {
-                  "price": "229",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [],
-                  "addonCategoryUniqueIds": {}
-                }
-              }
-            },
-            "429539": {
-              "id": 429539,
-              "name": "Supreme Sausage Stuffed Crust Pizza",
-              "price": "1549",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Supreme Sausage Crust_7574_20240508042225076.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Chicken, spicy chicken.",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1549",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102216
-                  }
-                },
-                "23799": {
-                  "price": "2249",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102293
-                  }
-                }
-              }
-            },
-            "429535": {
-              "id": 429535,
-              "name": "BBQ Chicken Sausage Stuffed Crust Pizza",
-              "price": "1499",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/bbq chicken_312b_20240508044612804.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "BBQ Chicken, Green Chillies, Sweet Corn",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1499",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102213
-                  }
-                },
-                "23799": {
-                  "price": "2149",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102290
-                  }
-                }
-              }
-            },
-            "429530": {
-              "id": 429530,
-              "name": "The Works Sausage Stuffed Crust Pizza",
-              "price": "1749",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/GS The Works_ac2c_20240508053103488.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Beef pepperoni, beef, spicy chicken, chicken, onions, mushrooms, capsicum, black olives.",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1749",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102211
-                  }
-                },
-                "23799": {
-                  "price": "2399",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102288
-                  }
-                }
-              }
-            },
-            "429438": {
-              "id": 429438,
-              "name": "Chicken Momo Buzz",
-              "price": "949",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Chicken Momo Buzz_1822_20240421061543333.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Chicken momo with spicy chicken, capsicum, onion, tomato",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "949",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 125445
-                  }
-                },
-                "23799": {
-                  "price": "1699",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 125444
-                  }
-                }
-              }
             },
             "429469": {
               "id": 429469,
@@ -19499,176 +18993,6 @@
                   }
                 }
               }
-            },
-            "484774": {
-              "id": 484774,
-              "name": "Duo Meal",
-              "price": "949",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Duo-Meal-cef2-20250212122654569.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Duo-Meal-53fe-20250212122654674.webp",
-              "isPopular": false,
-              "description": "1 Medium Pan Pizza (BBQ Chicken), half portion Garlic Bread Cheese & 1 Choco Volcano",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "429529": {
-              "id": 429529,
-              "name": "BBQ Temptation Sausage Stuffed Crust Pizza",
-              "price": "1549",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Bbq Temptation_492f_20240508053318640.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Our signature crust stuffed with sausage, topped with cheese and our delicious BBQ glaze.",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1549",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102210
-                  }
-                },
-                "23799": {
-                  "price": "2249",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102287
-                  }
-                }
-              }
-            },
-            "429517": {
-              "id": 429517,
-              "name": "Baked Fusilli Cheese Baked Pasta with Arabiata Sauce",
-              "price": "519",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/RestaurantMenuitem/Backed-Fusilli-Cheese-Baked-pasta-with-Arabiata-Sauce-f1d5-20250212122248117.webp",
-              "bannerImage": "/restaurant-service/RestaurantMenuitem/Backed-Fusilli-Cheese-Baked-pasta-with-Arabiata-Sauce-9c0f-20250212122248211.webp",
-              "isPopular": false,
-              "description": "Pasta coated withPasta coated with chunky arabiatta sauce topped with capsicum, onion, tomato & mozzarella cheese. chunky arabiatta sauce topped with capsicum, onion, tomato & mozzarella cheese.",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "429480": {
-              "id": 429480,
-              "name": "Spicy Garlic Mushrooms",
-              "price": "549",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Spicy Garlic Mushrooms_5056_20240421063054128.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Button mushrooms lightly sauteed in a blend of herbs & spicy garlic",
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
-            },
-            "429528": {
-              "id": 429528,
-              "name": "Beef Pepperoni Sausage Stuffed Crust",
-              "price": "1549",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Beef Pepperoni Sausage Stuffed Crust_1d9c_20240508065606041.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Slices of pepperoni (our pepperoni is 100% halal beef)",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "1549",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102209
-                  }
-                },
-                "23799": {
-                  "price": "2249",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102286
-                  }
-                }
-              }
-            },
-            "429429": {
-              "id": 429429,
-              "name": "Pan Tandoori Chicken Pizza",
-              "price": "749",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Pan Tandoori Chicken_ab6a_20240507074331462.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": "Chicken Tandoori, Onion, Tomato",
-              "variationIds": [
-                23792,
-                23799
-              ],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {
-                "23792": {
-                  "price": "749",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19033
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19033": 102188
-                  }
-                },
-                "23799": {
-                  "price": "1299",
-                  "oldPrice": "0",
-                  "addOnCategoryIds": [
-                    19028
-                  ],
-                  "addonCategoryUniqueIds": {
-                    "19028": 102265
-                  }
-                }
-              }
-            },
-            "429541": {
-              "id": 429541,
-              "name": "Garlic Mayo Dip",
-              "price": "39",
-              "oldPrice": "0",
-              "hasVariation": 0,
-              "image": "/restaurant-service/menuitem/Garlic Mayo Dip_49c6_20240421050541157.webp",
-              "bannerImage": null,
-              "isPopular": false,
-              "description": null,
-              "variationIds": [],
-              "addOnCategoryIds": [],
-              "variationOtherInfo": {}
             },
             "484800": {
               "id": 484800,
@@ -19764,6 +19088,55 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "429455": {
+              "id": 429455,
+              "name": "Chicken Exotica Pan Pizza",
+              "price": "379",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Chicken-Exotica-Pan-Pizza-d544-20250212122030437.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Chicken-Exotica-Pan-Pizza-7fba-20250212122030517.webp",
+              "isPopular": false,
+              "description": "Beef, onions, black olives, capsicum.",
+              "variationIds": [
+                23792,
+                23793,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "749",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102200
+                  }
+                },
+                "23793": {
+                  "price": "379",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19023
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19023": 102224
+                  }
+                },
+                "23799": {
+                  "price": "1349",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102277
+                  }
+                }
+              }
+            },
             "429475": {
               "id": 429475,
               "name": "Garlic Bread with Cheese",
@@ -19777,6 +19150,145 @@
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
+            },
+            "429444": {
+              "id": 429444,
+              "name": "Beef Lovers Pan Pizza",
+              "price": "399",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Beef Lovers Personal Pan_3e36_20240508071416591.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Beef, onions, black olives, capsicum.",
+              "variationIds": [
+                23792,
+                23793,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "849",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102194
+                  }
+                },
+                "23793": {
+                  "price": "399",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19023
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19023": 102218
+                  }
+                },
+                "23799": {
+                  "price": "1499",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102271
+                  }
+                }
+              }
+            },
+            "429470": {
+              "id": 429470,
+              "name": "Beef Supremo Thin Crust",
+              "price": "1099",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Beef Supremo_1820_20240508042739312.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Beef pepperoni , beef, mushrooms.",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "1099",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102205
+                  }
+                },
+                "23799": {
+                  "price": "1799",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102282
+                  }
+                }
+              }
+            },
+            "429473": {
+              "id": 429473,
+              "name": "Veggie Mayo Salad 1:1",
+              "price": "119",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Veggie-Mayo-Salad-1401-20250212123304531.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Veggie-Mayo-Salad-d4e6-20250212123304592.webp",
+              "isPopular": false,
+              "description": "Prepared with capsicum, cabbage, carrot, black olives & sweet corn blended with mayonnaise dressing",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "429467": {
+              "id": 429467,
+              "name": "Beef Lovers Thin Crust",
+              "price": "849",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Beef-Lovers-Thin-Crust-04ab-20250212122105644.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Beef-Lovers-Thin-Crust-c06a-20250212122105863.webp",
+              "isPopular": false,
+              "description": "Beef, onions, black olives, capsicum",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "849",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102202
+                  }
+                },
+                "23799": {
+                  "price": "1499",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102279
+                  }
+                }
+              }
             },
             "429478": {
               "id": 429478,
@@ -19821,6 +19333,216 @@
                   "addonCategoryUniqueIds": {}
                 }
               }
+            },
+            "775732": {
+              "id": 775732,
+              "name": "Spicy Keema Melts ",
+              "price": "229",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Spicy-Keema-Melts-Single-68d2-20251101110039758.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Spicy-Keema-Melts-Double-75cc-20251101110039827.webp",
+              "isPopular": false,
+              "description": "Beef Keema, Onion, Green Chili",
+              "variationIds": [
+                23794,
+                23795
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23794": {
+                  "price": "389",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
+                },
+                "23795": {
+                  "price": "229",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
+                }
+              }
+            },
+            "775654": {
+              "id": 775654,
+              "name": "Tikka Melts",
+              "price": "229",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Tikka-Melts-Single-87dc-20251101105912175.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Tikka-Melts-double-b1b0-20251101105912241.webp",
+              "isPopular": false,
+              "description": "Chicken Tikka, Tomato, Capsicum",
+              "variationIds": [
+                23794,
+                23795
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23794": {
+                  "price": "389",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
+                },
+                "23795": {
+                  "price": "229",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
+                }
+              }
+            },
+            "429435": {
+              "id": 429435,
+              "name": "Premium Chicken Momo",
+              "price": "949",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Premium Chicken Momo_858e_20240421062355717.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Chicken momo with chicken, chicken sausage, mushroom, tomato",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "949",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 125393
+                  }
+                },
+                "23799": {
+                  "price": "1699",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 125392
+                  }
+                }
+              }
+            },
+            "429442": {
+              "id": 429442,
+              "name": "The Works Pan Pizza",
+              "price": "519",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/The Works Pan Pizza_7c18_20240508071619506.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Beef pepperoni, beef, spicy chicken, chicken, onions, mushrooms, capsicum, black olives.",
+              "variationIds": [
+                23792,
+                23793,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "1099",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102193
+                  }
+                },
+                "23793": {
+                  "price": "519",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19023
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19023": 102217
+                  }
+                },
+                "23799": {
+                  "price": "1799",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102270
+                  }
+                }
+              }
+            },
+            "429449": {
+              "id": 429449,
+              "name": "BBQ Temptation Pan Pizza",
+              "price": "459",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menu/Bbq Temptation_d79a_20240507085010838.webp",
+              "bannerImage": null,
+              "isPopular": true,
+              "description": "Spicy chicken marinated in BBQ sauce, onions, capsicum, tomatoes, green chilies.",
+              "variationIds": [
+                23792,
+                23793,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "949",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102197
+                  }
+                },
+                "23793": {
+                  "price": "459",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19023
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19023": 102221
+                  }
+                },
+                "23799": {
+                  "price": "1699",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102274
+                  }
+                }
+              }
+            },
+            "429513": {
+              "id": 429513,
+              "name": "Baked Fusilli Chicken Mushroom Pasta",
+              "price": "679",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Screenshot-2025-11-01-170308-6156-20251101110422774.webp",
+              "bannerImage": "",
+              "isPopular": false,
+              "description": "Pasta coated with creamy mushroom sauce topped with spicy chicken, capsicum, onion, tomato & mozzarella cheese.",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
             },
             "429472": {
               "id": 429472,
@@ -19874,6 +19596,178 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "429432": {
+              "id": 429432,
+              "name": "Pan Tandoori Tikka Supreme Pizza",
+              "price": "849",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Tandoori Tikka Supreme_07e2_20240507081446469.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Chicken Tandoori, Chicken Tikka, Capsicum, Tomato, Black Olive",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "849",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102191
+                  }
+                },
+                "23799": {
+                  "price": "1499",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102268
+                  }
+                }
+              }
+            },
+            "429514": {
+              "id": 429514,
+              "name": "Baked Fusilli Chicken Arabiatta Pasta",
+              "price": "569",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Screenshot-2025-11-01-170342-2f5f-20251101110504800.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Screenshot-2025-11-01-170342-8cf3-20251101110504901.webp",
+              "isPopular": false,
+              "description": "Pasta coated with chunky arabiatta sauce topped with spicy chicken, capsicum, onion, tomato & mozzarella cheese.",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "607270": {
+              "id": 607270,
+              "name": "Schezwan Chicken Wings",
+              "price": "499",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Schezwan-Wings-2-1917-20250508112754003.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Schezwan-Wings-2-722c-20250508112754111.webp",
+              "isPopular": false,
+              "description": "Tender and Juicy Chicken Wins with Hot Schezwan Sauce",
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "429535": {
+              "id": 429535,
+              "name": "BBQ Chicken Sausage Stuffed Crust Pizza",
+              "price": "1499",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/bbq chicken_312b_20240508044612804.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "BBQ Chicken, Green Chillies, Sweet Corn",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "1499",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102213
+                  }
+                },
+                "23799": {
+                  "price": "2149",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102290
+                  }
+                }
+              }
+            },
+            "429539": {
+              "id": 429539,
+              "name": "Supreme Sausage Stuffed Crust Pizza",
+              "price": "1549",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Supreme Sausage Crust_7574_20240508042225076.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Chicken, spicy chicken.",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "1549",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102216
+                  }
+                },
+                "23799": {
+                  "price": "2249",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102293
+                  }
+                }
+              }
+            },
+            "775706": {
+              "id": 775706,
+              "name": "Fiery Chicken Melts ",
+              "price": "229",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/RestaurantMenuitem/Fiery-Chicken-Single-2b65-20251101110009972.webp",
+              "bannerImage": "/restaurant-service/RestaurantMenuitem/Fiery-Chicken-Double-cdae-20251101110010048.webp",
+              "isPopular": false,
+              "description": "Chicken, Tomato, Green Chili",
+              "variationIds": [
+                23794,
+                23795
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23794": {
+                  "price": "389",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
+                },
+                "23795": {
+                  "price": "229",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [],
+                  "addonCategoryUniqueIds": {}
+                }
+              }
+            },
             "894067": {
               "id": 894067,
               "name": "Valentine Meal",
@@ -19887,6 +19781,82 @@
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
+            },
+            "429438": {
+              "id": 429438,
+              "name": "Chicken Momo Buzz",
+              "price": "949",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/Chicken Momo Buzz_1822_20240421061543333.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Chicken momo with spicy chicken, capsicum, onion, tomato",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "949",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 125445
+                  }
+                },
+                "23799": {
+                  "price": "1699",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 125444
+                  }
+                }
+              }
+            },
+            "429530": {
+              "id": 429530,
+              "name": "The Works Sausage Stuffed Crust Pizza",
+              "price": "1749",
+              "oldPrice": "0",
+              "hasVariation": 0,
+              "image": "/restaurant-service/menuitem/GS The Works_ac2c_20240508053103488.webp",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "Beef pepperoni, beef, spicy chicken, chicken, onions, mushrooms, capsicum, black olives.",
+              "variationIds": [
+                23792,
+                23799
+              ],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {
+                "23792": {
+                  "price": "1749",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19033
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19033": 102211
+                  }
+                },
+                "23799": {
+                  "price": "2399",
+                  "oldPrice": "0",
+                  "addOnCategoryIds": [
+                    19028
+                  ],
+                  "addonCategoryUniqueIds": {
+                    "19028": 102288
+                  }
+                }
+              }
             },
             "429542": {
               "id": 429542,
@@ -19909,14 +19879,14 @@
               "name": "Medium Pan",
               "isAvailable": true
             },
-            "23793": {
-              "id": 23793,
-              "name": "Personal Pan",
-              "isAvailable": true
-            },
             "23799": {
               "id": 23799,
               "name": "Family Pan",
+              "isAvailable": true
+            },
+            "23793": {
+              "id": 23793,
+              "name": "Personal Pan",
               "isAvailable": true
             },
             "23794": {
@@ -45119,7 +45089,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-11T02:00:00Z",
+          "openAt": "2026-08-12T02:00:00Z",
           "distance": 1.1798304379151265,
           "deliveryTime": 15,
           "totalDeliveryTime": 15,
@@ -133338,7 +133308,7 @@
           "deliveryCharge": 46,
           "rating": 3.9168460369110103,
           "ratingCount": 279,
-          "averageReviewCount": 3.9168460369110107,
+          "averageReviewCount": 3.9168460369110103,
           "totalReviewCount": 279,
           "priceRange": "৳৳",
           "location": {
@@ -203407,10 +203377,10 @@
           "isPopular": false,
           "isTakePreOrder": true,
           "deliveryCharge": 41,
-          "rating": 4.4014087,
-          "ratingCount": 213,
-          "averageReviewCount": 4.401408672332764,
-          "totalReviewCount": 213,
+          "rating": 4.404205799102783,
+          "ratingCount": 214,
+          "averageReviewCount": 4.404205799102783,
+          "totalReviewCount": 214,
           "priceRange": "৳৳",
           "location": {
             "latitude": 23.7610284,
@@ -280707,7 +280677,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-11T02:00:00Z",
+          "openAt": "2026-08-12T02:00:00Z",
           "distance": 1.4868074137607907,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.920844482564746,
@@ -281164,7 +281134,7 @@
           "image": "/restaurant-service/Logo-3f09-20260114081622470.jpg",
           "coverImage": "/restaurant-service/Cover-9150-20260114081622497.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-11T02:00:00Z",
+          "openAt": "2026-08-12T02:00:00Z",
           "distance": 1.4868074137607907,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.920844482564746,
@@ -350926,6 +350896,6 @@
     }
   ],
   "totalRestaurants": 330,
-  "totalDishes": 13496,
-  "scrapedAt": "2026-08-10T18:23:38.266881+00:00"
+  "totalDishes": 13494,
+  "scrapedAt": "2026-08-10T20:28:49.122489+00:00"
 }
