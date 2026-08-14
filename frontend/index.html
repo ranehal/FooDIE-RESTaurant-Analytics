@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>ShareDeal // Price Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="style.css?v=20260813b" rel="stylesheet"/>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="logo">SD</div>
+    <div>
+      <h1>SHAREDEAL <span class="sub">PRICE TRACKER</span></h1>
+      <div class="brand-line">sharedealnow.com · daily price history</div>
+    </div>
+  </div>
+  <div class="stats" id="top-stats">
+    <div class="stat"><span class="stat-num" id="st-products">–</span><span class="stat-label">Products</span></div>
+    <div class="stat"><span class="stat-num" id="st-cats">–</span><span class="stat-label">Categories</span></div>
+    <div class="stat"><span class="stat-num" id="st-days">–</span><span class="stat-label">Days tracked</span></div>
+    <div class="stat"><span class="stat-num" id="st-on-sale">–</span><span class="stat-label">On sale</span></div>
+    <div class="stat"><span class="stat-num" id="st-changed">–</span><span class="stat-label">Changed today</span></div>
+  </div>
+  <div class="updated" id="last-updated">as of –</div>
+</header>
+
+<main class="layout">
+  <section class="controls">
+    <input id="search" type="search" placeholder="Search name or SKU…" autocomplete="off"/>
+    <select id="cat-filter"></select>
+    <select id="sort">
+      <option value="name">Sort: Name</option>
+      <option value="price">Sort: Price</option>
+      <option value="drop">Sort: Biggest drop</option>
+      <option value="rise">Sort: Biggest rise</option>
+      <option value="sale">Sort: Discount %</option>
+    </select>
+    <span class="result-count" id="result-count"></span>
+  </section>
+
+  <div id="grid" class="grid"></div>
+  <div class="empty" id="empty" hidden>No products match.</div>
+</main>
+
+<div class="drawer" id="drawer">
+  <div class="drawer-head">
+    <div class="drawer-title">
+      <h2 id="d-name">Product</h2>
+      <div class="d-meta"><span id="d-sku"></span><span id="d-cat"></span><span id="d-unit"></span></div>
+    </div>
+    <button class="close" id="d-close" title="Close">✕</button>
+  </div>
+  <div class="drawer-body">
+    <div class="d-hero">
+      <img id="d-img" alt="" onerror="this.style.display='none'"/>
+      <div class="d-prices">
+        <div class="d-now"><span class="d-now-label">Today</span><span id="d-now">–</span></div>
+        <div class="d-price-grid">
+          <span class="pg-label">Regular</span><span id="d-regular">–</span>
+          <span class="pg-label">Offer</span><span id="d-offer">–</span>
+          <span class="pg-label">Group</span><span id="d-group">–</span>
+        </div>
+      </div>
+      <div class="d-stats">
+        <div class="dstat"><span class="n" id="d-low">–</span><span class="l">All-time low</span></div>
+        <div class="dstat"><span class="n" id="d-high">–</span><span class="l">All-time high</span></div>
+        <div class="dstat"><span class="n" id="d-drop">–</span><span class="l">vs prev day</span></div>
+      </div>
+    </div>
+    <div class="chart-wrap">
+      <canvas id="d-chart"></canvas>
+      <div class="chart-legend">
+        <span class="lg lg-regular">Regular</span>
+        <span class="lg lg-offer">Offer</span>
+        <span class="lg lg-group">Group</span>
+      </div>
+    </div>
+    <table class="hist-table" id="d-hist">
+      <thead><tr><th>Date</th><th>Regular</th><th>Offer</th><th>Group</th><th>Stock</th></tr></thead>
+      <tbody></tbody>
+    </table>
+  </div>
+</div>
+<div class="scrim" id="scrim"></div>
+
+<script src="sharedeal_data.js"></script>
+<script src="script.js?v=20260813b"></script>
+</body>
+</html>

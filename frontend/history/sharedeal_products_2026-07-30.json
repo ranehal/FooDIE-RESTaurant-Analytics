@@ -1,0 +1,1283 @@
+{
+  "464": {
+    "id": 464,
+    "name": "Bombay Sweets Chanachur 500 gm",
+    "slug": "bombay-sweets-chanachur-500-gm",
+    "sku": "TPUCOsgl",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/727/chanachur.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 150.0,
+        "offer": 145.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "406": {
+    "id": 406,
+    "name": "Starship Full Cream Milk Powder 500gm",
+    "slug": "starship-full-cream-milk-powder-500gm",
+    "sku": "GjA5mBEU",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/565/starship-full-cream-milk-powder-500-gm%5B1%5D",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 380.0,
+        "offer": 370.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "388": {
+    "id": 388,
+    "name": "Nescafe 3 In 1 Original Instant Coffee",
+    "slug": "nescafe-3-in-1-original-instant-coffee",
+    "sku": "RVKvxMi5",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/525/Nescafe-3-In-1-Original.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 15.0,
+        "offer": 14.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "382": {
+    "id": 382,
+    "name": "Nestle Maggi 2 Minute Masala Instant Noodles 8 Pack",
+    "slug": "nestle-maggi-2-minute-masala-instant-noodles-8-pack",
+    "sku": "5d33prk3",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/517/nestle-maggi-2-minute-masala-instant-noodles-8-pack.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 180.0,
+        "offer": 170.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "375": {
+    "id": 375,
+    "name": "Olympic Lexus Vegetable Crackers Biscuits 216 gm",
+    "slug": "olympic-lexus-vegetable-crackers-biscuits-216-gm",
+    "sku": "bW7tIXHA",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/508/olympic-lexus-vegetable-crackers-biscuits-216-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 100.0,
+        "offer": 95.0,
+        "group": null,
+        "stock": 80.0
+      }
+    ]
+  },
+  "374": {
+    "id": 374,
+    "name": "Haque Mr. Cookie Butter Coconut Biscuit 175gm",
+    "slug": "haque-mr-cookie-butter-coconut-biscuit-175gm",
+    "sku": "DJqjYTB9",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": "100",
+    "image": "https://sharedealnow.com/storage/507/haque-mr-cookie-butter-coconut-biscuit-175-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 50.0,
+        "offer": 50.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "373": {
+    "id": 373,
+    "name": "Ruchi Jhal Chanachur 150gm",
+    "slug": "ruchi-jhal-chanachur-150gm",
+    "sku": "xlWCCjPx",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/506/ruchi-jhal-chanachur-150-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 50.0,
+        "offer": 48.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "372": {
+    "id": 372,
+    "name": "Ruchi Bbq Chanachur 150gm",
+    "slug": "ruchi-bbq-chanachur-150gm",
+    "sku": "ziDGlujD",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/505/ruchi-bbq-chanachur-150-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 50.0,
+        "offer": 48.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "371": {
+    "id": 371,
+    "name": "Pringles Sour Cream & Onion",
+    "slug": "pringles-sour-cream-onion",
+    "sku": "WNQGzjz0",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/504/pringles-sour-cream-onion-potato-chips-134-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 350.0,
+        "offer": 342.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "370": {
+    "id": 370,
+    "name": "Sun Chips Tomato Tango",
+    "slug": "sun-chips-tomato-tango",
+    "sku": "0xQRO3mX",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/503/sun-chips-tomato-tango-20-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 20.0,
+        "offer": 19.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "369": {
+    "id": 369,
+    "name": "Bombay Sweets Potato Crackers",
+    "slug": "bombay-sweets-potato-crackers",
+    "sku": "S5b7qXlJ",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/502/bombay-sweets-potato-crackers-28-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 20.0,
+        "offer": 19.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "323": {
+    "id": 323,
+    "name": "Doodles Stick Noodles 150 gm",
+    "slug": "doodles-stick-noodles-150-gm",
+    "sku": "xcUdNg20",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/418/download.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 20.0,
+        "offer": 19.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "322": {
+    "id": 322,
+    "name": "Cocola Chicken Masala Stick Noodles",
+    "slug": "cocola-chicken-masala-stick-noodles",
+    "sku": "BjOBZr6O",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/417/cocola-chicken-masala-noodles-180-gm.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 25.0,
+        "offer": 23.0,
+        "group": null,
+        "stock": 103.0
+      }
+    ]
+  },
+  "321": {
+    "id": 321,
+    "name": "Mr.Noodles Magic Masala Easy Instant",
+    "slug": "mrnoodles-magic-masala-easy-instant",
+    "sku": "BDWE4VJ2",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/416/images-%282%29.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 170.0,
+        "offer": 165.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "320": {
+    "id": 320,
+    "name": "PRAN Vermicelli 200 gm",
+    "slug": "pran-vermicelli-200-gm",
+    "sku": "yYlQ1kOV",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/415/750_750_0049_vermicelli-pack.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 45.0,
+        "offer": 43.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "319": {
+    "id": 319,
+    "name": "PRAN Lachcha Semai 200 gm",
+    "slug": "pran-lachcha-semai-200-gm",
+    "sku": "pR9VXTxp",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/414/images-%281%29.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 50.0,
+        "offer": 45.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "318": {
+    "id": 318,
+    "name": "Kolson Vermicelli Semai 200gm",
+    "slug": "kolson-vermicelli-semai-200gm",
+    "sku": "Pa5akXrR",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/413/kolson-vermicelli-semai-200gm-600x600.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 45.0,
+        "offer": 40.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "317": {
+    "id": 317,
+    "name": "Kolson Laccha Shemai 200 gm",
+    "slug": "kolson-laccha-shemai-200-gm",
+    "sku": "ZLMpA1Zs",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/412/kolson-special-lascha-semai-175-gm.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 50.0,
+        "offer": 45.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "303": {
+    "id": 303,
+    "name": "Ispi Orange Drink - 250gm",
+    "slug": "ispi-orange-drink-250gm",
+    "sku": "YHaD7nJn",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/398/images-%281%29.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 160.0,
+        "offer": 145.0,
+        "group": null,
+        "stock": 99.0
+      }
+    ]
+  },
+  "302": {
+    "id": 302,
+    "name": "Mr. Noodles Single Pack",
+    "slug": "mr-noodles-single-pack",
+    "sku": "A4XqzXWN",
+    "category_id": "23",
+    "category": "Snacks",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/397/1705933469_1623935687.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 20.0,
+        "offer": 19.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "387": {
+    "id": 387,
+    "name": "Fresh Perfumed Facial Tissue (150 X 2) ply Box",
+    "slug": "fresh-perfumed-facial-tissue-150-x-2-ply-box",
+    "sku": "4bszipf2",
+    "category_id": "29",
+    "category": "Tissue & Wipes",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/524/Fresh-Perfumed-Facial-Tissue.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 115.0,
+        "offer": 95.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "358": {
+    "id": 358,
+    "name": "Partex Cleen Hand Towel 200X2Ply",
+    "slug": "partex-cleen-hand-towel-200x2ply",
+    "sku": "osNcIeGi",
+    "category_id": "29",
+    "category": "Tissue & Wipes",
+    "unit": "Piece",
+    "volume": "500",
+    "image": "https://sharedealnow.com/storage/481/partex-cleen-hand-towel-200x2-ply-1-pcs.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 85.0,
+        "offer": 81.0,
+        "group": null,
+        "stock": 97.0
+      }
+    ]
+  },
+  "354": {
+    "id": 354,
+    "name": "Partex Cleen Toilet Tissue-3 ply (Blue Tissue) 4 roll",
+    "slug": "partex-cleen-toilet-tissue-3-ply-blue-tissue-4-roll",
+    "sku": "q4vuzhLp",
+    "category_id": "29",
+    "category": "Tissue & Wipes",
+    "unit": "Piece",
+    "volume": "4",
+    "image": "https://sharedealnow.com/storage/473/hlci01000310cac.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 95.0,
+        "offer": 85.0,
+        "group": null,
+        "stock": 99.0
+      }
+    ]
+  },
+  "251": {
+    "id": 251,
+    "name": "Bashundhara Hand Towel",
+    "slug": "bashundhara-hand-towel",
+    "sku": "fe27bkhS",
+    "category_id": "29",
+    "category": "Tissue & Wipes",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/323/fffqf1.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 104.0,
+        "offer": 95.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "250": {
+    "id": 250,
+    "name": "Bashundhara Toilet Tissue (Gold)",
+    "slug": "bashundhara-toilet-tissue-gold",
+    "sku": "O7VBgEL0",
+    "category_id": "29",
+    "category": "Tissue & Wipes",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/322/0481783_bashundhara-toilet-tissue-gold.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 38.0,
+        "offer": 34.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "249": {
+    "id": 249,
+    "name": "Bashundhara paper napkin",
+    "slug": "bashundhara-paper-napkin",
+    "sku": "zVDzLbnD",
+    "category_id": "29",
+    "category": "Tissue & Wipes",
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/321/bashundhara-paper-napkins-13-unscented-100-pcs.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 75.0,
+        "offer": 65.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "247": {
+    "id": 247,
+    "name": "Loose White Sugar Per KG",
+    "slug": "loose-white-sugar-per-kg",
+    "sku": "Ptlt2mWA",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/318/loose-white-sugar-1-kg.jpg",
+    "best_selling": "1",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 125.0,
+        "offer": 110.0,
+        "group": 105.0,
+        "stock": 98.0
+      }
+    ]
+  },
+  "275": {
+    "id": 275,
+    "name": "Miniket Rasheed Rice - Per KG",
+    "slug": "miniket-rasheed-rice-per-kg",
+    "sku": "Y3cN3lDd",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/355/Miniket-Rice-boiled-2-Kg.png",
+    "best_selling": "1",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 85.0,
+        "offer": 82.0,
+        "group": 57.0,
+        "stock": 199.0
+      }
+    ]
+  },
+  "391": {
+    "id": 391,
+    "name": "Deshi Lal Peyaj - Per KG",
+    "slug": "deshi-lal-peyaj-per-kg",
+    "sku": "mkQUWMsG",
+    "category_id": "4",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/529/lal-peyaj-onion-red-50-gm-1-kg.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 55.0,
+        "offer": 54.0,
+        "group": 44.0,
+        "stock": 165.0
+      }
+    ]
+  },
+  "417": {
+    "id": 417,
+    "name": "Deshi Moshur Dal Loose Premium 1 Kg",
+    "slug": "deshi-moshur-dal-loose-premium-1-kg",
+    "sku": "CE9Q3Wlg",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/604/65fa94e9115075f231ec5687_Deshi-Moshur-Dal-Loose_1.webp",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 169.0,
+        "offer": 150.0,
+        "group": 130.0,
+        "stock": 57.0
+      }
+    ]
+  },
+  "239": {
+    "id": 239,
+    "name": "ACI Pure Atta 2 KG",
+    "slug": "aci-pure-atta-2-kg",
+    "sku": "sYX9qJzf",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "2",
+    "image": "https://sharedealnow.com/storage/306/aci-pure-flour-atta-2-kg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 130.0,
+        "offer": 125.0,
+        "group": 120.0,
+        "stock": 101.0
+      }
+    ]
+  },
+  "397": {
+    "id": 397,
+    "name": "Atta (Loose) Per KG",
+    "slug": "atta-loose-per-kg",
+    "sku": "X6pgNCch",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/535/Atta%28Loose%29-Per-KG.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 70.0,
+        "offer": 60.0,
+        "group": 47.0,
+        "stock": 93.0
+      }
+    ]
+  },
+  "281": {
+    "id": 281,
+    "name": "Chola Boot (ছোলা বুট) Per KG",
+    "slug": "chola-boot-chola-but-per-kg",
+    "sku": "yATdEgwd",
+    "category_id": "4",
+    "category": null,
+    "unit": "KG",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/365/Chola-But-selefe-grocery-online-store.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 99.0,
+        "offer": 85.0,
+        "group": 75.0,
+        "stock": 97.0
+      }
+    ]
+  },
+  "162": {
+    "id": 162,
+    "name": "Regular Alu",
+    "slug": "regular-alu",
+    "sku": "oAGHBm9E",
+    "category_id": "4",
+    "category": null,
+    "unit": "KG",
+    "volume": "50",
+    "image": "https://sharedealnow.com/storage/223/news_359616_1.jpg",
+    "best_selling": "1",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 27.0,
+        "offer": 24.0,
+        "group": 19.0,
+        "stock": 126.0
+      }
+    ]
+  },
+  "474": {
+    "id": 474,
+    "name": "Pulao Rice (খোলা)",
+    "slug": "pulao-rice-khola",
+    "sku": "W6mML5CN",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/823/converted-512x512.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 170.0,
+        "offer": 160.0,
+        "group": 99.0,
+        "stock": 100.0
+      }
+    ]
+  },
+  "475": {
+    "id": 475,
+    "name": "জিরা (Jira) 250 Gm",
+    "slug": "jira-jira-250-gm",
+    "sku": "haPA2WYe",
+    "category_id": "5",
+    "category": null,
+    "unit": "Gm",
+    "volume": "250",
+    "image": "https://sharedealnow.com/storage/824/converted-512x512-%282%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 400.0,
+        "offer": 399.0,
+        "group": 369.0,
+        "stock": 100.0
+      }
+    ]
+  },
+  "476": {
+    "id": 476,
+    "name": "Nazirshail Rice Premium (Half Boiled)",
+    "slug": "nazirshail-rice-premium-half-boiled",
+    "sku": "tfGZfSg2",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/828/converted-512x512-%283%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 90.0,
+        "offer": 80.0,
+        "group": 67.0,
+        "stock": 125.0
+      }
+    ]
+  },
+  "313": {
+    "id": 313,
+    "name": "আটাশ চাল (খোলা) - Per KG",
+    "slug": "atas-cal-khola-per-kg",
+    "sku": "WLkjdsSM",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "5",
+    "image": "https://sharedealnow.com/storage/408/0511378_pran-miniket-rice-loose-1kg.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 67.0,
+        "offer": 65.0,
+        "group": 47.0,
+        "stock": 258.0
+      }
+    ]
+  },
+  "384": {
+    "id": 384,
+    "name": "Katari Nazir Rice Per KG",
+    "slug": "katari-nazir-rice-per-kg",
+    "sku": "4ApdDLKO",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/519/95fb216489ff881759ba9483543c5054.jpg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 108.0,
+        "offer": 99.0,
+        "group": 65.0,
+        "stock": 215.0
+      }
+    ]
+  },
+  "478": {
+    "id": 478,
+    "name": "Sprite 2.25 Ltr  ( 6 Piece )",
+    "slug": "sprite-225-ltr-6-piece",
+    "sku": "t7Iaufhu",
+    "category_id": "24",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/836/converted-512x512-%285%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 900.0,
+        "offer": 850.0,
+        "group": 770.0,
+        "stock": 100.0
+      }
+    ]
+  },
+  "393": {
+    "id": 393,
+    "name": "Anchor Boot Dal (এঙ্কর ডাল) Per KG",
+    "slug": "anchor-boot-dal-enkr-dal-per-kg",
+    "sku": "cIco7MlI",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "100",
+    "image": "https://sharedealnow.com/storage/531/Anchor-Boot-Dal-Per-KG.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 130.0,
+        "offer": 125.0,
+        "group": 99.0,
+        "stock": 104.0
+      }
+    ]
+  },
+  "395": {
+    "id": 395,
+    "name": "Mashkolai Dal (মাসকালাই ডাল) Per KG",
+    "slug": "mashkolai-dal-maskalai-dal-per-kg",
+    "sku": "wCoRNUa3",
+    "category_id": "5",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/533/Mashkolai-Dal-%28%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%A1%E0%A6%BE%E0%A6%B2%29-Per-KG.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 260.0,
+        "offer": 250.0,
+        "group": 220.0,
+        "stock": 98.0
+      }
+    ]
+  },
+  "69": {
+    "id": 69,
+    "name": "Roshun (Garlic Imported) Per KG",
+    "slug": "roshun-garlic-imported-per-kg",
+    "sku": "fbeKyZXV",
+    "category_id": "4",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/119/roshun-garlic-imported-25-gm-500-gm.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 180.0,
+        "offer": 170.0,
+        "group": 119.0,
+        "stock": 109.0
+      }
+    ]
+  },
+  "133": {
+    "id": 133,
+    "name": "Desi Ada 1 KG",
+    "slug": "desi-ada-1-kg",
+    "sku": "FHTawxHv",
+    "category_id": "4",
+    "category": null,
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/194/ginger-deshi-ada-250-gm.jpeg",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 260.0,
+        "offer": 230.0,
+        "group": 150.0,
+        "stock": 109.0
+      }
+    ]
+  },
+  "410": {
+    "id": 410,
+    "name": "NeoCare Premium Baby Diaper Belt S (3-6 kg) (50 Pcs)",
+    "slug": "neocare-premium-baby-diaper-belt-s-3-6-kg-50-pcs",
+    "sku": "bacN5uzV",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": null,
+    "image": "https://sharedealnow.com/storage/613/NeoCare-Premium-Baby-Diaper-Belt-S-%283-6-kg%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 1200.0,
+        "offer": 930.0,
+        "group": 880.0,
+        "stock": 100.0
+      }
+    ]
+  },
+  "487": {
+    "id": 487,
+    "name": "ACI Nutrilife Brown Flour (Atta)",
+    "slug": "aci-nutrilife-brown-flour-atta",
+    "sku": "Bn4yCuxT",
+    "category_id": "5",
+    "category": "Cooking",
+    "unit": "KG",
+    "volume": "2",
+    "image": "https://sharedealnow.com/storage/863/converted-512x512-%2814%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 140.0,
+        "offer": 120.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "486": {
+    "id": 486,
+    "name": "Banana Flower (Kolar Mocha)",
+    "slug": "banana-flower-kolar-mocha",
+    "sku": "kMrC8Unq",
+    "category_id": "4",
+    "category": "Fresh Vegetables",
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/844/converted-512x512-%2813%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 110.0,
+        "offer": 80.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "485": {
+    "id": 485,
+    "name": "Kochur Loti 500 GM",
+    "slug": "kochur-loti-500-gm",
+    "sku": "3HL09HH9",
+    "category_id": "4",
+    "category": "Fresh Vegetables",
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/843/converted-512x512-%2812%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 40.0,
+        "offer": 35.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "484": {
+    "id": 484,
+    "name": "Gajor 250 Gm",
+    "slug": "gajor-250-gm",
+    "sku": "jDYMmASY",
+    "category_id": "4",
+    "category": "Fresh Vegetables",
+    "unit": "Gm",
+    "volume": "250",
+    "image": "https://sharedealnow.com/storage/842/converted-512x512-%2811%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 60.0,
+        "offer": 50.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "483": {
+    "id": 483,
+    "name": "Uchche (Local Bitter Gourd)",
+    "slug": "uchche-local-bitter-gourd",
+    "sku": "MDRixT82",
+    "category_id": "4",
+    "category": "Fresh Vegetables",
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/841/converted-512x512-%2810%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 80.0,
+        "offer": 70.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "482": {
+    "id": 482,
+    "name": "Deshi Shosha",
+    "slug": "deshi-shosha",
+    "sku": "nFVB4meg",
+    "category_id": "4",
+    "category": "Fresh Vegetables",
+    "unit": "KG",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/840/converted-512x512-%289%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 160.0,
+        "offer": 150.0,
+        "group": null,
+        "stock": 102.0
+      }
+    ]
+  },
+  "481": {
+    "id": 481,
+    "name": "Kacha Morich (Green Chilli) 250 GM",
+    "slug": "kacha-morich-green-chilli-250-gm",
+    "sku": "JXeeyjFe",
+    "category_id": "4",
+    "category": "Fresh Vegetables",
+    "unit": "Gm",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/839/converted-512x512-%288%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 80.0,
+        "offer": 70.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "480": {
+    "id": 480,
+    "name": "Clemon ( 6 piece )",
+    "slug": "clemon-6-piece",
+    "sku": "ZImfw7wH",
+    "category_id": "24",
+    "category": "Beverages",
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/838/converted-512x512-%287%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 660.0,
+        "offer": 630.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "479": {
+    "id": 479,
+    "name": "RC Cola ( 12 Piece )",
+    "slug": "rc-cola-12-piece",
+    "sku": "Oc3pozTg",
+    "category_id": "24",
+    "category": "Beverages",
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/837/converted-512x512-%286%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 240.0,
+        "offer": 225.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "477": {
+    "id": 477,
+    "name": "Mojo Soft Drink 1 Ltr",
+    "slug": "mojo-soft-drink-1-ltr",
+    "sku": "GjBVhCEX",
+    "category_id": "24",
+    "category": "Beverages",
+    "unit": "Ltr",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/835/converted-512x512-%284%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 110.0,
+        "offer": 105.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "473": {
+    "id": 473,
+    "name": "Grass Broom (Ful Jharu)",
+    "slug": "grass-broom-ful-jharu",
+    "sku": "ubgKFybp",
+    "category_id": "22",
+    "category": "Home & Cleaning",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/793/converted-512x512-%286%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 100.0,
+        "offer": 100.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "472": {
+    "id": 472,
+    "name": "Matador All-time 24 pcs",
+    "slug": "matador-all-time-24-pcs",
+    "sku": "tv2svHG0",
+    "category_id": "22",
+    "category": "Home & Cleaning",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/792/converted-512x512-%285%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 130.0,
+        "offer": 120.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "471": {
+    "id": 471,
+    "name": "Bashundhara A4 Paper 80 GSM",
+    "slug": "bashundhara-a4-paper-80-gsm",
+    "sku": "NzHUKWmY",
+    "category_id": "22",
+    "category": "Home & Cleaning",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/791/converted-512x512-%284%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 420.0,
+        "offer": 420.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "470": {
+    "id": 470,
+    "name": "Rok Glass Cleaner 350(±)100ml (Spray)",
+    "slug": "rok-glass-cleaner-350100ml-spray",
+    "sku": "uIm1JIHJ",
+    "category_id": "22",
+    "category": "Home & Cleaning",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/790/converted-512x512-%282%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 140.0,
+        "offer": 140.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "469": {
+    "id": 469,
+    "name": "45ml mosquito repellent for effective protection.",
+    "slug": "45ml-mosquito-repellent-for-effective-protection",
+    "sku": "GmsQ59UN",
+    "category_id": "22",
+    "category": "Home & Cleaning",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/789/converted-512x512-%281%29.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 130.0,
+        "offer": 130.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  },
+  "468": {
+    "id": 468,
+    "name": "Sepnil Face Mask",
+    "slug": "sepnil-face-mask",
+    "sku": "5BMaaH3H",
+    "category_id": "22",
+    "category": "Home & Cleaning",
+    "unit": "Piece",
+    "volume": "0",
+    "image": "https://sharedealnow.com/storage/788/converted-512x512.png",
+    "best_selling": "0",
+    "history": [
+      {
+        "date": "2026-07-30",
+        "price": 320.0,
+        "offer": 320.0,
+        "group": null,
+        "stock": 100.0
+      }
+    ]
+  }
+}
