@@ -604,7 +604,7 @@
         "price": 65.0,
         "offer": 50.0,
         "group": 45.0,
-        "stock": 1002.0
+        "stock": 1000.0
       }
     ]
   },
@@ -638,7 +638,7 @@
     "category": null,
     "unit": "KG",
     "volume": "2",
-    "image": "https://sharedealnow.com/storage/306/aci-pure-flour-atta-2-kg",
+    "image": "https://sharedealnow.com/storage/1028/WhatsApp-Image-2026-08-16-at-4.03.37-PM.jpg",
     "best_selling": null,
     "history": [
       {
@@ -693,7 +693,7 @@
     "category": null,
     "unit": "KG",
     "volume": "50",
-    "image": "https://sharedealnow.com/storage/223/news_359616_1.jpg",
+    "image": "https://sharedealnow.com/storage/1022/WhatsApp-Image-2026-08-16-at-3.10.37-PM.jpg",
     "best_selling": null,
     "history": [
       {
@@ -777,7 +777,7 @@
     "category": null,
     "unit": "KG",
     "volume": "5",
-    "image": "https://sharedealnow.com/storage/408/0511378_pran-miniket-rice-loose-1kg.jpeg",
+    "image": "https://sharedealnow.com/storage/1023/WhatsApp-Image-2026-08-16-at-3.10.36-PM-%283%29.jpg",
     "best_selling": null,
     "history": [
       {
@@ -797,8 +797,8 @@
     "category_id": "5",
     "category": null,
     "unit": "KG",
-    "volume": null,
-    "image": "https://sharedealnow.com/storage/519/95fb216489ff881759ba9483543c5054.jpg",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1020/WhatsApp-Image-2026-08-16-at-3.10.37-PM-%281%29.jpg",
     "best_selling": null,
     "history": [
       {
@@ -4804,11 +4804,11 @@
     "name": "SAAD Tomato Sauce 1000gm",
     "slug": "saad-tomato-sauce-1000gm",
     "sku": "3Tw6xxFr",
-    "category_id": "23",
+    "category_id": "25",
     "category": null,
     "unit": "Piece",
     "volume": "1",
-    "image": "https://sharedealnow.com/storage/1013/S0f9297bd5fd44b0e96a20d1cd7de1b34Y.jpg_720x720q80.jpg_%5B1%5D-%281%29.png",
+    "image": "https://sharedealnow.com/storage/1018/WhatsApp-Image-2026-08-16-at-3.10.36-PM-%281%29.jpg",
     "best_selling": null,
     "history": [
       {
@@ -4825,11 +4825,11 @@
     "name": "SAAD Tomato Sauce 500gm",
     "slug": "saad-tomato-sauce-500gm",
     "sku": "WLBM1MtR",
-    "category_id": "23",
+    "category_id": "25",
     "category": null,
     "unit": "Piece",
     "volume": "1",
-    "image": "https://sharedealnow.com/storage/1011/65fa961f115075f231ecce77_Saad-Hot-Tomato-Sauce-500gm_1-%281%29.jpg",
+    "image": "https://sharedealnow.com/storage/1019/WhatsApp-Image-2026-08-16-at-3.10.36-PM.jpg",
     "best_selling": null,
     "history": [
       {
