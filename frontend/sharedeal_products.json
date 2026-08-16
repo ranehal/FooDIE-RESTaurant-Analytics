@@ -1246,7 +1246,7 @@
       "category": null,
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/529/lal-peyaj-onion-red-50-gm-1-kg.png",
+      "image": "https://sharedealnow.com/storage/1016/WhatsApp-Image-2026-08-16-at-12.52.01-PM-%281%29.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -1275,7 +1275,7 @@
           "price": 65.0,
           "offer": 50.0,
           "group": 45.0,
-          "stock": 1007.0
+          "stock": 1002.0
         }
       ]
     },
@@ -1371,8 +1371,8 @@
       "category_id": "5",
       "category": null,
       "unit": "KG",
-      "volume": null,
-      "image": "https://sharedealnow.com/storage/535/Atta%28Loose%29-Per-KG.png",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/1015/WhatsApp-Image-2026-08-16-at-12.52.01-PM.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -1561,7 +1561,7 @@
       "category": null,
       "unit": "KG",
       "volume": "1",
-      "image": "https://sharedealnow.com/storage/828/converted-512x512-%283%29.png",
+      "image": "https://sharedealnow.com/storage/1017/WhatsApp-Image-2026-08-16-at-1.27.13-PM.jpg",
       "best_selling": "0",
       "history": [
         {
@@ -8416,6 +8416,48 @@
           "offer": 60.0,
           "group": null,
           "stock": 1001.0
+        }
+      ]
+    },
+    "489": {
+      "id": 489,
+      "name": "SAAD Tomato Sauce 1000gm",
+      "slug": "saad-tomato-sauce-1000gm",
+      "sku": "3Tw6xxFr",
+      "category_id": "23",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/1013/S0f9297bd5fd44b0e96a20d1cd7de1b34Y.jpg_720x720q80.jpg_%5B1%5D-%281%29.png",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-08-16",
+          "price": 290.0,
+          "offer": 220.0,
+          "group": 199.0,
+          "stock": 0.0
+        }
+      ]
+    },
+    "488": {
+      "id": 488,
+      "name": "SAAD Tomato Sauce 500gm",
+      "slug": "saad-tomato-sauce-500gm",
+      "sku": "WLBM1MtR",
+      "category_id": "23",
+      "category": null,
+      "unit": "Piece",
+      "volume": "1",
+      "image": "https://sharedealnow.com/storage/1011/65fa961f115075f231ecce77_Saad-Hot-Tomato-Sauce-500gm_1-%281%29.jpg",
+      "best_selling": "0",
+      "history": [
+        {
+          "date": "2026-08-16",
+          "price": 170.0,
+          "offer": 125.0,
+          "group": 115.0,
+          "stock": 0.0
         }
       ]
     }
