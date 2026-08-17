@@ -699,7 +699,7 @@
       {
         "date": "2026-08-17",
         "price": 32.0,
-        "offer": 28.0,
+        "offer": 26.0,
         "group": 20.0,
         "stock": 990.0
       }
@@ -1909,7 +1909,7 @@
     "category_id": "17",
     "category": null,
     "unit": "Piece",
-    "volume": null,
+    "volume": "1",
     "image": "https://sharedealnow.com/storage/616/Neocare-Premium-Belt-System-Baby-Diaper-%283-6-kg%29-%2830-Pcs%29.png",
     "best_selling": null,
     "history": [
@@ -3463,8 +3463,8 @@
     "category_id": "4",
     "category": null,
     "unit": "Piece",
-    "volume": null,
-    "image": "https://sharedealnow.com/storage/600/ginger-indian-ada-250-gm%5B1%5D",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1030/WhatsApp-Image-2026-08-16-at-4.03.36-PM-%281%29.jpg",
     "best_selling": null,
     "history": [
       {
@@ -4703,7 +4703,7 @@
     "category": null,
     "unit": "KG",
     "volume": "1",
-    "image": "https://sharedealnow.com/storage/537/Deshi-Roshun-Image.jpg",
+    "image": "https://sharedealnow.com/storage/1029/WhatsApp-Image-2026-08-16-at-3.10.36-PM-%282%29.jpg",
     "best_selling": null,
     "history": [
       {
@@ -4837,6 +4837,510 @@
         "price": 170.0,
         "offer": 125.0,
         "group": 115.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "513": {
+    "id": 513,
+    "name": "NeoCare Baby Diaper XL (11 - 25kg) 50 Pieces",
+    "slug": "neocare-baby-diaper-xl-11-25kg-50-pieces",
+    "sku": "8gkshJOq",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1055/Max_a_give_me_product_desg-%281%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1950.0,
+        "offer": 1269.0,
+        "group": 1219.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "512": {
+    "id": 512,
+    "name": "Neocare Baby Diaper L (7-18kg) 50 Pieces",
+    "slug": "neocare-baby-diaper-l-7-18kg-50-pieces",
+    "sku": "kDuMJYWG",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1054/Max_a_give_me_product_desg-%2828%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1650.0,
+        "offer": 1269.0,
+        "group": 1219.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "511": {
+    "id": 511,
+    "name": "Neo Care Baby Diaper M (4-9 kg) 50 Pieces",
+    "slug": "neo-care-baby-diaper-m-4-9-kg-50-pieces",
+    "sku": "2um9U5y8",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1053/Max_a_give_me_product_desg.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1450.0,
+        "offer": 1149.0,
+        "group": 1099.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "510": {
+    "id": 510,
+    "name": "Neocare Baby Diaper S (3-6kg) 50 Pieces",
+    "slug": "neocare-baby-diaper-s-3-6kg-50-pieces",
+    "sku": "ABiqdPvb",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1052/Max_a_give_me_product_desg-%2826%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 899.0,
+        "group": 849.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "509": {
+    "id": 509,
+    "name": "Savlon Twinkle Baby Belt Diaper XXL 15-30kg 24 Pieces",
+    "slug": "savlon-twinkle-baby-belt-diaper-xxl-15-30kg-24-pieces",
+    "sku": "mFHa2dc0",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1051/Max_a_give_me_product_desg-%2825%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1100.0,
+        "offer": 899.0,
+        "group": 849.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "508": {
+    "id": 508,
+    "name": "Savlon Twinkle Baby Belt Diaper XL 11-25kg 32 Pieces",
+    "slug": "savlon-twinkle-baby-belt-diaper-xl-11-25kg-32-pieces",
+    "sku": "M11Y4Ub7",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1050/Max_a_give_me_product_desg-%2824%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1100.0,
+        "offer": 999.0,
+        "group": 949.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "507": {
+    "id": 507,
+    "name": "Savlon Twinkle Baby Belt Diaper L  7-18kg 36 Pieces",
+    "slug": "savlon-twinkle-baby-belt-diaper-l-7-18kg-36-pieces",
+    "sku": "2tFevexR",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1049/Max_a_give_me_product_desg-%2823%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1100.0,
+        "offer": 1049.0,
+        "group": 999.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "506": {
+    "id": 506,
+    "name": "Savlon Twinkle Baby Belt Diaper M 6-11kg 40 Pieces",
+    "slug": "savlon-twinkle-baby-belt-diaper-m-6-11kg-40-pieces",
+    "sku": "nhzIrdx3",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1048/Max_a_give_me_product_desg-%2822%29-%281%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1100.0,
+        "offer": 899.0,
+        "group": 849.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "505": {
+    "id": 505,
+    "name": "Savlon Twinkle Baby Belt Diaper M 6-11kg 40 Pieces",
+    "slug": "savlon-twinkle-baby-belt-diaper-m-6-11kg-40-pieces",
+    "sku": "NLTBGLaK",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1047/Max_a_give_me_product_desg-%2822%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1100.0,
+        "offer": 899.0,
+        "group": 849.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "504": {
+    "id": 504,
+    "name": "Savlon Twinkle Baby Belt Diaper S  Up to 8kg 44 Pieces",
+    "slug": "savlon-twinkle-baby-belt-diaper-s-up-to-8kg-44-pieces",
+    "sku": "A4KK9y7V",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1046/Max_a_give_me_product_desg-%2820%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1100.0,
+        "offer": 949.0,
+        "group": 899.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "503": {
+    "id": 503,
+    "name": "Savlon Twinkle Baby Pant Diaper XXL 34 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-xxl-34-pieces",
+    "sku": "KksEsv5L",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1045/Max_a_give_me_product_desg-%2819%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 999.0,
+        "group": 949.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "502": {
+    "id": 502,
+    "name": "Savlon Twinkle Baby Pant Diaper XL 32 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-xl-32-pieces",
+    "sku": "mdUiVPdN",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1044/Max_a_give_me_product_desg-%2817%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 840.0,
+        "group": 800.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "501": {
+    "id": 501,
+    "name": "Savlon Twinkle Baby Pant Diaper  L 8-15kg  48 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-l-8-15kg-48-pieces",
+    "sku": "wILmdNob",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1043/Max_a_give_me_product_desg-%2816%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 999.0,
+        "group": 949.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "500": {
+    "id": 500,
+    "name": "Savlon Twinkle Baby Pant Diaper L (8-15kg) 34 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-l-8-15kg-34-pieces",
+    "sku": "ED2ftSPU",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1042/Max_a_give_me_product_desg-%2815%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 859.0,
+        "group": 809.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "499": {
+    "id": 499,
+    "name": "Savlon Twinkle Baby Pant Diaper M (6-12kg) 50 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-m-6-12kg-50-pieces",
+    "sku": "kE2o8mN9",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1041/Max_a_give_me_product_desg-%2814%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 999.0,
+        "group": 949.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "498": {
+    "id": 498,
+    "name": "Savlon Twinkle Baby Pant Diaper M  6-12kg 40 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-m-6-12kg-40-pieces",
+    "sku": "GG8vvnRp",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1040/Max_a_give_me_product_desg-%2813%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 849.0,
+        "group": 799.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "497": {
+    "id": 497,
+    "name": "Savlon Twinkle Baby Pant Diaper  S  Up to 8kg 60 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-s-up-to-8kg-60-pieces",
+    "sku": "R3V3wU3m",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1039/Max_a_give_me_product_desg-%2812%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 949.0,
+        "group": 899.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "496": {
+    "id": 496,
+    "name": "Savlon Twinkle Baby Pant Diaper S Up to 8kg 42 Pieces",
+    "slug": "savlon-twinkle-baby-pant-diaper-s-up-to-8kg-42-pieces",
+    "sku": "zoEoi0GJ",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1038/Max_a_give_me_product_desg-%2811%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 779.0,
+        "group": 729.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "495": {
+    "id": 495,
+    "name": "Avonee Pants XXL 14-25kg 24 Pieces",
+    "slug": "avonee-pants-xxl-14-25kg-24-pieces",
+    "sku": "CJggub80",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1037/Max_a_give_me_product_desg-%2810%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 779.0,
+        "group": 729.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "494": {
+    "id": 494,
+    "name": "Avonee Pants XL (12-17kg) 32 Pieces",
+    "slug": "avonee-pants-xl-12-17kg-32-pieces",
+    "sku": "iHLtrSq5",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1036/Max_a_give_me_product_desg-%285%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 789.0,
+        "group": 739.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "493": {
+    "id": 493,
+    "name": "Avonee Pants L (9-14kg) 48 Pieces",
+    "slug": "avonee-pants-l-9-14kg-48-pieces",
+    "sku": "DXO6L5Nb",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1035/Max_a_give_me_product_desg-%283%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 949.0,
+        "group": 899.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "492": {
+    "id": 492,
+    "name": "Avonee Pants L (9-14kg) 34 Pieces",
+    "slug": "avonee-pants-l-9-14kg-34-pieces",
+    "sku": "Z6y2yzdI",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1034/Max_a_give_me_product_desg-%282%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 779.0,
+        "group": 729.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "491": {
+    "id": 491,
+    "name": "Avonee Pants M (7-12kg) 56 Pieces",
+    "slug": "avonee-pants-m-7-12kg-56-pieces",
+    "sku": "4vmRuxpX",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1033/Max_a_give_me_product_desg-%281%29.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 1200.0,
+        "offer": 1049.0,
+        "group": 999.0,
+        "stock": 0.0
+      }
+    ]
+  },
+  "490": {
+    "id": 490,
+    "name": "Avonee Pants M (7-12kg) 40 Pieces",
+    "slug": "avonee-pants-m-7-12kg-40-pieces",
+    "sku": "UF13MGSI",
+    "category_id": "17",
+    "category": null,
+    "unit": "Piece",
+    "volume": "1",
+    "image": "https://sharedealnow.com/storage/1032/Max_a_give_me_product_desg.jpg",
+    "best_selling": null,
+    "history": [
+      {
+        "date": "2026-08-17",
+        "price": 890.0,
+        "offer": 699.0,
+        "group": 649.0,
         "stock": 0.0
       }
     ]
