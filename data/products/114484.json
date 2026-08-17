@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114484",
+    "sku": "G5MKPFGLM",
+    "name": "Glimmer Multifunctional 500 mAh COB Mini Keychain Pocket Flashlight",
+    "slug": "glimmer-multifunctional-500-mah-cob-mini-keychain-pocket-flashlight",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/u/multifunctional-500-mah-cob-mini-keychain-14-12-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 900.0,
+    "special_price": 649.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:05"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:58"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:48"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:02"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:06"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:30"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:56"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:30"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:34"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:28"
+    },
+    {
+      "price": 900.0,
+      "special_price": 649.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:17"
+    }
+  ]
+}

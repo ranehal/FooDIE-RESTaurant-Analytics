@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "80788",
+    "sku": "C8324BRMHS",
+    "name": "CURREN 8324BR Men\u2019s Watch",
+    "slug": "curren-8324br-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/curren-8324br-men-watch1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2290.0,
+    "special_price": 1899.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:47"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:12"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:34"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:12"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:33"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:31"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:47"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:43:38"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:34"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:10"
+    },
+    {
+      "price": 2290.0,
+      "special_price": 1899.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:30"
+    }
+  ]
+}

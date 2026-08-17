@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118259",
+    "sku": "C212J212YAMZ",
+    "name": "Q&Q Blue Dial Chain Men\u2019s Watch (C212J212Y)",
+    "slug": "q-q-blue-chain-men-s-watch-c212j212y",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/2/c212j212y-13-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2590.0,
+    "special_price": 1890.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:11"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:14:59"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:20"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:00"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:36:34"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:43:40"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:09"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:35"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:08"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:14"
+    },
+    {
+      "price": 2590.0,
+      "special_price": 1890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:31"
+    }
+  ]
+}

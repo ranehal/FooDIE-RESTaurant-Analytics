@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111882",
+    "sku": "BB3APBSWMGLO",
+    "name": "Boya Boyalink 3 Ai-Powered Button-Sized Wireless Microphone",
+    "slug": "boya-boyalink-3-ai-powered-button-sized-wireless-microphone",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boyalink-3-23-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9999.0,
+    "special_price": 9699.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10500.0,
+      "special_price": 9844.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:05"
+    },
+    {
+      "price": 10500.0,
+      "special_price": 9844.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:39"
+    },
+    {
+      "price": 10500.0,
+      "special_price": 9844.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:02"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:41"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:33"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:26"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:45"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:56"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:47"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:01:51"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 9699.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:17:10"
+    }
+  ]
+}

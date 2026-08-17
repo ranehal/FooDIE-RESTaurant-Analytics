@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109770",
+    "sku": "R20WRC49ERCO",
+    "name": "Recci 20W EU Dual-Port Fast Charging Adapter (RC49E)",
+    "slug": "recci-20w-eu-dual-port-fast-charging-adapter-rc49e",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc49e-6-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 595.0,
+    "special_price": 499.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:24"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:10"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:09"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:31"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:11"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:52"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:44"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:07"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:01"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:37"
+    },
+    {
+      "price": 595.0,
+      "special_price": 499.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:43"
+    }
+  ]
+}

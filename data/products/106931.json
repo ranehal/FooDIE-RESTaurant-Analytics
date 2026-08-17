@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106931",
+    "sku": "CSMW620H3AMZ",
+    "name": "Casio Standard Men\u2019s Watch (MW-620H-3AVF)",
+    "slug": "casio-standard-men-s-watch-mw-620h-3avf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/w/mw-620h-3avf-30-12-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6190.0,
+    "special_price": 5390.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:33"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:05"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:03"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:45"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:04"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:14"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:38"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:07"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:02"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:10"
+    },
+    {
+      "price": 6190.0,
+      "special_price": 5390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:25:50"
+    }
+  ]
+}

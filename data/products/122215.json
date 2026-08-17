@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122215",
+    "sku": "MHH50G2PTPO",
+    "name": "Mercusys Halo H50G AC1900 Whole Home Mesh Wi-Fi Router (2-Pack)",
+    "slug": "mercusys-halo-h50g-ac1900-whole-home-mesh-wi-fi-router-2-pack",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/h/a/halo-h50g-2pcs-15-8-26-1.jpg",
+    "unit": "g",
+    "unit_value": 50.0,
+    "price": 7690.0,
+    "special_price": 6590.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7690.0,
+      "special_price": 6590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:32"
+    },
+    {
+      "price": 7690.0,
+      "special_price": 6590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}

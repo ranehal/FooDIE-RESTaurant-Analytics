@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109596",
+    "sku": "SB3100021WWB",
+    "name": "Santa Barbara Polo Black Dial Watch For Men (SB.3.10002-1)",
+    "slug": "santa-barbara-polo-black-dial-watch-for-men-sb-3-10002-1",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/b/sb.3.10002-1-8-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15695.0,
+    "special_price": 14126.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:19:56"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:36"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:21"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:16:48"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:15"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:50:22"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:43"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:26"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:57"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:47"
+    },
+    {
+      "price": 15695.0,
+      "special_price": 14126.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:28"
+    }
+  ]
+}

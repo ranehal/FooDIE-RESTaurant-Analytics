@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "32563",
+    "sku": "NUS1440SHL",
+    "name": "Philips GC1905/40 1440-Watt Steam Iron with Spray",
+    "slug": "philips-1440-watt-steam-iron-with-spray-gc1905-40",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/c/gc1905-24.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 3390.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:33:15"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:51"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:52"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:27"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:40:10"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:01"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:19"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:15"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:48"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:01"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3390.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:25"
+    }
+  ]
+}

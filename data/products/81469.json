@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "81469",
+    "sku": "BSMS46DI00MBSH",
+    "name": "BOSCH SMS46DI00M Freestanding 5 Programmes Steel Dishwasher ",
+    "slug": "bosch-sms46di00m-freestanding-5-programmes-steel-dishwasher",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/sms46di00m.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 113900.0,
+    "special_price": 108190.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:44"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:22"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:23"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:56"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:23"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:08"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:21"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:24"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:28"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:22"
+    },
+    {
+      "price": 113900.0,
+      "special_price": 108190.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:01"
+    }
+  ]
+}

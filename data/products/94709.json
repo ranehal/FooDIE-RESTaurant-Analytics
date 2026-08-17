@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "94709",
+    "sku": "K16KN2926END",
+    "name": "Kennede 16 Inch Rechargeable Table Fan (KN-2926)",
+    "slug": "kennede-16-inch-rechargeable-table-fan-kn-2926",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kennede-2926-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8500.0,
+    "special_price": 4180.0,
+    "discount": 51.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:20"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:03"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:02"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:33"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:45"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:56"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:12"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:46:36"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 07:07:58"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:59"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 4180.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:15"
+    }
+  ]
+}

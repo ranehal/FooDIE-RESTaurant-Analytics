@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "92601",
+    "sku": "BWKJS010401ATL",
+    "name": "Baseus 3m High Speed Seven Types of RJ45 10 Gigabit Network Cable (WKJS010401)",
+    "slug": "baseus-3m-high-speed-seven-types-of-rj45-10-gigabit-network-cable-wkjs010401",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/k/wkjs010401-3-9-24-1.jpg",
+    "unit": "g",
+    "unit_value": 10.0,
+    "price": 550.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:09"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:35"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:09"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:50"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:11"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:11"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:16"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:28"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:20"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:23"
+    },
+    {
+      "price": 550.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:23"
+    }
+  ]
+}

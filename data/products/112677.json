@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "112677",
+    "sku": "MT1104GV1TPO",
+    "name": "Mercusys MT110 4G 150Mbps Pocket Wi-Fi Router (Version 1)",
+    "slug": "mercusys-mt110-4g-150mbps-pocket-wi-fi-router-version-1",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt110---7-9-25-1.jpg",
+    "unit": "g",
+    "unit_value": 4.0,
+    "price": 4290.0,
+    "special_price": 3849.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4290.0,
+      "special_price": 3849.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:58"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3849.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:33"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3849.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:56"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3849.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:34"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3849.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:25"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3849.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:37"
+    }
+  ]
+}

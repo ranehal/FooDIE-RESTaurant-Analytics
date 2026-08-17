@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113410",
+    "sku": "FES5386HSP",
+    "name": "Fossil Harlow Rose Gold Tone Stainless Steel Women\u2019s Watch (ES5386)",
+    "slug": "fossil-harlow-rose-gold-tone-stainless-steel-women-s-watch-es5386",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/es5386-19-10-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19380.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:54"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:37"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:02:11"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:43"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:43"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:42:40"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:52"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:45"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:04:13"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:49"
+    },
+    {
+      "price": 19380.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:19:08"
+    }
+  ]
+}

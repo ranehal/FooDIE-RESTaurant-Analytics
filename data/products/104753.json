@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104753",
+    "sku": "U20728AJW",
+    "name": "UGREEN US155 1M USB-A Male to Lightning Male Data Cable (20728)",
+    "slug": "ugreen-us155-1m-usb-a-male-to-lightning-male-data-cable-20728",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/0/20728-1.9.24-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1310.0,
+    "special_price": 863.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:53:41"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:17"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:48:24"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:49:49"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:06:58"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:06"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:42"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:23:11"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:48:13"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:11"
+    },
+    {
+      "price": 1310.0,
+      "special_price": 863.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:26"
+    }
+  ]
+}

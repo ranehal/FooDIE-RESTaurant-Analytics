@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115125",
+    "sku": "SHTS500RFCUE",
+    "name": "Sony 5.1ch 1000w Home Cinema Bluetooth Soundbar (HT-S500RF)",
+    "slug": "sony-5-1ch-1000w-home-cinema-bluetooth-soundbar-ht-s500rf",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/sony-ht-s500rf-6-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 52000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:54"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:44"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:06"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:15"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:06"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:57"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:04"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:09:11"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:03"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:51"
+    },
+    {
+      "price": 52000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:17"
+    }
+  ]
+}

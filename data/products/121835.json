@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121835",
+    "sku": "OBG2022IHW",
+    "name": "Ocean 4 in 1 750W Blender (OBG2022)- White",
+    "slug": "ocean-4-in-1-750w-blender-obg2022-white",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/-/b-2-8-26-4-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6934.0,
+    "special_price": 5990.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:32"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:42"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:10"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:13"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:07"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:03"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:39"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:35"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:36"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:27"
+    },
+    {
+      "price": 6934.0,
+      "special_price": 5990.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:15"
+    }
+  ]
+}

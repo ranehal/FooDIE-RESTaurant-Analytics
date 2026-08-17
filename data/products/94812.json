@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "94812",
+    "sku": "SSC623CBD",
+    "name": "Sokany SC-623 10 Liter 2000W 6 Speed Dough Blender Kneading",
+    "slug": "sokany-sc-623-10-liter-2000w-6-speed-dough-blender-kneading",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/c/sc-623-5.8.23.jpg_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 35000.0,
+    "special_price": 26499.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:10"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:54"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:53"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:23"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:34"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:29:00"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:37"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:27"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:46"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:06:10"
+    },
+    {
+      "price": 35000.0,
+      "special_price": 26499.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:58:16"
+    }
+  ]
+}

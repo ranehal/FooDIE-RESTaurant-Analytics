@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110832",
+    "sku": "U50152ATL",
+    "name": "UGREEN US261 60W 2m Type-C to Type-C Braided Data Cable (50152)",
+    "slug": "ugreen-us261-60w-2m-type-c-to-type-c-braided-data-cable-50152",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/5/_50152_-17-6-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 439.0,
+    "special_price": 399.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:59"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:45"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:43"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:00"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:03:39"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:15"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:04"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:27"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:38"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:58"
+    },
+    {
+      "price": 439.0,
+      "special_price": 399.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:33"
+    }
+  ]
+}

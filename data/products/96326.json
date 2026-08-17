@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96326",
+    "sku": "PMG3721MBT",
+    "name": "Philips MG3721/65 7-in-1 Multi-Grooming Kit",
+    "slug": "philips-mg3721-65-7-in-1-multi-grooming-kit",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg3721-65-26-1-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 3670.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:50"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:18"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:27"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:08"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:55"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:24"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:08"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:43"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:38"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:37"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3670.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:02"
+    }
+  ]
+}

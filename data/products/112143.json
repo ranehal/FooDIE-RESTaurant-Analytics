@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112143",
+    "sku": "MT450RCLDRBCBD",
+    "name": "Miyako 45L Multifunction Electric Oven (MT-450RCL-D-RB)",
+    "slug": "miyako-45l-multifunction-electric-oven-mt-450rcl-d-rb",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mt-450rcl-d-rb-11-8-25.png",
+    "unit": "L",
+    "unit_value": 45.0,
+    "price": 14000.0,
+    "special_price": 9990.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:54"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:50"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:53"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:15"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:34"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:14"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:14"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:41"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:41"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:12"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 9990.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:11"
+    }
+  ]
+}

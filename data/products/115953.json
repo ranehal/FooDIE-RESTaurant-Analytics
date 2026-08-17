@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115953",
+    "sku": "AFRO5SFWPGSC",
+    "name": "Active Flow RO 5-Stage Filtration Water Purifier",
+    "slug": "active-flow-ro-5-stage-filtration-water-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/active-flow_emi_-water-purifier-3-feb-2026-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14500.0,
+    "special_price": 9990.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:19"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:11"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:31"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:39"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:19"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:33"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:44"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:42"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:04"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:08"
+    },
+    {
+      "price": 14500.0,
+      "special_price": 9990.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:54"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109773",
+    "sku": "R35WRC83ECCRCO",
+    "name": "Recci 35W EU GaN Fast Charging Adapter with Type-C to Type-C Cable (RC83ECC)",
+    "slug": "recci-35w-eu-gan-fast-charging-adapter-with-type-c-to-type-c-cable-rc83ecc",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc83ecc-6-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2050.0,
+    "special_price": 1470.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:24"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:10"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:09"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:26"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:11"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:52"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:44"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:07"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:01"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:37"
+    },
+    {
+      "price": 2050.0,
+      "special_price": 1470.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:43"
+    }
+  ]
+}

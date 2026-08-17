@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122303",
+    "sku": "VTRISHBGLO",
+    "name": "Vention TRISH 2m 5A USB 2.0 Type-C to Type-C Aluminum Alloy Cable- Blue",
+    "slug": "vention-trish-2m-5a-usb-2-0-type-c-to-type-c-aluminum-alloy-cable-blue",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/v/e/vention-trisf--16-8-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 649.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 649.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 08:28:38"
+    }
+  ]
+}

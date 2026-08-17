@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107535",
+    "sku": "CMTP1374D1A3VAMZ",
+    "name": "Casio General Stainless Steel Band Watch for\u00a0Men\u00a0(MTP-1374D-1A3V)",
+    "slug": "casio-general-stainless-steel-band-watch-for-men-mtp-1374d-1a3v",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1374d-1a3v-30-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8890.0,
+    "special_price": 7990.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:14"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:48"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:05:43"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:27"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:42:43"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:51:56"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:29"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:37:46"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:10:21"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:56"
+    },
+    {
+      "price": 8890.0,
+      "special_price": 7990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:25:37"
+    }
+  ]
+}

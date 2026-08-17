@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115673",
+    "sku": "KRS537SGXRNG",
+    "name": "Kelvinator 537L Side by Side Glass Door Inverter No Frost Refrigerator (KRS-537SGX)",
+    "slug": "kelvinator-537l-side-by-side-glass-door-inverter-no-frost-refrigerator-krs-537sgx-with-free-infrared-cooker",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/r/krs-537sgx-1-22-26-1.jpg",
+    "unit": "L",
+    "unit_value": 537.0,
+    "price": 135900.0,
+    "special_price": 116900.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:34"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:25"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:41"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:55"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:38"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:12:51"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:26"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:31"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:04"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:43"
+    },
+    {
+      "price": 135900.0,
+      "special_price": 116900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:16"
+    }
+  ]
+}

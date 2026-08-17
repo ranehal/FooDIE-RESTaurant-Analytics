@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121352",
+    "sku": "EECH930SSEUB",
+    "name": "Elba Built-in 90cm Kitchen Hood (ECH930SS)",
+    "slug": "elba-built-in-90cm-kitchen-hood-ech930ss",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/c/ech930-13-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 65000.0,
+    "special_price": 15190.0,
+    "discount": 77.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:16"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:21"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:53"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:53"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:01"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:30"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:02"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:17"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:26"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:29"
+    },
+    {
+      "price": 65000.0,
+      "special_price": 15190.0,
+      "discount": 77.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:37"
+    }
+  ]
+}

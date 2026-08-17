@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95702",
+    "sku": "SSPB241J1BNS",
+    "name": "Seiko SPB241J1 Prospex Land Men\u2019s Watch ",
+    "slug": "seiko-spb241j1-prospex-land-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/e/seiko-spb241j1-27.9.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 86999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:02"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:30"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:41"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:21"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:11"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:53"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:26"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:57"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:40"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:56"
+    },
+    {
+      "price": 86999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:28:27"
+    }
+  ]
+}

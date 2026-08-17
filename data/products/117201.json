@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117201",
+    "sku": "BS3C20RSSJI",
+    "name": "Bulb Shade 3pcs Combo 20-(Regular Size)",
+    "slug": "bulb-shade-3pcs-combo-20-regular-size",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/bulb-shade-3pcs-combo-20-12-3-26-1.jpg",
+    "unit": "pcs",
+    "unit_value": 3.0,
+    "price": 900.0,
+    "special_price": 480.0,
+    "discount": 47.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:23"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:18"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:20:37"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:19:47"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:28:19"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:21"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:26"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:49"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:58"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:34"
+    },
+    {
+      "price": 900.0,
+      "special_price": 480.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:23"
+    }
+  ]
+}

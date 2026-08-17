@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121414",
+    "sku": "DDSGO62EUB",
+    "name": "Delonghi 54L Buillt in Type Gas Oven (DSGO62)",
+    "slug": "delonghi-54l-buillt-in-type-gas-oven-dsgo62",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/s/dsgo62-14-7-26-1.jpg",
+    "unit": "L",
+    "unit_value": 54.0,
+    "price": 120000.0,
+    "special_price": 39290.0,
+    "discount": 67.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:11"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:16"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:44"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:49"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:49"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:07"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:04"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:37"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:34"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:03"
+    },
+    {
+      "price": 120000.0,
+      "special_price": 39290.0,
+      "discount": 67.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:01"
+    }
+  ]
+}

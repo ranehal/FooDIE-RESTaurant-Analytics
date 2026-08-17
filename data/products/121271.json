@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121271",
+    "sku": "XVO3201GDX",
+    "name": "Xiaomi Viomi 32L Smart Electric Oven (VO3201)",
+    "slug": "xiaomi-viomi-32l-smart-electric-oven-vo3201",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/viomi-9-7-26_1.jpg",
+    "unit": "L",
+    "unit_value": 32.0,
+    "price": 26690.0,
+    "special_price": 12100.0,
+    "discount": 55.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:20"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:25"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:53"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:59"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:01"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:11"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:14"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:41"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:41"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:12"
+    },
+    {
+      "price": 26690.0,
+      "special_price": 12100.0,
+      "discount": 55.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:11"
+    }
+  ]
+}

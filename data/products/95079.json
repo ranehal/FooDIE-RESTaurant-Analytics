@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95079",
+    "sku": "PMCYL633PNE",
+    "name": "Panasonic MC-YL633 Vacuum Cleaner ",
+    "slug": "panasonic-mc-yl633-vacuum-cleaner",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/c/mc-yl633-17.8.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 23500.0,
+    "special_price": 19590.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:04"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:49"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:53"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:18"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:34"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:31:47"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:22"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:44:39"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:17:04"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:49:23"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 19590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:22"
+    }
+  ]
+}

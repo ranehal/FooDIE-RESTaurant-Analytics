@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97692",
+    "sku": "WA100HDAVAMZ",
+    "name": "Casio Youth MWA-100HD-1AVDF Analog-Digital Men\u2019s Watch",
+    "slug": "casio-youth-mwa-100hd-1avdf-analog-digital-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/w/mwa-11-12-23----1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8790.0,
+    "special_price": 7590.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:36"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:05"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:13"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:20:54"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:38"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:24"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:08"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:26"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:11"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:31"
+    },
+    {
+      "price": 8790.0,
+      "special_price": 7590.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:28:07"
+    }
+  ]
+}

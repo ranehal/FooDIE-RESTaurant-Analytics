@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112740",
+    "sku": "DY6281CCTY",
+    "name": "Deng Yuan 6 Stage 281C Blue RO Water Purifier",
+    "slug": "deng-yuan-6-stage-281c-blue-ro-water-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/deng-yuan-6-stage-281c-blue-ro-water-purifier1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 23500.0,
+    "special_price": 21690.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:26"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:22"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:33"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:50"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:09"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:36"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:52"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:44"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:11"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:29"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21690.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:08"
+    }
+  ]
+}

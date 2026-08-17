@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115435",
+    "sku": "ACEH10ADR",
+    "name": "Acefast H10 Gaming Mode Wireless Headphones - Black",
+    "slug": "acefast-h10-gaming-mode-bluetooth-wireless-headphones-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-H10-Wireless-Headset-1-removebg-preview.png",
+    "unit": "g",
+    "unit_value": 10.0,
+    "price": 2000.0,
+    "special_price": 1619.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:23"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:20"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:08"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:20"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:51"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:49"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:14"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:25"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:53"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:04"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1619.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:28"
+    }
+  ]
+}

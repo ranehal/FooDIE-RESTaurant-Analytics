@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109842",
+    "sku": "RRTCN26CRCO",
+    "name": "Recci Type-A to Type-C Fast Charging Data Cable (RTC-N26C)",
+    "slug": "recci-type-a-to-type-c-fast-charging-data-cable-rtc-n26c",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/t/rtc-n26c-8-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 149.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:19"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:05"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:04"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:26"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:11"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:25"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:19"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:47"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:59"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:01"
+    },
+    {
+      "price": 149.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:54"
+    }
+  ]
+}

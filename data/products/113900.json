@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113900",
+    "sku": "OJ700MLFPCBD",
+    "name": "OSAKA Japan 700ml Multi-Purpose Food Processor",
+    "slug": "osaka-japan-700ml-multi-purpose-food-processor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osaka-japan-700ml-11-6-25-1.jpg",
+    "unit": "ml",
+    "unit_value": 700.0,
+    "price": 890.0,
+    "special_price": 869.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:06"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:00"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:09"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:24"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:31:39"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:18"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:57"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:38"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:39"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:48"
+    },
+    {
+      "price": 890.0,
+      "special_price": 869.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:56"
+    }
+  ]
+}

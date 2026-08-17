@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "119523",
+    "sku": "BD16IRFNEP",
+    "name": "BT Defender 16 Inch Rechargeable AC/DC Table Fan",
+    "slug": "bt-defender-16-inch-rechargeable-ac-dc-table-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/t/bt-defender-16-inch--6-5-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12000.0,
+    "special_price": 5990.0,
+    "discount": 50.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12000.0,
+      "special_price": 5990.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:43"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 5990.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:41"
+    }
+  ]
+}

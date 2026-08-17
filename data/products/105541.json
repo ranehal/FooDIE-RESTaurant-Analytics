@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105541",
+    "sku": "RC73WC4A1HSO",
+    "name": "Hisense 664L Cross Door Refrigerator (RC73WC4A1WR)",
+    "slug": "hisense-664l-cross-door-refrigerator-rc73wc4a1wr",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/c/rc73wc4a1wr-01.jpg",
+    "unit": "L",
+    "unit_value": 664.0,
+    "price": 189900.0,
+    "special_price": 162900.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:45"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:40"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:46"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:07"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:47"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:15"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:57"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:52"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:37"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:42"
+    },
+    {
+      "price": 189900.0,
+      "special_price": 162900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:04"
+    }
+  ]
+}

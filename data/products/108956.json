@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108956",
+    "sku": "T2648QM01WOG",
+    "name": "Titan Purple Allure Watch for Women (2648QM01)",
+    "slug": "titan-purple-allure-watch-for-women-2648qm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/6/2648qm01-28-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11000.0,
+    "special_price": 10200.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:24"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:01"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:51"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:34"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:42"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:25"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:19"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:32"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:54"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:05:34"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 10200.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:16"
+    }
+  ]
+}

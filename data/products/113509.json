@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113509",
+    "sku": "WFMPI278LRWPO",
+    "name": "Whirlpool Fresh Magic Pro Inverter 278L Glass Door Refrigerator-Floret Red",
+    "slug": "whirlpool-fresh-magic-pro-inverter-278l-glass-door-floret-red-refrigerator",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/h/whirlpool-fresh-magic-pro--21-10-25-1.jpg",
+    "unit": "L",
+    "unit_value": 278.0,
+    "price": 51790.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:16"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:11"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:19"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:40"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:31:50"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:12:59"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:31"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:57"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:11"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:49"
+    },
+    {
+      "price": 51790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:29"
+    }
+  ]
+}

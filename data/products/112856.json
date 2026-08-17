@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112856",
+    "sku": "OCWE66SM53MOV",
+    "name": "Oraimo Firefly 3 10W EU Charging Adapter with Micro USB Cable (OCW-E66S+M53)",
+    "slug": "oraimo-firefly-3-10w-eu-charging-adapter-with-micro-usb-cable-ocw-e66s-m53",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10w-eu-charging-adapter-with-micro-usb-4-3-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 250.0,
+    "special_price": 240.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:18"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:06"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:01"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:18"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:46"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:32"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:38"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:53"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:50"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:19"
+    },
+    {
+      "price": 250.0,
+      "special_price": 240.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:24"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118330",
+    "sku": "GGB1AWOG",
+    "name": "Casio Master of G-Land Mudmaster Watch for Men (GG-B100X-1A)",
+    "slug": "casio-master-of-g-land-mudmaster-gg-b100x-1a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/G/G/GG-B100X-1A_f.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 60000.0,
+    "special_price": 48000.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:07"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:14:55"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:15"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:12:55"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:36:28"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:43:04"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:09"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:30"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:04"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:05"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 48000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:24"
+    }
+  ]
+}

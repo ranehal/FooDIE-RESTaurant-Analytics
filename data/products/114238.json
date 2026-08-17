@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114238",
+    "sku": "AL4E35ADR",
+    "name": "ACEFAST L4 3.5mm In Ear Earphone Clear Sound with Mic",
+    "slug": "acefast-l4-3-5mm",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/A/C/ACEFAST-L4ACEFAST-L4-3.5mm-In-Ear-Earphone-Clear-Sound-with-Mic-3-600x600-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1000.0,
+    "special_price": 799.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:21"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:13"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:04"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:19"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:32"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:18"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:12"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:53"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:15"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:29"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 799.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:15"
+    }
+  ]
+}

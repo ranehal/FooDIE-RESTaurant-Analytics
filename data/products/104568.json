@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104568",
+    "sku": "YGHTSEFHATL",
+    "name": "Yison SE1 Bluetooth Wireless Neckband - Black",
+    "slug": "yison-se1-bluetooth-wireless-neckband-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/e/se1--27-1-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1499.0,
+    "special_price": 899.0,
+    "discount": 40.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:05"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:40"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:48:50"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:15"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:07:38"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:23"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:33"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:27"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:07"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:59"
+    },
+    {
+      "price": 1499.0,
+      "special_price": 899.0,
+      "discount": 40.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:33"
+    }
+  ]
+}

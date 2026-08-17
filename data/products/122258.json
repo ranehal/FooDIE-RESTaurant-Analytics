@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122258",
+    "sku": "CGXG7170PNW",
+    "name": "Canon Maxify GXG7170 A4 Multi Function WiFi Four Color Inkjet Printer (Ink Code: GI-76)",
+    "slug": "canon-maxify-gxg7170-a4-multi-function-wifi-four-color-inkjet-printer-ink-code-gi-76",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/2/p2-15-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 55775.0,
+    "special_price": 51990.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 55775.0,
+      "special_price": 51990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:18:10"
+    },
+    {
+      "price": 55775.0,
+      "special_price": 51990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:56"
+    }
+  ]
+}

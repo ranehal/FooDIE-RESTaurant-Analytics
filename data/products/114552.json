@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114552",
+    "sku": "G5W51LUFGLM",
+    "name": "Glimmer 5W 51-LED UV Portable Flashlight",
+    "slug": "glimmer-5w-51-led-uv-portable-flashlight",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/1/51-led-uv-portable-flashlight-15-12-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1069.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:00"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:54"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:43"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:56"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:59"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:21"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:46"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:23"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:31"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:21"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1069.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:08:32"
+    }
+  ]
+}

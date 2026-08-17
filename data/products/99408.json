@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99408",
+    "sku": "S1220BWHG",
+    "name": "Skmei 1220 Casual Chronograph Stainless Steel Men\u2019s Watch-Black",
+    "slug": "skmei-1220-casual-chronograph-stainless-steel-men-s-watch-black",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-1220-casual-chronograph-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1490.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:13"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:44"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:07:49"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:20:32"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:09"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:54:44"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:03:51"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:02"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:44"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:01"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:39"
+    }
+  ]
+}

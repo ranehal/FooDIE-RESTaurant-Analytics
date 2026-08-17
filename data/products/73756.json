@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "73756",
+    "sku": "CMTP1183G7ATTS",
+    "name": "Casio MTP-1183G-7A Stainless Steel Analog Men\u2019s Watch",
+    "slug": "casio-mtp-1183g-7a-stainless-steel-analog-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1183g-7a-1.jpg",
+    "unit": "g",
+    "unit_value": 1183.0,
+    "price": 6490.0,
+    "special_price": 5690.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:09"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:33"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:56"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:34"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:01"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:50"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:56"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:43:52"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:57"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:32"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:52"
+    }
+  ]
+}

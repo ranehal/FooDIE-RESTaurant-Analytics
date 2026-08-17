@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "79877",
+    "sku": "PHL7505SHL",
+    "name": "Philips HL7505 500W 3 Jars Daily Collection Mixer Grinder ",
+    "slug": "philips-hl7505-500w-daily-collection-mixer-grinder",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/l/hl7505.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7850.0,
+    "special_price": 5990.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:49"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:27"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:28"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:01"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:28"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:17"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:29"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:31"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:50"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:57"
+    },
+    {
+      "price": 7850.0,
+      "special_price": 5990.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:51"
+    }
+  ]
+}

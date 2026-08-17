@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90546",
+    "sku": "WPO21PPADR",
+    "name": "Wiwu Pencil One 2 In 1 Passive Capacitive Pen and Ballpoint Pen",
+    "slug": "wiwu-pencil-one-2-in-1-passive-capacitive-pen-and-ballpoint-pen",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wiwu-pencil-one.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 1049.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:51"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:04"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:33"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:01"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:33"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:32:07"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:02"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:57"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:43"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:53:12"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 1049.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:29"
+    }
+  ]
+}

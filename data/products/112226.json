@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112226",
+    "sku": "SRT31CG5424S9SSSBN",
+    "name": "Samsung 301L Metal Top Mount No Frost Refrigerator\u00a0with Digital Inverter (RT31CG5424S9SS)",
+    "slug": "samsung-301l-metal-top-mount-no-frost-refrigerator-rt31cg5424s9ss",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/t/rt31cg5424s9ss-1.jpg",
+    "unit": "L",
+    "unit_value": 301.0,
+    "price": 93900.0,
+    "special_price": 89900.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:44"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:39"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:48"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:05"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:22"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:41"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:40"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:04"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:15"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:56"
+    },
+    {
+      "price": 93900.0,
+      "special_price": 89900.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:11"
+    }
+  ]
+}

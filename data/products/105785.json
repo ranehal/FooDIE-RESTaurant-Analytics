@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105785",
+    "sku": "JRD8ADR",
+    "name": "Joyroom Bluetooth Neckband Earphone (JR-D8)",
+    "slug": "joyroom-bluetooth-neckband-earphone-jr-d8",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/o/joyroom-jr-d8-neckband-wireless-bluetooth-sports-outdoor-earphone-01_1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1199.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:53:14"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:52"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:59"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:49:17"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:06:25"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:59"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:11"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:19"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:56"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:55"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1199.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:29"
+    }
+  ]
+}

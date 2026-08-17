@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107782",
+    "sku": "OBPENCWHMOV",
+    "name": "Oraimo BoomPop Lite Wireless Bluetooth Headphone (OHP-317)-Speed Black",
+    "slug": "oraimo-boompop-lite-enc-over-ear-wireless-headphones",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-boompop-lite-wireless-bluetooth-headphone-_ohp-317_-speed-black-4-15-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3050.0,
+    "special_price": 2595.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:16"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:58"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:03"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:19"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:15"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:51"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:02"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:15"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:50"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:41"
+    },
+    {
+      "price": 3050.0,
+      "special_price": 2595.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:23"
+    }
+  ]
+}

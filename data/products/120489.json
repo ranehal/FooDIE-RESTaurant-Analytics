@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120489",
+    "sku": "UX527ATL",
+    "name": "UGREEN (X527) 45W 3-Port GaN Fast Charger",
+    "slug": "ugreen-x527-45w-3-port-gan-fast-charger",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/5/x527-24-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1944.0,
+    "special_price": 1749.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:45:27"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:42"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:20"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:31"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:56:26"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:00"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:07"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:55:01"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:54"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:54"
+    },
+    {
+      "price": 1944.0,
+      "special_price": 1749.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:21"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "119036",
+    "sku": "TA3HCWEQCO",
+    "name": "TOZO Aerosound3 Hybrid Active Noise Cancelling Wireless Earbuds",
+    "slug": "tozo-aerosound3-hybrid-active-noise-cancelling-wireless-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/o/tozo-aerosound3-28-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2490.0,
+    "special_price": 2300.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:46:06"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:48:15"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:59"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:42:13"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:57:19"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:29"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:02"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:08"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:08"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:33"
+    },
+    {
+      "price": 2490.0,
+      "special_price": 2300.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:25"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122267",
+    "sku": "VTBL01DLG",
+    "name": "Vision 40W Travel Blender (VSN-TBL-001)",
+    "slug": "vision-40w-travel-blender-vsn-tbl-001",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/s/vsn-tbl-001-15-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1750.0,
+    "special_price": 1440.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1750.0,
+      "special_price": 1440.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 17:58:54"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1440.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

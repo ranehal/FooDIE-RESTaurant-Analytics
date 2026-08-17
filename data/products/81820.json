@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "81820",
+    "sku": "SEO35K3PNE",
+    "name": "Sharp 35L Multifunction Electric Oven (EO35K)",
+    "slug": "sharp-35l-electric-oven-eo-35k3",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/h/sharp-35l-electric-oven-_eo-35k3_1.jpg",
+    "unit": "L",
+    "unit_value": 35.0,
+    "price": 12900.0,
+    "special_price": 10590.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:34"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:13"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:18"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:51"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:16"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:21"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:50"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:23"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:13"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:23"
+    },
+    {
+      "price": 12900.0,
+      "special_price": 10590.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:37"
+    }
+  ]
+}

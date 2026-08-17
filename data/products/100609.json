@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100609",
+    "sku": "MC3365DDHGADR",
+    "name": "Mcdodo 336 65W 1.2m Type-C to Type-C 90 Degree Data Cable - Black",
+    "slug": "mcdodo-336-65w-1-2m-type-c-to-type-c-90-degree-data-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/3/336--14-3-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 850.0,
+    "special_price": 649.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:55:31"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:57"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:50:14"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:51:34"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:09:25"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:47"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:53"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:21"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:50:15"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:33"
+    },
+    {
+      "price": 850.0,
+      "special_price": 649.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:01"
+    }
+  ]
+}

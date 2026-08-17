@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114917",
+    "sku": "TWSG20ASTIPK",
+    "name": "Tuya 20A Smart Geyser WiFi DP Switch With Power\u00a0Monitor  (B-22)( W-34)",
+    "slug": "tuya-20a-smart-geyser-wifi-dp-switch-with-power-monitor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tuya-20a-27-2-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1850.0,
+    "special_price": 1820.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:25:05"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:53"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:16"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:26"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:20"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:02"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:47"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:03"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:29"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:14"
+    },
+    {
+      "price": 1850.0,
+      "special_price": 1820.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:06"
+    }
+  ]
+}

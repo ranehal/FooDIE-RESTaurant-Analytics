@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "93913",
+    "sku": "CMTPW500L2AVTTS",
+    "name": "Casio Standard MTP-W500L-2AVDF Analog Watch for Men ",
+    "slug": "casio-standard-mtp-w500l-2av-analog-watch-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-w500l-2avdf---18-11-25.jpg",
+    "unit": "L",
+    "unit_value": 500.0,
+    "price": 16990.0,
+    "special_price": 13769.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:28"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:56"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:09"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:49"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:45"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:56:32"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:43"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:41:34"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:15:09"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:16:34"
+    },
+    {
+      "price": 16990.0,
+      "special_price": 13769.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:00"
+    }
+  ]
+}

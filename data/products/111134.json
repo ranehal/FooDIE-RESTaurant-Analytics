@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111134",
+    "sku": "A4BWS98RGBGLO",
+    "name": "A4Tech Bloody WS98 RGB Gaming Keyboard",
+    "slug": "a4tech-bloody-ws98-naraka-rgb-gaming-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/s/ws98-nakara-11-9-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9000.0,
+    "special_price": 7500.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:05"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:39"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:05"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:44"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:37"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:49"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:45"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:53"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:58"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:09"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 7500.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:17:18"
+    }
+  ]
+}

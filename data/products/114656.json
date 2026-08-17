@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114656",
+    "sku": "ONEC106OMO",
+    "name": "Omron Compressor Nebulizer (NE-C106)",
+    "slug": "omron-compressor-nebulizer-ne-c106",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/ne-c106-5-2-26-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4221.0,
+    "special_price": 3420.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:01"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:47"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:15"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:50"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:31"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:34"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:38"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:21"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:17"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:09:07"
+    },
+    {
+      "price": 4221.0,
+      "special_price": 3420.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:26"
+    }
+  ]
+}

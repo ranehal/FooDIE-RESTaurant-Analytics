@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121608",
+    "sku": "LDIY5ADR",
+    "name": "LDNIO Y5 Motion Sensor Cabinet Light - Black ",
+    "slug": "ldnio-y5-motion-sensor-cabinet-light-black",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/L/D/LDNIO-Y5-Indoor-Lighting-Aluminum-Strip-Kitchen-Cabinet-Motion-Activated-Light-1200x1200-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1200.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:08:16"
+    }
+  ]
+}

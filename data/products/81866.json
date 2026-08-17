@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "81866",
+    "sku": "PBHH811MBT",
+    "name": "Philips BHH811/00 Multi Care Hair Styler",
+    "slug": "philips-bhh811-multi-care-hair-styler",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/h/bhh811-00-2-jun-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7199.0,
+    "special_price": 6190.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:47"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:12"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:34"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:12"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:33"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:24"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:44"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:38"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:34"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:21"
+    },
+    {
+      "price": 7199.0,
+      "special_price": 6190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:30"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104726",
+    "sku": "WFE2H2GDENDDWLT",
+    "name": "Walton 282L Direct Cool Inverter Refrigerator (WFE-2H2-GDEN-DD)",
+    "slug": "walton-282l-direct-cool-inverter-refrigerator-wfe-2h2-gden-dd",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wfe-2h2-gden-dd-5-7-26-1.jpg",
+    "unit": "L",
+    "unit_value": 282.0,
+    "price": 47490.0,
+    "special_price": 40190.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:56"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:50"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:56"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:18"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:07"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:23"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:02"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:31"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:40"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:57"
+    },
+    {
+      "price": 47490.0,
+      "special_price": 40190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:11"
+    }
+  ]
+}

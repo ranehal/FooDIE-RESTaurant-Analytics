@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116648",
+    "sku": "P24E1N1200AGLO",
+    "name": "Philips 24E1N1200A 24-inch 120Hz OC IPS LED Monitor",
+    "slug": "philips-24e1n1200a-24-inch-120hz-oc-ips-led-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-24e1n1200a.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 17500.0,
+    "special_price": 17200.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:45"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:22"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:47"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:20"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:08"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:33"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:54"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:44"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:04"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:05"
+    },
+    {
+      "price": 17500.0,
+      "special_price": 17200.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:53"
+    }
+  ]
+}

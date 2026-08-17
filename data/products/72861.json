@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "72861",
+    "sku": "STC35SINV",
+    "name": "Samsung Type-C to 3.5 Audio Jack Adapter-Black",
+    "slug": "samsung-type-c-to-3-5-audio-jack-adapter-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-type-c-to-3.5-black.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 550.0,
+    "special_price": 399.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:22"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:45"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:18"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:28"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:11"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:04"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:32"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:14"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:43"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:14"
+    },
+    {
+      "price": 550.0,
+      "special_price": 399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:20"
+    }
+  ]
+}

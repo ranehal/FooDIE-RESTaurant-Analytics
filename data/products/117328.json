@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117328",
+    "sku": "CSLV1WTTS",
+    "name": "Casio Standard LTP-V004D-1B2 Date Chain Women's Watch",
+    "slug": "casio-standard-ltp-v004d-1b2-date-chain-women-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-v004d-1b2-15-march--2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4290.0,
+    "special_price": 3417.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:15"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:03"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:25"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:04"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:36:38"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:43"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:54:18"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:59"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:34"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:03:39"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3417.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:03"
+    }
+  ]
+}

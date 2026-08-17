@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117782",
+    "sku": "XQL1ETMKIOT",
+    "name": "Xiaomi Qualitell L1\u00a0Electric Telescope Mosquito Killer Racket",
+    "slug": "xiaomi-qualitell-l1-electric-telescope-mosquito-killer-racket",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-qualitell-l1_.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 3290.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:49"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:44"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:20:07"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:19:10"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:38"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:10"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:03"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:05"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:34"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:32"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 3290.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:20"
+    }
+  ]
+}

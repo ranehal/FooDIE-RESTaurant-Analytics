@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117233",
+    "sku": "38163SM01AMZ",
+    "name": "Fastrack 38163SM01 Stunners X Analog Blue Dial Chain Watch For Men's",
+    "slug": "fastrack-38163sm01-stunners-x-analog-blue-dial-chain-watch-for-guys",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/_/1_32_6.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5190.0,
+    "special_price": 4290.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:20"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:08"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:29"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:08"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:36:44"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:02"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:26"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:56"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:43"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:50"
+    },
+    {
+      "price": 5190.0,
+      "special_price": 4290.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:39"
+    }
+  ]
+}

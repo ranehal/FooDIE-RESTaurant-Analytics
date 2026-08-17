@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111633",
+    "sku": "DDFKS002MEL",
+    "name": "Dorfen Workstation Type Single Bowl Smart Handmade Sink (DF-KS002)",
+    "slug": "dorfen-workstation-type-single-bowl-smart-handmade-sink-df-ks002",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/f/df-ks002-15-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 23000.0,
+    "special_price": 17190.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:04"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:00"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:09"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:26"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:47"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:28:29"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:22"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:16"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:30"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:23"
+    },
+    {
+      "price": 23000.0,
+      "special_price": 17190.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:54"
+    }
+  ]
+}

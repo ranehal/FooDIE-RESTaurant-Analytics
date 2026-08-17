@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121833",
+    "sku": "OAF8045IHW",
+    "name": "Ocean 5L 1500W Digital Air Fryer (OAF8045)",
+    "slug": "ocean-5l-1500w-digital-air-fryer-oaf8045",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/f/af4-2-8-26-.jpg",
+    "unit": "L",
+    "unit_value": 5.0,
+    "price": 10051.0,
+    "special_price": 8690.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:32"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:42"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:10"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:13"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:07"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:02"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:26"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:32"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:32"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:10"
+    },
+    {
+      "price": 10051.0,
+      "special_price": 8690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:35"
+    }
+  ]
+}

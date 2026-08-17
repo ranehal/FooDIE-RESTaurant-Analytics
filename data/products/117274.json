@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117274",
+    "sku": "DWCDHRTSNEP",
+    "name": "Di Welt Cordless Drill & Home Repair Tool Set (120 Pcs)",
+    "slug": "di-welt-cordless-drill-home-repair-tool-set-120-pcs",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/i/di-welt-cordless-dril-15-3-26-1.jpg",
+    "unit": "pcs",
+    "unit_value": 120.0,
+    "price": 11500.0,
+    "special_price": 6600.0,
+    "discount": 43.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11500.0,
+      "special_price": 6600.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:19"
+    },
+    {
+      "price": 11500.0,
+      "special_price": 6600.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:13"
+    }
+  ]
+}

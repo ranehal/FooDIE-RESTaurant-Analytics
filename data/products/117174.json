@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117174",
+    "sku": "SC2004KCDKT",
+    "name": "SJ-Cam C200 4K Action Camera",
+    "slug": "sj-cam-c200-4k-action-camera",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/j/sj-c200-11-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9680.0,
+    "special_price": 9449.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:31"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:36"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:22"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:32"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:58:53"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:30:22"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:34"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:55:54"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:43:55"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:48"
+    },
+    {
+      "price": 9680.0,
+      "special_price": 9449.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:44"
+    }
+  ]
+}

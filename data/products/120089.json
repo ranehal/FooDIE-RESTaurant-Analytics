@@ -9,10 +9,10 @@
     "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/-/c-to-l-14-5-26.jpg",
     "unit": null,
     "unit_value": null,
-    "price": 1200.0,
-    "special_price": 699.0,
-    "discount": 42.0,
-    "stock_available": 1,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
     "is_atl": 1
   },
   "history": [
@@ -22,6 +22,62 @@
       "discount": 42.0,
       "stock_available": 1,
       "scraped_at": "2026-08-02 17:09:24"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:43:18"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:45:45"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:38:17"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:39:23"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:53:48"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 699.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:30"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-12 21:30:01"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-13 11:14:11"
     }
   ]
 }

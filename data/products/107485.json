@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107485",
+    "sku": "RVSEP10APBDXD",
+    "name": "Riversong Vision 10 SE Pro 10000mAh Power Bank",
+    "slug": "riversong-vision-10-se-pro-10000mah-power-bank",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vision-10-se-pro-27-1-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1749.0,
+    "special_price": 1599.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:22"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:03"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:08"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:24"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:22"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:49:28"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:36"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:18"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:03"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:53:27"
+    },
+    {
+      "price": 1749.0,
+      "special_price": 1599.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:23:26"
+    }
+  ]
+}

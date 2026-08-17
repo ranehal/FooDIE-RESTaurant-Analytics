@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "56601",
+    "sku": "TUHIL35THL",
+    "name": "Beurer Infrared Lamp (IL35)",
+    "slug": "beurer-infrared-lamp-il35",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/l/il35-12-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7858.0,
+    "special_price": 6390.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:29"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:54"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:19"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:58"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:29"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:50"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:49"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:40"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:02:30"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:46"
+    },
+    {
+      "price": 7858.0,
+      "special_price": 6390.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:22:23"
+    }
+  ]
+}

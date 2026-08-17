@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "94848",
+    "sku": "SKFAF50MPNE",
+    "name": "Sharp KF-AF50M 5L Air Fryer",
+    "slug": "sharp-kf-af50m-50w-5l-air-fryer",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/h/sharp5l-5-7-26.jpg",
+    "unit": "L",
+    "unit_value": 5.0,
+    "price": 16400.0,
+    "special_price": 13290.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:10"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:54"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:53"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:23"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:34"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:29"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:59"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:50"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:12"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 17:59:42"
+    },
+    {
+      "price": 16400.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:21"
+    }
+  ]
+}

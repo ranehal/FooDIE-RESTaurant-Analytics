@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "87922",
+    "sku": "XSAPR4XGO",
+    "name": "Xiaomi Smart Air Purifier 4 Lite (AC-M17-SC)-White",
+    "slug": "xiaomi-smart-air-purifier-4-lite",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-smart-air-purifier-4-lite-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22999.0,
+    "special_price": 20499.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:08"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:48"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:51"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:21"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:46"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:05"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:30"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:55"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:51"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:32"
+    },
+    {
+      "price": 22999.0,
+      "special_price": 20499.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:47"
+    }
+  ]
+}

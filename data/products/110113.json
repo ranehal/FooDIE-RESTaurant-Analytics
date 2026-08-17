@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110113",
+    "sku": "CUCC3CPTC",
+    "name": "CHARG\u00a01m USB to Type-C\u00a0Charging Data Cable (C-3C)",
+    "slug": "charg-usb-to-type-c-1m-charging-data-cable-c-3c",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/3/c3c-19-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 200.0,
+    "special_price": 155.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:09"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:56"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:54"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:10"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:03:53"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:15"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:04"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:27"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:38"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:58"
+    },
+    {
+      "price": 200.0,
+      "special_price": 155.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:33"
+    }
+  ]
+}

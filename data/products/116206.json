@@ -1,0 +1,69 @@
+{
+  "product": {
+    "id": "116206",
+    "sku": "P48L15N26CRCO",
+    "name": "BUY 1 GET 2 Offer\u00a0(Recci 22.5W\u00a0Power Bank (RPB-P48) with 2 Accessories)",
+    "slug": "buy-1-get-2-recci-22-5w-fast-charging-10000mah-power-bank-rpb-p48-combo",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/image-photoroom_64_.png",
+    "unit": "g",
+    "unit_value": 1.0,
+    "price": 2444.0,
+    "special_price": 1349.0,
+    "discount": 45.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:07"
+    },
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:05"
+    },
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:53"
+    },
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:04"
+    },
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:32"
+    },
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:17"
+    },
+    {
+      "price": 2444.0,
+      "special_price": 1349.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:11"
+    }
+  ]
+}

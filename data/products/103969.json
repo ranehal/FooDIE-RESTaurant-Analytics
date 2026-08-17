@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103969",
+    "sku": "EP122000PNE",
+    "name": "Philips 1.8L Fully Automatic Coffee Maker (EP1220/00)",
+    "slug": "philips-1-8l-fully-automatic-coffee-maker-ep1220-00",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-1.8l-fully-automatic-coffee-maker-_ep1220-01.jpg",
+    "unit": "L",
+    "unit_value": 1.8,
+    "price": 60000.0,
+    "special_price": 56990.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 60000.0,
+      "special_price": 57590.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:11"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 57590.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:05"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 57590.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:06"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 57590.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:33"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 57590.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:19"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 57590.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:42"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 56990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:45"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 56990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:11"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 56990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:46"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 56990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:17"
+    },
+    {
+      "price": 60000.0,
+      "special_price": 56990.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:07"
+    }
+  ]
+}

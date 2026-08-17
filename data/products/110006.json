@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110006",
+    "sku": "FD122C60WFTB",
+    "name": " Foomee FD122c 60W Fast Charging Type-C to Type-C Data Cable",
+    "slug": "foomee-fd122c-60w-fast-charging-type-c-to-type-c-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/d/fd122c-14-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 390.0,
+    "special_price": 349.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:14"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:00"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:59"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:21"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:00"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:25"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:19"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:47"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:38"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:58"
+    },
+    {
+      "price": 390.0,
+      "special_price": 349.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:33"
+    }
+  ]
+}

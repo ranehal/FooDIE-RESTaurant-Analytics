@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "86152",
+    "sku": "CVD300GLTTS",
+    "name": "Casio MTP-VD300GL-1EUDF Enticer Golden Dial Black Leather Watch for Men ",
+    "slug": "casio-mtp-vd300gl-1eudf-enticer-golden-dial-black-leather-watch-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/d/vd300gl.jpg",
+    "unit": "g",
+    "unit_value": 300.0,
+    "price": 7490.0,
+    "special_price": 5719.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:29"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:54"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:15"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:53"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:11"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:16"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:34"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:47"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:15"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:56"
+    },
+    {
+      "price": 7490.0,
+      "special_price": 5719.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:14"
+    }
+  ]
+}

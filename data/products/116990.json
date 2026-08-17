@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116990",
+    "sku": "MOBIE300KHS",
+    "name": "Mobicom E300 Wireless Neckband",
+    "slug": "mobicom-e300-300h-wireless-neckband",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/M/o/Mobicom_E300.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1250.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:36"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:40"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:27"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:43"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:00"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:49"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:14"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:25"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:53"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:04"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1250.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:28"
+    }
+  ]
+}

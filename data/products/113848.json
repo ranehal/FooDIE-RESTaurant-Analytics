@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113848",
+    "sku": "TS1ETTS",
+    "name": "Tecno Sonic 1 Earbuds",
+    "slug": "tecno-sonic-1-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/e/tecno-sonic-1-black-4-11-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3895.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:46"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:38"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:30"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:46"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:06"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:55"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:56"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:02"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:58"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:57"
+    },
+    {
+      "price": 3895.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:44"
+    }
+  ]
+}

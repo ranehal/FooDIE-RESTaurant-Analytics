@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89662",
+    "sku": "MD10020A6CKT",
+    "name": "Midea 100 Liters Geyser (D100-20A6)",
+    "slug": "midea-100-liters-geyser-d100-20a6",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/h/mh-100l-4.7.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 32000.0,
+    "special_price": 25990.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:58"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:38"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:41"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:16"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:33"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:24:57"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:14"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:21"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:21"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:58"
+    },
+    {
+      "price": 32000.0,
+      "special_price": 25990.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:20"
+    }
+  ]
+}

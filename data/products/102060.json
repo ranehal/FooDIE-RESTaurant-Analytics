@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102060",
+    "sku": "ECA7HDADR",
+    "name": "Enchen Air 7 High-Volume Ionic Hair Dryer",
+    "slug": "enchen-air-7-high-volume-ionic-hair-dryer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/n/enchen-air-7-high-volume--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2449.0,
+    "special_price": 2149.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:22:38"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:11"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:07:13"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:53"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:44:25"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:26"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:09"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:46"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:33"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:38"
+    },
+    {
+      "price": 2449.0,
+      "special_price": 2149.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:03"
+    }
+  ]
+}

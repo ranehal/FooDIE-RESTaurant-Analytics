@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115989",
+    "sku": "C3DPMLALW",
+    "name": "Century Mushroom - 3D Printed Lamp",
+    "slug": "century-3d-printed-mushroom-lamp",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/e/century-mushroom-lamp-7-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2190.0,
+    "special_price": 1990.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:19"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:11"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:26"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:39"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:19"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:45"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:48"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:13:11"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:39"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:41:38"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:58:04"
+    }
+  ]
+}

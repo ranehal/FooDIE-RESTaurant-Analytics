@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117872",
+    "sku": "H2EHLIPK",
+    "name": "H2 Executive Hotel Lock",
+    "slug": "h2-executive-hotel-lock",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/2/h2-executive-2-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19500.0,
+    "special_price": 8250.0,
+    "discount": 58.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:38"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:34"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:56"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:19:00"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:26"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:47"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:10"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:32"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:51"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:57"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 8250.0,
+      "discount": 58.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:42"
+    }
+  ]
+}

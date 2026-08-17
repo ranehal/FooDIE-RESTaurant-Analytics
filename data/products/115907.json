@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115907",
+    "sku": "FBQ1560HSP",
+    "name": "Fossil Modern Sophisticate Multifunction Stainless Steel Watch for Women (BQ1560)",
+    "slug": "fossil-modern-sophisticate-multifunction-stainless-steel-watch-for-women-bq1560",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq1560-2-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13110.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:39"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:26"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:49"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:27"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:04"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:42:09"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:54:23"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:05"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:14"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:07"
+    },
+    {
+      "price": 13110.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:27"
+    }
+  ]
+}

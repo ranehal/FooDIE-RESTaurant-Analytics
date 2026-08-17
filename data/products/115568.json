@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115568",
+    "sku": "HQ5V5AVRREE",
+    "name": "High Quality 5V-28V 12V 5A PWM DC Motor Speed Control Controller Volt Regulator LED Dima Equipment Professional for DC Only",
+    "slug": "high-quality-5v-28v-12v-5a-pwm-dc-motor-speed-control-controller-volt-regulator-led-dima-equipment-professional-for-dc-only",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/volt-control-20-jan-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 110.0,
+    "special_price": 90.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:45"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:35"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:50"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:00"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:48"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:14"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:38"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:43"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:50"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:37"
+    },
+    {
+      "price": 110.0,
+      "special_price": 90.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:43"
+    }
+  ]
+}

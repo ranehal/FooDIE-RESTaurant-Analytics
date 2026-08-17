@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97069",
+    "sku": "PMG770715GSSB",
+    "name": "Philips MG7707/15 Face, Head and Body Trimmer",
+    "slug": "philips-mg7707-15-face-head-and-body-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-mg7707-15-face_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10199.0,
+    "special_price": 7699.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:41"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:09"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:18"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:20:59"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:44"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:24"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:08"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:43"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:38"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:37"
+    },
+    {
+      "price": 10199.0,
+      "special_price": 7699.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:02"
+    }
+  ]
+}

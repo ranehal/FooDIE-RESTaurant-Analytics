@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121452",
+    "sku": "MYGVDISGDX",
+    "name": "Xiaomi Smart Band 10 Pro Smart Watch with GPS-Black",
+    "slug": "xiaomi-smart-band-10-pro-smart-watch-with-1-74-inch-amoled-display-5-system-gnss-150-sports-modes",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/smart-band-10-pro-22-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22080.0,
+    "special_price": 13800.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:44"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:04"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:39"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:44"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:38"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:18"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:30:59"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:14:19"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:36:43"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:44:54"
+    },
+    {
+      "price": 22080.0,
+      "special_price": 13800.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:01:16"
+    }
+  ]
+}

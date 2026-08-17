@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113993",
+    "sku": "EN04TESEXCL",
+    "name": "Excel N-04 TWS Earbuds",
+    "slug": "excel-n-04-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tws-earbuds-n-04-11-17-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1360.0,
+    "special_price": 1165.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:41"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:33"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:24"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:41"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:59"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:55"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:56"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:02"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:58"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:57"
+    },
+    {
+      "price": 1360.0,
+      "special_price": 1165.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:44"
+    }
+  ]
+}

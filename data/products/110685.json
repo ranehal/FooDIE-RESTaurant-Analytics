@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110685",
+    "sku": "F3249NM01WOG",
+    "name": "Fastrack Gamify Quartz Analog Metal Strap Watch for Men (3249NM01)",
+    "slug": "fastrack-gamify-quartz-analog-metal-strap-watch-3249nm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/3249nm01-16-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8500.0,
+    "special_price": 6400.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:19:20"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:02"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:41"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:16:12"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:40:25"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:49:23"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:11"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:35:25"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:08"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:10:40"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6400.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:23:41"
+    }
+  ]
+}

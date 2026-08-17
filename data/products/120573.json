@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120573",
+    "sku": "PA228DIM",
+    "name": "Portable Handheld Ice Cooling Rechargeable Fan (A228)",
+    "slug": "portable-handheld-ice-cooling-rechargeable-fan-a228",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/2/a228-2-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 1390.0,
+    "discount": 50.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:12"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:12"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:46"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:50"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:03"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:38"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:41"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:40"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:19"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:48"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1390.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:27"
+    }
+  ]
+}

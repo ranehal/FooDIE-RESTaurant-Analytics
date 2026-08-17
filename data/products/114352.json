@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114352",
+    "sku": "FLHA21PRODABA",
+    "name": "FLH A21 PRO Professional HD Dual Camera FPV Racing Drone",
+    "slug": "flh-a21-pro-professional-hd-dual-camera-fpv-racing-drone",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/l/flh-a21-pro-12-8-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6999.0,
+    "special_price": 5060.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:10"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:03"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:54"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:14"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:25"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:10"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:16"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:24"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:13"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:12"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 5060.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:01"
+    }
+  ]
+}

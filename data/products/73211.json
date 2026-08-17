@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "73211",
+    "sku": "TPWN823NTPO",
+    "name": "TP-Link TL-WN823N 300Mbps Wireless USB LAN Card-Black",
+    "slug": "tp-link-wn823n-300mbps-wireless-usb-lan-card-black",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/l/tl-wn823n--17-2-24-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1190.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:44"
+    },
+    {
+      "price": 1190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:12:07"
+    },
+    {
+      "price": 1190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:43"
+    },
+    {
+      "price": 1190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:26"
+    },
+    {
+      "price": 1190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:32:04"
+    },
+    {
+      "price": 1190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:33"
+    }
+  ]
+}

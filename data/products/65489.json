@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "65489",
+    "sku": "CFZ370DTTS",
+    "name": "Casio MTP-1370d-7A2VDF Analog Watch for Men",
+    "slug": "casio-mtp-1370d-7a2vdf-analog-watch-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1370d-7a2vdf.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5979.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:21"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:45"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:10"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:48"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:18"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:59:14"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:06:05"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:44:06"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:17:12"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:47"
+    },
+    {
+      "price": 5979.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:31:05"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96924",
+    "sku": "TESY15LTBG",
+    "name": "TESY Compact Under Sink 15 Liters Electric Water Heater",
+    "slug": "tesy-compact-under-sink-15-liters-electric-water-heater",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/compact-15-under1-10-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15700.0,
+    "special_price": 13790.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:36"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:25"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:28"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:53"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:03"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:34"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:54"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:03"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:52"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:40"
+    },
+    {
+      "price": 15700.0,
+      "special_price": 13790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:09"
+    }
+  ]
+}

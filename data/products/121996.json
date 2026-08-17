@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121996",
+    "sku": "AHN339WGLO",
+    "name": "ASUS TUF Gaming A15 Ryzen 7 8845HS 8GB RAM 512GB SSD RTX 3050 15.6 Inch AI Gaming Laptop (FA506NCG-HN339W)",
+    "slug": "asus-tuf-gaming-a15-ryzen-7-8845hs-8gb-ram-512gb-ssd-rtx-3050-15-6-inch-ai-gaming-laptop-fa506ncg-hn339w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l1-6-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 144000.0,
+    "special_price": 142000.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:08:51"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:08:50"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:02:58"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:05:24"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:26:38"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:26"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:39"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:53"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:30"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:40"
+    },
+    {
+      "price": 144000.0,
+      "special_price": 142000.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:20"
+    }
+  ]
+}

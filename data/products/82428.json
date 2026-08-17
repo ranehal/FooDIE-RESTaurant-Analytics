@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "82428",
+    "sku": "S3AUTCMOV",
+    "name": "Samsung Fast Charging USB Type-C to Type-C Cable",
+    "slug": "samsung-fast-charging-usb-type-c-to-type-c-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-3a-usb-type-c-to-type-c-cable-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 450.0,
+    "special_price": 399.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:59:33"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:48"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:54:14"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:45"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:14:22"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:50"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:57"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:25:29"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:20"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:20"
+    },
+    {
+      "price": 450.0,
+      "special_price": 399.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:40"
+    }
+  ]
+}

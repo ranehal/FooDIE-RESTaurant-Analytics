@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "86480",
+    "sku": "CMTPV4D1B2AMZ",
+    "name": "Casio MTP-V004D-1B2 Date Chain Men\u2019s Watch",
+    "slug": "casio-men-s-watch-mtp-v004d-1b2",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/m/cmtpv4d1b2smm.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4290.0,
+    "special_price": 3690.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:29"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:54"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:15"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:53"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:11"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:09"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:30"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:40"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:15"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:49"
+    },
+    {
+      "price": 4290.0,
+      "special_price": 3690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:07"
+    }
+  ]
+}

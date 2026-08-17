@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "122165",
+    "sku": "XDLCKDLG",
+    "name": "Xpart Drawer Lock (Computer Key)-M",
+    "slug": "xpart-drawer-lock-computer-key-m",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/computer-key-12-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 150.0,
+    "special_price": 120.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 150.0,
+      "special_price": 120.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:06"
+    },
+    {
+      "price": 150.0,
+      "special_price": 120.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:06"
+    },
+    {
+      "price": 150.0,
+      "special_price": 120.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:53"
+    },
+    {
+      "price": 150.0,
+      "special_price": 120.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:20"
+    },
+    {
+      "price": 150.0,
+      "special_price": 120.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:32"
+    }
+  ]
+}

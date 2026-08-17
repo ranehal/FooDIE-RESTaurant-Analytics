@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122261",
+    "sku": "PVP2IDPPNW",
+    "name": "Evolis Primacy 2 ID Card Expert Printer",
+    "slug": "evolis-primacy-2-id-card-expert-printer",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/3/p3-15-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 97750.0,
+    "special_price": 91120.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 97750.0,
+      "special_price": 91120.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:18:10"
+    },
+    {
+      "price": 97750.0,
+      "special_price": 91120.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:56"
+    }
+  ]
+}

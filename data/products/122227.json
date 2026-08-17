@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122227",
+    "sku": "XSF5PMFGSB",
+    "name": "Xiaomi Solove F5 Pro Max 10000mAh Rechargeable Desktop Stand Fan (Multi-Color)",
+    "slug": "xiaomi-solove-f5-pro-max-10000mah-rechargeable-desktop-stand-fan-multi-color",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/f/xf-15-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 3460.0,
+    "discount": 47.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 3460.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 17:58:54"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 3460.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114687",
+    "sku": "HOCW65ADR",
+    "name": "Hoco CW65 15W 3 in 1 Ultra Thin North Tabletop Wireless Fast Charger",
+    "slug": "hoco-cw65-15w-3-in-1-ultra-thin-north-tabletop-wireless-fast-charger",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-cw65-north-3in1-desktop-wireless-charger-phone-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1479.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:54"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:49"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:38"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:51"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:53"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:18"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:20"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:36"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:07"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:12"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1479.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:35"
+    }
+  ]
+}

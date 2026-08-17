@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "72040",
+    "sku": "SEBE750WIHW",
+    "name": "Sahara ELEGANTRB 750W 3-In-1 Blender ",
+    "slug": "sahara-elegantrb-750w-3-in-1-blender",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/-/b-2-8-26-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9326.0,
+    "special_price": 8090.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:33:00"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:37"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:42"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:16"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:52"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:17"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:29"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:31"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:50"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:57"
+    },
+    {
+      "price": 9326.0,
+      "special_price": 8090.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:51"
+    }
+  ]
+}

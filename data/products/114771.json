@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114771",
+    "sku": "HOMMJ24ADR",
+    "name": "Hoco MMJ24 Cool Leather Texture True Wireless Earbuds",
+    "slug": "hoco-mmj24-cool-leather-texture-true-wireless-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/W/h/WhatsApp-Image-2025-12-22-at-11.56.49-AM-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 919.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:54"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:49"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:38"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:51"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:53"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:17"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:47"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:56"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:36"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:42"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 919.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:38"
+    }
+  ]
+}

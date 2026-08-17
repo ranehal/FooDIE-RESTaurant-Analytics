@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116367",
+    "sku": "SS3PPSSG",
+    "name": "Super Star 16A 3 Pin Plug (Big)",
+    "slug": "super-star-16a-3-pin-plug",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/super-star-3-pin-plug---19-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 147.0,
+    "special_price": 120.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:59"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:51"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:07"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:18"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:28:55"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:46"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:47"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:38"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:47"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:44"
+    },
+    {
+      "price": 147.0,
+      "special_price": 120.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:31"
+    }
+  ]
+}

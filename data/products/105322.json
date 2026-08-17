@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105322",
+    "sku": "PT343GFSSB",
+    "name": "Philips BT3435/15 Beard Trimmer",
+    "slug": "philips-bt3435-15-beard-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/t/bt3435--24-9-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4399.0,
+    "special_price": 4019.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:50"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:23"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:22"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:03"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:25"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:52"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:04"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:40"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:34"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:11"
+    },
+    {
+      "price": 4399.0,
+      "special_price": 4019.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:19:51"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120966",
+    "sku": "SP7SPWGSC",
+    "name": "Smart Pure 7 Stage pro Water Purifier",
+    "slug": "smart-pure-7-stage-pro-water-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/-/7-stage-pro-22-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24000.0,
+    "special_price": 15550.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:41"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:44"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:21"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:25"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:32"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:29"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:36"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:33"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:53"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:00"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 15550.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:45"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106785",
+    "sku": "RR1011CBD",
+    "name": "RAF 1800W Electric Steam Iron (R.1011)",
+    "slug": "raf-1800w-electric-steam-iron-r-1011",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/raf-iron-14-12-24_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2980.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:25"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:20"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:22"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:48"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:23"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:41"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:00"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:03"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:39"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:31"
+    },
+    {
+      "price": 2980.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:11"
+    }
+  ]
+}

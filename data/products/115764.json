@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115764",
+    "sku": "XMDCL003CMGSB",
+    "name": "Xiaomi Mijia N1 2100W Induction Cooker (MDCL003CM)",
+    "slug": "xiaomi-mijia-n1-2100w-induction-cooker-mdcl003cm",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/d/mdcl003cm-28-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8130.0,
+    "special_price": 6250.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:29"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:20"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:36"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:44"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:26"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:46"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:02"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:54"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:38"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:59"
+    },
+    {
+      "price": 8130.0,
+      "special_price": 6250.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:39"
+    }
+  ]
+}

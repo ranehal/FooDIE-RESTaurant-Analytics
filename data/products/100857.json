@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100857",
+    "sku": "NE20030IOT",
+    "name": "NexTool 6-in-1 Multifunctional Thunder Flashlight (NE20030)",
+    "slug": "xiaomi-nextool-6-in-1-multifunctional-thunder-flashlight-ne20030",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/ne20030-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4630.0,
+    "special_price": 3399.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:07"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:59"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:04"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:28"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:31"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:30:13"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:15"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:42:20"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:14:38"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:47:56"
+    },
+    {
+      "price": 4630.0,
+      "special_price": 3399.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:42"
+    }
+  ]
+}

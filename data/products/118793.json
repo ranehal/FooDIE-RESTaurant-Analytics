@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "118793",
+    "sku": "IAMLB12V7NEP",
+    "name": "I-AM Motorcycle Lithium LiFePO4 Battery 12V-7AH",
+    "slug": "i-am-motorcycle-lithium-lifepo4-battery-12v-7ah",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/2/12v-7ah-23-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5440.0,
+    "special_price": 4790.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5440.0,
+      "special_price": 4790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:48"
+    },
+    {
+      "price": 5440.0,
+      "special_price": 4790.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:46"
+    }
+  ]
+}

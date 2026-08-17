@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95061",
+    "sku": "IIMIKIST1MOV",
+    "name": "Imilab IMIKI ST1 Bluetooth Calling Smart Watch",
+    "slug": "imilab-imiki-st1-bluetooth-calling-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/m/imiki-st1-17.8.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3299.0,
+    "special_price": 3250.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:12"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:35"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:08"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:18"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:54:53"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:11"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:30:40"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:14:06"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:36:30"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:44:10"
+    },
+    {
+      "price": 3299.0,
+      "special_price": 3250.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:01:04"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "87687",
+    "sku": "PM6700DWBEA",
+    "name": "Pantum M6700DW MFP Mono Laser Printer (30 PPM)",
+    "slug": "pantum-m6700dw-mfp-mono-laser-printer-30-ppm",
+    "category_id": "56",
+    "category_name": "Printer",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pantum-m6700dw--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 21000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:47"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:54"
+    }
+  ]
+}

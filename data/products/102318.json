@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102318",
+    "sku": "GBP1821PGZO",
+    "name": "Gazi 1.8L Smiss Electric Kettle (GB-P-1821P)",
+    "slug": "gazi-1-8l-smiss-electric-kettle-gb-p-1821p",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gazi-smiss-electric-kettle---gb-p-1821p-1.jpg",
+    "unit": "L",
+    "unit_value": 1.8,
+    "price": 1920.0,
+    "special_price": 1590.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:37"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:29"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:30"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:58"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:50"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:53"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:14"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:52"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:00"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:28"
+    },
+    {
+      "price": 1920.0,
+      "special_price": 1590.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:36"
+    }
+  ]
+}

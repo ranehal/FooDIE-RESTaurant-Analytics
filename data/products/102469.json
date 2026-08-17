@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102469",
+    "sku": "ML56I3BCFMST",
+    "name": "Minister Luxurious 56 Inch 3 Blades Ceiling Fan ",
+    "slug": "minister-luxurious-56-inch-3-blades-ceiling-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/u/luxurious-56_-20.5.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5043.0,
+    "special_price": 3799.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:31"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:24"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:25"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:53"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:44"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:49"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:02"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:51"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:50"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:52"
+    },
+    {
+      "price": 5043.0,
+      "special_price": 3799.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:08"
+    }
+  ]
+}

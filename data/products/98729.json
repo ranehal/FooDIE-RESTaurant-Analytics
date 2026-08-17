@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "98729",
+    "sku": "SB1104201WWB",
+    "name": "Santa Barbara Polo & Racquet Club Chronograph Stainless Steel Men\u2019s Watch (SB.1.10420-1)",
+    "slug": "santa-barbara-polo-racquet-club-chronograph-stainless-steel-men-s-watch-sb-1-10420-1",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/b/sb.1.10420-1-8-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11600.0,
+    "special_price": 10440.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11600.0,
+      "special_price": 10440.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 22:05:25"
+    },
+    {
+      "price": 11600.0,
+      "special_price": 10440.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:02"
+    },
+    {
+      "price": 11600.0,
+      "special_price": 10440.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:53"
+    },
+    {
+      "price": 11600.0,
+      "special_price": 10440.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:09"
+    },
+    {
+      "price": 11600.0,
+      "special_price": 10440.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:46"
+    }
+  ]
+}

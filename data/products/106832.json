@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106832",
+    "sku": "HPRWSDHE6010SJNN",
+    "name": "HP RGB Wired Soundbar (DHE-6010S)",
+    "slug": "hp-rgb-wired-soundbar-dhe-6010s",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/h/dhe-6010s-18-12-24--1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2860.0,
+    "special_price": 2600.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:43"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:22"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:29"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:44"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:48"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:56"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:37:33"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:38"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:58"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:25"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2600.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:43"
+    }
+  ]
+}

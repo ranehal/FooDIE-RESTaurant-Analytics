@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98349",
+    "sku": "CEEMTPV001GL9BUDFAMZ",
+    "name": "Casio Enticer MTP-V001GL-9BUDF Leather Analog Men\u2019s Watch",
+    "slug": "casio-enticer-mtp-v001gl-9budf-leather-analog-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-v001gl-9budf-01.jpg",
+    "unit": "g",
+    "unit_value": 1.0,
+    "price": 3890.0,
+    "special_price": 3090.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:23"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:53"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:07:59"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:20:42"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:20"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:05"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:03:59"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:17"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:57"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:16"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 3090.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:53"
+    }
+  ]
+}

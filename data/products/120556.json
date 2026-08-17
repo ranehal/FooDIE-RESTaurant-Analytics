@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120556",
+    "sku": "MYDSTGHSGDX",
+    "name": "Plextone MX2 MXZ 30W Radiator Phone Cooler",
+    "slug": "plextone-mx2-mxz-radiator-fan-cooler-30w",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/P/l/Plextone-MX2-MXZ-Radiator-Fan-Cooler.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3304.0,
+    "special_price": 2800.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:45:21"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:37"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:15"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:26"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:56:20"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:30:52"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:58"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:53"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:44"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:46"
+    },
+    {
+      "price": 3304.0,
+      "special_price": 2800.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:16"
+    }
+  ]
+}

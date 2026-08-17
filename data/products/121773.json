@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121773",
+    "sku": "MMRSPF2KLP1EXL",
+    "name": "Marsriva 2KW Hybrid Solar Inverter (MR-SPF2K-LP1-TL20E)",
+    "slug": "marsriva-2kw-hybrid-solar-inverter-mr-spf2k-lp1-tl20e",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/r/mr-spf2k-lp1-29-7-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26000.0,
+    "special_price": 23760.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:38"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:47"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:20"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:23"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:20"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:19"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:11"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:37"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:19"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:31"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 23760.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:44"
+    }
+  ]
+}

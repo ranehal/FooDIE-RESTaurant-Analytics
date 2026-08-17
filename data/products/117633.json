@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117633",
+    "sku": "HCA1CMAHGLO",
+    "name": "Hohem CA1 Camera Mount Adapter for Hohem GO",
+    "slug": "hohem-ca1-camera-mount-adapter-for-hohem-go",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hohem-ca1-29-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:00"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:03"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:41:51"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:00"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:58:15"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:13"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:14"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:42"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:09"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1470.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:53:59"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:00"
+    }
+  ]
+}

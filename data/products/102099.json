@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102099",
+    "sku": "PEWJH0021402WWB",
+    "name": "Police PEWJH0021402 Analog Blue Dial Men's Watch ",
+    "slug": "police-pewjh0021402-analog-blue-dial-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/o/police-pewjh0021402-8-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22790.0,
+    "special_price": 20511.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:22:38"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:11"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:07:13"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:53"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:44:25"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:53:51"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:03:28"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:39:19"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:09"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:14:26"
+    },
+    {
+      "price": 22790.0,
+      "special_price": 20511.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:06"
+    }
+  ]
+}

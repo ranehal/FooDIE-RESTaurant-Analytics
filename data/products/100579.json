@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100579",
+    "sku": "JRW050GSB",
+    "name": "Joyroom JR-W050 20W 10000mAh Magnetic Power Bank with Ring Holder-Black",
+    "slug": "joyroom-jr-w050-20w-1000mah-magnetic-power-bank-with-ring-holder-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/0/w050-17-6-26_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3540.0,
+    "special_price": 2330.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:55:31"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:57"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:50:14"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:51:34"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:09:25"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:01"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:55"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:07"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:37"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:18"
+    },
+    {
+      "price": 3540.0,
+      "special_price": 2330.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:24:28"
+    }
+  ]
+}

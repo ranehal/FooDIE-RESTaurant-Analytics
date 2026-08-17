@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107292",
+    "sku": "TW001620HSP",
+    "name": "Tommy Hilfiger Lexi Dual Tone Watch for Women (TW001620/1782658)",
+    "slug": "tommy-hilfiger-lexi-dual-tone-watch-for-women-tw001620",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw001620-19-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25000.0,
+    "special_price": 18480.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:19"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:52"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:05:48"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:31"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:42:48"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:44:20"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:57"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:23"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:10:37"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:06:11"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 18480.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:28:36"
+    }
+  ]
+}

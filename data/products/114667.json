@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114667",
+    "sku": "HHPCM01OMO",
+    "name": "Adapter for Omron Digital BP Monitor (HHP-CM01)",
+    "slug": "adapter-for-omron-digital-bp-monitor-hhp-cm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/h/hhp-cm01-23-12-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1250.0,
+    "special_price": 880.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:01"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:47"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:15"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:50"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:31"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:34"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:38"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:21"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:17"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:08:42"
+    },
+    {
+      "price": 1250.0,
+      "special_price": 880.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:26"
+    }
+  ]
+}

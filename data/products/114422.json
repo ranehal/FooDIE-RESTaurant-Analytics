@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114422",
+    "sku": "T10SB5W4014BDO",
+    "name": "T10 Super Bright 5W 4014 LED Indicator Interior Bulb for Motorcycle-(1 Pair)",
+    "slug": "t10-super-bright-5w-4014-led-indicator-interior-bulb-for-motorcycle-1-pair",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/1/t10-4014-13-12-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 280.0,
+    "special_price": 177.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:05"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:51"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:20"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:55"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:36"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:43:49"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:03"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:14"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:13"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:09:07"
+    },
+    {
+      "price": 280.0,
+      "special_price": 177.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:42"
+    }
+  ]
+}

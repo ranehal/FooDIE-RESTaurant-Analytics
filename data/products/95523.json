@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95523",
+    "sku": "CW216H2AVTTS",
+    "name": "Casio W-216H-2AV Illuminator Digital Resin Belt Men\u2019s Watch",
+    "slug": "casio-w-216h-2av-illuminator-digital-resin-belt-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/-/w-216h-2avd-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3890.0,
+    "special_price": 2729.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:06"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:35"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:45"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:26"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:16"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:56:00"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:26"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:41:05"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:45"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:16:04"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2729.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:28:33"
+    }
+  ]
+}

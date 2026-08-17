@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111439",
+    "sku": "T95058WM01WOG",
+    "name": "Titan Whimsy Quartz Multifunction Metal Strap Watch for Women (95058WM01)",
+    "slug": "titan-whimsy-quartz-multifunction-metal-strap-watch-for-women-95058wm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/5/95058wm01-8-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25000.0,
+    "special_price": 19600.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:34"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:17:15"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:02:54"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:15:26"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:39:30"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:42:57"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:07"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:40"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:05:22"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:58"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19600.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:25"
+    }
+  ]
+}

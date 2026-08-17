@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122307",
+    "sku": "VTRDBFBGLO",
+    "name": "Vention TRDBF 1m USB 2.0 Type-C to Type-C Cable-Black",
+    "slug": "vention-trdbf-1m-usb-2-0-type-c-to-type-c-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/r/trdbf-16-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 12:46:17"
+    }
+  ]
+}

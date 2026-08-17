@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89778",
+    "sku": "PXX975DC1EBSH",
+    "name": "BOSCH PXX975DC1E Series 8 Induction Hob",
+    "slug": "bosch-pxx975dc1e-series-8-induction-hob",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/x/pxx975dc1e-24-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 333900.0,
+    "special_price": 327222.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:58"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:38"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:41"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:10"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:33"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:05"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:26"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:07"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:51"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:10"
+    },
+    {
+      "price": 333900.0,
+      "special_price": 327222.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:58"
+    }
+  ]
+}

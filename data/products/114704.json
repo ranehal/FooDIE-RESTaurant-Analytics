@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114704",
+    "sku": "V2240A3RFL",
+    "name": "Vision 2200W Infrared Cooker (40A3)",
+    "slug": "vision-2200w-infrared-cooker-40a3",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/0/40a3-27-12-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4950.0,
+    "special_price": 4090.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:18:43"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:23:59"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:30"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:15:25"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:14"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:21"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:48"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:49"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:10"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:38"
+    },
+    {
+      "price": 4950.0,
+      "special_price": 4090.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:46"
+    }
+  ]
+}

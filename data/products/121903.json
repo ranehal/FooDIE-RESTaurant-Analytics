@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121903",
+    "sku": "A4SDM1516ACI",
+    "name": "ACI 4 Inch Submersible Pump (ACI-4SDM-1.5-16/4)",
+    "slug": "aci-4-inch-submersible-pump-aci-4sdm-1-5-16-4",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/4/s/4sdm-1.5-16-4-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 32736.0,
+    "special_price": 20460.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:23"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:32"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:59"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:02"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:56"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:51"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:34"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:47"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:29"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:53"
+    },
+    {
+      "price": 32736.0,
+      "special_price": 20460.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:02"
+    }
+  ]
+}

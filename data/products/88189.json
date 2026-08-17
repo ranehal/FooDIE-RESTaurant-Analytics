@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "88189",
+    "sku": "CLTP1308D1AVDFTTS",
+    "name": "Casio Enticer Date Chain Black Dial Watch LTP-1308D-1AVDF for Women",
+    "slug": "casio-enticer-date-chain-black-dial-watch-ltp-1308d-1avdf-for-women",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-aq-230a-7dhdf-5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 4809.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:16"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:42"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:59"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:39"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:55"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:57:53"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:25"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:33"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:01"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:41"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4809.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:59"
+    }
+  ]
+}

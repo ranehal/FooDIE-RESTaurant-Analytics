@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117254",
+    "sku": "PPSCP56CFNEP",
+    "name": "Pak Punjab Super Chroma Plus 56\" Ceiling Fan",
+    "slug": "pak-punjab-super-chroma-plus-56-ceiling-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pak-punjab-super--chroma-plus-14-3-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 20000.0,
+    "special_price": 10670.0,
+    "discount": 47.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 20000.0,
+      "special_price": 10670.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:23"
+    },
+    {
+      "price": 20000.0,
+      "special_price": 10670.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:18"
+    }
+  ]
+}

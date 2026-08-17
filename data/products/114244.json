@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114244",
+    "sku": "MAC6670ADR",
+    "name": "Mcdodo 36W Type-C to Lightning 1.2M Fast Charging Data Cable (CA-6670)",
+    "slug": "mcdodo-ca-6670-type-c-to-lightning-cable-36w-1-2m",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/M/c/Mcdodo-CA-6670-Type-C-to-Lightning-Cable-36W-1-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1400.0,
+    "special_price": 1119.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:21"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:13"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:04"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:19"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:32"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:00"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:23"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:22"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:09"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:56"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 1119.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:27"
+    }
+  ]
+}

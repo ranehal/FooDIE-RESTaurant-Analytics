@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "120013",
+    "sku": "CG16RFLBNEP",
+    "name": "Circle Ghurni 16inch Rechargeable Fan (Lithium Battery)",
+    "slug": "circle-ghurni-16inch-rechargeable-fan-lithium-battery",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/i/circle-ghurni-16inch-12-5-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14000.0,
+    "special_price": 7450.0,
+    "discount": 47.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 7450.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:28"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 7450.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:27"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 7450.0,
+      "discount": 47.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 12:36:30"
+    }
+  ]
+}

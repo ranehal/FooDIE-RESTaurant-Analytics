@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121565",
+    "sku": "GKWS1538ALQH7MBT",
+    "name": "Galanz 38L Touch Panel Multifunction Electric\u00a0Oven (KWS1538ALQH7)",
+    "slug": "galanz-38l-touch-panel-multifunction-electric-oven-kws1538alqh7",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/v/oven-19-7-26-1.jpg",
+    "unit": "L",
+    "unit_value": 38.0,
+    "price": 13500.0,
+    "special_price": 8490.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:59"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:06"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:39"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:38"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:37"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:07"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:04"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:37"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:34"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:03"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 8490.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:01"
+    }
+  ]
+}

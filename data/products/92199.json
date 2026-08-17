@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "92199",
+    "sku": "CW800H1AVDFAMZ",
+    "name": "Casio W-800H-1AVDF Digital Dual Time Fiber Belt Men\u2019s Watch",
+    "slug": "casio-w-800h-1avdf-digital-dual-time-fiber-belt-men-s-watch",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/-/w-800h-1avdf.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3990.0,
+    "special_price": 3163.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3990.0,
+      "special_price": 3163.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:54:40"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3163.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:02"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3163.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:41:56"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3163.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:15:27"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3163.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:16:56"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 3163.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:20"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116353",
+    "sku": "ARTAX52RGLO",
+    "name": "ASUS RT-AX52 AX1800 Dual Band WiFi 6 Extendable Router",
+    "slug": "asus-rt-ax52-ax1800-dual-band-wifi-6-extendable-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/t/rt-ax52--19-2-26-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 6000.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:48"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:24"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:47"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:23"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:12"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:28"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:26"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:47"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:46"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:01:07"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 6000.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:04"
+    }
+  ]
+}

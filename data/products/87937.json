@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "87937",
+    "sku": "MMW306RTPO",
+    "name": "Mercusys MW306R 300 Mbps Multi-Mode Wireless N Router",
+    "slug": "mercusys-mw306r-300-mbps-multi-mode-wireless-n-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/e/mercusys-mw306r-300-mbps-multi-mode-wireless-n-router122.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1290.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:22"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:47"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:18"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:00"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:30"
+    },
+    {
+      "price": 1290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:12"
+    }
+  ]
+}

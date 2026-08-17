@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121867",
+    "sku": "OYM2JAIHW",
+    "name": "Ocean 15W Yogurt Maker (OYM2JA)",
+    "slug": "ocean-15w-yogurt-maker-oym2ja",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/m/ym2-8-26-1-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2779.0,
+    "special_price": 2390.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:27"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:37"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:10"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:07"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:01"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:04"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:43"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:01"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:54"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:02"
+    },
+    {
+      "price": 2779.0,
+      "special_price": 2390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:09"
+    }
+  ]
+}

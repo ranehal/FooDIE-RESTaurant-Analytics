@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89262",
+    "sku": "LSC5614GSB",
+    "name": "LDNIO SC5614 6 USB Ports & 5 Power Socket Extension - Multiplug ",
+    "slug": "ldnio-sc5614-6-usb-ports-5-power-socket-extension-multiplug",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/d/ldnio-multiplug.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3020.0,
+    "special_price": 1890.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:03"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:43"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:46"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:16"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:40"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:29:00"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:37"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:27"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:46"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:06:10"
+    },
+    {
+      "price": 3020.0,
+      "special_price": 1890.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:58:16"
+    }
+  ]
+}

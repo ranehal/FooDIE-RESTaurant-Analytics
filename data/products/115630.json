@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115630",
+    "sku": "XCY90860WCREE",
+    "name": "XCY 908 60W Temperature Adjustable Control Complete Soldering Iron Combo Set (6 Pcs)",
+    "slug": "xcy-908-60w-temperature-adjustable-control-complete-soldering-iron-combo-set-6-pcs",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soldering-set-21-jan-2026-1_1.jpg",
+    "unit": "pcs",
+    "unit_value": 6.0,
+    "price": 700.0,
+    "special_price": 640.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:39"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:30"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:50"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:00"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:43"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:14"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:35"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:34"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:10"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:25"
+    },
+    {
+      "price": 700.0,
+      "special_price": 640.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:34"
+    }
+  ]
+}

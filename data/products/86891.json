@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "86891",
+    "sku": "BPKE611D17MBSH",
+    "name": "BOSCH PKE611D17M Serie | 4 60 cm Electric Hob",
+    "slug": "bosch-pke611d17m-serie-4-60-cm-electric-hob",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/k/pke611d17m.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 88900.0,
+    "special_price": 87122.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:19"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:58"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:56"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:31"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:52"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:24"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:16"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:23"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:37"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:31"
+    },
+    {
+      "price": 88900.0,
+      "special_price": 87122.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:05"
+    }
+  ]
+}

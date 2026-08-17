@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98939",
+    "sku": "ASSOANMOV",
+    "name": "Anker Soundcore Space One ANC Headphone",
+    "slug": "anker-soundcore-space-one-anc-headphone",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-soundcore-space-one-11.8.24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9990.0,
+    "special_price": 8699.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 9999.0,
+      "special_price": 7699.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:16"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 7699.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:41"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 7699.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:50:59"
+    },
+    {
+      "price": 9999.0,
+      "special_price": 7699.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:23"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:25"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:49"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:00"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:36"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:21"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:15"
+    },
+    {
+      "price": 9990.0,
+      "special_price": 8699.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:05"
+    }
+  ]
+}

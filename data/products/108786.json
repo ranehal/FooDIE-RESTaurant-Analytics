@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108786",
+    "sku": "ASCT22LANO",
+    "name": "Anobik 20W SmartCharge Turbo Fast Charger with Lightning Cable (SC-T22)",
+    "slug": "anobik-20w-smartcharge-turbo-fast-charger-with-lightning-cable-sc-t22",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/c/sc-t22-lightning-22-3-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 499.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:45"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:29"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:28"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:48"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:36"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:56"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:15"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:13"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:15"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:37"
+    },
+    {
+      "price": 600.0,
+      "special_price": 499.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:43"
+    }
+  ]
+}

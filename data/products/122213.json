@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122213",
+    "sku": "VGXI26DLG",
+    "name": "Vigo 2000W Infrared Cooker (VIG-XI-26)",
+    "slug": "vigo-2000w-infrared-cooker-vig-xi-26",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vig-xi-26-15-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4750.0,
+    "special_price": 3920.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4750.0,
+      "special_price": 3920.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:20"
+    },
+    {
+      "price": 4750.0,
+      "special_price": 3920.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

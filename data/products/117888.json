@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117888",
+    "sku": "VVIS009RFL",
+    "name": "Vision 1000W Electric Iron (VIG-DEI-009)",
+    "slug": "vision-1000w-electric-iron-vig-dei-009",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/v/vvig009rfl-5-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 900.0,
+    "special_price": 743.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:33"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:29"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:56"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:19:00"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:26"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:33"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:46"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:56"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:19"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:25"
+    },
+    {
+      "price": 900.0,
+      "special_price": 743.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:08"
+    }
+  ]
+}

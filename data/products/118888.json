@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118888",
+    "sku": "ICMD165QCO",
+    "name": "iClever\u00a0Dual Mode Bluetooth Mouse (MD165)",
+    "slug": "iclever-dual-mode-bluetooth-mouse-md165",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/c/iclever-md165--26-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2190.0,
+    "special_price": 1899.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:26"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:03"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:27"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:01"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:28:45"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:36:20"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:46:54"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:39"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:17"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:52"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 1899.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:14"
+    }
+  ]
+}

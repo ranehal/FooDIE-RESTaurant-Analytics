@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116213",
+    "sku": "MU3VDAABREE",
+    "name": "Micro USB 3.7V Digital Audio Amplifier Board Sound Module",
+    "slug": "micro-usb-3-7v-digital-audio-amplifier-board-sound-module",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/micro-usb-3.7v-amplifier-16-feb-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 320.0,
+    "special_price": 280.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:08"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:01"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:21"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:29"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:07"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:05"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:28"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:24"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:06"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:18"
+    },
+    {
+      "price": 320.0,
+      "special_price": 280.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:31"
+    }
+  ]
+}

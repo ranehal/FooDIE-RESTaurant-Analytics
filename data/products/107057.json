@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107057",
+    "sku": "BOKGN36NL30MBSH",
+    "name": "BOSCH 329 Liter Series 2 Free-Standing Refrigerator (KGN36NL30M)",
+    "slug": "bosch-series-2-free-standing-refrigerator-kgn36nl30m",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/g/kgn36nl30m-24-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 235900.0,
+    "special_price": 231182.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:20"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:15"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:17"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:37"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:17"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:15"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:57"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:52"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:37"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:42"
+    },
+    {
+      "price": 235900.0,
+      "special_price": 231182.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:04"
+    }
+  ]
+}

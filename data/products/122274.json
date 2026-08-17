@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122274",
+    "sku": "VTRGBFBGLO",
+    "name": "Vention TRGBF 1m USB 3.2 Gen2 Type-C to C 10Gbps Cable-Black",
+    "slug": "vention-trgbf-1m-usb-3-2-gen2-type-c-to-c-10gbps-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/v/e/vention-trgwf-16-8-26-3.jpg",
+    "unit": "g",
+    "unit_value": 3.2,
+    "price": 1099.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1099.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:18:22"
+    }
+  ]
+}

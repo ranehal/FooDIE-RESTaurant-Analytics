@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98234",
+    "sku": "VH10K10000STI",
+    "name": "VOLTME Hypercore 10K 10000mAh Portable Power Bank ",
+    "slug": "voltme-hypercore-10k-10000mah-portable-power-bank",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/voltme-hypercore-10k-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3000.0,
+    "special_price": 2645.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:06"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:30"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:03"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:12"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:54:53"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:10"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:55"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:31"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:37:51"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:24"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2645.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:28"
+    }
+  ]
+}

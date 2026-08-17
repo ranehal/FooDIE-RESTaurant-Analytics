@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115144",
+    "sku": "BYZ1005SGBYZ",
+    "name": "BYZ Smart Audio Glass (BYZ1005)",
+    "slug": "byz-smart-audio-glass-byz1005",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/y/byz1005-7-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3999.0,
+    "special_price": 2899.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:38"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:35"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:23"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:35"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:31"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:17"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:11"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:49"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:26"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:59"
+    },
+    {
+      "price": 3999.0,
+      "special_price": 2899.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:03"
+    }
+  ]
+}

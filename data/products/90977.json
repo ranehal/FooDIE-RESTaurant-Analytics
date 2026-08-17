@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90977",
+    "sku": "B00WSIASDATL",
+    "name": "Baseus 300W Super Si Power Inverter CN/EU (CGNB010101)",
+    "slug": "baseus-300w-super-si-power-inverter-cn-eu-cgnb010101",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/0/300w-4-9-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8155.0,
+    "special_price": 7759.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:30"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:45"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:13"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:46"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:07"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:02"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:45:21"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:23:54"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:10:50"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:32"
+    },
+    {
+      "price": 8155.0,
+      "special_price": 7759.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:39"
+    }
+  ]
+}

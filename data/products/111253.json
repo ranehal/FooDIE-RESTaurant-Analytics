@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111253",
+    "sku": "T10038SM01WOG",
+    "name": "Titan Karishma Quartz Analog Stainless Steel Strap Watch for Men (10038SM01)",
+    "slug": "titan-karishma-quartz-analog-stainless-steel-strap-watch-for-men-10038sm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10038sm01-20-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8500.0,
+    "special_price": 6800.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:57"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:17:41"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:17"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:15:44"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:39:57"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:18"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:42"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:20"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:02:21"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:09:45"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:23:07"
+    }
+  ]
+}

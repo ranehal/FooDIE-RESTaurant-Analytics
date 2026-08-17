@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117941",
+    "sku": "IW8038MNEP",
+    "name": "IWIN Energy Rechargeable Desk Fan (IW8038-M)",
+    "slug": "iwin-energy-rechargeable-desk-fan-iw8038-m",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/w/iw8038-m-5-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4500.0,
+    "special_price": 2420.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4500.0,
+      "special_price": 2420.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:28"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 2420.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:24"
+    }
+  ]
+}

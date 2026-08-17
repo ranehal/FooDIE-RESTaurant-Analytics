@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "117891",
+    "sku": "OESLEDBNEP",
+    "name": "Osaka Energy Saving LED Bulb",
+    "slug": "osaka-energy-saving-led-bulb",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osaka-energy-saving-led-bulb-4-12-226-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 340.0,
+    "special_price": 290.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 210.0,
+      "special_price": 170.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:33"
+    },
+    {
+      "price": 210.0,
+      "special_price": 170.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:29"
+    },
+    {
+      "price": 340.0,
+      "special_price": 290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:04:31"
+    },
+    {
+      "price": 340.0,
+      "special_price": 290.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:22"
+    }
+  ]
+}

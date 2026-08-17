@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "91250",
+    "sku": "T1584SL04QAMZ",
+    "name": "Titan 1584SL04\u00a0Leather Casual Watch for Men",
+    "slug": "titan-1584sl04-leather-casual-watch-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/5/1584sl04-logo.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6590.0,
+    "special_price": 5490.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:57"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:25"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:41"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:22"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:33"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:57:29"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:11"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:11"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:15:42"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:11"
+    },
+    {
+      "price": 6590.0,
+      "special_price": 5490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:33"
+    }
+  ]
+}

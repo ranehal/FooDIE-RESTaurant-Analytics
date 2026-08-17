@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102442",
+    "sku": "FCDJTHA30HRB",
+    "name": "Haier 30 Liter Horizontal Geyser [ES30H-CK3 (BD)]-White ",
+    "slug": "haier-30-liter-horizontal-geyser",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/es30h-ck3-_bd_-28-11-24_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12800.0,
+    "special_price": 9290.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:31"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:24"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:30"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:53"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:44"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:34"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:54"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:03"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:52"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:40"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:09"
+    }
+  ]
+}

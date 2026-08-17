@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "88072",
+    "sku": "L27UP600W27GLO",
+    "name": "LG 27UP600-W 27'' UHD 4K IPS Monitor with VESA Display",
+    "slug": "lg-27up600-w-27-uhd-4k-ips-monitor-with-vesa-display",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/o/nowaydd--9-5-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 55700.0,
+    "special_price": 55200.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:18"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:44"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:18"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:00"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:30"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:39:03"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:05"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:59"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:28"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:49"
+    },
+    {
+      "price": 55700.0,
+      "special_price": 55200.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:26"
+    }
+  ]
+}

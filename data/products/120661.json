@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120661",
+    "sku": "PA0125BFBSHL",
+    "name": "Philips Avent (0m+) 125ml Natural Response Baby Feeding Bottle (Single)- (SCY900/01)",
+    "slug": "philips-avent-0m-125ml-natural-response-baby-feeding-bottle-single",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-avent-_0m_-9-6-26-2.jpg",
+    "unit": "ml",
+    "unit_value": 125.0,
+    "price": 815.0,
+    "special_price": 750.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:07"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:08"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:41"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:45"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:57"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:13"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:43"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:28"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:01"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:42"
+    },
+    {
+      "price": 815.0,
+      "special_price": 750.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:50"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115657",
+    "sku": "MBP3AR13PTDC",
+    "name": "Microlife Digital Blood Pressure Monitor (BP-3AR1-3P)",
+    "slug": "microlife-digital-blood-pressure-monitor-bp-3ar1-3p",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/p/bp-3ar1-3p-2-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3000.0,
+    "special_price": 2670.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:39"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:26"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:49"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:27"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:04"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:14"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:18"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:03"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:14"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:07:51"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2670.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:34"
+    }
+  ]
+}

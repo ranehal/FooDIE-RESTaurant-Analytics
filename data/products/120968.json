@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120968",
+    "sku": "AFROC8SGSC",
+    "name": "Aqua Fresh RO+UV+UF+Copper+Mineral Water Purifier",
+    "slug": "aqua-fresh-ro-uv-uf-copper-mineral-water-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/q/aqua-fresh-ro_uv_uf_copper_mineral-water-purifier-8-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19500.0,
+    "special_price": 11600.0,
+    "discount": 41.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:41"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:44"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:21"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:25"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:32"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:29"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:36"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:33"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:53"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:00"
+    },
+    {
+      "price": 19500.0,
+      "special_price": 11600.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:45"
+    }
+  ]
+}

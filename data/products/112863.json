@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112863",
+    "sku": "A4R73PDGLO",
+    "name": "A4Tech Bloody R73 Pro Duo Dual Mode Gaming Mouse",
+    "slug": "a4tech-bloody-r73-pro-duo-dual-mode-gaming-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/l/bloody-r73-pro-duo---18-11-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5900.0,
+    "special_price": 5000.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:55"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:30"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:56"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:34"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:25"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:48"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:22"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:07"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:14"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:22"
+    },
+    {
+      "price": 5900.0,
+      "special_price": 5000.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:56"
+    }
+  ]
+}

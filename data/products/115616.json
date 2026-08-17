@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115616",
+    "sku": "MO30WADR",
+    "name": "Momax 30w Dual Port GaN Charger-Golden",
+    "slug": "momax-30w-gan-tech-1-charge-dual-port-gan-charger-golden",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/o/momax-30w-gan-tech-1-charge-dual-port-gan-charger-sandstone-white-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1599.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:18"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:15"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:03"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:14"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:45"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:04"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:17"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:26"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:03"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:31"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:31"
+    }
+  ]
+}

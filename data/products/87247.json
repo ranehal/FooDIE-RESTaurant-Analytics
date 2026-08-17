@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "87247",
+    "sku": "XPPLT075W1HGDX",
+    "name": "Xiaomi Pinlo PL-T075W1H 750W Stainless Steel Toaster-White",
+    "slug": "xiaomi-pinlo-pl-t075w1h-750w-stainless-steel-toaster-white",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-pinlo-pl-t075w1h--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10000.0,
+    "special_price": 2990.0,
+    "discount": 70.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:14"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:53"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:56"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:31"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:52"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:33:46"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:52:52"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:47:03"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:19:26"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:51:45"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 2990.0,
+      "discount": 70.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:19:37"
+    }
+  ]
+}

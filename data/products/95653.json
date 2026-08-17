@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "95653",
+    "sku": "CGBX100NS1DRWOG",
+    "name": "Casio G-Shock GBX-100NS-1DR Digital Grey Dial Men\u2019s Watch",
+    "slug": "casio-g-shock-gbx-100ns-1dr-digital-grey-dial-men-s-watch",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/g/b/gbx-100ns-1-16-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 30000.0,
+    "special_price": 22800.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 30000.0,
+      "special_price": 22800.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 13:07:52"
+    }
+  ]
+}

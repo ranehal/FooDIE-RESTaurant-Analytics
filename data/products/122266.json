@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122266",
+    "sku": "AMN138GB256GBSVCMA",
+    "name": "Apple MacBook Neo A18 Pro 13 Inch 8GB/256GB (Singapore Variant)",
+    "slug": "apple-macbook-neo-a18-pro-13-inch-8gb-256gb-singapore-variant",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/apple-macbook-neo-a18-pro-13-inch-8gb-256gb-_singapore-variant_-8-16-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 89999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 89999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 08:30:58"
+    }
+  ]
+}

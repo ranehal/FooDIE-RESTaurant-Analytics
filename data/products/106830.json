@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106830",
+    "sku": "PMCLCM1100ADWJNN",
+    "name": "Pantum Multifunction Color Laser Printer (CM1100ADW)",
+    "slug": "pantum-multifunction-color-laser-printer-cm1100adw",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pantum-18-12-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 72765.0,
+    "special_price": 66150.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:28"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:59"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:28"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:08"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:09"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:26"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:16"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:50"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:53:46"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:42"
+    },
+    {
+      "price": 72765.0,
+      "special_price": 66150.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:44"
+    }
+  ]
+}

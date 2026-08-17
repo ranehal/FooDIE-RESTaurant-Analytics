@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110598",
+    "sku": "YPB12PBATL",
+    "name": "Yison Celebrat PB-12 1000mAh Fast Charging Power Bank",
+    "slug": "yison-celebrat-pb-12-1000mah-fast-charging-power-bank",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pb-12-1-6-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1265.0,
+    "special_price": 1149.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:04"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:51"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:48"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:05"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:03:46"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:46"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:32"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:06"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:32"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:53:11"
+    },
+    {
+      "price": 1265.0,
+      "special_price": 1149.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:23:16"
+    }
+  ]
+}

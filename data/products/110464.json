@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110464",
+    "sku": "LSWIRL90CLVP",
+    "name": "Livpure SWIRL-90 Auto Clean Wall Mounted Kitchen Hood",
+    "slug": "livpure-swirl-90-auto-clean-wall-mounted-kitchen-hood",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/w/swirl-90-28-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 31500.0,
+    "special_price": 29890.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:34"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:30"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:38"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:56"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:23"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:28:29"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:22"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:16"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:30"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:51:32"
+    },
+    {
+      "price": 31500.0,
+      "special_price": 29890.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:54"
+    }
+  ]
+}

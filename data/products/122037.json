@@ -1,0 +1,76 @@
+{
+  "product": {
+    "id": "122037",
+    "sku": "ABQ397WGLO",
+    "name": "ASUS Vivobook 15 Intel Core 7 150U 15.6\" FHD 16GB RAM 512GB SSD Laptop (A1504VA-BQ397W)",
+    "slug": "asus-vivobook-15-intel-core-7-150u-15-6-fhd-16gb-ram-512gb-ssd-laptop-a1504va-bq397w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l11-9-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 119000.0,
+    "special_price": 117000.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:05:21"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:26:38"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:23"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:39"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:45"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:30"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:40"
+    },
+    {
+      "price": 119000.0,
+      "special_price": 117000.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:20"
+    }
+  ]
+}

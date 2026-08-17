@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106564",
+    "sku": "ACCUUDCQCO",
+    "name": "ACEFAST C16-03 60W Type-C to Type-C Data Cable",
+    "slug": "acefast-c16-03-usb-c-to-usb-c-60w-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/1/c16-03-3-12-24--2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 490.0,
+    "special_price": 288.0,
+    "discount": 41.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:49"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:27"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:34"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:55"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:54"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:02"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:36"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:59"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:48:09"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:08"
+    },
+    {
+      "price": 490.0,
+      "special_price": 288.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:16"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "78747",
+    "sku": "F6206WL02SMM",
+    "name": "Fastrack 6206WL02 Pink Dial Leather Strap Women\u2019s Watch",
+    "slug": "fastrack-6206wl02-ananya-panday-ruffles-baby-pink-dial-leather-strap-women-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fastrack-6206wl02-ananya-panday---ruffles-baby-pink-dial-leather-strap-womens-watch-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6000.0,
+    "special_price": 4125.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:56"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:20"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:43"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:16"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:39"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:46:45"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:02"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:23"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:43"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:10:15"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:34:18"
+    }
+  ]
+}

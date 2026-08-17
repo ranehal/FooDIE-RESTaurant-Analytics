@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116286",
+    "sku": "LN10AAA1REE",
+    "name": "LiitoKala Ni-10/AAA 1000mAh 1.2V Rechargeable Battery - 2Pcs",
+    "slug": "liitokala-ni-10-aaa-1000mah-1-2v-rechargeable-battery-2pcs",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/i/ni-10-aaa-18-feb-2026-1.jpg",
+    "unit": "pcs",
+    "unit_value": 2.0,
+    "price": 600.0,
+    "special_price": 520.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:04"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:56"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:11"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:24"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:01"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:27"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:14"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:05"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:57"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:14"
+    },
+    {
+      "price": 600.0,
+      "special_price": 520.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:12"
+    }
+  ]
+}

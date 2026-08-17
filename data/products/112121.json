@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112121",
+    "sku": "RX130PROCGLO",
+    "name": "Rapoo X130PRO Wired Optical Mouse & Keyboard Combo",
+    "slug": "rapoo-x130pro-wired-optical-mouse-keyboard-combo",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/1/x130pro--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1350.0,
+    "special_price": 1070.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:01"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:36"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:02"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:41"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:33"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:09"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:47:16"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:25:19"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:28"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:32"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 1070.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:48"
+    }
+  ]
+}

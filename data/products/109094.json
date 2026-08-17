@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109094",
+    "sku": "S1990CWMECO",
+    "name": "SKMEI 1990 Car Wheel Rolling Dial Watch for Men-Red",
+    "slug": "skmei-1990-car-wheel-rolling-dial-watch-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/9/1990-6-4-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1849.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:15"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:53"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:40"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:25"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:31"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:50:41"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:52"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:47"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:37"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:00"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1849.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:41"
+    }
+  ]
+}

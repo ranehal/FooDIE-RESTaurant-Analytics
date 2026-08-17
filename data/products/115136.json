@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115136",
+    "sku": "PBP26000AGCUE",
+    "name": "Pandora Box Plus with 26000 Arcade Games (Double Control)",
+    "slug": "pandora-box-plus-with-26000-arcade-games-double-control",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/pandora-box-plus-double-control-7-1-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:51"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:27"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:53"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:27"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:16"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:49"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:46"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:53"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:58"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:03"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:29"
+    }
+  ]
+}

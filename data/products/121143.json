@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121143",
+    "sku": "HODB98AADR",
+    "name": "Hoco DB98A Storm PD 20W 10000mAh Magnetic Wireless Power Bank",
+    "slug": "hoco-db98a-storm-pd-20w-10000mah-slim-magnetic-wireless-power-bank",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/0/202603081043731807.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1900.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:50"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:08"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:45"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:55"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:44"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:33"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:54"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:37"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:36"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:50"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1900.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:02"
+    }
+  ]
+}

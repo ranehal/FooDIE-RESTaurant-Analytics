@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110734",
+    "sku": "CEFB109D7AVWOG",
+    "name": "Casio Edifice 3-Hand Analog Watch for Unisex (EFB-109D-7AV)",
+    "slug": "casio-edifice-3-hand-analog-watch-for-unisex-efb-109d-7av",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/f/efb-109d-7av-20-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22000.0,
+    "special_price": 17160.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:19:16"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:17:58"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:36"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:16:06"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:40:20"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:49:23"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:11"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:35:25"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:08"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:10:40"
+    },
+    {
+      "price": 22000.0,
+      "special_price": 17160.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:23:41"
+    }
+  ]
+}

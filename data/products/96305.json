@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96305",
+    "sku": "NNF5038RGDBNS",
+    "name": "Naviforce NF5038 Stainless-Steel Women\u2019s Watch \u2013 Rose Gold and Deep Blue",
+    "slug": "naviforce-nf5038-stainless-steel-women-s-watch-rose-gold-and-deep-blue",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/f/nf5038-blue-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2950.0,
+    "special_price": 2249.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:50"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:18"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:27"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:08"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:55"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:46:00"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:59:39"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:35:50"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:25"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:08:57"
+    },
+    {
+      "price": 2950.0,
+      "special_price": 2249.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:32:09"
+    }
+  ]
+}

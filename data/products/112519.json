@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112519",
+    "sku": "NEB2502CBD",
+    "name": "Niyama 350W Egg Beater (NEB-2502)",
+    "slug": "niyama-350w-egg-beater-neb-2502",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/neb-2502-26-10-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2550.0,
+    "special_price": 1590.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:34"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:28"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:38"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:55"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:16"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:28:16"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:07"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:59"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:19"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:53"
+    },
+    {
+      "price": 2550.0,
+      "special_price": 1590.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:03"
+    }
+  ]
+}

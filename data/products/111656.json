@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111656",
+    "sku": "DFGB3ANGMEL",
+    "name": "Dorfen DF-GB3A Built-in-HOB Gas Stove with 3 Burners (NG)",
+    "slug": "dorfen-df-gb3a-built-in-hob-gas-stove-with-3-burners-ng",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/b/gb3a--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 16500.0,
+    "special_price": 13290.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:04"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:00"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:03"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:26"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:47"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:12"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:54"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:05"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:17"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:05"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 13290.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:38"
+    }
+  ]
+}

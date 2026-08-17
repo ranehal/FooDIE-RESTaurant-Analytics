@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "91621",
+    "sku": "PBHS393SHL",
+    "name": "Philips BHS393 Hair Straightener",
+    "slug": "philips-bhs393-hair-straightener",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/h/bhs393-00-25-2-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4850.0,
+    "special_price": 4099.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:57"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:25"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:41"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:22"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:33"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:48"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:33"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:34"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:14"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:17"
+    },
+    {
+      "price": 4850.0,
+      "special_price": 4099.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:26"
+    }
+  ]
+}

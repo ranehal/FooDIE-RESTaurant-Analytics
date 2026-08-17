@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109020",
+    "sku": "CMTPV002L1B3AMZ",
+    "name": "Casio Classic Date Belt Watch for Men (MTP-V002L-1B3)",
+    "slug": "casio-classic-date-belt-watch-for-men-mtp-v002l-1b3",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-v002l-1b3-26-3-25-1.jpg",
+    "unit": "L",
+    "unit_value": 2.0,
+    "price": 3890.0,
+    "special_price": 2964.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:15"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:53"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:40"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:25"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:31"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:50:41"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:52"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:47"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:37"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:00"
+    },
+    {
+      "price": 3890.0,
+      "special_price": 2964.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:41"
+    }
+  ]
+}

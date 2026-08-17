@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111087",
+    "sku": "P6LNFCC600PNE",
+    "name": "Panasonic 6L Air Fryer (NF-CC600)",
+    "slug": "panasonic-6l-air-fryer-nf-cc600",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/a/panasonic-6l5-7-26.jpg",
+    "unit": "L",
+    "unit_value": 6.0,
+    "price": 16850.0,
+    "special_price": 14390.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:20"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:15"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:23"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:41"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:06"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:17"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:42"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:40"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:04"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:06"
+    },
+    {
+      "price": 16850.0,
+      "special_price": 14390.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:05"
+    }
+  ]
+}

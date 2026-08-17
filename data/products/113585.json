@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113585",
+    "sku": "T10011QL01WOG",
+    "name": "Titan Stellar Cupola Automatic Analog Watch for Men (10011QL01)",
+    "slug": "titan-stellar-cupola-automatic-analog-watch-for-men-10011ql01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10011ql01-26-10-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 85000.0,
+    "special_price": 68000.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:41"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:25"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:57"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:30"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:32"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:48"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:27"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:24"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:59:44"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:07:09"
+    },
+    {
+      "price": 85000.0,
+      "special_price": 68000.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:34"
+    }
+  ]
+}

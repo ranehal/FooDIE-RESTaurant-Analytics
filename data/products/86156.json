@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "86156",
+    "sku": "C1A2VDFATTS",
+    "name": "Casio Enticer Date Chain Black Dial Men's Watch (MTP-1308D-1A2VDF)",
+    "slug": "casio-watch-mtp-1308d-1a2vdf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/a/1a2v.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5890.0,
+    "special_price": 4990.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:29"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:54"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:15"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:53"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:11"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:09"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:34"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:47"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:15"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:56"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 4990.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:14"
+    }
+  ]
+}

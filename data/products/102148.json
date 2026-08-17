@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102148",
+    "sku": "GHY720STGZO",
+    "name": "Gazi HY-720ST Smiss 30 Inch Kitchen Hood",
+    "slug": "gazi-hy-720st-smiss-30-inch-kitchen-hood",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/y/hy-720st-12.5.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 31200.0,
+    "special_price": 25490.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:47"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:39"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:39"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:03"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:01"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:10"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:17"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:54"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:50"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:24"
+    },
+    {
+      "price": 31200.0,
+      "special_price": 25490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:53"
+    }
+  ]
+}

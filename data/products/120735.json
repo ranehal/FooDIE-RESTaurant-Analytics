@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120735",
+    "sku": "HRI60KHHAO",
+    "name": "Hafele Renata Inclined 60 Wall Mounted 60cm Filter-Free Kitchen Hood",
+    "slug": "hafele-renata-inclined-60-wall-mounted-60cm-filter-free-kitchen-hood",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/renata-inclined-60-11-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 52600.0,
+    "special_price": 48730.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:56"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:58"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:36"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:40"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:51"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:52"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:02"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:17"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:02"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:36"
+    },
+    {
+      "price": 52600.0,
+      "special_price": 48730.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:39"
+    }
+  ]
+}

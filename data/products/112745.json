@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112745",
+    "sku": "DYTW12100CTY",
+    "name": "Deng Yuan RO 5 Stage Water Purifier (TW-12100)",
+    "slug": "deng-yuan-ro-5-stage-water-purifier-tw-12100",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/deng-yuan-tw-12100-11.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 22500.0,
+    "special_price": 21690.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:26"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:22"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:33"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:50"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:02"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:36"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:52"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:44"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:11"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:29"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 21690.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:08"
+    }
+  ]
+}

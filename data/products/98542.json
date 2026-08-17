@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98542",
+    "sku": "UGREENSSPATL",
+    "name": "UGREEN Smart Stylus Pen for iPad  (LP452S)",
+    "slug": "ugreen-smart-stylus-pen-for-ipad-80955-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/p/lp452s-20-5-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2538.0,
+    "special_price": 2249.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:21"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:45"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:51:04"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:33"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:31"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:55"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:39:37"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:48"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:41"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:53:11"
+    },
+    {
+      "price": 2538.0,
+      "special_price": 2249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:29"
+    }
+  ]
+}

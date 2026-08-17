@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98271",
+    "sku": "BCASS030101ATL",
+    "name": "Baseus Flash Series 2 2-in-3 100W 1.2M Fast Charging Data Cable (CASS030101) - Black",
+    "slug": "baseus-flash-series-cass030101-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/cass030101-21.4.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1699.0,
+    "special_price": 1569.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:31"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:55"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:51:15"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:38"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:44"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:25"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:01"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:41"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:05"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:12"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1569.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:31"
+    }
+  ]
+}

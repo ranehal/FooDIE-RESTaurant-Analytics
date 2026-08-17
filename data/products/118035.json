@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118035",
+    "sku": "RB48CFRCIPK",
+    "name": "Retractable Blades Crystal Chandelier 48\" Ceiling Fan Remote Control   (IP-375)",
+    "slug": "retractable-blades-crystal-chandelier-48-ceiling-fan-remote-control",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/retractable-blades-crystal-8-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 38500.0,
+    "special_price": 26400.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:23"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:19"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:46"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:49"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:14"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:50"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:58"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:09:23"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:26"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:45"
+    },
+    {
+      "price": 38500.0,
+      "special_price": 26400.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:50"
+    }
+  ]
+}

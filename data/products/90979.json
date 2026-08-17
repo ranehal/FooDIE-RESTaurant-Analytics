@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90979",
+    "sku": "BCILDGXWATL",
+    "name": "Baseus Capsule Car Interior Lights (DGXW-01)",
+    "slug": "baseus-capsule-car-interior-lights-dgxw-01",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-capsule-car.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 949.0,
+    "special_price": 649.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:30"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:45"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:13"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:46"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:07"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:02"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:45:21"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:23:54"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:10:50"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:32"
+    },
+    {
+      "price": 949.0,
+      "special_price": 649.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:39"
+    }
+  ]
+}

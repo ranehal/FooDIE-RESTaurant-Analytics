@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118286",
+    "sku": "DKST5SMB",
+    "name": "Doublemax Kitchen Hood ST5",
+    "slug": "doublemax-kitchen-hood-st5",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/o/doublemax-st5-16-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 44900.0,
+    "special_price": 39590.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:08"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:05"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:31"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:34"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:55"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:52"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:02"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:17"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:02"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:04"
+    },
+    {
+      "price": 44900.0,
+      "special_price": 39590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:39"
+    }
+  ]
+}

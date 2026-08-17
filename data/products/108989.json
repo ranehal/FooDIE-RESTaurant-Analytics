@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108989",
+    "sku": "TDANT2665WM01WOG",
+    "name": "Titan Raga Viva Brown Dial Analog Stainless Steel Strap Women\u2019s Watch (2665WM01)",
+    "slug": "titan-raga-viva-brown-dial-analog-stainless-steel-strap-women-s-watch-nt2665wm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/6/2665wm01-10-7-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14000.0,
+    "special_price": 11200.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:15"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:53"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:40"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:25"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:31"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:04"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:47"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:21"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:37"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:05:30"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 11200.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:03"
+    }
+  ]
+}

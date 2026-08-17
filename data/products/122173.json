@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "122173",
+    "sku": "H55A6QHSO",
+    "name": "Hisense 55 Inch Direct 4K LED TV (55A6Q)",
+    "slug": "hisense-55-inch-direct-4k-led-tv-55a6q",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/i/hisense-43-inch-direct-4k-led-tv-_43a6q_-8-12-26-2_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 87900.0,
+    "special_price": 69990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 87900.0,
+      "special_price": 69990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:20:58"
+    },
+    {
+      "price": 87900.0,
+      "special_price": 69990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:03:29"
+    },
+    {
+      "price": 87900.0,
+      "special_price": 69990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:26:30"
+    },
+    {
+      "price": 87900.0,
+      "special_price": 69990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:32:49"
+    },
+    {
+      "price": 87900.0,
+      "special_price": 69990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:49:53"
+    }
+  ]
+}

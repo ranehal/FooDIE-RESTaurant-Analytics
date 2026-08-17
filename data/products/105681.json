@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105681",
+    "sku": "HM5000B5DSQ",
+    "name": "Black & Decker 5L Ultrasonic Compact Air Humidifier (HM5000-B5)",
+    "slug": "black-decker-5l-ultrasonic-compact-air-humidifier-hm5000-b5",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/m/hm5000-b5-91.jpg",
+    "unit": "L",
+    "unit_value": 5.0,
+    "price": 14499.0,
+    "special_price": 14390.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 16500.0,
+      "special_price": 14900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:35"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 14900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:30"
+    },
+    {
+      "price": 16500.0,
+      "special_price": 14900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:37"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:57"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:41"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:02"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:21"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:23"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:45"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:27"
+    },
+    {
+      "price": 14499.0,
+      "special_price": 14390.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:41"
+    }
+  ]
+}

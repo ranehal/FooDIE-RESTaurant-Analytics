@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "112077",
+    "sku": "CC56FDLG",
+    "name": "Click Crown 56 Inch 3 Blade Ceiling Fan - Ivory Gold",
+    "slug": "click-crown-56-inch-3-blade-ceiling-fan-hir00016",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/l/click-1-10-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4100.0,
+    "special_price": 3860.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4100.0,
+      "special_price": 3860.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:53"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3860.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:31"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3860.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:11"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3860.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:43"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3860.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:59"
+    }
+  ]
+}

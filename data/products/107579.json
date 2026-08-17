@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107579",
+    "sku": "HRVGY490PB0GBKTSD",
+    "name": "Hitachi 443L New Stylish Luxury Top Mount Refrigerator (R-VGY490PB0-GBK) ",
+    "slug": "hitachi-443l-new-stylish-luxury-top-mount-refrigerator-r-vgy490pb0-gbk",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/-/r-vgy490pb0-_gbk_-30-1-25.jpg",
+    "unit": "L",
+    "unit_value": 443.0,
+    "price": 163900.0,
+    "special_price": 149990.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:14"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:10"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:17"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:37"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:12"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:15"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:57"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:52"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:37"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:42"
+    },
+    {
+      "price": 163900.0,
+      "special_price": 149990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:04"
+    }
+  ]
+}

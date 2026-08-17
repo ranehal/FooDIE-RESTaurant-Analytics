@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117584",
+    "sku": "SWFLS900NSTB",
+    "name": "Sony LinkBuds S WF-LS900N Truly Wireless Noise Cancellation Earbuds",
+    "slug": "sony-linkbuds-s-wf-ls900n-truly-wireless-noise-cancellation-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/f/wf-ls900n-28-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 43900.0,
+    "special_price": 21357.0,
+    "discount": 51.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:05"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:08"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:41:56"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:05"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:58:22"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:53"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:39"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:52"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:29"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:34"
+    },
+    {
+      "price": 43900.0,
+      "special_price": 21357.0,
+      "discount": 51.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:26"
+    }
+  ]
+}

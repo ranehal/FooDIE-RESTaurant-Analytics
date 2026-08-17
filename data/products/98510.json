@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98510",
+    "sku": "O33WSGADR",
+    "name": "Oppo 33W Supervooc Power Adapter-White",
+    "slug": "oppo-33w-supervooc-power-adapter-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/-/i-img900x900-1747897271627py6ux7-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 1899.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:21"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:45"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:51:04"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:33"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:31"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:18"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:20"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:59:00"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:26"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:56"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1899.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:51"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96496",
+    "sku": "A4BM590GLO",
+    "name": "A4tech Bloody M590i Virtual 7.1 Surround Sound Gaming Headset",
+    "slug": "a4tech-bloody-m590i-virtual-7-1-surround-sound-gaming-headset",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/d/rdf--16-5-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4249.0,
+    "special_price": 3500.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:53"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:21"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:53"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:34"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:48"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:38:28"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:32"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:11"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:27"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:44"
+    },
+    {
+      "price": 4249.0,
+      "special_price": 3500.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:56"
+    }
+  ]
+}

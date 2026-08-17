@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114356",
+    "sku": "Y10MHBHBDO",
+    "name": "Y10 Motorcycle Helmet Bluetooth Headset (Not Device to Device Intercom)",
+    "slug": "y10-motorcycle-helmet-bluetooth-headset-not-device-to-device-intercom",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/y/1/y10-motorcycle-helmet--8-12-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 2099.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:09"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:55"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:24"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:59"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:41"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:43:58"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:10"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:38"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:29"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:09:57"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2099.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:22:01"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111236",
+    "sku": "T90213WL01WOG",
+    "name": "Titan Regalia Arc Quartz Analog Watch for Men (90213WL01)",
+    "slug": "titan-regalia-arc-quartz-analog-watch-for-men-90213wl01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90213wl01-20-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 28000.0,
+    "special_price": 22500.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:57"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:17:41"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:17"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:15:48"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:39:57"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:33"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:52"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:57"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:02:33"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:09:52"
+    },
+    {
+      "price": 28000.0,
+      "special_price": 22500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:23:14"
+    }
+  ]
+}

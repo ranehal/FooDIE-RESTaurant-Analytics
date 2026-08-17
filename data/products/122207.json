@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122207",
+    "sku": "RRG32HXM2RNG",
+    "name": "Rangs 32 Inch Frameless HD Android Google TV (RG32HXM2)",
+    "slug": "rangs-32-inch-frameless-hd-android-google-tv-rg32hxm2",
+    "category_id": "29",
+    "category_name": "Television",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/g/rg32hx-5-july-2026_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26900.0,
+    "special_price": 24500.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26900.0,
+      "special_price": 24500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 14:22:11"
+    },
+    {
+      "price": 26900.0,
+      "special_price": 24500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:26:30"
+    },
+    {
+      "price": 26900.0,
+      "special_price": 24500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:04"
+    },
+    {
+      "price": 26900.0,
+      "special_price": 24500.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:49:53"
+    }
+  ]
+}

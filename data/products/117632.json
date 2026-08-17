@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117632",
+    "sku": "HHRT03RCGLO",
+    "name": "Hohem HRT-03 Wireless Bluetooth Remote Control",
+    "slug": "hohem-hrt-03-wireless-bluetooth-remote-control",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hohem-hrt-03-29-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:00"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:03"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:41:51"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:00"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:58:15"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:13"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:14"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:42"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:09"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1960.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:53:59"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:00"
+    }
+  ]
+}

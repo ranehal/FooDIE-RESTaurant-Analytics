@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117384",
+    "sku": "LDS18H8GSB",
+    "name": "LDNIO DS-18H PD100W 8 in 1 4K Type-C Hub",
+    "slug": "ldnio-ds-18h-8-in-1-type-c-hub-4k-display-100w-pd-charging-docking-station",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/d/ldnio-ds-18h-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2990.0,
+    "special_price": 1850.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:36"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:13"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:37"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:10"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:28:56"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:20"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:40"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:26"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:23"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:30"
+    },
+    {
+      "price": 2990.0,
+      "special_price": 1850.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:25"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105355",
+    "sku": "FS5967SETHSP",
+    "name": "Fossil FS5967SET Townsman Chronograph Men\u2019s Watch and Bracelet Set",
+    "slug": "fossil-fs5967set-townsman-chronograph-men-s-watch-and-bracelet-set",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/s/fs5967set-25.9.24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24299.0,
+    "special_price": 16850.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:50"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:23"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:22"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:03"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:25"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:42"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:52"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:29"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:36"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:30"
+    },
+    {
+      "price": 24299.0,
+      "special_price": 16850.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:11"
+    }
+  ]
+}

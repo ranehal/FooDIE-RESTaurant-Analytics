@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114125",
+    "sku": "SC30HANCQCO",
+    "name": "SoundPeats C30 Hi-Res LDAC Hybrid ANC Earbuds",
+    "slug": "soundpeats-c30-hi-res-ldac-hybrid-anc-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/soundpeats-c30-11-20-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2938.0,
+    "special_price": 2699.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:26"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:18"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:09"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:24"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:39"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:17"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:47"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:02"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:58"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:57"
+    },
+    {
+      "price": 2938.0,
+      "special_price": 2699.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:44"
+    }
+  ]
+}

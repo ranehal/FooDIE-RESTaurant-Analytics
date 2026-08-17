@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121008",
+    "sku": "WFC3F5GDNEXXWLT",
+    "name": "Walton 380L Direct Cool Inverter Refrigerator (WFC-3F5-GDNE-XX)",
+    "slug": "walton-380l-direct-cool-inverter-refrigerator-wfc-3f5-gdne-xx",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton_380l_direct_cool_inverter_refrigerator_wfc-3f5-gdne-xx_7_1_26_1.jpg",
+    "unit": "L",
+    "unit_value": 380.0,
+    "price": 54190.0,
+    "special_price": 45890.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 54190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:41"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:44"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:21"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:20"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:32"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 45890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:12:42"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 45890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:15"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 45890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:04"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 45890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:26:40"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 45890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:19"
+    },
+    {
+      "price": 54190.0,
+      "special_price": 45890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:09"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111343",
+    "sku": "OOIC71IHW",
+    "name": "Ocean 2000W Induction Cooker (OIC71)",
+    "slug": "ocean-2000w-induction-cooker-oic71",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/coocker6-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4569.0,
+    "special_price": 3990.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:15"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:10"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:14"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:31"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:59"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:59"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:12"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:59"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:46"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:07"
+    },
+    {
+      "price": 4569.0,
+      "special_price": 3990.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:39"
+    }
+  ]
+}

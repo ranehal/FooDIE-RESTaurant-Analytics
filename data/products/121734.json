@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121734",
+    "sku": "KEEN018LMNS",
+    "name": "Decakila 1200W Dry Iron (KEEN018L)",
+    "slug": "decakila-1200w-dry-iron-keen018l",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/keen018l-28-7-26-4-.jpg",
+    "unit": "L",
+    "unit_value": 18.0,
+    "price": 2189.0,
+    "special_price": 1990.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:43"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:51"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:25"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:29"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:25"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:27"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:19"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:41"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:29"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:39"
+    },
+    {
+      "price": 2189.0,
+      "special_price": 1990.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:44"
+    }
+  ]
+}

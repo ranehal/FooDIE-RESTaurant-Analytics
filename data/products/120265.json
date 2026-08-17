@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120265",
+    "sku": "MC400TCBD",
+    "name": "Miyako Multifunctional 3.5L Electric Curry Cooker (MC-400T)",
+    "slug": "miyako-multifunctional-3-5l-electric-curry-cooker-mc-400t",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/c/mc-400t_19-5-26.jpg",
+    "unit": "L",
+    "unit_value": 3.5,
+    "price": 7450.0,
+    "special_price": 5590.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:17"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:17"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:57"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:00"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:14"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:54"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:03"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:48"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:22"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:10"
+    },
+    {
+      "price": 7450.0,
+      "special_price": 5590.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:21"
+    }
+  ]
+}

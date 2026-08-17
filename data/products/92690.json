@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "92690",
+    "sku": "BCCGP090201ATL",
+    "name": "Baseus GaN5 Pro C+U 100W EU Fast Charger with Mini White 1m 100W Type-C to Type-C Cable (CCGP090201)",
+    "slug": "baseus-gan5-pro-c-u-100w-eu-fast-charger-with-mini-white-1m-100w-type-c-to-type-c-cable-ccgp090201",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/h/charger--4-9-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5150.0,
+    "special_price": 4539.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:09"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:26"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:52:53"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:24"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:12:42"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:43"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:47"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:59:06"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:38"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:08"
+    },
+    {
+      "price": 5150.0,
+      "special_price": 4539.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:09"
+    }
+  ]
+}

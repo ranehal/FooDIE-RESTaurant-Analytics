@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115853",
+    "sku": "XB210GSB",
+    "name": "Xiaomi Mijia 600W Wired Vacuum Cleaner (B210)",
+    "slug": "xiaomi-mijia-600w-wired-vacuum-cleaner-b210",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/b/_b210-29-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12500.0,
+    "special_price": 7260.0,
+    "discount": 42.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:24"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:15"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:31"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:44"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:26"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:23"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:52"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:39"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:59"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:42:57"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 7260.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:40"
+    }
+  ]
+}

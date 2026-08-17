@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120295",
+    "sku": "MMCX14CAOGDX",
+    "name": "AOCHUAN Smart XE 3-Axis Gimbal Stabilizer",
+    "slug": "https-expressgadgetbd-com-product-aochuan-smart-xe-3-axis-gimbal-stabilizer",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/I/M/IMG_5418.jpeg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9119.0,
+    "special_price": 7728.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:45:44"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:56"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:39"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:47"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:56:48"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:44"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:37:17"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:46"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:43:15"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:51:45"
+    },
+    {
+      "price": 9119.0,
+      "special_price": 7728.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:48"
+    }
+  ]
+}

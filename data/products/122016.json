@@ -1,0 +1,76 @@
+{
+  "product": {
+    "id": "122016",
+    "sku": "RV049WGLO",
+    "name": "ASUS TUF Gaming A16 16\" FHD+ \u00a0Ryzen 7 16GB RAM 512GB SSD RTX 50500 Graphics Gaming Laptop (FA608UH-RV049W)",
+    "slug": "asus-tuf-gaming-a16-16-fhd-ryzen-7-16gb-ram-512gb-ssd-rtx-50500-graphics-gaming-laptop-fa608uh-rv049w",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l1-9-8-26.jpg",
+    "unit": "g",
+    "unit_value": 50500.0,
+    "price": 222000.0,
+    "special_price": 218500.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:05:24"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:26:38"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:26"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:39"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:53"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:30"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:40"
+    },
+    {
+      "price": 222000.0,
+      "special_price": 218500.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:20"
+    }
+  ]
+}

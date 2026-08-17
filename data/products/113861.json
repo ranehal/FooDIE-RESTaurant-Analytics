@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113861",
+    "sku": "G300TCSK3GZO",
+    "name": "Gazi Stainless Steel 300Kg Digital Scale (TCS-K3)",
+    "slug": "gazi-stainless-steel-300kg-digital-scale-tcs-k3",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/c/tcs-k2-11-5-25-1_1.jpg",
+    "unit": "kg",
+    "unit_value": 300.0,
+    "price": 9600.0,
+    "special_price": 7990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:11"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:05"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:14"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:29"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:31:44"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:28:11"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:02"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:44"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:12"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:46:17"
+    },
+    {
+      "price": 9600.0,
+      "special_price": 7990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:51"
+    }
+  ]
+}

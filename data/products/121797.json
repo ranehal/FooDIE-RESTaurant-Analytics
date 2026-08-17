@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121797",
+    "sku": "HRF500VMBHRB",
+    "name": "Haier 518L No Frost Inverter Refrigerator (HRF-500VMB)",
+    "slug": "haier-518l-no-frost-inverter-refrigerator-hrf-500vmb",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/haier1-1-8-26_1.jpg",
+    "unit": "L",
+    "unit_value": 518.0,
+    "price": 108900.0,
+    "special_price": 93490.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:38"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:47"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:20"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:18"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:13"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:12:38"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:06"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:03:58"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:26:32"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:05"
+    },
+    {
+      "price": 108900.0,
+      "special_price": 93490.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:49:58"
+    }
+  ]
+}

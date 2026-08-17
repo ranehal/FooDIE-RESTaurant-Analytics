@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "78686",
+    "sku": "V500SETCS",
+    "name": "Rapoo V500 SE Mixed Light 104 Keys Metal Wired Mechanical Gaming Keyboard",
+    "slug": "rapoo-v500-se-mixed-light-104-keys-metal-wired-mechanical-gaming-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/a/rapoo-v500se-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3250.0,
+    "special_price": 3149.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:34"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:58"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:33"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:17"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:52"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:38:22"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:20"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:46"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:29"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:15"
+    },
+    {
+      "price": 3250.0,
+      "special_price": 3149.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:13"
+    }
+  ]
+}

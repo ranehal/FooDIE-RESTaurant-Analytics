@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121612",
+    "sku": "BAFICADR",
+    "name": "Baseus 2A USB to Type-C Fish Eye Spring Data Cable 1M - Black",
+    "slug": "baseus-fish-eye-spring-data-cable-usb-for-type-c-2a-1m-black",
+    "category_id": "205",
+    "category_name": "Data Cable",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/i/m/images_-_2026-07-20T211821_036-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1400.0,
+    "special_price": 1200.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1400.0,
+      "special_price": 1200.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 08:28:43"
+    }
+  ]
+}

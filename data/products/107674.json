@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107674",
+    "sku": "LD20IHPVMEXL",
+    "name": "Lenovo D20-30 19.5 Inch HD Plus HDMI VGA Monitor",
+    "slug": "lenovo-d20-30-19-5-inch-hd-plus-hdmi-vga-monitor",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/2/d20-30-4-2-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9790.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:21"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:53"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:22"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:01"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:58"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:39"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:58"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:48"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:25"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:23"
+    },
+    {
+      "price": 9790.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:23"
+    }
+  ]
+}

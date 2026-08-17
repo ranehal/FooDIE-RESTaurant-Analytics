@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95774",
+    "sku": "BSUJS000001ATL",
+    "name": "Baseus Metal Age II Gravity Car Phone Holder (SUJS000001)",
+    "slug": "baseus-metal-age-ii-gravity-car-phone-holder-sujs000001",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/sujs000001-2.10.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2249.0,
+    "special_price": 869.0,
+    "discount": 61.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:57:48"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:06"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:52:32"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:03"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:12:17"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:02"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:45:21"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:23:54"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:09:41"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:32"
+    },
+    {
+      "price": 2249.0,
+      "special_price": 869.0,
+      "discount": 61.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:39"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "47920",
+    "sku": "TANL02FSGWSMM",
+    "name": "Fastrack Quartz Analog Leather Strap Men's Watch (3120SL02)",
+    "slug": "fastrack-leather-analog-watch-for-men-3120sl02-black",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/1/3120sl02-f.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4500.0,
+    "special_price": 3685.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:34"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:58"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:23"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:24:03"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:35"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:59:24"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:06:14"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:44:22"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:17:25"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:54"
+    },
+    {
+      "price": 4500.0,
+      "special_price": 3685.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:31:13"
+    }
+  ]
+}

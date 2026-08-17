@@ -1,0 +1,90 @@
+{
+  "product": {
+    "id": "107440",
+    "sku": "BBYV3DWMGLO",
+    "name": "BOYA BY-V3 Dual-Channel Wireless Microphone",
+    "slug": "boya-by-v3-dual-channel-wireless-microphone",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boya-by-v3-3-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7300.0,
+    "special_price": 6420.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:25"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:56"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:25"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:04"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:02"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:35"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:22"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 07:26:39"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:03:41"
+    },
+    {
+      "price": 7300.0,
+      "special_price": 6420.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:31:47"
+    }
+  ]
+}

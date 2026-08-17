@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122225",
+    "sku": "VNBBB0S11GLO",
+    "name": "Vention NBBB0 SoundMate S11 On-Ear Wireless Headphone- Black",
+    "slug": "vention-nbbb0-soundmate-s11-on-ear-wireless-headphone-black",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2299.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:07"
+    },
+    {
+      "price": 2299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:01:56"
+    }
+  ]
+}

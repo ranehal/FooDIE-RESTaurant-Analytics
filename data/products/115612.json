@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115612",
+    "sku": "U65905L531CIL",
+    "name": "UGREEN 65905 USB-C to USB-C PD Fast Charging Retractable Cable 100W Max 1m L531-Space Gray",
+    "slug": "ugreen-65905-usb-c-to-usb-c-pd-fast-charging-retractable-cable-100w-max-1m-l531-space-gray",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/g/ugreen-65905-usb-c-20-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1199.0,
+    "special_price": 1050.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:18"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:15"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:03"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:14"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:45"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:32:45"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:34"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:06"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:57"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:25"
+    },
+    {
+      "price": 1199.0,
+      "special_price": 1050.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:17"
+    }
+  ]
+}

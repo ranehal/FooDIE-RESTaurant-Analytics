@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "103575",
+    "sku": "SHE4800PG9AUDRWWB",
+    "name": "Casio Sheen Analog Stainless Steel Women\u2019s Watch (SHE-4800PG-9AUDR)",
+    "slug": "casio-sheen-analog-stainless-steel-women-s-watch-she-4800pg-9audr",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/h/she-4800pg-9audr-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19640.0,
+    "special_price": 17676.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19640.0,
+      "special_price": 17676.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:55"
+    },
+    {
+      "price": 19640.0,
+      "special_price": 17676.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:27"
+    },
+    {
+      "price": 19640.0,
+      "special_price": 17676.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:27"
+    },
+    {
+      "price": 19640.0,
+      "special_price": 17676.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:08"
+    },
+    {
+      "price": 19640.0,
+      "special_price": 17676.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:30"
+    },
+    {
+      "price": 19640.0,
+      "special_price": 17676.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:44:53"
+    }
+  ]
+}

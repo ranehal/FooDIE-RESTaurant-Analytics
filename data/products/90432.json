@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90432",
+    "sku": "SNKK20K1BNS",
+    "name": "Seiko SNKK20K1 Automatic Gold Dial Men\u2019s Watch",
+    "slug": "seiko-snkk20k1-automatic-gold-dial-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/e/seiko-snkk20k1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24499.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:06"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:33"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:51"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:30"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:43"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:57:45"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:16"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:18"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:15:51"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:26"
+    },
+    {
+      "price": 24499.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:46"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "88306",
+    "sku": "RRZ75CCKT",
+    "name": "Rizco RKH 75 Cooker Hood (30 Inch)",
+    "slug": "rizco-rkh-75-cooker-hood-30-inch",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/i/rizco-rz-bl-fiesta-75-cooker-hood-_30-inches_.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25000.0,
+    "special_price": 19990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:08"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:48"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:46"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:21"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:40"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:51"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:27"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:09:19"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:57"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:27"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:56"
+    }
+  ]
+}

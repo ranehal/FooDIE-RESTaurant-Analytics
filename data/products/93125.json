@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "93125",
+    "sku": "SRS72R5001M9D3SBN",
+    "name": "Samsung 700 Liters Side by Side Refrigerator (RS72R5001M9/D2)",
+    "slug": "samsung-700-liters-side-by-side-refrigerator-rs72r5001m9-d3",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/c/wc_5.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 199900.0,
+    "special_price": 165990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:31"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:14"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:17"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:44"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:04"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:31"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:07"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:34"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:48"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:05"
+    },
+    {
+      "price": 199900.0,
+      "special_price": 165990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:19"
+    }
+  ]
+}

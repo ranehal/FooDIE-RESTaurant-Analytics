@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122277",
+    "sku": "VTRIBHBGLO",
+    "name": "Vention TRIBH 2m 5A USB 2.0 Type-C to Type-C Aluminum Alloy Cable- Black",
+    "slug": "vention-tribh-2m-5a-usb-2-0-type-c-to-type-c-aluminum-alloy-cable-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/placeholder/default/Pickaboo-plholder-thumb.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 680.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 680.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:18:22"
+    }
+  ]
+}

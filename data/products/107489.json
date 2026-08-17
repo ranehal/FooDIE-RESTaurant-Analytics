@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107489",
+    "sku": "RL13TCTCDCDXD",
+    "name": "Riversong Lotus 10 3ft Type-C to Type-C Data Cable (CT53)",
+    "slug": "riversong-lotus-10-3ft-type-c-to-type-c-data-cable-ct53",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/o/lotas-10-27-1-25---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 399.0,
+    "special_price": 149.0,
+    "discount": 63.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:22"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:03"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:08"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:24"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:22"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:39"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:23"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:51"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:48:03"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:05"
+    },
+    {
+      "price": 399.0,
+      "special_price": 149.0,
+      "discount": 63.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:01"
+    }
+  ]
+}

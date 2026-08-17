@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105493",
+    "sku": "HR792290DSQ",
+    "name": "Philips 800W Stand Mixer/Beater (HR7922/90)",
+    "slug": "philips-800w-stand-mixer-beater-hr7922-90",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/1/21024pb1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 23500.0,
+    "special_price": 21490.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:45"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:40"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:46"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:07"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:54"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:27:50"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:50"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:24"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:25"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:43:44"
+    },
+    {
+      "price": 23500.0,
+      "special_price": 21490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:13"
+    }
+  ]
+}

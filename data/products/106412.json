@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106412",
+    "sku": "RTWEFB650RVB",
+    "name": "Rivo TWS Earbuds (FB-650)",
+    "slug": "rivo-tws-earbuds-fb-650",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fb-650-25-11-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 2289.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:54"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:32"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:39"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:55"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:06:00"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:30:20"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:50"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:20"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:31"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:36"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 2289.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:51"
+    }
+  ]
+}

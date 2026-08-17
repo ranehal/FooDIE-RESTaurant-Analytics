@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115622",
+    "sku": "U50706CM185CIL",
+    "name": "UGREEN 50706 USB-C/USB-A Card Reader CM185-Silver",
+    "slug": "ugreen-50706-usb-c-usb-a-card-reader-cm185-silver",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/g/ugreen-50706-21-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 900.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:48"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:24"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:50"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:23"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:12"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:15"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:34"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:51"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:40"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:01:41"
+    },
+    {
+      "price": 999.0,
+      "special_price": 900.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:29"
+    }
+  ]
+}

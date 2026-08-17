@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97499",
+    "sku": "NOISTGOZTC",
+    "name": "Noise ColorFit Pulse Go Buzz Magnetic USB Charging Cable",
+    "slug": "noise-colorfit-pulse-go-buzz-magnetic-usb-charging-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/u/buzz---04-12-23_1_.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350.0,
+    "special_price": 239.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:41"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:58:05"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:51:25"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:54"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:57"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:30"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:30:28"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:14:25"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:36:51"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:44:47"
+    },
+    {
+      "price": 350.0,
+      "special_price": 239.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:17:50"
+    }
+  ]
+}

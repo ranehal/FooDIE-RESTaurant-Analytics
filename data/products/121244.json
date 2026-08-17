@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121244",
+    "sku": "HOHX44ADR",
+    "name": "Hoco HX44 Indoor Digital Alarm Clock with Thermometer - White",
+    "slug": "hoco-hx44-indoor-digital-alarm-clock-with-thermometer-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-hx44-indoor-digital-alarm-clock-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1300.0,
+    "special_price": 1070.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:50"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:08"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:45"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:55"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:08"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:38"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:38"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:51"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:34"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:39"
+    },
+    {
+      "price": 1300.0,
+      "special_price": 1070.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:45"
+    }
+  ]
+}

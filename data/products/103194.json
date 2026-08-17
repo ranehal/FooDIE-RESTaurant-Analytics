@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103194",
+    "sku": "DZCF215DSESQ",
+    "name": "Danaaz 198 Liters Freezer (DZCF-215 DS)",
+    "slug": "danaaz-dzcf-215-ds-198-liters-freezer",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/a/danaaz-dzcf-215-ds-198-liters-freezer-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 48900.0,
+    "special_price": 48400.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:16"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:10"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:16"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:38"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:31"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:23"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:02"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:31"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:40"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:57"
+    },
+    {
+      "price": 48900.0,
+      "special_price": 48400.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:11"
+    }
+  ]
+}

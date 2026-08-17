@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108962",
+    "sku": "T2715WM01FWOG",
+    "name": "Titan Purple Stackable Quartz Analog White Dial Watch for Women (2715WM01F)",
+    "slug": "titan-purple-stackable-quartz-analog-white-dial-watch-for-women-2715wm01f",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/7/2715wm01f-28-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14000.0,
+    "special_price": 10700.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:20"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:57"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:45"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:29"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:42"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:25"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:19"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:31"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:54"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:05:34"
+    },
+    {
+      "price": 14000.0,
+      "special_price": 10700.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:10"
+    }
+  ]
+}

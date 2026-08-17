@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102902",
+    "sku": "CGFTT40BSRVB",
+    "name": "Rivo 3A USB to Micro Type-B Fast Charging Data Cable (CT-402 BS)-White",
+    "slug": "rivo-3a-usb-to-micro-type-b-fast-charging-data-cable-ct-402-bs-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/s/bs-1-6-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 299.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:52"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:23"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:36"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:57"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:08:37"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:40"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:47"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:14"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:30"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:28"
+    },
+    {
+      "price": 299.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:54"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106789",
+    "sku": "CIWAW142900EHSP",
+    "name": "Citizen Sport Luxury Watch for Men (AW1429-00E)",
+    "slug": "citizen-sport-luxury-watch-for-men-aw1429-00e",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/w/aw1429-00e-7-1-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 36589.0,
+    "special_price": 32599.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:37"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:11"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:08"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:50"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:15"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:31"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:47"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:14"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:10"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:24"
+    },
+    {
+      "price": 36589.0,
+      "special_price": 32599.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:04"
+    }
+  ]
+}

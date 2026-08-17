@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111220",
+    "sku": "MWHD1515VICKT",
+    "name": "Midea 15L Water Heater (D15-15VI)",
+    "slug": "midea-15l-water-heater-d15-15vi",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/1/d15-15vi-2-7-25v-1.jpg",
+    "unit": "L",
+    "unit_value": 15.0,
+    "price": 13500.0,
+    "special_price": 11990.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:15"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:10"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:18"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:36"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:59"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:31"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:54"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:03"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:52"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:40"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 11990.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:09"
+    }
+  ]
+}

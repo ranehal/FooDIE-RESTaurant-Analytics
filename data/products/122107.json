@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "122107",
+    "sku": "FSHS1WSLX",
+    "name": "Fastrack Smart Horizon S1 Smart Watch",
+    "slug": "fastrack-smart-horizon-s1-smart-watch",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/e/m/emi3-11-8-26-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 9495.0,
+    "special_price": 6599.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9495.0,
+      "special_price": 6599.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:18"
+    },
+    {
+      "price": 9495.0,
+      "special_price": 6599.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:30:59"
+    },
+    {
+      "price": 9495.0,
+      "special_price": 6599.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:14:19"
+    },
+    {
+      "price": 9495.0,
+      "special_price": 6599.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:36:43"
+    },
+    {
+      "price": 9495.0,
+      "special_price": 6599.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:44:54"
+    },
+    {
+      "price": 9495.0,
+      "special_price": 6599.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:01:16"
+    }
+  ]
+}

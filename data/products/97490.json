@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97490",
+    "sku": "SS4DGHSZTC",
+    "name": "Samsung Gear S4 Wireless USB Charging Cable",
+    "slug": "samsung-gear-s4-wireless-usb-charging-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/4/s4--04-12-23----2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 750.0,
+    "special_price": 599.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:46"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:58:10"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:51:31"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:54"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:11:03"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:40"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:30:35"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:14:48"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:37:18"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:44:55"
+    },
+    {
+      "price": 750.0,
+      "special_price": 599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:18:12"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103737",
+    "sku": "OSW30MOV",
+    "name": "Oraimo Watch 2R 1.39\" TFT Display Smart Watch (OSW-30)",
+    "slug": "oraimo-watch-2r-1-39-tft-display-smart-watch-osw-30",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-watch-pro-nt-bt-calling-smart-watch-_osw-850h_-4-15-216-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2595.0,
+    "special_price": 2470.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:31"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:04"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:15"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:35"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:08:12"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:27"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:09"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:53:15"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:17"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:49"
+    },
+    {
+      "price": 2595.0,
+      "special_price": 2470.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:08"
+    }
+  ]
+}

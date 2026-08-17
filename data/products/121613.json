@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "121613",
+    "sku": "BME2ADR",
+    "name": "Baseus Metal Age 2 Gravity Car Mount (SUJS000001)-Round Air Vent Version",
+    "slug": "baseus-metal-age-2-gravity-car-mount-round-air-vent-version-sujs000001",
+    "category_id": "202",
+    "category_name": "Others ",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/1/6/1673962458_2_-removebg-preview.png",
+    "unit": "g",
+    "unit_value": 2.0,
+    "price": 1600.0,
+    "special_price": 1220.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1220.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 08:30:11"
+    }
+  ]
+}

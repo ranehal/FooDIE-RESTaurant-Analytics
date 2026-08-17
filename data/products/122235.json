@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122235",
+    "sku": "MS110GMPTPO",
+    "name": "Mercusys 10-Port PoE+ Gigabit Desktop Switch (MS110GMP)",
+    "slug": "mercusys-10-port-poe-gigabit-desktop-switch-ms110gmp",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/s/ms110gmp--15-8-26-1.jpg",
+    "unit": "g",
+    "unit_value": 110.0,
+    "price": 6490.0,
+    "special_price": 5690.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:18:15"
+    },
+    {
+      "price": 6490.0,
+      "special_price": 5690.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}

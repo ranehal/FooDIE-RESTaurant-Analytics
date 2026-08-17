@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102266",
+    "sku": "GPN915GZO",
+    "name": "Gazi PN-915 900W 2 Jar Smiss Blender",
+    "slug": "gazi-pn-915-900w-2-jar-smiss-blender",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/n/pn-915---gazi-smiss-blender-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5760.0,
+    "special_price": 4890.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:37"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:29"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:35"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:58"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:55"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:51"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:14"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:54"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:15"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:21"
+    },
+    {
+      "price": 5760.0,
+      "special_price": 4890.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:58"
+    }
+  ]
+}

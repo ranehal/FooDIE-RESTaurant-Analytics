@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114241",
+    "sku": "RERBM81ADR",
+    "name": "Remax RGB Wireless Mini Portable Speaker (RB-M81)",
+    "slug": "remax-rb-m81-party-light-portable-wireless-speaker-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/7/a79165e934cb92a1e52cbbe39bc9861b-removebg-preview_1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 1849.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:21"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:13"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:04"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:19"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:32"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:35"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:28"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:59"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:28"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:57"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1849.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:46"
+    }
+  ]
+}

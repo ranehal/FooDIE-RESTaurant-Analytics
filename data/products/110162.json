@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110162",
+    "sku": "WP30CM35LOTNT",
+    "name": "Transtec Prime 30CM 30L Convection Microwave Oven",
+    "slug": "transtec-prime-30cm-35l-convection-microwave-oven",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/prime-30cm-21-5-25-1.jpg",
+    "unit": "L",
+    "unit_value": 30.0,
+    "price": 22200.0,
+    "special_price": 18490.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:45"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:40"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:43"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:01"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:35"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:14"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:17"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:49"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:48"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:33"
+    },
+    {
+      "price": 22200.0,
+      "special_price": 18490.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:17"
+    }
+  ]
+}

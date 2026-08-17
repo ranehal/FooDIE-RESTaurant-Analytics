@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89660",
+    "sku": "MD1515VICKT",
+    "name": "Midea 15 Liters Geyser (MHVI 15L)",
+    "slug": "midea-15-liters-geyser-mhvi-15l",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/midea-15-liters-geyser-_d15-15vi_-00-11.jpg",
+    "unit": "L",
+    "unit_value": 15.0,
+    "price": 15900.0,
+    "special_price": 11900.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:03"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:43"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:41"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:16"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:33"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:24:57"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:14"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:21"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:21"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:58"
+    },
+    {
+      "price": 15900.0,
+      "special_price": 11900.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:20"
+    }
+  ]
+}

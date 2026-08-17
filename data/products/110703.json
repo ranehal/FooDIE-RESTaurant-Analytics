@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110703",
+    "sku": "SKIN50EHPNE",
+    "name": "Sharp KI-N50E-H Humidifying & Air Purifier",
+    "slug": "sharp-ki-n50a-h-humidifying-air-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/i/ki-n50a-h-11-6-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 65850.0,
+    "special_price": 59190.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:30"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:25"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:33"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:51"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:16"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:02"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:21"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:23"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:45"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:27"
+    },
+    {
+      "price": 65850.0,
+      "special_price": 59190.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:41"
+    }
+  ]
+}

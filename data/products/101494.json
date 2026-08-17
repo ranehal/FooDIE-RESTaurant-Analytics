@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "101494",
+    "sku": "BFRSSM10DSQ",
+    "name": "Black & Decker Stand Mixer (SM1000-B5)",
+    "slug": "black-decker-stand-mixer-sm1000-b5",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/5/b5--16-4-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18450.0,
+    "special_price": 16490.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:52"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:44"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:49"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:13"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:14"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:29:40"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:47:34"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:41:52"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:14:14"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:47:30"
+    },
+    {
+      "price": 18450.0,
+      "special_price": 16490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:44"
+    }
+  ]
+}

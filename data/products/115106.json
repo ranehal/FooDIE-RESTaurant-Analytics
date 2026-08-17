@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115106",
+    "sku": "HRF578TPBHRB",
+    "name": "Haier 522L French T-Door No Frost Inverter Refrigerator (HRF-578TPB)",
+    "slug": "haier-522l-french-t-door-no-frost-inverter-refrigerator-hrf-578tpb",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/r/hrf-578tpb-1-8-26.jpg",
+    "unit": "L",
+    "unit_value": 522.0,
+    "price": 149900.0,
+    "special_price": 135435.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 149900.0,
+      "special_price": 132435.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:59"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 132435.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:49"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 132435.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:06"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 132435.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:15"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:06"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:12:51"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:26"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:31"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:04"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:43"
+    },
+    {
+      "price": 149900.0,
+      "special_price": 135435.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:16"
+    }
+  ]
+}

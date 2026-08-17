@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115025",
+    "sku": "T16A3PSPSIPK",
+    "name": "Tuya 16A 3 Pin Smart Wifi Flat Plug Socket (IP-15)",
+    "slug": "tuya-16a-3-pin-smart-wifi-plug-socket",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wifi-smart-3-pin-4-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2560.0,
+    "special_price": 1390.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:59"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:49"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:06"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:21"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:13"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:53"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:38"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:54"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:00"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:08"
+    },
+    {
+      "price": 2560.0,
+      "special_price": 1390.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:52"
+    }
+  ]
+}

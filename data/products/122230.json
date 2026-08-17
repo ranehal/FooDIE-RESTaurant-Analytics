@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122230",
+    "sku": "VNBYB0 LH01GLO",
+    "name": "Vention NBYB0 Wireless LH01 On-Ear Noise-Cancelling Headphones- Black",
+    "slug": "vention-nbyb0-wireless-lh01-on-ear-noise-cancelling-headphones-black",
+    "category_id": "2528",
+    "category_name": "Bluetooth Headphone",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/h/lh01-15-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:08:50"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:01:56"
+    }
+  ]
+}

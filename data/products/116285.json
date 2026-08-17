@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116285",
+    "sku": "DX52180REE",
+    "name": "DM X52180 Power Converter Step Up Module USB Boost Cable",
+    "slug": "dm-x52180-power-converter-step-up-module-usb-boost-cable",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/v/9v-3-mar-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 400.0,
+    "special_price": 350.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:04"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:56"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:11"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:24"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:01"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:27"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:14"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:05"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:57"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:14"
+    },
+    {
+      "price": 400.0,
+      "special_price": 350.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:12"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116093",
+    "sku": "S1090GWPGSC",
+    "name": "Smart 10 Inch 90 Gram PP (Polypropylene) Filter Kit for All Water Purifier",
+    "slug": "smart-10-inch-90-gram-pp-polypropylene-filter-kit-for-all-water-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10-inch-90-gram-9-2-26-1.jpg",
+    "unit": "g",
+    "unit_value": 90.0,
+    "price": 100.0,
+    "special_price": 70.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:14"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:06"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:21"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:34"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:13"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:33"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:44"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:42"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:04"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:08"
+    },
+    {
+      "price": 100.0,
+      "special_price": 70.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:54"
+    }
+  ]
+}

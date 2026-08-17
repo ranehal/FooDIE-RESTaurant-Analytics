@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118272",
+    "sku": "RRZS24KVARAF",
+    "name": "Rahimafrooz Smart IPS (RZS 2.4KVA)",
+    "slug": "rahimafrooz-smart-ips-rzs-2-4kva",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/z/rzs-2.4kva-15-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 128900.0,
+    "special_price": 120520.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:13"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:10"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:36"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:39"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:02"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:25"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:36"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:09:10"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:54"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:42"
+    },
+    {
+      "price": 128900.0,
+      "special_price": 120520.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:41"
+    }
+  ]
+}

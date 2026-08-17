@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103085",
+    "sku": "GAR154HRO",
+    "name": "1HORA 20W Type C TO Lighting Cable Wall Chargers (GAR154)-White",
+    "slug": "1hora-20w-type-c-to-lighting-cable-wall-chargers-gar154",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gar154-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 899.0,
+    "special_price": 549.0,
+    "discount": 39.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:41"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:14"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:26"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:46"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:08:24"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:49"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:14"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:39"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:36"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:18"
+    },
+    {
+      "price": 899.0,
+      "special_price": 549.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:33"
+    }
+  ]
+}

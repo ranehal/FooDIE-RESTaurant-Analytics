@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120473",
+    "sku": "BAHZ11ADR",
+    "name": "Baseus HZ11 3.5mm Wired Earphone with Mic",
+    "slug": "baseus-earphone-hz11-3-5mm-wired-earphone-mic-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/B/a/Baseus-Earphone-3_5mm-HZ11-A00164200113-Z1-1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 900.0,
+    "special_price": 729.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:45:27"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:42"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:20"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:36"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:56:26"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:45"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:02"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:17"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:04"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:58"
+    },
+    {
+      "price": 900.0,
+      "special_price": 729.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:53"
+    }
+  ]
+}

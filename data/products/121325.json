@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121325",
+    "sku": "KKWL90004SIEUB",
+    "name": "Kenwood 7L Boll Stand Mixer (KWL90.004SI)",
+    "slug": "kenwood-7l-boll-stand-mixer-kwl90-004si",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/w/kwl90.004si-12-7-26-1.jpg",
+    "unit": "L",
+    "unit_value": 7.0,
+    "price": 105000.0,
+    "special_price": 91390.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:16"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:21"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:53"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:59"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:01"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:59"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:23"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:38"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:12"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:29"
+    },
+    {
+      "price": 105000.0,
+      "special_price": 91390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:37"
+    }
+  ]
+}

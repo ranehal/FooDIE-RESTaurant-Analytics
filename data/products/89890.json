@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89890",
+    "sku": "YSNG9ATL",
+    "name": "Yison Celebrat G9 3.5mm Wired Earphones",
+    "slug": "yison-celebrat-g9-3-5mm-earphone",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/9/g9--27-8-24-.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 349.0,
+    "special_price": 249.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:59:02"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:16"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:44"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:13"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:45"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:28:47"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:37:33"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:02"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:13"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:51:01"
+    },
+    {
+      "price": 349.0,
+      "special_price": 249.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:35"
+    }
+  ]
+}

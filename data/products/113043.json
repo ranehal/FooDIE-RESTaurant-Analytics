@@ -1,0 +1,41 @@
+{
+  "product": {
+    "id": "113043",
+    "sku": "PMG794015GSB",
+    "name": "Philips All-in-One 7000 Series Beard & Hair Trimmer (MG7940/15)",
+    "slug": "philips-all-in-one-7000-series-beard-hair-trimmer-mg7940-15",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg7940-12-17-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15000.0,
+    "special_price": 9990.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:58"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:41"
+    },
+    {
+      "price": 15000.0,
+      "special_price": 9990.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:02:16"
+    }
+  ]
+}

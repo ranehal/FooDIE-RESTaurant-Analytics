@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103734",
+    "sku": "OEPE40MOV",
+    "name": "Oraimo Trumpet 3 In-Ear Wired Earphone (OEP-E40)-Black",
+    "slug": "oraimo-trumpet-3-in-ear-wired-earphone-oep-e40-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/e/oep-e40_-black-2-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 560.0,
+    "special_price": 535.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:31"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:04"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:15"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:35"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:08:12"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:28:28"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:37:13"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:18"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:06"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:11"
+    },
+    {
+      "price": 560.0,
+      "special_price": 535.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:23"
+    }
+  ]
+}

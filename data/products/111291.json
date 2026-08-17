@@ -1,0 +1,90 @@
+{
+  "product": {
+    "id": "111291",
+    "sku": "S1155DWCWHG",
+    "name": "Skmei 1155 Digital Sports\u00a0Watch for Men-Camouflage",
+    "slug": "skmei-1155-digital-sports-watch-for-men-camouflage",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/1/1155-7-6-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1400.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:53"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:17:37"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:13"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:15:39"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:39:52"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:48:45"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:55"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:05:56"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:48"
+    },
+    {
+      "price": 1400.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:52"
+    }
+  ]
+}

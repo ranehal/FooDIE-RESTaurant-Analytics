@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102610",
+    "sku": "VH600WPSSTI",
+    "name": "VOLTME Hako 600W Power Station",
+    "slug": "voltme-hako-600w-power-station",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/voltme-hako-lite--600w-navy-blue-26.5.24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 89999.0,
+    "special_price": 88999.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:41"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:10"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:37"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:18"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:25"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:26"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:52:56"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:57"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:47"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:01:51"
+    },
+    {
+      "price": 89999.0,
+      "special_price": 88999.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:30:23"
+    }
+  ]
+}

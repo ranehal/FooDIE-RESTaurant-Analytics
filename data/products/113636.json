@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113636",
+    "sku": "CLTP1128G9ARDFTTS",
+    "name": "Casio Two-Tone Analog Stainless Steel Strap Watch for Women (LTP-1128G-9ARDF)",
+    "slug": "casio-two-tone-analog-stainless-steel-strap-watch-for-women-ltp-1128g-9ardf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1128g-9ardf-27-10-25-2.jpg",
+    "unit": "g",
+    "unit_value": 1128.0,
+    "price": 4809.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:37"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:20"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:53"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:25"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:21"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:42:35"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:31"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:25"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:35"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:45"
+    },
+    {
+      "price": 4809.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:19:03"
+    }
+  ]
+}

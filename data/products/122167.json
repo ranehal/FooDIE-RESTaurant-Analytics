@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "122167",
+    "sku": "VDEI4DLG",
+    "name": "Vigo 1200W Electric Iron VIG-DEI-004 (874103)",
+    "slug": "vigo-1200w-electric-iron-vig-dei-004-874103",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/e/dei-004-12-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1320.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1320.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:06"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1320.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:06"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1320.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:53"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1320.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:20"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1320.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:32"
+    }
+  ]
+}

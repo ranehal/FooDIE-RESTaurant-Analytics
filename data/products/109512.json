@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109512",
+    "sku": "B98D149WHSP",
+    "name": "Bulova Icon Precisionist Watch for Men (98D149)",
+    "slug": "bulova-icon-precisionist-diamond-watch-for-men-98d149",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/8/98d149-28-4-25-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 96599.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:01"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:40"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:25"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:11"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:15"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:50:22"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:43"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:26"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:57"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:47"
+    },
+    {
+      "price": 96599.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:28"
+    }
+  ]
+}

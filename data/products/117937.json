@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117937",
+    "sku": "S3AABNEP",
+    "name": "Sony AAA Alkaline Battery (2 Pcs Set)",
+    "slug": "sony-aaa-alkaline-battery-2-pcs-set",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/o/sony-aaa-5-4-26.jpg",
+    "unit": "pcs",
+    "unit_value": 2.0,
+    "price": 300.0,
+    "special_price": 190.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 300.0,
+      "special_price": 190.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:28"
+    },
+    {
+      "price": 300.0,
+      "special_price": 190.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:24"
+    }
+  ]
+}

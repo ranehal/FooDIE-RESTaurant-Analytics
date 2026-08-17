@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110022",
+    "sku": "PMXGC3550PNE",
+    "name": "Panasonic 900W 3 Jars Mixer Grinder (MX-GC3550)-Coral Blue",
+    "slug": "panasonic-900w-3-jars-mixer-grinder-mx-gc3550-coral-blue",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/x/mx-gc3550-15-5-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11200.0,
+    "special_price": 6850.0,
+    "discount": 39.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:45"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:40"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:47"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:05"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:35"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:33"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:08"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:32"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:56"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:18"
+    },
+    {
+      "price": 11200.0,
+      "special_price": 6850.0,
+      "discount": 39.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:13"
+    }
+  ]
+}

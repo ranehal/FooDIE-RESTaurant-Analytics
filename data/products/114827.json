@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114827",
+    "sku": "HOMM17ADR",
+    "name": "Hoco MMJ17 22.5W Fully Compatible 20000mAh Power Bank-Black",
+    "slug": "hoco-mmj17-22-5w-fully-compatible-20000mah-power-bank-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/H/o/Hoco-MMJ17-22.5W-Fully-Compatible-20000mAh-Power-Bank-5-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2350.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:49"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:44"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:33"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:45"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:46"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:47"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:37:52"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:55"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:17"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:46"
+    },
+    {
+      "price": 2350.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:23:04"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120453",
+    "sku": "US48WADR",
+    "name": "USAMS US-CC170 C34 PD 30W 48W 4-Port Transparent Car Fast Charger with Colorful Lights-Black",
+    "slug": "usams-us-cc170-c34-pd-30w-48w-4-port-transparent-car-fast-charger-with-colorful-lights-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA004004601A_1-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1249.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:45:27"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:42"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:20"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:36"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:56:32"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:29"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:17"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:55:19"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:31"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:51:01"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1249.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:29"
+    }
+  ]
+}

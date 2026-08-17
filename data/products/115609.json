@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115609",
+    "sku": "UCD226CIL",
+    "name": "UGREEN 15336 Nexode 100W 4-Port PD GaN Fast Charger US CD226-White",
+    "slug": "ugreen-15336-nexode-100w-4-port-pd-gan-fast-charger-us-cd226-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/e/nexode-100w-20-1-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3599.0,
+    "special_price": 3400.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:18"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:15"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:03"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:14"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:45"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:04"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:17"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:26"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:03"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:31"
+    },
+    {
+      "price": 3599.0,
+      "special_price": 3400.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:31"
+    }
+  ]
+}

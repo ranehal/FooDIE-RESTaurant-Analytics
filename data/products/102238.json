@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102238",
+    "sku": "GV10003JGZO",
+    "name": "Gazi Velocity 1000W 3 Jar Smiss Mixer Grinder",
+    "slug": "gazi-velocity-1000w-3-jar-smiss-mixer-grinder",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/e/velocity---gazi-smiss-mixer-grinder-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6240.0,
+    "special_price": 5199.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:42"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:34"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:35"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:03"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:55"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:51"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:14"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:54"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:15"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:21"
+    },
+    {
+      "price": 6240.0,
+      "special_price": 5199.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:58"
+    }
+  ]
+}

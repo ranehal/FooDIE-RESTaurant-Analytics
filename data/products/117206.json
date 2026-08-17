@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117206",
+    "sku": "TBSS56CFNEP",
+    "name": "TBS Standard 56\u201d Ceiling Fan",
+    "slug": "tbs-standard-56-ceiling-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/b/tbs-fan.jpg.jpeg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4700.0,
+    "special_price": 3080.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4700.0,
+      "special_price": 3080.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:23"
+    },
+    {
+      "price": 4700.0,
+      "special_price": 3080.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:18"
+    }
+  ]
+}

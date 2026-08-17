@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103090",
+    "sku": "AUT119NHRO",
+    "name": "1HORA AUT119N/E TWS Earbuds -Black",
+    "slug": "1hora-aut119n-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/u/aut119n-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2700.0,
+    "special_price": 1539.0,
+    "discount": 43.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:41"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:14"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:26"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:46"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:08:17"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:30:52"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:29"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:40"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:04:29"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:56"
+    },
+    {
+      "price": 2700.0,
+      "special_price": 1539.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:10"
+    }
+  ]
+}

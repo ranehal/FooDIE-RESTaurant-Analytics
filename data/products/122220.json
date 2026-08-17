@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122220",
+    "sku": "VR6004DLG",
+    "name": "Vision\u00a01000W\u00a02.8L\u00a0Double Pot\u00a0Rice Cooker\u00a0(REL-60-04)",
+    "slug": "vision-1000w-2-8l-double-pot-rice-cooker-rel-60-04",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/r/e/rel-60-04-15-aug-2026-1.jpg",
+    "unit": "L",
+    "unit_value": 2.8,
+    "price": 3650.0,
+    "special_price": 3010.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3650.0,
+      "special_price": 3010.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:10"
+    },
+    {
+      "price": 3650.0,
+      "special_price": 3010.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

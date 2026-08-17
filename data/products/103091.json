@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103091",
+    "sku": "AUT201NHRO",
+    "name": "1HORA AUT201 TWS Earbuds with Free 1m Type-C Cable-Black",
+    "slug": "1hora-aut201n-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/u/aut201n-00001.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 1549.0,
+    "discount": 45.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:36"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:56:09"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:21"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:46"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:08:17"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:30:52"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:29"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:40"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:04:29"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:56"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 1549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:10"
+    }
+  ]
+}

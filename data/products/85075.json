@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "85075",
+    "sku": "MK4435HSP",
+    "name": "Michael Kors MK4435 Women\u2019s Watch",
+    "slug": "michael-kors-mk4435-women-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/k/mk4435--10-8-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 21190.0,
+    "special_price": 19560.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:38"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:02"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:25"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:02"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:22"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:46:45"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:02"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:23"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:24"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:10:15"
+    },
+    {
+      "price": 21190.0,
+      "special_price": 19560.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:34:05"
+    }
+  ]
+}

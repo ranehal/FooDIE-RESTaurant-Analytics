@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120677",
+    "sku": "PA260FB2SHL",
+    "name": "Philips Avent 260ml Anti Colic Plastic Baby Feeding Bottle (2 pc Set)- (SCY103/20)",
+    "slug": "philips-avent-260ml-anti-colic-plastic-baby-feeding-bottle-2-pc-set",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anti-colic-bottle-_double_-260ml-9-6-26-1.jpg",
+    "unit": "ml",
+    "unit_value": 260.0,
+    "price": 1440.0,
+    "special_price": 1290.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:01"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:03"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:41"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:45"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:57"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:13"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:43"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:28"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:01"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:42"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:50"
+    }
+  ]
+}

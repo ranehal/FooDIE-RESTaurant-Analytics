@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116397",
+    "sku": "ABE6500GRGLO",
+    "name": "Asus TUF Gaming BE6500 Dual Band WiFi 7 AiMesh Extendable Gaming Router",
+    "slug": "asus-tuf-gaming-be6500-dual-band-wifi-7-aimesh-extendable-gaming-router",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/s/asus-tuf-gaming-be6500--23-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:45"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:22"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:47"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:20"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:08"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:28"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:26"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:47"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:46"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:01:07"
+    },
+    {
+      "price": 24000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:04"
+    }
+  ]
+}

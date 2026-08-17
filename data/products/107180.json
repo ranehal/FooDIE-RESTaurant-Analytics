@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107180",
+    "sku": "GA700SK1AHSP",
+    "name": "G-Shock Dynamic Style Men\u2019s Watch (GA-700SK-1A)",
+    "slug": "g-shock-dynamic-style-men-s-watch-ga-700sk-1a",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/ga700sk-1a-14-1-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 26000.0,
+    "special_price": 20159.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:24"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:56"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:05:53"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:36"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:42:53"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:05"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:33"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:37:54"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:10:45"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:03"
+    },
+    {
+      "price": 26000.0,
+      "special_price": 20159.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:25:43"
+    }
+  ]
+}

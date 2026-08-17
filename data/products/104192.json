@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104192",
+    "sku": "HCM1PADR",
+    "name": "Hoco M1 Pro 3.5mm Wired Earphone",
+    "slug": "hoco-m1-pro-3-5mm-wired-earphone",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-wired-earphones-3.5mm-m1-pro-original-series-with-mic-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 600.0,
+    "special_price": 349.0,
+    "discount": 42.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:15"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:50"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:00"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:24"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:07:51"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:57"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:59"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:07"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:00"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:01"
+    },
+    {
+      "price": 600.0,
+      "special_price": 349.0,
+      "discount": 42.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:08"
+    }
+  ]
+}

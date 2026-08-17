@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111944",
+    "sku": "AVA27UQSBJNN",
+    "name": "Asus 27\" 4K UHD IPS Business Monitor (VA27UQSB)",
+    "slug": "asus-27-4k-uhd-ips-business-monitor-va27uqsb",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/a/va27uqsb-30-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 63195.0,
+    "special_price": 57450.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:01"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:36"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:02"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:41"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:33"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:33"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:54"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:44"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:04"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:05"
+    },
+    {
+      "price": 63195.0,
+      "special_price": 57450.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:53"
+    }
+  ]
+}

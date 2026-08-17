@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113595",
+    "sku": "PR20KIADR",
+    "name": "Proove Mr Cleaner 20 in 1 Multifunctional Cleaning Kit",
+    "slug": "proove-mr-cleaner-multifunctional",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/d/cdffc4df-4da1-11f0-8102-a8a1593ebe6e-600x600-ezgif.com-webp-to-jpg-converter-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1449.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:41"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:25"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:57"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:30"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:27"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:40"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:44"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:33"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:02:17"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:35"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:22:11"
+    }
+  ]
+}

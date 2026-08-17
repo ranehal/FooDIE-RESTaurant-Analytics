@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "67464",
+    "sku": "OP730DGLO",
+    "name": "A4Tech OP-730D 2X Click Optical USB Mouse",
+    "slug": "a4tech-op-730d-2x-click-optical-wired-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a4tech-op-730d-2x-click-optical-3d-usb-mouse---black4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 595.0,
+    "special_price": 455.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:50"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:12:13"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:47"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:29"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:32:07"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:38:45"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:32"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:51"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 07:22:30"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:36"
+    },
+    {
+      "price": 595.0,
+      "special_price": 455.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:17"
+    }
+  ]
+}

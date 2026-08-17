@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "101935",
+    "sku": "VISDHSKRFL",
+    "name": "Vision Super 56 Inch 3 Blade Ceiling Fan \u2013 Ivory",
+    "slug": "vision-super-56-inch-3-blades-ceiling-fan-white",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vision-super-56-inch-3-blade-ceiling-fan-_-ivory-6-29-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4100.0,
+    "special_price": 3969.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:01"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:13"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:45"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:15:42"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:32"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:41"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:35"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:15"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:38"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:01"
+    },
+    {
+      "price": 4100.0,
+      "special_price": 3969.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:09"
+    }
+  ]
+}

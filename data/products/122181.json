@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122181",
+    "sku": "TATX20UTPO",
+    "name": "TP-Link AX1800 Dual Band Wi-Fi 6 Wireless USB Adapter (Archer TX20U)",
+    "slug": "tp-link-ax1800-dual-band-wi-fi-6-wireless-usb-adapter-archer-tx20u",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/x/tx20u-13-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2790.0,
+    "special_price": 2490.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2790.0,
+      "special_price": 2490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:23"
+    },
+    {
+      "price": 2790.0,
+      "special_price": 2490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:11"
+    },
+    {
+      "price": 2790.0,
+      "special_price": 2490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:32"
+    },
+    {
+      "price": 2790.0,
+      "special_price": 2490.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112427",
+    "sku": "MMALTDGDX",
+    "name": "MiLi MiTag Android Location Tracker Device",
+    "slug": "mili-mitag-android-location-tracker-device",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mili-mitag-android-location-25-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 727.0,
+    "special_price": 616.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:28"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:16"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:12"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:28"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:59"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:51"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:39:14"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:41"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:05"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:39"
+    },
+    {
+      "price": 727.0,
+      "special_price": 616.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:26"
+    }
+  ]
+}

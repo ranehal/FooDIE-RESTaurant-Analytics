@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106312",
+    "sku": "CC8MMSSTTZ",
+    "name": "COLMI C8 Max Bluetooth Calling Smart Watch (Magnetic Silicon Strap)",
+    "slug": "colmi-c8-max-bluetooth-calling-smart-watch-magnetic-silicon-strap",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/colmi--c8-max-magnetic-strap-black-18-11-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3390.0,
+    "special_price": 2999.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:59"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:37"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:44"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:49:00"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:06:00"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:06"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:40"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:52:44"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:06"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:18"
+    },
+    {
+      "price": 3390.0,
+      "special_price": 2999.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:47"
+    }
+  ]
+}

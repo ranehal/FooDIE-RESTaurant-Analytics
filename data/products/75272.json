@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "75272",
+    "sku": "PERGB42MBT",
+    "name": "Panasonic ER-GB42 Men's Hair Clipper With Beard Trimmer ",
+    "slug": "panasonic-er-gb42-men-s-hair-clipper-with-beard-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/r/er-gb42-28-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8949.0,
+    "special_price": 6552.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:04"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:28"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:51"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:30"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:55"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:39"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:22"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:51"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:59:19"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:55"
+    },
+    {
+      "price": 8949.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:40"
+    }
+  ]
+}

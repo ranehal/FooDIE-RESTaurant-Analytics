@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103903",
+    "sku": "AF34TTZ",
+    "name": "Awei F34 Folding Desk Circulator Fan",
+    "slug": "awei-f34-folding-desk-circulator-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/3/f34-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2899.0,
+    "special_price": 2299.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:11"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:05"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:11"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:33"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:25"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:49"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:02"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:51"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:50"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:52"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2299.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:08"
+    }
+  ]
+}

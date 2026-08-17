@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95207",
+    "sku": "WKTOC45O1PNE",
+    "name": "Westinghouse WKTOC45O1 45L Electric Oven ",
+    "slug": "westinghouse-wktoc45o1-45l-electric-oven",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/k/wktoc45o1rg-22.8.23..jpg",
+    "unit": "L",
+    "unit_value": 45.0,
+    "price": 12800.0,
+    "special_price": 9290.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:59"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:44"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:43"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:13"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:21"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:41"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:27"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:53"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:54"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:41"
+    },
+    {
+      "price": 12800.0,
+      "special_price": 9290.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:26"
+    }
+  ]
+}

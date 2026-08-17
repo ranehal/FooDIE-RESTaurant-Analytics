@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "91504",
+    "sku": "O5563SGBLWHG",
+    "name": "Olevs 5563 Stainless Steel Quartz Couple Wrist Watch - Silver Gold & Black",
+    "slug": "olevs-5563-stainless-steel-quartz-couple-wrist-watch-silver-gold-black",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/l/olevs-couple.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3600.0,
+    "special_price": 2899.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:57"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:25"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:41"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:22"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:33"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:57:29"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:07"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:18"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:15:42"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:10:08"
+    },
+    {
+      "price": 3600.0,
+      "special_price": 2899.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:33"
+    }
+  ]
+}

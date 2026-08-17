@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "118805",
+    "sku": "IAEBB60V30NEP",
+    "name": "I-AM E-Bike Battery 60V-30AH\u00a0\u00a0",
+    "slug": "i-am-e-bike-battery-60v-30ah",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/0/60v-30ah-23-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 51520.0,
+    "special_price": 45340.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 51520.0,
+      "special_price": 45340.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:48"
+    },
+    {
+      "price": 51520.0,
+      "special_price": 45340.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:46"
+    }
+  ]
+}

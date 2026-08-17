@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90932",
+    "sku": "T64GBGUSBORG",
+    "name": "TwinMOS X3 64GB 3.1 Gen 1 USB Pen Drive",
+    "slug": "twinmos-x3-64gb-3-1-gen-1-usb-pendrive",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/_/2.1.23-0pen-14.11.23--1.jpg",
+    "unit": "g",
+    "unit_value": 3.1,
+    "price": 800.0,
+    "special_price": 669.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:15"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:41"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:12"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:54"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:15"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:07"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:37"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:07"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:59"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:35"
+    },
+    {
+      "price": 800.0,
+      "special_price": 669.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:20"
+    }
+  ]
+}

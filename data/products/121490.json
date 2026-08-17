@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121490",
+    "sku": "REZF20ADR",
+    "name": "Remax\u00a020000mAh Rechargeable Outdoor Spray Fan\u00a0(RS-ZF20)",
+    "slug": "remax-rs-zf20-outdoor-fan-spray-cooling-fan-20000mah-battery-for-camping-and-travel",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/remax-rs-zf20-outdoor-fan-spray-cooling-fan-20000mah-battery-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 8000.0,
+    "special_price": 7600.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:20:04"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:11"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:39"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:43"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:43"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:09"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:50"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:29"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:49"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:04"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7600.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:24"
+    }
+  ]
+}

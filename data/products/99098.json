@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99098",
+    "sku": "BACCBAIP6ATL",
+    "name": "Baseus 1810mAh Phone Battery for iPhone 6 (ACCB-AIP6)",
+    "slug": "baseus-1810mah-phone-battery-for-iphone-6-accb-aip6",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/accb-aip6-21.1.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1150.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:12"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:36"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:50:54"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:23"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:19"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:54"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:45:12"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:23:27"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:50:26"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:32"
+    },
+    {
+      "price": 1150.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:18"
+    }
+  ]
+}

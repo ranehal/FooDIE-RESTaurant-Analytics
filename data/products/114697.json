@@ -1,0 +1,69 @@
+{
+  "product": {
+    "id": "114697",
+    "sku": "VEK018DLG",
+    "name": "Vision 1.8L Glass Electric Kettle (VIS-EK-018)",
+    "slug": "vision-1-8l-glass-electric-kettle-vis-ek-018",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vis-ek-018--27-12-25-1.jpg",
+    "unit": "L",
+    "unit_value": 1.8,
+    "price": 1450.0,
+    "special_price": 1200.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:33"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:39"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:41"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:07"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:37"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:51"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1200.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:13"
+    }
+  ]
+}

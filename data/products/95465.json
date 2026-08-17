@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95465",
+    "sku": "SC8DLEDCBD",
+    "name": "Silver Crest 8L Digital LED Display Non-Stick Air Fryer \u2013 Black",
+    "slug": "silver-crest-8-liter-digital-led-display-non-stic-air-fryer-black",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/i/silver-crest8l-5-7-26.jpg",
+    "unit": "L",
+    "unit_value": 8.0,
+    "price": 6500.0,
+    "special_price": 5850.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:54"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:39"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:38"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:08"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:15"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:20"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:55"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:47"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:09"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:14"
+    },
+    {
+      "price": 6500.0,
+      "special_price": 5850.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:17"
+    }
+  ]
+}

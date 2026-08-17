@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "52648",
+    "sku": "HRDER217MBT",
+    "name": "Panasonic ER-217 Beard Hair Trimmer For Men",
+    "slug": "panasonic-er-217-beard-hair-trimmer-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/r/er-217-4-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5999.0,
+    "special_price": 5890.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9000.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:34"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:58"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:23"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 6552.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:58"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:29"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:49"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:34"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:28"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:59:49"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:02"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 5890.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:48"
+    }
+  ]
+}

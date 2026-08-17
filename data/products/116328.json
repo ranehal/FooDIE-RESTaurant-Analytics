@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116328",
+    "sku": "LMK270WKCTKE",
+    "name": "Logitech MK270 Wireless Keyboard & Mouse Combo",
+    "slug": "logitech-mk270-wireless-keyboard-mouse-combo",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/k/mk270-19-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2899.0,
+    "special_price": 2750.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:48"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:24"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:50"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:23"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:12"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:02"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:47:11"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:25:13"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:40"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:26"
+    },
+    {
+      "price": 2899.0,
+      "special_price": 2750.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:44"
+    }
+  ]
+}

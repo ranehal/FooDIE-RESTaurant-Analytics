@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "26253",
+    "sku": "ZAF60XORG",
+    "name": "F&D Bluetooth TV Tower Speakers (T60X)",
+    "slug": "f-d-tv-tower-speakers-t60x",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/n/fnd60_new.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18290.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:50"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:12:13"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:50"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:32"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:32:11"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:20"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:12"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:35"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:24"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:22"
+    },
+    {
+      "price": 18290.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:06"
+    }
+  ]
+}

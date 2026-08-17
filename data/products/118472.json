@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118472",
+    "sku": "SMS6IKI01IRNG",
+    "name": "BOSCH Free Standing Dishwasher (SMS6IKI01I)",
+    "slug": "bosch-free-standing-dishwasher-sms6iki01i",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/m/sms6iki01i-20-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 114900.0,
+    "special_price": 88990.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:58"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:55"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:26"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:29"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:49"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:08"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:21"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:24"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:28"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:22"
+    },
+    {
+      "price": 114900.0,
+      "special_price": 88990.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:01"
+    }
+  ]
+}

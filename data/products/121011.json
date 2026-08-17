@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121011",
+    "sku": "HOZ49ADR",
+    "name": "Hoco Z49 Level Dual Port Car Charger - Black",
+    "slug": "hoco-z49-level-dual-port-car-charger-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/0/30223a45-a7a4-4050-86a4-70d38f23a7a3-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 700.0,
+    "special_price": 580.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:55"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:13"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:50"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:00"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:51"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:33"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:54"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:53:30"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:36"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:50"
+    },
+    {
+      "price": 700.0,
+      "special_price": 580.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:08"
+    }
+  ]
+}

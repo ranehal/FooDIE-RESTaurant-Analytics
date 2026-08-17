@@ -22,6 +22,83 @@
       "discount": 30.0,
       "stock_available": 1,
       "scraped_at": "2026-08-02 17:11:26"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:15:36"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:14:26"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:35"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:12:24"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:35:51"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:24"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:54:21"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:29:28"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:35"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:42"
+    },
+    {
+      "price": 44000.0,
+      "special_price": 30800.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:17:52"
     }
   ]
 }

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99638",
+    "sku": "AIVRAAAADR",
+    "name": "AiVR AAA 900mWh USB Rechargeable Battery Set (4pcs)",
+    "slug": "aivr-aaa-900mwh-usb-rechargeable-battery-set-4pcs",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/i/aivr-aaa-900mwh-usb-rechargeable-battery-set-1.jpg",
+    "unit": "pcs",
+    "unit_value": 4.0,
+    "price": 1549.0,
+    "special_price": 1449.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:19"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:10"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:13"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:38"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:45"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:20:30"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:59"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:39"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:37"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:26"
+    },
+    {
+      "price": 1549.0,
+      "special_price": 1449.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:04"
+    }
+  ]
+}

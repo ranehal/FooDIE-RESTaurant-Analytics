@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110494",
+    "sku": "T90086KM09WOG",
+    "name": "Titan Octane Primal Quartz Chronograph Stainless Steel Strap Watch For Men (90086KM09)",
+    "slug": "titan-octane-primal-quartz-chronograph-stainless-steel-strap-watch-for-men-90086km09",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/90086km09-16-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 25000.0,
+    "special_price": 19500.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:19:29"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:10"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:51"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:16:21"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:40:36"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:49:41"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:20"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:35:56"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:24"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:10:54"
+    },
+    {
+      "price": 25000.0,
+      "special_price": 19500.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:23:54"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90384",
+    "sku": "J20WPDQC3ADR",
+    "name": "Joyroom 20W PD + QC3.0 Adapter (L-P201)",
+    "slug": "joyroom-20w-pd-qc3-0-adapter-l-p201",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/o/joyroom-fast-charger.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 990.0,
+    "special_price": 549.0,
+    "discount": 45.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:56"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:10"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:38"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:07"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:39"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:43"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:47"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:59:06"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:38"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:22"
+    },
+    {
+      "price": 990.0,
+      "special_price": 549.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:16"
+    }
+  ]
+}

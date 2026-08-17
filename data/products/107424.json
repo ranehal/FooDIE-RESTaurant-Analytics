@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107424",
+    "sku": "HIM6AIGSGLO",
+    "name": "Hohem iSteady M6 Kit AI Gimbal Stabilizer",
+    "slug": "hohem-isteady-m6-kit-ai-gimbal-stabilizer",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/6/m6-23-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 21000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:22"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:03"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:08"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:24"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:22"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:49:28"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:45"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:46"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:02"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 20580.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:55"
+    },
+    {
+      "price": 21000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:48"
+    }
+  ]
+}

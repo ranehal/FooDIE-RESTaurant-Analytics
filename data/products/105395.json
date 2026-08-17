@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105395",
+    "sku": "SEISRPD65K1HSP",
+    "name": "Seiko 5 Sports Automatic Watch Men\u2019s Watch (SRPD65K1)",
+    "slug": "seiko-5-sports-automatic-watch-men-s-watch-srpd65k1",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/r/srpd65k1opuo_iy.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 59399.0,
+    "special_price": 41300.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:46"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:19"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:18"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:59"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:25"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:42"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:52"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:22"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:27"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:30"
+    },
+    {
+      "price": 59399.0,
+      "special_price": 41300.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:11"
+    }
+  ]
+}

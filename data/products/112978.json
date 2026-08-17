@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112978",
+    "sku": "OPB7270QMOV",
+    "name": "Oraimo PowerNova QF1 22.5W 27000mAh Fast Charging Power Bank (OPB-7270Q)-Black",
+    "slug": "oraimo-powernova-qf1-22-5w-27000mah-fast-charging-power-bank-opb-7270q",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/r/oraimo-powernova-qf1-22.5w-27000mah-fast-charging-power-bank-_opb-7270q_-black-4-15-2-61.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2860.0,
+    "special_price": 2720.0,
+    "discount": 5.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:07"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:57"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:51"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:07"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:33"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:43:40"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:21"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:02"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:21"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:50"
+    },
+    {
+      "price": 2860.0,
+      "special_price": 2720.0,
+      "discount": 5.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:23:08"
+    }
+  ]
+}

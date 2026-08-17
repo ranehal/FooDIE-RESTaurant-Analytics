@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117041",
+    "sku": "70A410CGTZ",
+    "name": "70mai A410 2.5K QHD Dash Camera (Front & Rear)",
+    "slug": "70mai-a410-2-5k-qhd-dash-camera-front-rear",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/4/a410-8-mar-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12895.0,
+    "special_price": 11590.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:36"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:40"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:27"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:38"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:00"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:11"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:17"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:31"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:44"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:00"
+    },
+    {
+      "price": 12895.0,
+      "special_price": 11590.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:09"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105450",
+    "sku": "MD80D20CBD",
+    "name": "Miyako 20L Microwave Oven (MD-80D20ATL-Y3)",
+    "slug": "miyako-20l-microwave-oven-md-80d20",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/0/m/0mmd80d2030924.jpg",
+    "unit": "L",
+    "unit_value": 20.0,
+    "price": 13900.0,
+    "special_price": 12900.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:50"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:45"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:51"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:12"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:54"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:14"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:17"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:49"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:48"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:33"
+    },
+    {
+      "price": 13900.0,
+      "special_price": 12900.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:17"
+    }
+  ]
+}

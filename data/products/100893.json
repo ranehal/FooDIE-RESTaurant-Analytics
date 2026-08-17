@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100893",
+    "sku": "W20LMP20SEWPO",
+    "name": "Whirlpool Magicook 20L Classic Solo Microwave Oven",
+    "slug": "whirlpool-20l-magicook-pro-20se-solo-microwave-oven",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/a/magicook-pro-20se-solo-23.3.24..jpg",
+    "unit": "L",
+    "unit_value": 20.0,
+    "price": 14690.0,
+    "special_price": 11790.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:01"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:13"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:45"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:15:42"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:32"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:07"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:04"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:37"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:38"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:01"
+    },
+    {
+      "price": 14690.0,
+      "special_price": 11790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:01"
+    }
+  ]
+}

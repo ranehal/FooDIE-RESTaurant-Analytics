@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105048",
+    "sku": "WBLVK10NWLT",
+    "name": "Walton WBL-VK10N 1000W 3 Jars Mixer Grinder",
+    "slug": "wbl-vk10n-1000w-3-jars-mixer-grinder",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/b/wbl-vk10n-11.9.24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5990.0,
+    "special_price": 5090.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:56"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:50"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:51"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:18"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:00"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:12"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:14"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:54"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:15"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:21"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 5090.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:58"
+    }
+  ]
+}

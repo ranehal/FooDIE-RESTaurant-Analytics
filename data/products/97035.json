@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97035",
+    "sku": "PNNST34NBDSQ",
+    "name": "Panasonic NN-ST34NB 25L Solo Microwave Oven",
+    "slug": "panasonic-nn-st34nb-25l-solo-microwave-oven",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/n/nn-st34nb-21.11.23..jpg",
+    "unit": "L",
+    "unit_value": 25.0,
+    "price": 22500.0,
+    "special_price": 20490.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:36"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:25"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:28"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:53"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:03"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:41"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:27"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:53"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:54"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:41"
+    },
+    {
+      "price": 22500.0,
+      "special_price": 20490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:26"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96108",
+    "sku": "FES5265HSP",
+    "name": "Fossil ES5265 HARWELL Quartz Stainless-Steel Women\u2019s Watch",
+    "slug": "fossil-es5265-harwell-quartz-stainless-steel-women-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/_/2.1_3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19989.0,
+    "special_price": 14680.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:58"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:26"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:36"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:16"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:05"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:46:05"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:59:44"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:35:58"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:35"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:09:19"
+    },
+    {
+      "price": 19989.0,
+      "special_price": 14680.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:32:15"
+    }
+  ]
+}

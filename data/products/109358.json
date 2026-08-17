@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109358",
+    "sku": "VD11MPFATL",
+    "name": "Vyvylabs D11 Mini Foldable Desktop Fan",
+    "slug": "vyvylabs-d11-mini-foldable-desktop-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/h/whatsapp_image_2025-04-20_at_11.56.05_am_8_.jpeg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1199.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:00"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:55"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:02"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:21"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:53"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:46"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:53"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:31"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:11"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:43"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1199.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:59"
+    }
+  ]
+}

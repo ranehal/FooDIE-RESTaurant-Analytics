@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106767",
+    "sku": "FBQ2863HSP",
+    "name": "Fossil Fenmore Three-Hand Watch for Men (BQ2863)",
+    "slug": "fossil-fenmore-three-hand-watch-for-men-bq2863",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/q/bq2863-14-12-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12439.0,
+    "special_price": 11090.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:41"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:15"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:13"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:55"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:15"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:31"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:47"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:14"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:19"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:24"
+    },
+    {
+      "price": 12439.0,
+      "special_price": 11090.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:04"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121994",
+    "sku": "GS30XFV32GRO",
+    "name": "GREE Fairy 2.5 Ton Inverter Air Conditioner (GS-30XFV32)",
+    "slug": "gree-fairy-2-5-ton-inverter-air-conditioner-gs-30xfv32",
+    "category_id": "64",
+    "category_name": "Air Conditioner",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/r/gree-fairy-2.5-ton-inverter-air-conditioner-_gs-30xfv32_-8-6-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 142000.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:17:11"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:21:42"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:13:51"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:13:49"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:21:17"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:11:39"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:19:51"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:02:00"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:25:15"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:32:21"
+    },
+    {
+      "price": 142000.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:49:20"
+    }
+  ]
+}

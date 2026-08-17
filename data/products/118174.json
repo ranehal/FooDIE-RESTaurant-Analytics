@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118174",
+    "sku": "AMW870DAFAMZ",
+    "name": "Casio Standard Dual Time Analog Men\u2019s Watch (AMW-870DA-2A1VDF)",
+    "slug": "casio-standard-dual-time-analog-men-s-watch-amw-870da-2a1vdf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amw-870da-2a1vdf-13-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12000.0,
+    "special_price": 10490.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:15"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:03"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:25"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:04"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:36:38"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:43:47"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:16"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:47"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:14"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:50"
+    },
+    {
+      "price": 12000.0,
+      "special_price": 10490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:39"
+    }
+  ]
+}

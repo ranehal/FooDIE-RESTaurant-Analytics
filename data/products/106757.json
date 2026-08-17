@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106757",
+    "sku": "MMJK18GLSFFT",
+    "name": "Miyako 1.8L 1500W Cordless Electric Kettle (MJK-18GLS)",
+    "slug": "miyako-1-8l-1500w-cordless-electric-kettle-mjk-18gls",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mjk-18gls-12-12-24.jpg",
+    "unit": "L",
+    "unit_value": 1.8,
+    "price": 2499.0,
+    "special_price": 2190.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:25"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:20"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:22"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:48"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:23"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:39"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:52"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:47"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:50"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:59"
+    },
+    {
+      "price": 2499.0,
+      "special_price": 2190.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:16"
+    }
+  ]
+}

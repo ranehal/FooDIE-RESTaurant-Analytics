@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116899",
+    "sku": "MWAN03TWSGLO",
+    "name": "Microlab Wisepods ANC03 ANC TWS Earbuds",
+    "slug": "microlab-wisepods-anc03-anc-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/microlab-wisepods-anc03.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3100.0,
+    "special_price": 2461.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:42"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:45"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:32"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:43"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:07"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:53"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:39"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:52"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:38:29"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:34"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2461.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:26"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122182",
+    "sku": "TAX1UNTPO",
+    "name": "TP-Link AX300 Nano Wi-Fi 6 Wireless USB Adapter (Archer TX1U Nano)",
+    "slug": "tp-link-ax300-nano-wi-fi-6-wireless-usb-adapter-archer-tx1u-nano",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/x/tx1u-nano-13-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 890.0,
+    "special_price": 790.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 890.0,
+      "special_price": 790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:23"
+    },
+    {
+      "price": 890.0,
+      "special_price": 790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:11"
+    },
+    {
+      "price": 890.0,
+      "special_price": 790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:32"
+    },
+    {
+      "price": 890.0,
+      "special_price": 790.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}

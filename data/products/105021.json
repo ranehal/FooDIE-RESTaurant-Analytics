@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105021",
+    "sku": "ZB3PSGWTTZ",
+    "name": "Zeblaze Beyond 3 Pro Smart Watch",
+    "slug": "zeblaze-beyond-3-pro-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/z/e/zeblaze-beyond-3-pro-10.9.24--2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4800.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 4800.0,
+      "special_price": 4599.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:53:25"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 4599.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:01"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 4599.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:48:09"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 4599.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:49:34"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 4599.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:06:38"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 4599.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:13"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:00"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:53:09"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:11"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:28"
+    },
+    {
+      "price": 4800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:53"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96445",
+    "sku": "EC13T6644TRS",
+    "name": "Epson C13T6644 Yellow Ink Bottle",
+    "slug": "epson-c13t6644-yellow-ink-bottle",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/6/6664444-11.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 719.0,
+    "special_price": 669.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:57"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:24"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:53"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:34"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:48"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:26"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:52:56"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:57"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:47"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:01:51"
+    },
+    {
+      "price": 719.0,
+      "special_price": 669.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:30:23"
+    }
+  ]
+}

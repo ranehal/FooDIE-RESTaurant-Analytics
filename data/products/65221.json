@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "65221",
+    "sku": "ST2AVDFTTS",
+    "name": "Casio Blue Resin Band Youth Series Wrist Men\u2019s Watch (AEQ-110W-2AVDF)",
+    "slug": "casio-blue-resin-band-youth-series-wrist-men-s-watch-aeq-110w-2avdf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-blue-resin-band-youth-series-wrist-men_s-watch-_aeq-110w-2avdfgfdf_-2-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5849.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:25"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:49"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:14"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:53"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:23"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:59:24"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:06:10"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:44:16"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:17:16"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:54"
+    },
+    {
+      "price": 5849.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:31:13"
+    }
+  ]
+}

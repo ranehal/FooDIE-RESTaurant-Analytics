@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "101331",
+    "sku": "NFGW1DSQ",
+    "name": "Panasonic 760-Watt 4-Slice Sandwich Maker (NF-GW1)",
+    "slug": "panasonic-760-watt-4-slice-sandwich-maker-nf-gw1",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/f/nf-gw1-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5850.0,
+    "special_price": 5290.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:57"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:49"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:54"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:18"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:19"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:29:48"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:47:55"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:42:02"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:14:22"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:47:39"
+    },
+    {
+      "price": 5850.0,
+      "special_price": 5290.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:10"
+    }
+  ]
+}

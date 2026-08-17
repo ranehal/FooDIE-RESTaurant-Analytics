@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114985",
+    "sku": "WGH21GSNGWLT",
+    "name": "Walton WGH-21GS Gas Stove (NG)",
+    "slug": "walton-wgh-21gs-gas-stove-ng",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/g/wgh-21gs-1-4-26-1.jpg",
+    "unit": "g",
+    "unit_value": 21.0,
+    "price": 7990.0,
+    "special_price": 6890.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:59"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:49"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:11"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:21"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:13"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:12"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:54"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:05"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:17"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:05"
+    },
+    {
+      "price": 7990.0,
+      "special_price": 6890.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:38"
+    }
+  ]
+}

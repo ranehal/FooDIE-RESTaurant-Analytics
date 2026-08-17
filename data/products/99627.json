@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99627",
+    "sku": "B0133110511100ADR",
+    "name": "Baseus 2-in-1 Out HDMI Converter Switcher (B01331105111-00)-Black",
+    "slug": "baseus-2-in-1-out-hdmi-converter-switcher-b01331105111-00-black",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-2-in-1--8.2.24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 1299.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:50"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:18"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:50"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:31"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:43"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:23"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:24"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:14"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:26"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:46"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 1299.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:06"
+    }
+  ]
+}

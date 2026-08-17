@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122291",
+    "sku": "C5DLBDLG",
+    "name": "Click 5W\u00a0DC LED Bulb",
+    "slug": "click-5w-dc-led-bulb",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/5/w/5w_dc-led-16-aug-2026-0.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 210.0,
+    "special_price": 180.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 210.0,
+      "special_price": 180.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 08:12:39"
+    }
+  ]
+}

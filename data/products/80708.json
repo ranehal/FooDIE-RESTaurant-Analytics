@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "80708",
+    "sku": "BCADKLFG01ATL",
+    "name": "Baseus Cafule 4K HDMI Male To 4K HDMI 3M Male Adapter Cable (CADKLF-G01)",
+    "slug": "baseus-cafule-4khdmi-male-to-4khdmi-male-adapter-cable-3m-cadklf-g01",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/c/_cadklf-e01__2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 749.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:34"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:58"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:30"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:13"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:48"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:11"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:16"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:28"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:20"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:23"
+    },
+    {
+      "price": 999.0,
+      "special_price": 749.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:23"
+    }
+  ]
+}

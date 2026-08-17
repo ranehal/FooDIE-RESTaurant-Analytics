@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104204",
+    "sku": "PPTSZ10ADR",
+    "name": "Baseus Explorer 10000mAh 22.5W Power Bank (PPTSZ10)",
+    "slug": "baseus-explorer-10000mah-22-5w-power-bank-pptsz10",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-explorer-10000mah--01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1999.0,
+    "special_price": 1949.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 1999.0,
+      "special_price": 1719.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:15"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1719.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:50"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1719.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:00"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:24"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:07:51"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:46"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:48"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:29"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:30"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:15"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:24:15"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99252",
+    "sku": "EACA1AEUCLI3ATL",
+    "name": "Energizer ACA1AEUCLI3 24W USB Wall Adapter with Lightning Cable (EU Plug) - White",
+    "slug": "energizer-aca1aeucli3-usb-24w-wall-adapter-with-lightning-cable-eu-plug-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/aca1aeucli3-28.8.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1649.0,
+    "special_price": 1149.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:56:02"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:26"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:50:44"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:52:12"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:10:04"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:10"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:53"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:56"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:49"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:56"
+    },
+    {
+      "price": 1649.0,
+      "special_price": 1149.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:51"
+    }
+  ]
+}

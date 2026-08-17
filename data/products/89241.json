@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89241",
+    "sku": "RSW46MMGS",
+    "name": "Riversong Motive 3 Pro Smart Watch",
+    "slug": "riversong-motive-3-pro-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/i/riversong-motive-3-pro-new-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4599.0,
+    "special_price": 3449.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:59:13"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:27"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:54"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:29"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:58"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:05"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:02"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:54:00"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:47"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:40"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 3449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:57"
+    }
+  ]
+}

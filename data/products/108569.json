@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108569",
+    "sku": "HM116LEADR",
+    "name": "Hoco M116 Lightning Earphone",
+    "slug": "hoco-m116-lightning-earphone",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m116-8-3-25-1_2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 619.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:51"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:34"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:33"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:53"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:43"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:53"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:32"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:00"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:49"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:55"
+    },
+    {
+      "price": 800.0,
+      "special_price": 619.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:33"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108939",
+    "sku": "H28MOBS10HCHSO",
+    "name": "Hisense 28L Convection Microwave Oven with Easy-Clean SS Cavity (H28MOBS10HC)",
+    "slug": "hisense-28l-convection-microwave-oven-with-easy-clean-ss-cavity-h28mobs10hc",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/2/h28mobs10hc-22-3-25.jpg",
+    "unit": "L",
+    "unit_value": 28.0,
+    "price": 24900.0,
+    "special_price": 21390.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:10"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:05"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:07"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:31"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:05"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:14"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:17"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:49"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:48"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:33"
+    },
+    {
+      "price": 24900.0,
+      "special_price": 21390.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:17"
+    }
+  ]
+}

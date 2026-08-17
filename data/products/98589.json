@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98589",
+    "sku": "C8376BSWHG",
+    "name": "Curren 8376 Quartz Leather Men\u2019s Watch - Brown Silver",
+    "slug": "curren-8376-quartz-leather-men-s-watch-brown-silver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/curren-8376-white-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1649.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:23"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:53"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:07:59"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:20:42"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:20"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:05"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:03:59"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:09"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:53"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:16"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1649.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:53"
+    }
+  ]
+}

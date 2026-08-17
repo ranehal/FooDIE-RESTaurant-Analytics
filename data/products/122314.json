@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122314",
+    "sku": "VLALWFWGLO",
+    "name": "Vention LALWF 1m 3A USB 2.0 Type-C to Lightning Cable-White",
+    "slug": "vention-lalwf-1m-3a-usb-2-0-type-c-to-lightning-cable-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/a/lalwf-16-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 590.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 590.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 12:46:17"
+    }
+  ]
+}

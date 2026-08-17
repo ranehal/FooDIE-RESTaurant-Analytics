@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111086",
+    "sku": "HPH800WMGHCL",
+    "name": "Havells Power Hunk 800 Watts 4 Jar Mixer Grinder",
+    "slug": "havells-power-hunk-800-watts-4-jar-mixer-grinder",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/havells-power-hunk-800w-3ss-jars-mixer-grinder-1-20-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10690.0,
+    "special_price": 6980.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:20"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:15"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:23"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:41"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:06"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:26"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:00"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:32"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:56"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:56"
+    },
+    {
+      "price": 10690.0,
+      "special_price": 6980.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:00"
+    }
+  ]
+}

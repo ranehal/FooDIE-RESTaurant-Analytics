@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100882",
+    "sku": "SFRSHB60WDSQ",
+    "name": "Sencor 500W Hand Blender (SHB 4260WH)",
+    "slug": "sencor-500w-hand-blender-shb-4260wh",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/e/sencor---21-3-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4900.0,
+    "special_price": 4390.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:07"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:59"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:04"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:28"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:25"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:57"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:20"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:15"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:21"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:26"
+    },
+    {
+      "price": 4900.0,
+      "special_price": 4390.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:05"
+    }
+  ]
+}

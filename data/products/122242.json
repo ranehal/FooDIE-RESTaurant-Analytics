@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122242",
+    "sku": "VXI30A3DLG",
+    "name": "Vision 2000W Infrared Cooker (RE-VSN-XI-30A3)",
+    "slug": "vision-2000w-infrared-cooker-re-vsn-xi-30a3",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/re-vsn-xi-30a3-15-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3950.0,
+    "special_price": 3260.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3950.0,
+      "special_price": 3260.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 17:58:54"
+    },
+    {
+      "price": 3950.0,
+      "special_price": 3260.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

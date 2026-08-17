@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114596",
+    "sku": "AJ042ACI",
+    "name": "ACI Smart 85L Air Compressor",
+    "slug": "aci-smart-85l-air-compressor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/0/j040-18-12-25-1_1.jpg",
+    "unit": "L",
+    "unit_value": 85.0,
+    "price": 39660.0,
+    "special_price": 29610.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:25:20"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:30:08"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:30"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:42"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:40"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:28"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:38"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:43"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:50"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:37"
+    },
+    {
+      "price": 39660.0,
+      "special_price": 29610.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:43"
+    }
+  ]
+}

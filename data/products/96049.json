@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96049",
+    "sku": "T1885NM01AMZWOG",
+    "name": "Titan 1885NM01 Neo Curve Quartz Multifunction Men\u2019s Watch",
+    "slug": "titan-1885nm01-neo-curve-quartz-multifunction-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/8/1885nm01-10-7-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10000.0,
+    "special_price": 8500.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:58"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:26"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:36"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:16"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:05"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:53"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:21"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:49"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:35"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:56"
+    },
+    {
+      "price": 10000.0,
+      "special_price": 8500.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:28:27"
+    }
+  ]
+}

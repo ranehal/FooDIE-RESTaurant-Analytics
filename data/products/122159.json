@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "122159",
+    "sku": "VSBL20DLG",
+    "name": "Vision\u00a0850W\u00a0Blender\u00a0(VIS-SBL-020) Typhoon",
+    "slug": "vision-850w-blender-vis-sbl-020-typhoon",
+    "category_id": "69",
+    "category_name": "Grinder & Blender",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/b/sbl-020-12-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5500.0,
+    "special_price": 4540.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5500.0,
+      "special_price": 4540.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:35"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4540.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:17"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4540.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:53"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4540.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:22"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 4540.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:32"
+    }
+  ]
+}

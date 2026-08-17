@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109926",
+    "sku": "GHTG2062AGZO",
+    "name": "Gazi HTG-2062A Stainless Steel Gas Stove",
+    "slug": "gazi-htg-2062a-stainless-steel-gas-stove",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/t/htg-2062a-12-5-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3024.0,
+    "special_price": 2490.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:50"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:45"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:47"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:24:11"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:41"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:18"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:03"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:09"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:28"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:19"
+    },
+    {
+      "price": 3024.0,
+      "special_price": 2490.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:59"
+    }
+  ]
+}

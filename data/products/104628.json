@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104628",
+    "sku": "BK3DIPXRATL",
+    "name": "Baykron 3D Full Coverage Tempered Glass Screen Protector for iPhone XR",
+    "slug": "baykron-3d-full-coverage-tempered-glass-screen-protector-for-iphone-xr",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baykron-ot-ipxr-3d-full-coverage-screen-xr---20-004854-27.8.24-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1999.0,
+    "special_price": 1399.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:01"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:36"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:48:45"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:04"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:07:31"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:32:24"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:17"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:16"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:46"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:33"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1399.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:46"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121497",
+    "sku": "COT86018ADR",
+    "name": "Coteci TSA Customs Code Lock (86018) - Black",
+    "slug": "coteci-tsa-customs-code-lock-86018-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/coteci-tsa-customs-code-3-digit-combination-lock-5-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 999.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:39"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:59"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:34"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:44"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:31"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:57"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:07"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:44"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:29"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:44"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 999.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:23"
+    }
+  ]
+}

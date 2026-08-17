@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "93191",
+    "sku": "UGUS261CIL",
+    "name": "UGREEN US261 USB 2.0C 1m M/M Round Cable Nickel Plating Aluminum Shell (50150)",
+    "slug": "ugreen-us261-usb-2-0c-1m-m-m-round-cable-nickel-plating-aluminum-shell-50150",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/5/_50150_-17-5-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 499.0,
+    "special_price": 419.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:09"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:26"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:52:53"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:19"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:12:42"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:36"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:11"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:52"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:14"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:17"
+    },
+    {
+      "price": 499.0,
+      "special_price": 419.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:35"
+    }
+  ]
+}

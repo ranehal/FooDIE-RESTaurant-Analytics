@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112663",
+    "sku": "S9058MWWHG",
+    "name": "Skmei 9058 Luxury Quartz Men\u2019s Watch-Brown & Silver",
+    "slug": "skmei-9058-luxury-quartz-men-s-watch-brown-silver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-9058-8-7-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1650.0,
+    "special_price": 1400.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:02"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:45"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:02:20"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:52"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:54"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:19"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:05"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:55"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:51"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:07:30"
+    },
+    {
+      "price": 1650.0,
+      "special_price": 1400.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:59"
+    }
+  ]
+}

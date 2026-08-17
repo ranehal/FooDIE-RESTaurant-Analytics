@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "89281",
+    "sku": "MFCM001MGS",
+    "name": "Megastar FC-M001 2M Micro USB Fast Charging Data Cable",
+    "slug": "megastar-fc-m001-2m-micro-usb-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/c/fc-m001--19-5-24--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 350.0,
+    "special_price": 299.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:59:07"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:21"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:49"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:17"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:52"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:44"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:31"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:25:06"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:20"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:20"
+    },
+    {
+      "price": 350.0,
+      "special_price": 299.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:40"
+    }
+  ]
+}

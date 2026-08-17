@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118255",
+    "sku": "10011NM01WOG",
+    "name": "Titan Stellar Automatic Black Dial Stainless Steel Strap Watch for Men (10011NM01)",
+    "slug": "titan-stellar-automatic-black-dial-stainless-steel-strap-watch-for-men-10011nm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/10011NM01_3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 90000.0,
+    "special_price": 67500.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:11"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:14:59"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:20"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:00"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:36:34"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:43:40"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:09"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:41"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:08"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:14"
+    },
+    {
+      "price": 90000.0,
+      "special_price": 67500.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:31"
+    }
+  ]
+}

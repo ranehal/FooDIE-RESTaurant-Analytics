@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113219",
+    "sku": "PHL771301MBT",
+    "name": "Philips 1000W 3 Jars Mixer Grinder with PowerPro Motor (HL7713/01) ",
+    "slug": "philips-1000w-3-jars-mixer-grinder-with-powerpro-motor-hl7713-01",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/l/hl7713-01-2-july-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13500.0,
+    "special_price": 9290.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:16"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:11"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:23"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:22:40"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:31:56"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:26"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:57"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:45"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:49"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:48"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9290.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:56"
+    }
+  ]
+}

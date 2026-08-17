@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97422",
+    "sku": "TESD310CSTR",
+    "name": "Transcend ESD310C 512GB USB Type-C Portable SSD",
+    "slug": "transcend-esd310c-512gb-usb-type-c-portable-ssd",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/s/esd310c.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6050.0,
+    "special_price": 5790.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:53"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:21"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:53"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:34"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:48"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:16"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:52"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:10"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:53:04"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:39"
+    },
+    {
+      "price": 6050.0,
+      "special_price": 5790.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:23"
+    }
+  ]
+}

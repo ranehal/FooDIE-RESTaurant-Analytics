@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "115051",
+    "sku": "BAC180PBPS",
+    "name": "Bluetti Portable IPS 1800W Output - 1440WH Battery | Premium 150 AC180P",
+    "slug": "bluetti-premium-150-ac180p-portable-power-station-with-ips-function-1800w-ac-output",
+    "category_id": "4057",
+    "category_name": "Portable Power Station",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/ac180p--4-1-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 90500.0,
+    "special_price": 83990.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 90500.0,
+      "special_price": 83990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:41"
+    },
+    {
+      "price": 90500.0,
+      "special_price": 83990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:30"
+    },
+    {
+      "price": 90500.0,
+      "special_price": 83990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:56"
+    },
+    {
+      "price": 90500.0,
+      "special_price": 83990.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:54"
+    }
+  ]
+}

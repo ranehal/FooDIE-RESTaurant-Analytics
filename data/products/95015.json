@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95015",
+    "sku": "BCAMKLFBG1GTZ",
+    "name": "Baseus Cafule 2.4A 1M USB to Micro USB Fast Charging Data Cable (CAMKLF-BG1)-Black",
+    "slug": "baseus-cafule-1m-usb-micro-usb-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/camklf-bg1-21.4.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 449.0,
+    "special_price": 349.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:12"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:35"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:08"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:18"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:54:53"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:10"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:55"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:43"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:37:51"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:24"
+    },
+    {
+      "price": 449.0,
+      "special_price": 349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:28"
+    }
+  ]
+}

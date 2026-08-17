@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113669",
+    "sku": "CTP1303D4AVDFTTS",
+    "name": "Casio Analog Watch for Women (LTP-1303D-4AVDF)",
+    "slug": "casio-analog-watch-for-women-ltp-1303d-4avdf",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1303d-4avdf-28-10-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4679.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:32"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:16"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:49"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:21"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:16"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:42:29"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:55:25"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:18"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:05"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:41"
+    },
+    {
+      "price": 4679.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:48"
+    }
+  ]
+}

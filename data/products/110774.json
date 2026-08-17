@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110774",
+    "sku": "HRVG690P7PBTSD",
+    "name": "Hitachi 601L Big 2 Glass Series Refrigerator R-VG690P7PB(KD) (GBK)",
+    "slug": "hitachi-601l-big-2-glass-series-refrigerator-r-vg690p7pb-kd-gbk",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/g/vg560p7pb-15-6-25-1_1.jpg",
+    "unit": "L",
+    "unit_value": 601.0,
+    "price": 214900.0,
+    "special_price": 178990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:27:25"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:32:20"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:23"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:46"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:33:11"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:55"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:49"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:35"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:25"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:06"
+    },
+    {
+      "price": 214900.0,
+      "special_price": 178990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:19"
+    }
+  ]
+}

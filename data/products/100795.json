@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100795",
+    "sku": "PXG7HSADR",
+    "name": "Plextone G7 Flash Speed RGB Gaming Wireless Headset with ENC Detachable Mic",
+    "slug": "plextone-g7-flash-speed-rgb-gaming-wireless-headset-with-enc-detachable-mic",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/l/plextone-g7-flash-speed.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3100.0,
+    "special_price": 2799.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:47"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:15"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:44"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:25"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:34"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:38:28"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:32"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:11"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:27"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:44"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2799.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:56"
+    }
+  ]
+}

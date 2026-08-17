@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96211",
+    "sku": "DNY2974HSP",
+    "name": "DKNY SOHO NY2974 Three-Hand Women\u2019s Watch and Strap Set",
+    "slug": "dkny-soho-ny2974-three-hand-women-s-watch-and-strap-set",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/y/ny2974-22.10.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18459.0,
+    "special_price": 14349.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:54"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:22"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:31"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:12"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:01"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:46:00"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:59:39"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:35:50"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:30"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:08:57"
+    },
+    {
+      "price": 18459.0,
+      "special_price": 14349.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:32:15"
+    }
+  ]
+}

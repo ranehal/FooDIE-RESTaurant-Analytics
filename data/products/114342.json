@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114342",
+    "sku": "FLHX2DABA",
+    "name": "FLH FlyX Max 2 Drone with Dual Camera & Dual Battery",
+    "slug": "flh-flyx-max-2-drone-with-dual-camera-dual-battery",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/l/flh-flyx-max-2-12-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5500.0,
+    "special_price": 2970.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:15"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:08"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:59"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:14"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:25"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:10"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:16"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:24"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:13"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:12"
+    },
+    {
+      "price": 5500.0,
+      "special_price": 2970.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:01"
+    }
+  ]
+}

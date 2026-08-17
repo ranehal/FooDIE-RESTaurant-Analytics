@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "112597",
+    "sku": "VTT17TEGLO",
+    "name": "Vention Tiny T17 TWS Earbuds",
+    "slug": "vention-tiny-t17-tws-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/i/tiny-t17-bla-3-9-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2399.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:46:12"
+    },
+    {
+      "price": 2399.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:50"
+    }
+  ]
+}

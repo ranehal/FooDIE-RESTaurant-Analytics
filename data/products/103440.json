@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103440",
+    "sku": "KCWGGT25402WWB",
+    "name": "Kenneth Cole Silicon Strap Men's Watch (KCWGO2125402)",
+    "slug": "kenneth-cole-silicon-strap-men-s-watch-kcwgo2125402",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/k/_kcwgo2125402_-8-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24403.0,
+    "special_price": 21963.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:22:03"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:36"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:37"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:17"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:42"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:52:58"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:03:00"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:36"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:12:02"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:44"
+    },
+    {
+      "price": 24403.0,
+      "special_price": 21963.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:25"
+    }
+  ]
+}

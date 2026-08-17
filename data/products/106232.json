@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106232",
+    "sku": "EZH9C3MPWCEXL",
+    "name": "EZVIZ CS-H9C 3MP Outdoor Color Night Vision Dual-Lens Pan & Tilt Wi-Fi Camera",
+    "slug": "ezviz-cs-h9c-3mp-outdoor-color-night-vision-dual-lens-pan-tilt-wi-fi-camera",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/s/cs-h9c-3mp-28-1-25--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7529.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:32"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:01"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:31"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:08"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:15"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:45:01"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:51"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:59"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:58"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:17"
+    },
+    {
+      "price": 7529.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:10"
+    }
+  ]
+}

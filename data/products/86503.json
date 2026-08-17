@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "86503",
+    "sku": "CADFSMMTTS",
+    "name": "Casio Enticer LTP-1235SG-7ADF  Stainless Steel Women\u2019s Watch",
+    "slug": "casio-women-s-watch-ltp-1235sg-7adf",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/t/ltp-1235sg-7adf-26-10-25-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6720.0,
+    "special_price": 5600.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6720.0,
+      "special_price": 5600.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 13:05:54"
+    }
+  ]
+}

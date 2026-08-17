@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90499",
+    "sku": "PHP8302SSB",
+    "name": "Philips HP8302 Selfie Hair Straightener",
+    "slug": "philips-hp8302-selfie-hair-straightener",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp8302_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4199.0,
+    "special_price": 3149.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:02"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:29"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:46"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:26"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:43"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:48"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:33"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:34"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:14"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:17"
+    },
+    {
+      "price": 4199.0,
+      "special_price": 3149.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:26"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100885",
+    "sku": "HD451567DSQ",
+    "name": "Philips 1.8 Liter Digital Rice Cooker (HD4515/67)",
+    "slug": "philips-1-8-liter-digital-rice-cooker-hd4515-67",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-1.8-liter-digital-rice-cooker--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11450.0,
+    "special_price": 10490.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:07"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:59"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:59"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:28"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:25"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:12"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:37"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:51"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:11"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:12"
+    },
+    {
+      "price": 11450.0,
+      "special_price": 10490.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:47"
+    }
+  ]
+}

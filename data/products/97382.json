@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97382",
+    "sku": "AUPGTFSTZTC",
+    "name": "Amazfit GTR Magnetic USB Charging Cable",
+    "slug": "amazfit-gtr-magnetic-usb-charging-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/t/gtr---29-11-23----1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 550.0,
+    "special_price": 339.0,
+    "discount": 38.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:57:00"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:58:24"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:51:46"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:53:14"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:11:20"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:24:05"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:31:06"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:51:34"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:37:55"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:35"
+    },
+    {
+      "price": 550.0,
+      "special_price": 339.0,
+      "discount": 38.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:18:43"
+    }
+  ]
+}

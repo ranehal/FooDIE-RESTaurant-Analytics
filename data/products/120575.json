@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "120575",
+    "sku": "G52TDNEP",
+    "name": "Gata 52 Tunes Calling Bell (Doorbell)",
+    "slug": "gata-52-tunes-calling-bell-doorbell",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gata-52-2-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1500.0,
+    "special_price": 690.0,
+    "discount": 54.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1500.0,
+      "special_price": 690.0,
+      "discount": 54.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:12"
+    },
+    {
+      "price": 1500.0,
+      "special_price": 690.0,
+      "discount": 54.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:12"
+    }
+  ]
+}

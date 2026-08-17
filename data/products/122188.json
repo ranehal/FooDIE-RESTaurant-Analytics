@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122188",
+    "sku": "TART4ETPO",
+    "name": "TP-Link AC1200 Wireless Dual Band PCI-E Adapter (Archer T4E)",
+    "slug": "tp-link-ac1200-wireless-dual-band-pci-e-adapter-archer-t4e",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/r/archer-t4e-v3-13-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2549.0,
+    "special_price": 2149.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2549.0,
+      "special_price": 2149.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:13"
+    },
+    {
+      "price": 2549.0,
+      "special_price": 2149.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:48"
+    },
+    {
+      "price": 2549.0,
+      "special_price": 2149.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:32"
+    },
+    {
+      "price": 2549.0,
+      "special_price": 2149.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}

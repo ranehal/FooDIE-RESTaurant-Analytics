@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "75665",
+    "sku": "MD3015A30LCKT",
+    "name": "Midea 30 Liters Geyser (D30-15A6)",
+    "slug": "midea-30-liters-geyser-mh-30l",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/midea-034.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 15500.0,
+    "special_price": 9990.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:33:00"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:37"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:38"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:12"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:46"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:25:12"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:22"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:32"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:27"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:06"
+    },
+    {
+      "price": 15500.0,
+      "special_price": 9990.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:25"
+    }
+  ]
+}

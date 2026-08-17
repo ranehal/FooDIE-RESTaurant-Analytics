@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "285",
+    "sku": "KP40UPNE",
+    "name": "KDK 16 Inch Stand Fan Metal Blade (P40U)",
+    "slug": "kdk-stand-fan-metal-blade-golden-p40u",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/p/pp-p40u-gold_5.gif",
+    "unit": null,
+    "unit_value": null,
+    "price": 13300.0,
+    "special_price": 12390.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:33:31"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:38:06"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:30:09"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:43"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:40:31"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:03"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:42"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:46:42"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 07:08:06"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:38"
+    },
+    {
+      "price": 13300.0,
+      "special_price": 12390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:26"
+    }
+  ]
+}

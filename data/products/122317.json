@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122317",
+    "sku": "AM51316GB512TBSVCMA",
+    "name": "Apple MacBook Air M5 Chip 13 Inch 16GB/512GB (Singapore Variant)",
+    "slug": "apple-macbook-air-m5-chip-13-inch-16gb-512gb-singapore-varient",
+    "category_id": "4",
+    "category_name": "Computers",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/p/apple-macbook-air-m5-chip-13-inch-16gb-512gb-_singapore-variant_-8-16-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 162999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 162999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 12:54:08"
+    }
+  ]
+}

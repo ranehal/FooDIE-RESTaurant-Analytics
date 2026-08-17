@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115216",
+    "sku": "BMG99THL",
+    "name": "Beurer Compact Deep Tissue Massager (MG99)",
+    "slug": "beurer-compact-deep-tissue-massager-mg99",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/g/mg99-12-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8572.0,
+    "special_price": 6990.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:52"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:39"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:05"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:40"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:20"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:48:24"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:27"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:14"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:00"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:08:10"
+    },
+    {
+      "price": 8572.0,
+      "special_price": 6990.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:19"
+    }
+  ]
+}

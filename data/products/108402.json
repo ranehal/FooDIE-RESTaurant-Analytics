@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108402",
+    "sku": "HETABH80SMY",
+    "name": "Helio TWS Earbuds (ABH-80)",
+    "slug": "helio-tws-earbuds-abh-80",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/b/abh-80-4-3-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1990.0,
+    "special_price": 1699.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:56"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:39"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:38"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:58"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:50"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:44"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:33"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:53"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:57:47"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:30"
+    },
+    {
+      "price": 1990.0,
+      "special_price": 1699.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:41"
+    }
+  ]
+}

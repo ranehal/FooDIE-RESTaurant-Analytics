@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "84853",
+    "sku": "FFS5708SETHSP",
+    "name": "Fossil FS5708SET Neutra Chronograph Men\u2019s Watch",
+    "slug": "fossil-fs5708set-neutra-chronograph-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/s/fs5708set.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24999.0,
+    "special_price": 16090.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:38"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:02"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:25"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:02"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:22"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:24"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:43"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:43:00"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:29"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:03"
+    },
+    {
+      "price": 24999.0,
+      "special_price": 16090.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:23"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114209",
+    "sku": "HOM111ADR",
+    "name": "Hoco M111 Pro 8 Pin In-Ear Call Gaming Wired 1.2m Earphone-Black",
+    "slug": "hoco-m111-pro-8-pin-in-ear-call-gaming-wired-earphone-cable-length-1-2m-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/E/D/EDA007034301A-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 900.0,
+    "special_price": 499.0,
+    "discount": 45.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:21"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:13"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:04"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:19"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:32"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:18"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:12"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:53"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:15"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:29"
+    },
+    {
+      "price": 900.0,
+      "special_price": 499.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:15"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "product": {
+    "id": "121154",
+    "sku": "KK3MSTDR",
+    "name": "Keychron K3 Max SE QMK Wireless Custom Mechanical Keyboard",
+    "slug": "keychron-k3-max-se-qmk-wireless-custom-mechanical-keyboard",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/keychron-k3-max-se-red-15-7-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13500.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:03:59"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:06:32"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:28:03"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:36:24"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:46:48"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:45"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:21"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:59:19"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:38"
+    }
+  ]
+}

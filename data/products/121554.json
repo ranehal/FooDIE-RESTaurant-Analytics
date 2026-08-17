@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121554",
+    "sku": "PG352SHL",
+    "name": "Pigeon 2000W 8L Digital Air Fryer (PG352)",
+    "slug": "pigeon-2000w-8l-digital-air-fryer-pg352",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/8/l/8l-18-7-26.jpg",
+    "unit": "L",
+    "unit_value": 8.0,
+    "price": 13500.0,
+    "special_price": 9690.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:59"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:06"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:39"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:43"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:43"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:05"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:36"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:36"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:56"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:55"
+    },
+    {
+      "price": 13500.0,
+      "special_price": 9690.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:58"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "94759",
+    "sku": "G8017A2ZBE",
+    "name": "Miyako GTM-8017 A2 Beater Hand Mixer",
+    "slug": "miyako-gtm-8017-a2-beater-hand-mixer",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/t/gtm-8017-a2-1.8.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3000.0,
+    "special_price": 2145.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:15"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:59"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:02"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:28"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:45"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:31:55"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:44"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:45:23"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:17:24"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:49:37"
+    },
+    {
+      "price": 3000.0,
+      "special_price": 2145.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:39"
+    }
+  ]
+}

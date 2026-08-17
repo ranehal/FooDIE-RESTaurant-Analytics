@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113019",
+    "sku": "OSW814MOV",
+    "name": "Oraimo Nova 2 AMOLED BT Calling Smart Watch (OSW-814)",
+    "slug": "oraimo-nova-2-amoled-bt-calling-smart-watch-osw-814",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/o/s/osw-814-16-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5550.0,
+    "special_price": 5185.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:07"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:57"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:51"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:07"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:33"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:24:28"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:17"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:51:32"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:08"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:46:22"
+    },
+    {
+      "price": 5550.0,
+      "special_price": 5185.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:40"
+    }
+  ]
+}

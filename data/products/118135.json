@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118135",
+    "sku": "L34GS95QEBGLO",
+    "name": "LG UltraGear 34\" OLED 240Hz Curved Gaming Monitor (34GS95QE-B)",
+    "slug": "lg-ultragear-34-oled-240hz-curved-gaming-monitor-34gs95qe-b",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/g/lg-34gs95qe-b-11-4-26-2.jpg",
+    "unit": "g",
+    "unit_value": 34.0,
+    "price": 272000.0,
+    "special_price": 271000.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:33"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:10"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:34"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:07"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:28:53"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:24"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:18"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:31"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:53:52"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:59"
+    },
+    {
+      "price": 272000.0,
+      "special_price": 271000.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:32"
+    }
+  ]
+}

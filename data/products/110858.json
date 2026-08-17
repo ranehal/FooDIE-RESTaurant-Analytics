@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110858",
+    "sku": "U70197CIL",
+    "name": "UGREEN CD127 30W Type-C Fast Charger UK (70197)",
+    "slug": "ugreen-cd127-30w-type-c-fast-charger-uk-70197",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/7/0/70197-18-6-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1399.0,
+    "special_price": 1249.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:54"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:41"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:38"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:00"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:03:33"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:32"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:38"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:53"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:50"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:25"
+    },
+    {
+      "price": 1399.0,
+      "special_price": 1249.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:28"
+    }
+  ]
+}

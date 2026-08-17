@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109934",
+    "sku": "AKA12WSTTZ",
+    "name": "Awei KA12 360\u00b0 Surround\u00a0Outdoor\u00a0Wireless Speaker",
+    "slug": "awei-ka12-360-surround-outdoor-wireless-speaker",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/a/ka12-12-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8000.0,
+    "special_price": 7779.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:19"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:05"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:04"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:21"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:06"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:43"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:40"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:29"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:46"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:14"
+    },
+    {
+      "price": 8000.0,
+      "special_price": 7779.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:17"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "103573",
+    "sku": "SHE3061PG7AWWB",
+    "name": "Casio Sheen Analog Women\u2019s Watch (SHE-3061PG-7AUDR)",
+    "slug": "casio-sheen-analog-women-s-watch-she-3061pg-7audr",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/h/she-3061pg-7audr-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12220.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12220.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:13"
+    },
+    {
+      "price": 12220.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:35"
+    },
+    {
+      "price": 12220.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:44"
+    },
+    {
+      "price": 12220.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:06:37"
+    },
+    {
+      "price": 12220.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:30"
+    }
+  ]
+}

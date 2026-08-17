@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121536",
+    "sku": "DJSEADR",
+    "name": "DJI Osmo Mobile SE Gimbal - Gray",
+    "slug": "dji-osmo-mobile-se-gimbal-gray",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/D/J/DJI-Osmo-Mobile-SE-Gimba-price-in-Bangladesh-_3_-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 9000.0,
+    "special_price": 8400.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:33"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:54"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:29"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:39"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:25"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:21"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:00"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:44"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:15"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:38"
+    },
+    {
+      "price": 9000.0,
+      "special_price": 8400.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:01"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "119376",
+    "sku": "ISPSI3KWNEP",
+    "name": "I-AM Single Phase 3KW High Frequency Pure Sive Wave Solar Hybrid Inverter",
+    "slug": "i-am-single-phase-high-frequency-pure-sive-wave-solar-hybrid-inverter-3kw",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/i/singel-phase-3kw-3-5-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 80000.0,
+    "special_price": 66000.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 80000.0,
+      "special_price": 66000.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:43"
+    },
+    {
+      "price": 80000.0,
+      "special_price": 66000.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:41"
+    }
+  ]
+}

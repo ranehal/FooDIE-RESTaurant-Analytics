@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90601",
+    "sku": "XPAGTC2PSPZTC",
+    "name": "Xinji PAGT C2 Pro Screen Protector",
+    "slug": "xinji-pagt-c2-pro-screen-protector",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xinji-pagt-c2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 175.0,
+    "special_price": 70.0,
+    "discount": 60.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:46"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:59"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:28"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:56"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:26"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 11:00:17"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:25"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:53:38"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:29"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:45"
+    },
+    {
+      "price": 175.0,
+      "special_price": 70.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:20:12"
+    }
+  ]
+}

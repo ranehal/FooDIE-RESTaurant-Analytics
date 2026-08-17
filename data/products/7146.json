@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "7146",
+    "sku": "MIYPRSRM54DSQ",
+    "name": "Miyako Roti Maker (RM-54) ",
+    "slug": "miyako-roti-maker-rm54",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/miyako_roti_maker_rm_54_2_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2890.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4000.0,
+      "special_price": 3190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:33:21"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:56"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:57"
+    },
+    {
+      "price": 4000.0,
+      "special_price": 3190.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:33"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:40:17"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:29:07"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:26"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:33"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:51"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:06:24"
+    },
+    {
+      "price": 2890.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:58:26"
+    }
+  ]
+}

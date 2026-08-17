@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106739",
+    "sku": "JLMT38ADR",
+    "name": "Jmary Lightweight Extendable Tripod (MT-38)",
+    "slug": "jmary-lightweight-extendable-tripod-mt-38",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/m/jmary-mt38-heavy-duty-aluminum-lightweight-extendable-tripod-stand-2-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1600.0,
+    "special_price": 1380.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:43"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:54:22"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:47:29"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:44"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:48"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:28:30"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:00"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:18:38"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:44"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:41"
+    },
+    {
+      "price": 1600.0,
+      "special_price": 1380.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:14"
+    }
+  ]
+}

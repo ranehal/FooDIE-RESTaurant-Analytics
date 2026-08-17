@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "72659",
+    "sku": "PHHP8142DLL",
+    "name": "Philips 1000W Hair Dryer (HP8142/00)",
+    "slug": "philips-hp8142-hair-dryer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/p/hp814200--5-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2450.0,
+    "special_price": 1590.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:09"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:33"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:56"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:34"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:01"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:26"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:09"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:46"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:33"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:38"
+    },
+    {
+      "price": 2450.0,
+      "special_price": 1590.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:21:03"
+    }
+  ]
+}

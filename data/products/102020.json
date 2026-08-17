@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102020",
+    "sku": "APSBCL22TTZ",
+    "name": "Awei 4 Ports USB Type-C Hub (CL-122T)-Grey",
+    "slug": "awei-4-ports-usb-type-c-hub-cl-122t-grey",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/2/122t--5-5-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 869.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:47"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:15"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:44"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:25"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:34"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:39:23"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:24"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:28:14"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:55:26"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:46"
+    },
+    {
+      "price": 999.0,
+      "special_price": 869.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:06"
+    }
+  ]
+}

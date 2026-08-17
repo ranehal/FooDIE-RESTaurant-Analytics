@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120406",
+    "sku": "JiLF54KDFIOT",
+    "name": "Jisulife Life 5 4000 mAh Desk Clip Fan",
+    "slug": "jisulife-life-5-4000-mah-desk-clip-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fan-life-5--23-5-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3990.0,
+    "special_price": 2890.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:12"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:12"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:52"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:55"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:08"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:38"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:41"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:40"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:19"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:56"
+    },
+    {
+      "price": 3990.0,
+      "special_price": 2890.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:13"
+    }
+  ]
+}

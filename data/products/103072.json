@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103072",
+    "sku": "FARD6WLSMM",
+    "name": "Fastrack Ruffles Quartz Analog Beige Dial Leather Strap Women's Watch (6206WL01)",
+    "slug": "fastrack-ruffles-quartz-analog-beige-dial-leather-strap-women-s-watch-6206wl01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/2/6206wl01--5-6-24---2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5990.0,
+    "special_price": 4125.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:22:16"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:49"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:50"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:31"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:58"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:45:08"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:43"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:42"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:12:27"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:06:59"
+    },
+    {
+      "price": 5990.0,
+      "special_price": 4125.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:03"
+    }
+  ]
+}

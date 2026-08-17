@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116948",
+    "sku": "P9LAFNA3PNE",
+    "name": "Philips 9L Dual Basket Air Fryer (NA350/00)",
+    "slug": "philips-9l-dual-basket-air-fryer-na350-00",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-9l-5-7-26.jpg",
+    "unit": "L",
+    "unit_value": 9.0,
+    "price": 24400.0,
+    "special_price": 21490.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:43"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:36"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:20:57"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:07"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:28:43"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:16"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:42"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:40"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:04"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:06"
+    },
+    {
+      "price": 24400.0,
+      "special_price": 21490.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:05"
+    }
+  ]
+}

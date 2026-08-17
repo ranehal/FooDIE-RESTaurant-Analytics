@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121599",
+    "sku": "CMJ100DPLUSPAP",
+    "name": "Casio Check & Recheck Basic Calculator (MJ-100D Plus)",
+    "slug": "casio-check-recheck-basic-calculator-mj-100d-plus",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mj-100d-20-7-26-2_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1830.0,
+    "special_price": 1080.0,
+    "discount": 41.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:54"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:25:01"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:34"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:34"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:31"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:56"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:27"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:57"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:43"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:45"
+    },
+    {
+      "price": 1830.0,
+      "special_price": 1080.0,
+      "discount": 41.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:05"
+    }
+  ]
+}

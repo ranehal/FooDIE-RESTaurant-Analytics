@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "122306",
+    "sku": "VSDI02DLG",
+    "name": "Vision 1000W Electric Iron (VIS-DEI-002) - Multicolor",
+    "slug": "vision-1000w-electric-iron-vis-dei-002-multicolor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vis-dei-002-16-aug-2026-0.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1025.0,
+    "special_price": 850.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1025.0,
+      "special_price": 850.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 12:32:03"
+    }
+  ]
+}

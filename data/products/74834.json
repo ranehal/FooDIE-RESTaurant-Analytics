@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "74834",
+    "sku": "CANG2010PNW",
+    "name": "Canon Pixma G2010 Ink Tank All-In-One Printer",
+    "slug": "canon-pixma-g2010-ink-tank-all-in-one-printer",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m1010-5_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19685.0,
+    "special_price": 16720.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:41"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:12:04"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:40"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:23"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:59"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:44"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:27"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:02"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16585.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:07"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16720.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:20:00"
+    },
+    {
+      "price": 19685.0,
+      "special_price": 16720.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:54"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114644",
+    "sku": "VPPCTCSTI",
+    "name": "VOLTME PowerLink Pixel 240W Type-C to Type-C Fast Charging Data Cable",
+    "slug": "voltme-powerlink-pixel-240w-type-c-to-type-c-fast-charging-data-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/voltme-240w-22-12-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 999.0,
+    "discount": 60.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:00"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:54"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:43"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:56"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:59"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:32:49"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:15"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:17"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:05"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:54:46"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 999.0,
+      "discount": 60.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:22"
+    }
+  ]
+}

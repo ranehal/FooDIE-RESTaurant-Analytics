@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115020",
+    "sku": "IC30D3KWCSLX",
+    "name": "IMILAB C30 Dual 3K+3K Wi-Fi Plug-in Indoor Camera",
+    "slug": "imilab-c30-dual-3k-3k-wi-fi-plug-in-indoor-camera",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/3/c30-4-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8499.0,
+    "special_price": 7899.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:55"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:30"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:53"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:31"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:20"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:36"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:51"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:55"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:58"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:17"
+    },
+    {
+      "price": 8499.0,
+      "special_price": 7899.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:10"
+    }
+  ]
+}

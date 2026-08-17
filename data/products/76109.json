@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "76109",
+    "sku": "SMS23K3513AKSBN",
+    "name": "Samsung 23L Solo Microwave Oven with Ceramic Enamel Cavity (MS23K3513AK/D2)",
+    "slug": "samsung-23l-solo-microwave-oven-with-ceramic-enamel-cavity-ms23k3513ak-d2",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/a/samsung-ms23k3513ak-d2-6-15-23.jpg",
+    "unit": "L",
+    "unit_value": 23.0,
+    "price": 18500.0,
+    "special_price": 16690.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:12"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:23"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:54"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:15:48"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:37"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:07"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:04"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:37"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:45"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:03"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16690.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:01"
+    }
+  ]
+}

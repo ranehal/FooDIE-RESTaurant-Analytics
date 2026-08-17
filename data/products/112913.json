@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112913",
+    "sku": "HW55PANCHADR",
+    "name": "Hoco W55 Plus ANC Wireless Headphones",
+    "slug": "hoco-w55-plus-anc-wireless-headphones",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/o/hoco-w55-plus-23-9-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1749.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:12"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:02"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:56"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:18"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:39"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:26:23"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:44"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:35"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:19"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:31"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1749.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:54"
+    }
+  ]
+}

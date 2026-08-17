@@ -1,0 +1,90 @@
+{
+  "product": {
+    "id": "107069",
+    "sku": "WS500LSIOT",
+    "name": "WiWU S500 Foldable Lightweight Aluminum Laptop Stand",
+    "slug": "wiwu-s500-foldable-lightweight-aluminum-laptop-stand",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/5/s500-9-1-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1390.0,
+    "special_price": 949.0,
+    "discount": 32.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:25"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:56"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:25"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:04"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:30:02"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:35"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:30:22"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 07:26:39"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:03:41"
+    },
+    {
+      "price": 1390.0,
+      "special_price": 949.0,
+      "discount": 32.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:31:51"
+    }
+  ]
+}

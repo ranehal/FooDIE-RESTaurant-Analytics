@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "83345",
+    "sku": "US28450942AJW",
+    "name": "UGREEN US284 2M Right Angle USB-A to USB-C Cable (50942)",
+    "slug": "ugreen-us284-angled-usb-a-to-usb-type-c-2m-angled-cable-50942",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/0/50942-1.9.24-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 540.0,
+    "special_price": 359.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:59:28"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:43"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:54:09"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:45"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:14:15"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:50"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:44:57"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:25:29"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:51:20"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:20"
+    },
+    {
+      "price": 540.0,
+      "special_price": 359.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:40"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "122117",
+    "sku": "TTAIRAWSLX",
+    "name": "Titan AiRA BT Calling Women\u2019s Smartwatch",
+    "slug": "titan-aira-bt-calling-women-s-smartwatch",
+    "category_id": "226",
+    "category_name": "Smart Watch",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/e/m/emi1-11-8-26-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13999.0,
+    "special_price": 10999.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13999.0,
+      "special_price": 10999.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:23:11"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 10999.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:30:40"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 10999.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:14:06"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 10999.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:36:30"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 10999.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:44:10"
+    },
+    {
+      "price": 13999.0,
+      "special_price": 10999.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:01:04"
+    }
+  ]
+}

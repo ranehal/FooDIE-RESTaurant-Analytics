@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "94590",
+    "sku": "W236LFBWPO",
+    "name": "Whirlpool FreshMagic Pro 236L GD Refrigerator-Crystal Black",
+    "slug": "whirlpool-236-liters-fresh-magic-pro-frost-refrigerator",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/r/freshmagic-pro-236l-gd-blk-1-8-26.jpg",
+    "unit": "L",
+    "unit_value": 236.0,
+    "price": 48990.0,
+    "special_price": 43990.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 48990.0,
+      "special_price": 42490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:20"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 42490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:03"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 42490.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:02"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:33"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:45"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:31"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:07"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:34"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:48"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:05"
+    },
+    {
+      "price": 48990.0,
+      "special_price": 43990.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:19"
+    }
+  ]
+}

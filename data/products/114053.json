@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114053",
+    "sku": "QTW2V92200UJWOG",
+    "name": "Q Timex Green Round Dial Analog Women\u2019s Watch (TW2V92200UJ)",
+    "slug": "q-timex-green-round-dial-analog-women-s-watch-tw2v92200uj",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/w/tw2v92200uj-19-11-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 38000.0,
+    "special_price": 24700.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:09"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:55"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:24"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:59"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:41"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:42:22"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:54:36"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:14"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:29"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:04:18"
+    },
+    {
+      "price": 38000.0,
+      "special_price": 24700.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:18:33"
+    }
+  ]
+}

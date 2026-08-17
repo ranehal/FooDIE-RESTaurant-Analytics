@@ -1,0 +1,62 @@
+{
+  "product": {
+    "id": "109234",
+    "sku": "TLSG2210O10PGSSTPO",
+    "name": "TP-LINK SG2210P Omada 10-Port Gigabit Smart Switch",
+    "slug": "tp-link-sg2210p-omada-10-port-gigabit-smart-switch",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/g/sg-2210p-10-04-2025--1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10880.0,
+    "special_price": 9100.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10880.0,
+      "special_price": 9100.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:15"
+    },
+    {
+      "price": 10880.0,
+      "special_price": 9100.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:47"
+    },
+    {
+      "price": 10880.0,
+      "special_price": 9100.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:15"
+    },
+    {
+      "price": 10880.0,
+      "special_price": 9100.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:50"
+    },
+    {
+      "price": 10880.0,
+      "special_price": 9100.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:50"
+    },
+    {
+      "price": 10880.0,
+      "special_price": 9100.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:48"
+    }
+  ]
+}

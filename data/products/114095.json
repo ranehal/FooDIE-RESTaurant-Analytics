@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114095",
+    "sku": "TSLBSQCO",
+    "name": "Tribit StormBox Lava Portable Bluetooth Speaker",
+    "slug": "tribit-stormbox-lava-portable-bluetooth-speaker",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/r/tribit-stormbox-lava-_80w_-11-20-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 19990.0,
+    "special_price": 19699.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:26"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:18"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:09"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:30"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:46"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:35"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:28"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:59"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:28"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:57"
+    },
+    {
+      "price": 19990.0,
+      "special_price": 19699.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:46"
+    }
+  ]
+}

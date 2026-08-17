@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112133",
+    "sku": "MA102YKZBE",
+    "name": "Miyako 2200W Infrared Cooker (ATC-102YK)",
+    "slug": "miyako-2200w-infrared-cooker-atc-102yk",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/t/atc-102yk-11-8-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5930.0,
+    "special_price": 4235.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:54"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:50"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:58"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:15"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:34"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:59"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:23"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:02"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:19"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:47"
+    },
+    {
+      "price": 5930.0,
+      "special_price": 4235.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:52"
+    }
+  ]
+}

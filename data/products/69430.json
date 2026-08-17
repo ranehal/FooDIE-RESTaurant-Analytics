@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "69430",
+    "sku": "KM02WOG",
+    "name": "TITAN 1734KM02 Workwear Watch for men",
+    "slug": "titan-1734km02-workwear-watch-for-men",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/7/1734km02.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12500.0,
+    "special_price": 8000.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:26:17"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:24:41"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:11:05"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:23:38"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:49:06"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:59:06"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:06:00"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:44:00"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:17:02"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:18:39"
+    },
+    {
+      "price": 12500.0,
+      "special_price": 8000.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:58"
+    }
+  ]
+}

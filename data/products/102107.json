@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "102107",
+    "sku": "SDBGA51EFBDWWB",
+    "name": "Casio Baby-G Analog-Digital Women\u2019s Watch (BGA-151EF-1BDR)",
+    "slug": "casio-baby-g-analog-digital-women-s-watch-bga-151ef-1bdr",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/b/1bdr--8-5-24---1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 13908.0,
+    "special_price": 12517.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:22:38"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:11"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:07:13"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:53"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:44:25"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:45:18"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:52"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:57"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:09"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:06:59"
+    },
+    {
+      "price": 13908.0,
+      "special_price": 12517.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:30:34"
+    }
+  ]
+}

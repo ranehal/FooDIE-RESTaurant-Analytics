@@ -1,0 +1,27 @@
+{
+  "product": {
+    "id": "111479",
+    "sku": "CGA23008AWOG",
+    "name": "Casio G-Shock Classic Watch for Men (GA-2300-8A)",
+    "slug": "casio-g-shock-classic-watch-for-men-ga-2300-8a",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/ga-2300-8a-7-9-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 18000.0,
+    "special_price": 16200.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18000.0,
+      "special_price": 16200.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 13:03:36"
+    }
+  ]
+}

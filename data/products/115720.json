@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115720",
+    "sku": "RP2PKEYXGO",
+    "name": "Redmi Pad 2 Pro Keyboard",
+    "slug": "redmi-pad-2-pro-keyboard",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/redmi-pad-2-pro-26-1-26-18.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4999.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:12"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:10"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:58"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:14"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:38"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:16"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:37"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:20"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:25"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:15"
+    },
+    {
+      "price": 4999.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:55"
+    }
+  ]
+}

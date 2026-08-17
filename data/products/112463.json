@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112463",
+    "sku": "M15LMHKN1EPGDX",
+    "name": "Mijia 1.5L Multifunctional Health Kettle N1 Electric Pot",
+    "slug": "mijia-1-5l-multifunctional-health-kettle-n1-electric-pot",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kettle-n1--26-8-25-1.jpg",
+    "unit": "L",
+    "unit_value": 1.5,
+    "price": 5022.0,
+    "special_price": 4256.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:39"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:34"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:38"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:01"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:16"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:39"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:41"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:07"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:37"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:51"
+    },
+    {
+      "price": 5022.0,
+      "special_price": 4256.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:13"
+    }
+  ]
+}

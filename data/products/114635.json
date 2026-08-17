@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114635",
+    "sku": "WNI6A9GDNEDWILTP",
+    "name": "Walton 591\u00a0Liters Inverter\u00a0Non-Frost Refrigerator (WNI-6A9-GDNE-WI) (Water Dispenser)",
+    "slug": "walton-548-liters-non-frost-refrigerator-wni-6a9-gdne-wi-inverter-water",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/a/walton-591-liters-5-7-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 124990.0,
+    "special_price": 106190.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:25:15"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:30:03"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:25"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:37"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:33"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:12:51"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:26"
+    },
+    {
+      "price": 125590.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:31"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:04"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:43"
+    },
+    {
+      "price": 124990.0,
+      "special_price": 106190.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:16"
+    }
+  ]
+}

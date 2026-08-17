@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "95198",
+    "sku": "WKTT010PNE",
+    "name": "Westinghouse WKTT010 4 Slice Toaster",
+    "slug": "westinghouse-wktt010-4-slice-toaster",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/k/wktt010-22.8.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7050.0,
+    "special_price": 5590.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:59"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:44"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:48"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:27:13"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:27"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:31:29"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:16"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:44:29"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:16:55"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:49:15"
+    },
+    {
+      "price": 7050.0,
+      "special_price": 5590.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:16:12"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100688",
+    "sku": "MPC603D27DSQ",
+    "name": "Moulinex 100W Vita Press Direct Serve Citrus Press Juicer (PC603D27)",
+    "slug": "moulinex-100w-vita-press-direct-serve-citrus-press-juicer-pc603d27",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/o/moulinex-pc603d27-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10250.0,
+    "special_price": 9290.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:13"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:04"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:09"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:33"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:31"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:57"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:20"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:15"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:21"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:26"
+    },
+    {
+      "price": 10250.0,
+      "special_price": 9290.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:14"
+    }
+  ]
+}

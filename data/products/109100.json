@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109100",
+    "sku": "S2255CWMHS",
+    "name": "SKMEI 2255 Calculator Style Digital Watch for Men-Gold",
+    "slug": "skmei-2255-calculator-style-digital-watch-for-men-gold",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/2/2/2255-6-4-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1750.0,
+    "special_price": 1349.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:15"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:53"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:40"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:20"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:31"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:50:41"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:52"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:47"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:29"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:00"
+    },
+    {
+      "price": 1750.0,
+      "special_price": 1349.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:41"
+    }
+  ]
+}

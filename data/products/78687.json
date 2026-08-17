@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "78687",
+    "sku": "J95S8000GLO",
+    "name": "A4tech Bloody J95S 8000 CPI 2 Fire RGB Animation Gaming Mouse-Stone Black",
+    "slug": "a4tech-bloody-j95s-gaming-mouse",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/9/j95s--mnhvafds.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2800.0,
+    "special_price": 2400.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:34"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:58"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:33"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:17"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:52"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:40:13"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:53:03"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:38"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:29"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:29"
+    },
+    {
+      "price": 2800.0,
+      "special_price": 2400.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:30:46"
+    }
+  ]
+}

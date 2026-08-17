@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "109599",
+    "sku": "DK1138661WWB",
+    "name": "Daniel Klein Premium Watch For Women (DK.1.13866-1)",
+    "slug": "daniel-klein-premium-watch-for-women-dk-1-13866-1",
+    "category_id": "568",
+    "category_name": "Women's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/k/dk1138661wwb-7-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7000.0,
+    "special_price": 6300.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7000.0,
+      "special_price": 6300.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:43"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 6300.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:10"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 6300.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:08:04"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 6300.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:05:26"
+    },
+    {
+      "price": 7000.0,
+      "special_price": 6300.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:35"
+    }
+  ]
+}

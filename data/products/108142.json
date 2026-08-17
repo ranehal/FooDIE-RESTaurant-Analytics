@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108142",
+    "sku": "CBHT24SKATL",
+    "name": "Choetech TWS Earbuds (BH-T24-SK)",
+    "slug": "choetech-tws-earbuds-bh-t24-sk",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/-/h-t24-sk---26-10-25_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1235.0,
+    "special_price": 1049.0,
+    "discount": 15.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:06"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:49"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:52"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:09"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:01"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:44"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:33:33"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:53"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:38"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:30"
+    },
+    {
+      "price": 1235.0,
+      "special_price": 1049.0,
+      "discount": 15.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:41"
+    }
+  ]
+}

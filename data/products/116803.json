@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116803",
+    "sku": "BM204ANCSGLO",
+    "name": "Boya Mini 2-04 AI Noise Cancellation Super Mini Wireless Microphone (Without Box)",
+    "slug": "boya-mini-2-04-ai-noise-cancellation-super-mini-wireless-microphone-without-box",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/o/boya-mini-2-04.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3550.0,
+    "special_price": 3264.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:42"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:45"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:32"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:48"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:07"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:28:20"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:54"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:55"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:42:31"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:34"
+    },
+    {
+      "price": 3550.0,
+      "special_price": 3264.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:10"
+    }
+  ]
+}

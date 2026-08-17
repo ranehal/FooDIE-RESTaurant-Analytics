@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "75813",
+    "sku": "PNI100DXIZBE",
+    "name": "Panasonic Non-Stick Cordless Dry Iron (NI-100DX)",
+    "slug": "panasonics-ni-100dx-cordless-iron",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/n/_ni-100dx_cordless_iron-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7390.0,
+    "special_price": 5490.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 7390.0,
+      "special_price": 5280.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:55"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5280.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:32"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5280.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:38"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5280.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:06"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5280.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:46"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5280.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:50"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:19"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:15"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:48"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:01"
+    },
+    {
+      "price": 7390.0,
+      "special_price": 5490.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:25"
+    }
+  ]
+}

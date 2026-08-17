@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "88014",
+    "sku": "CAE1300WH8AVAMZ",
+    "name": "Casio AE-1300WH-8AVDF World Time Fiber Belt Men's Watch",
+    "slug": "casio-ae-1300wh-8av-world-time-fiber-belt-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/casio-ae-1300wh-8av.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 4290.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:20"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:46"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:10:05"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:39"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:48:01"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:58:01"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:25"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:33"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:16:06"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:41"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4290.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:59"
+    }
+  ]
+}

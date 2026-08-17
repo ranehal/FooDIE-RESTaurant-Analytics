@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121550",
+    "sku": "MEDL8ADR",
+    "name": "MEMO DLA8 RGB Semiconductor Phone Cooler",
+    "slug": "memo-dla8-semiconductor-phone-cooler-with-rgb-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/e/memo-dla8-2-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1450.0,
+    "special_price": 1130.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:33"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:54"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:29"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:34"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:18"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:21"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:00"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:44"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:15"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:38"
+    },
+    {
+      "price": 1450.0,
+      "special_price": 1130.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:04:54"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "105494",
+    "sku": "MXGS1PNE",
+    "name": "Panasonic 600W Hand Blender (MX-GS1)",
+    "slug": "panasonic-600w-hand-blender-mx-gs1",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/x/mx-gs1-17-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6250.0,
+    "special_price": 4990.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:28:45"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:33:40"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:25:46"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:07"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:34:54"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:12"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:08"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:47"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:02"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:18"
+    },
+    {
+      "price": 6250.0,
+      "special_price": 4990.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:13"
+    }
+  ]
+}

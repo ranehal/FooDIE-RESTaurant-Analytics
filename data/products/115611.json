@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115611",
+    "sku": "PHD494400SHL",
+    "name": "Philips 1000 Series 1500W Induction Cooker (HD4944/00)",
+    "slug": "philips-1000-series-1500w-induction-cooker-hd4944-00",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/d/hd4944-20-1-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8500.0,
+    "special_price": 6590.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:39"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:30"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:50"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:00"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:43"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:46"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:02"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:54"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:28:38"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:59"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6590.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:39"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112126",
+    "sku": "MMC550TFFT",
+    "name": "Miyako 5.5L Multi Cooker (MC-550T)",
+    "slug": "miyako-5-5l-multi-cooker-mc-550t",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/c/mc-550t-10-8-25-1.jpg",
+    "unit": "L",
+    "unit_value": 5.5,
+    "price": 5999.0,
+    "special_price": 4790.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:54"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:50"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:23:58"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:15"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:34"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:28:22"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:15"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:06"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:27"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:48:54"
+    },
+    {
+      "price": 5999.0,
+      "special_price": 4790.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:49"
+    }
+  ]
+}

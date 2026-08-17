@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "118783",
+    "sku": "IAM1000WSNEP",
+    "name": "I-AM 1000W (8 Light, 5 Fan, 1 Smart TV, 1 Refrigerator) Portable Lithium Iron Phosphate (LiFePO4) Battery IPS with UPS Function",
+    "slug": "i-am-1000w-8-light-5-fan-1-smart-tv-1-refrigerator-portable-ips-with-ups-function",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/0/1000w--23-4-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 98340.0,
+    "special_price": 77880.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 98340.0,
+      "special_price": 77880.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:48"
+    },
+    {
+      "price": 98340.0,
+      "special_price": 77880.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:46"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "116481",
+    "sku": "DRS3PGMOV",
+    "name": "DJI RS 3 Pro Gimbal Stabilizer Combo",
+    "slug": "dji-rs-3-pro-gimbal-combo",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/j/dji-rs-3-pro-25-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 106330.0,
+    "special_price": 53449.0,
+    "discount": 50.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:02"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:00"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:48"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:59"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:59:25"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:38:20"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:45"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:46"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:02"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:55"
+    },
+    {
+      "price": 106330.0,
+      "special_price": 53449.0,
+      "discount": 50.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:48"
+    }
+  ]
+}

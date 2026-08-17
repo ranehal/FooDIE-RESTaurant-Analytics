@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110107",
+    "sku": "CFCC01PTC",
+    "name": "CHARG Fast\u00a0Charger\u00a0(C-01)-White",
+    "slug": "charg-fast-charging-adapter-c-01",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/0/c01-19-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 220.0,
+    "special_price": 155.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:09"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:56"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:54"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:10"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:03:53"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:52"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:44"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:07"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:01"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:25"
+    },
+    {
+      "price": 220.0,
+      "special_price": 155.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:28"
+    }
+  ]
+}

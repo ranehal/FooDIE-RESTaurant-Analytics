@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114396",
+    "sku": "VCS60WCSTI",
+    "name": "VOLTME Cazo Speedo 60W PD3.0 GaN Car Charger",
+    "slug": "voltme-cazo-speedo-60w-pd3-0-gan-car-charger",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/a/cazo-speedo-60w-9-12-25-1.jpg",
+    "unit": "g",
+    "unit_value": 3.0,
+    "price": 2500.0,
+    "special_price": 1898.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:10"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:03"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:54"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:08"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:01:13"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:18"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:20"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:36"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:07"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:12"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1898.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:35"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115017",
+    "sku": "T13A5PSSIPK",
+    "name": "Tuya 13A 5 Pin Smart WiFi Socket   (B-35) (W-36)",
+    "slug": "tuya-13a-5-pin-smart-wifi-socket",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/u/tuya-13a-5-pin-4-1-26-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2180.0,
+    "special_price": 2040.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:59"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:49"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:11"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:21"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:30:13"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:53"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:38"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:54"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:00"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:08"
+    },
+    {
+      "price": 2180.0,
+      "special_price": 2040.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:52"
+    }
+  ]
+}

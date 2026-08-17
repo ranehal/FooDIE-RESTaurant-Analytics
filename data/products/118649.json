@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118649",
+    "sku": "UVL119TTZ",
+    "name": "Ulanzi VL119 10W 360\u00b0 RGB Light Wand",
+    "slug": "ulanzi-vl119-10w-360-rgb-light-wand",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/l/vl119-22-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3100.0,
+    "special_price": 2769.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:52"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:50"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:22"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:19"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:43"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:21"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:27:26"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:37"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:55"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:29"
+    },
+    {
+      "price": 3100.0,
+      "special_price": 2769.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:00"
+    }
+  ]
+}

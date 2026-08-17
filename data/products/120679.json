@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120679",
+    "sku": "PA0NTNF2PSHL",
+    "name": "Philips Avent 0m+ Natural Teat Newborn Flow 2 Pack- (SCY962/02)",
+    "slug": "philips-avent-0m-natural-teat-newborn-flow-2-pack",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/a/natural-nipple-0m_9_6_26_1.jpg",
+    "unit": "pack",
+    "unit_value": 2.0,
+    "price": 675.0,
+    "special_price": 650.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:01"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:03"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:18:41"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:17:45"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:25:57"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:13"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:43"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:14"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:01"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:42"
+    },
+    {
+      "price": 675.0,
+      "special_price": 650.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:50"
+    }
+  ]
+}

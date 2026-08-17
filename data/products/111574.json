@@ -1,0 +1,55 @@
+{
+  "product": {
+    "id": "111574",
+    "sku": "SSB1105261WWB",
+    "name": "Santa Barbara Polo & Racquet Club Analog Men\u2019s Watch (SB.1.10526-1)",
+    "slug": "santa-barbara-polo-racquet-club-analog-men-s-watch-sb-1-10526-1",
+    "category_id": "566",
+    "category_name": "Men's Watches",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/b/sb.1.10526-1-13-6-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12300.0,
+    "special_price": 11070.0,
+    "discount": 10.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12300.0,
+      "special_price": 11070.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:50"
+    },
+    {
+      "price": 12300.0,
+      "special_price": 11070.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:27"
+    },
+    {
+      "price": 12300.0,
+      "special_price": 11070.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:38"
+    },
+    {
+      "price": 12300.0,
+      "special_price": 11070.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:08:21"
+    },
+    {
+      "price": 12300.0,
+      "special_price": 11070.0,
+      "discount": 10.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:22:35"
+    }
+  ]
+}

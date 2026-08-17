@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104036",
+    "sku": "COLGTP76FTTZ",
+    "name": "COLMI P76 Bluetooth Calling Smart Watch",
+    "slug": "colmi-p76-bluetooth-calling-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/o/colmi--p76-18-11-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2320.0,
+    "special_price": 1899.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:54:20"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:55"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:49:05"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:24"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:07:58"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:13"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:34:00"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:53:09"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:11"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:28"
+    },
+    {
+      "price": 2320.0,
+      "special_price": 1899.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:03:53"
+    }
+  ]
+}

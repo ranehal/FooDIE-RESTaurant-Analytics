@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "112621",
+    "sku": "V20WUSCAGLO",
+    "name": "Vention 20W US GaN Fast Charging Adapter",
+    "slug": "vention-20w-us-gan-fast-charging-adapter",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/e/vention-20w-us-4-9-25-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 800.0,
+    "special_price": 690.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 800.0,
+      "special_price": 690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:19"
+    },
+    {
+      "price": 800.0,
+      "special_price": 690.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:24"
+    }
+  ]
+}

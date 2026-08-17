@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "115839",
+    "sku": "UUM2827END",
+    "name": "Unimax 7 Inch Rechargeable Mini Fan (UM-2827)",
+    "slug": "unimax-7-inch-rechargeable-mini-fan-um-2827",
+    "category_id": "88",
+    "category_name": "Fan",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/u/m/um-2827-16-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3500.0,
+    "special_price": 1449.0,
+    "discount": 59.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3500.0,
+      "special_price": 1449.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:03:48"
+    },
+    {
+      "price": 3500.0,
+      "special_price": 1449.0,
+      "discount": 59.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:54"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107772",
+    "sku": "S22SSSADWHG",
+    "name": "Skmei 2272 Silicon Strap Sports Analog Digital Men's Watch",
+    "slug": "skmei-2272-silicon-strap-sports-analog-digital-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/k/skmei-2272-9-2-25-3.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:05"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:39"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:05:34"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:17"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:42:32"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:51:44"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:24"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:37:37"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:10:12"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:49"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:25:30"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "104640",
+    "sku": "BK3DUSS10ATL",
+    "name": "Baykron 3D Ultra-Slim Tempered Glass Screen Protector for Samsung S10 Plus",
+    "slug": "baykron-3d-ultra-slim-tempered-glass-screen-protector-for-samsung-s10-plus",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baykron-3d-ultra-slim-tempered-glass-screen-protector-for-samsung-s10-plus-28.8.24-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1299.0,
+    "special_price": 899.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:53:56"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:55:31"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:48:39"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:50:04"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:07:24"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:32:24"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:17"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:16"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:46"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:33"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 899.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:46"
+    }
+  ]
+}

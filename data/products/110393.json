@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110393",
+    "sku": "CCA9011204CNSMT",
+    "name": "Corsair Void RGB Elite USB Premium Gaming Headset (CA-9011204-CN)",
+    "slug": "corsair-void-rgb-elite-usb-premium-gaming-headset-ca-9011204-cn",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/o/void-rgb-27-5-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 14080.0,
+    "special_price": 8090.0,
+    "discount": 43.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:11:05"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:39"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:05:05"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:44"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:29:37"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:37:48"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:50:05"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:26:57"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:54:13"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:00:30"
+    },
+    {
+      "price": 14080.0,
+      "special_price": 8090.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:14:26"
+    }
+  ]
+}

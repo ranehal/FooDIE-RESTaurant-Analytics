@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117264",
+    "sku": "S1000WABNEP",
+    "name": "Super 1000W Air Blower Machine",
+    "slug": "super-1000w-air-blower",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/super-1000w-air-blower-14-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 1300.0,
+    "discount": 48.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1300.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:19"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1300.0,
+      "discount": 48.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:13"
+    }
+  ]
+}

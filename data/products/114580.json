@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114580",
+    "sku": "SSFFTGDX",
+    "name": "Surpass Smart Finder Find Tag (Android+IOS)",
+    "slug": "surpass-smart-finder-find-tag",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/surpass-tag-17-12-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 999.0,
+    "special_price": 627.0,
+    "discount": 37.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:00"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:54"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:43"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:56"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:59"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:21"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:46"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:20:23"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:31"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:21"
+    },
+    {
+      "price": 999.0,
+      "special_price": 627.0,
+      "discount": 37.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:55"
+    }
+  ]
+}

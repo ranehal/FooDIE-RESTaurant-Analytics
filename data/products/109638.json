@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109638",
+    "sku": "TW1810NP01WOG",
+    "name": "Titan Edge Mechanical Black Dial Watch for Men (1810NP01)",
+    "slug": "titan-edge-mechanical-black-dial-watch-for-men-1810np01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/3/3333-16-11-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 430000.0,
+    "special_price": 309000.0,
+    "discount": 28.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:19:51"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:31"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:04:16"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:16:43"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:41:04"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:50:14"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:01:38"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:36:21"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:03:50"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:24"
+    },
+    {
+      "price": 430000.0,
+      "special_price": 309000.0,
+      "discount": 28.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:24:21"
+    }
+  ]
+}

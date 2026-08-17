@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "97041",
+    "sku": "PMJCB800TDSQ",
+    "name": "Panasonic 1000W 2 Jars 3-in-1 Juicer, Blender & Grinder (MJ-CB800)",
+    "slug": "panasonic-mj-cb800-2l-large-capacity-juicer",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/j/mj-cb-800--21.11.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 24500.0,
+    "special_price": 21390.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:36"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:25"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:28"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:53"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:37:03"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:30:51"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:49:22"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:43:46"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:16:25"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:48:39"
+    },
+    {
+      "price": 24500.0,
+      "special_price": 21390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:37"
+    }
+  ]
+}

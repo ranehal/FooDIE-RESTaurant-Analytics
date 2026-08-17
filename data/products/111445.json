@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111445",
+    "sku": "A45WA2692MOV",
+    "name": "Anker Nano 45W GaN US Plug Type-C Charging Adapter (A2692)",
+    "slug": "anker-nano-pro-45w-gan-charging-adapter-a2692",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/n/anker-45w-6-6-26-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2390.0,
+    "special_price": 2099.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 2390.0,
+      "special_price": 1849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:49"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 1849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:36"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 1849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:32"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 1849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:55"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:03:26"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:32"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:40:38"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:53"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:45:50"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:25"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2099.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:28"
+    }
+  ]
+}

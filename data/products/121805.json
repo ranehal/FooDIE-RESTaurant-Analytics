@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121805",
+    "sku": "N55MECBD",
+    "name": "National 5.5L Multifunctional Electric Cooker",
+    "slug": "national-5-5l-multifunctional-electric-cooker",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/c/mc-1-8-26.jpg",
+    "unit": "L",
+    "unit_value": 5.5,
+    "price": 8590.0,
+    "special_price": 6950.0,
+    "discount": 19.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:32"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:42"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:17:15"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:16:18"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:24:13"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:10"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:01"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:31"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:19"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:16"
+    },
+    {
+      "price": 8590.0,
+      "special_price": 6950.0,
+      "discount": 19.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:33"
+    }
+  ]
+}

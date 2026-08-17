@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113673",
+    "sku": "CMTPVD300G1ETTS",
+    "name": "Casio Enticer Analog Watch for Men (MTP-VD300G-1E)",
+    "slug": "casio-enticer-analog-watch-for-men-mtp-vd300g-1e",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-vd300g-1e-10-28-1.jpg",
+    "unit": "g",
+    "unit_value": 300.0,
+    "price": 7539.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:17:32"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:16"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:01:49"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:21"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:16"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:45:58"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:07"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:11"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:59:22"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:06:43"
+    },
+    {
+      "price": 7539.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:57"
+    }
+  ]
+}

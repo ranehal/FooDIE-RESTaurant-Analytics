@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "84329",
+    "sku": "B30WCPCADR",
+    "name": "Baseus 30W Compact Super Quick Triple Port Charger (CCXJ-C01)",
+    "slug": "baseus-30w-compact-super-quick-charger",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-30w-compact-super-quick-triple-port-charger-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1449.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:59:28"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:43"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:54:09"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:40"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:14:15"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 11:01:12"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 22:06:50"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:58:14"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:12:24"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:44:34"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1449.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 21:58:25"
+    }
+  ]
+}

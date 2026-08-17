@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90335",
+    "sku": "VISSBL011RFL",
+    "name": "Vision VIS-SBL-011 3 Jar Crushers Pro Blender",
+    "slug": "vision-vis-sbl-011-crushers-blender",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/i/vis-sbl-011-28-12-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5050.0,
+    "special_price": 4190.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:53"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:33"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:36"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:05"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:27"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:11"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:07"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:25"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:37"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:47"
+    },
+    {
+      "price": 5050.0,
+      "special_price": 4190.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:36"
+    }
+  ]
+}

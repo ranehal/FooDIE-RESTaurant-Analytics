@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "91089",
+    "sku": "CM1800GLO",
+    "name": "Cudy M1800 AX1800 Whole Home Mesh Wi-Fi Router (1 Pack)",
+    "slug": "cudy-m1800-ax1800-whole-home-mesh-wi-fi-router-1-pack",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/u/cudy-m1800-ax1800-whole-home-mesh-wi-fi-router-_1-pack_-base-image.jpg",
+    "unit": "pack",
+    "unit_value": 1.0,
+    "price": 5000.0,
+    "special_price": 4800.0,
+    "discount": 4.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:12"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:38"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:12"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:08:54"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:15"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:12"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:53:16"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:01"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:13"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:51"
+    },
+    {
+      "price": 5000.0,
+      "special_price": 4800.0,
+      "discount": 4.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:17:24"
+    }
+  ]
+}

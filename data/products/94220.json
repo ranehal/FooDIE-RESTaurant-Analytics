@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "94220",
+    "sku": "XMGKPSSB",
+    "name": "Xiaomi Grooming Kit Pro All-in-One Professional Styling Trimmer",
+    "slug": "xiaomi-grooming-kit-pro-all-in-one-styling-trimmer",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-grooming-kit-pro-4.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6999.0,
+    "special_price": 4500.0,
+    "discount": 36.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:24:24"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:52"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:04"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:45"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:46:39"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:24"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:57:08"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:43"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:38"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:37"
+    },
+    {
+      "price": 6999.0,
+      "special_price": 4500.0,
+      "discount": 36.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:02"
+    }
+  ]
+}

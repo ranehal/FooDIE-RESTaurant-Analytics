@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99672",
+    "sku": "BMDUCLADR",
+    "name": "Baseus Magnetic Dimmable Under Cabinet Light-White",
+    "slug": "baseus-magnetic-dimmable-under-cabinet-light-white",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/i/light-11.2.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2200.0,
+    "special_price": 1949.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:19"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:10"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:13"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:38"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:45"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:30:22"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:41"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:43:13"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:15:07"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:48:16"
+    },
+    {
+      "price": 2200.0,
+      "special_price": 1949.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:15:01"
+    }
+  ]
+}

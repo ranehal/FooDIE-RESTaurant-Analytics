@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "119723",
+    "sku": "GPTPS1GZO",
+    "name": "Gazi Submersible Drainage Pump (TPS-1000HD)-1.00HP / 0.75KW",
+    "slug": "gazi-submersible-drainage-pump-tps-1000hd",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/p/tps-1000hd-7-may-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12075.0,
+    "special_price": 10590.0,
+    "discount": 12.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:38"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:36"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:12"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:14"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:32"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:20"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:11"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:31"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:41"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:04"
+    },
+    {
+      "price": 12075.0,
+      "special_price": 10590.0,
+      "discount": 12.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:45"
+    }
+  ]
+}

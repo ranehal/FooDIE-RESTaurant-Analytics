@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118542",
+    "sku": "NLC606CSLX",
+    "name": "Newland NL-C606 - 3MP Indoor PT IPC Camera",
+    "slug": "newland-nl-c606-3mp-indoor-pt-ipc-camera",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/l/nl-c606-4-aug-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3099.0,
+    "special_price": 2599.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:10:29"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:10:06"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:04:27"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:07:01"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:28:45"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:38:49"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:48:24"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:27:00"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:50"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:05"
+    },
+    {
+      "price": 3099.0,
+      "special_price": 2599.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:59"
+    }
+  ]
+}

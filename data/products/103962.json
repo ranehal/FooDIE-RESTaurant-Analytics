@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103962",
+    "sku": "NLCOF7065DSQ",
+    "name": "Saachi 1.5L Coffee Maker (NL-COF-7065)",
+    "slug": "saachi-1-5l-coffee-maker-nl-cof-7065",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/n/l/nl-cof-7065-01.jpg",
+    "unit": "L",
+    "unit_value": 1.5,
+    "price": 18500.0,
+    "special_price": 16390.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:29:11"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:34:05"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:26:06"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:25:33"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:35:19"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:42"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:45"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:11"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:46"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:17"
+    },
+    {
+      "price": 18500.0,
+      "special_price": 16390.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:07"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "109040",
+    "sku": "JF60WSA53ADR",
+    "name": "JOYROOM Fluorescent Series 60W Type-C to Type-C Fast Charging Data Cable (S-A53)",
+    "slug": "joyroom-fluorescent-series-60w-type-c-to-type-c-fast-charging-data-cable-s-a53",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/o/joyroom-s-a53-27-3-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 700.0,
+    "special_price": 579.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:51:45"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:29"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:28"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:47:48"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:36"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:39"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:23"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:51"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:59"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:01"
+    },
+    {
+      "price": 700.0,
+      "special_price": 579.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:09:54"
+    }
+  ]
+}

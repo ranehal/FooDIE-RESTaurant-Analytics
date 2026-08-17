@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "298",
+    "sku": "KM48XGPNE",
+    "name": "KDK Ceiling Fan M48XG",
+    "slug": "kdk-ceiling-fan-m48xg",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/4/m48xg-24-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 10100.0,
+    "special_price": 9390.0,
+    "discount": 7.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:33:31"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:38:06"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:30:09"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:43"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:40:26"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:56"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:00:42"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:46:42"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 07:08:06"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:38"
+    },
+    {
+      "price": 10100.0,
+      "special_price": 9390.0,
+      "discount": 7.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:26"
+    }
+  ]
+}

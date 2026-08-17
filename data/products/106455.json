@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "106455",
+    "sku": "C9052WWWMHS",
+    "name": "CURREN 9052 Quartz Women\u2019s Watch-Silver ",
+    "slug": "curren-9052-waterproof-watch-silver",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/9/0/9052-27-11-24--2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1969.0,
+    "special_price": 1349.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:46"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:19"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:18"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:59"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:20"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:44:53"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:13"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:34:35"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:11:27"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:06:37"
+    },
+    {
+      "price": 1969.0,
+      "special_price": 1349.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:17"
+    }
+  ]
+}

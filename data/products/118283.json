@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "118283",
+    "sku": "Philips Air Purifier AC0917SMB",
+    "name": "Philips Air Purifier AC-0917",
+    "slug": "philips-air-purifier-ac-0917",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/ac-0917-16-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 32900.0,
+    "special_price": 28190.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:08"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:05"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:31"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:18:34"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:26:55"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:15:51"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:13"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:17"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:41"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:16"
+    },
+    {
+      "price": 32900.0,
+      "special_price": 28190.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:32"
+    }
+  ]
+}

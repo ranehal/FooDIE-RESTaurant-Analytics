@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115392",
+    "sku": "HOJA4ADR",
+    "name": "Hoco JA4 AAA Rechargeable Lithium Battery 2PCS-Black",
+    "slug": "hoco-ja4-aaa-rechargeable-lithium-battery-2pcs-black",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/b/fbe64697-c4ce-428f-812d-0805f7ed1116-removebg-preview.png",
+    "unit": "pcs",
+    "unit_value": 2.0,
+    "price": 1000.0,
+    "special_price": 699.0,
+    "discount": 30.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:49"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:39"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:55"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:05"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:54"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:14"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:38"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:43"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:50"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:37"
+    },
+    {
+      "price": 1000.0,
+      "special_price": 699.0,
+      "discount": 30.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:43"
+    }
+  ]
+}

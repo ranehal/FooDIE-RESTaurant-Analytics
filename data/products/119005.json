@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "119005",
+    "sku": "XL141XOO",
+    "name": "XO-L141 EU 20W Fast Charger with Type-C Cable",
+    "slug": "xo-l141-eu-20w-fast-charger-with-type-c-cable",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/l/1/l141-27-april-2026-01.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 755.0,
+    "special_price": 585.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:46:12"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:48:20"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:41:04"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:42:13"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:57:19"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:32:09"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:41"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:57:07"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:43:47"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:13"
+    },
+    {
+      "price": 755.0,
+      "special_price": 585.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:08:43"
+    }
+  ]
+}

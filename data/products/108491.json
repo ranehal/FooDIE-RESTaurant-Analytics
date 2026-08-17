@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108491",
+    "sku": "FFW3270SL04WOG",
+    "name": "Fastrack Fleek Quartz Multifunction Men\u2019s Watch (3270SL04)",
+    "slug": "fastrack-fleek-quartz-multifunction-men-s-watch-3270sl04",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/3/2/3270sl04-5-3-25---2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11000.0,
+    "special_price": 8632.0,
+    "discount": 22.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:20:46"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:22"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:05:16"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:17:58"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:42:09"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:51:19"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:02:15"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:37:23"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:09:37"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:12:26"
+    },
+    {
+      "price": 11000.0,
+      "special_price": 8632.0,
+      "discount": 22.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:25:10"
+    }
+  ]
+}

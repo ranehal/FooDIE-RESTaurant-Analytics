@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96577",
+    "sku": "CMTP1302DAMZ",
+    "name": "Casio Enticer MTP-1302D-1A1VDF Silver Chain Stainless Steel Men\u2019s Watch",
+    "slug": "casio-enticer-mtp-1302d-1a1vdf-silver-chain-stainless-steel-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/t/mtp-1302d-1a1vdf-12-4-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5890.0,
+    "special_price": 5090.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:50"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:22:18"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:27"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:21:08"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:55"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:43"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:17"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:42"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:14:25"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:48"
+    },
+    {
+      "price": 5890.0,
+      "special_price": 5090.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:28:20"
+    }
+  ]
+}

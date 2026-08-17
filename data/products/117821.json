@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "117821",
+    "sku": "JYS2516RNEP",
+    "name": "JY Super 2516 Rechargeable Table Fan",
+    "slug": "jy-super-2516-rechargeable-mini-table-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/u/super-2516-7-6-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3400.0,
+    "special_price": 1190.0,
+    "discount": 65.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3400.0,
+      "special_price": 1190.0,
+      "discount": 65.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:44"
+    },
+    {
+      "price": 3400.0,
+      "special_price": 1190.0,
+      "discount": 65.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:39"
+    }
+  ]
+}

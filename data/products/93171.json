@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "93171",
+    "sku": "EW240TNSMT",
+    "name": "Edifier W240TN Noise Cancellation In-Ear TWS Earbuds",
+    "slug": "edifier-w240tn-noise-cancellation-in-ear-tws-earbuds",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/d/edifier-w240tn-7.9.24-01_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 0.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 0,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:09"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:26"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:52:53"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:54:19"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:12:42"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:31:32"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:19"
+    },
+    {
+      "price": 7899.0,
+      "special_price": 7199.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:22"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-14 05:10:17"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-15 07:48:54"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-16 04:04:36"
+    }
+  ]
+}

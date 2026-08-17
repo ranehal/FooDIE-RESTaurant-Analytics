@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111830",
+    "sku": "GEG520B6GZO",
+    "name": "Gazi Smiss Kitchen Hood (EG-520B6)",
+    "slug": "gazi-smiss-kitchen-hood-eg-520b9",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/g/eg-520b9-27-7-25.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11400.0,
+    "special_price": 9576.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:26:59"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:31:55"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:24:03"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:23:20"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:32:47"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:59"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:11"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:08:31"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:11"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:11"
+    },
+    {
+      "price": 11400.0,
+      "special_price": 9576.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:45"
+    }
+  ]
+}

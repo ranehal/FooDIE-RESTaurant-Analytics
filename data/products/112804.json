@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112804",
+    "sku": "BAPBBLK100PDATL",
+    "name": "Baykron BA-PB-BLK-100-PD 10000mAh  Power Bank (20-004975)",
+    "slug": "baykron-10000mah-2usb-qc3-0-pd-amp-power-bank-ba-pb-blk-100-pd",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baykron-ba-pb-blk-100-pd-15-9-25-2.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3800.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:50:23"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:52:11"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:45:06"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:46:23"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:53"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:44:33"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:38:21"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:21:02"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:44:21"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:52:50"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:23:16"
+    }
+  ]
+}

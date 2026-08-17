@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120842",
+    "sku": "BAEJ60WCADR",
+    "name": "Baseus Enjoyment Pro Retractable USB-C 60W Car Charger",
+    "slug": "baseus-enjoyment-pro-retractable-usb-c-60w-car-charger-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/b/a/baseus-enjoyment-pro-retractable-usb-c-60w-car-charger-4-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1720.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:45:11"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:27"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:40:05"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:16"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:56:08"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:30:45"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:45"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:54:06"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:14"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:39"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1720.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:07:02"
+    }
+  ]
+}

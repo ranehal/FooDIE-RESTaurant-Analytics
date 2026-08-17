@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100093",
+    "sku": "QCGN202GTTZ",
+    "name": "QCY 40W Dual-Port GaN Fast Charger (GN202GB) \u2013White",
+    "slug": "qcy-40w-dual-port-gan-fast-charger-gn202gb-white",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/n/gn202gb--6-6-24.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1299.0,
+    "special_price": 949.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:55:46"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:57:12"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:50:29"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:51:50"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:09:44"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:10"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:42:53"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:56"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:49"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:56:47"
+    },
+    {
+      "price": 1299.0,
+      "special_price": 949.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:11:47"
+    }
+  ]
+}

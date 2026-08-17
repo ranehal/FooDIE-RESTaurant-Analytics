@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122201",
+    "sku": "BP30V2IBPS",
+    "name": "Bluetti\u00a0600W\u00a0Premium 30 V2 Portable IPS (320WH Battery)",
+    "slug": "bluetti-600w-premium-30-v2-portable-ips-320wh-battery",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/r/premium-30-v2-13-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 32500.0,
+    "special_price": 29990.0,
+    "discount": 8.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 32500.0,
+      "special_price": 29990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:30"
+    },
+    {
+      "price": 32500.0,
+      "special_price": 29990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:45"
+    },
+    {
+      "price": 32500.0,
+      "special_price": 29990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:20"
+    },
+    {
+      "price": 32500.0,
+      "special_price": 29990.0,
+      "discount": 8.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:32"
+    }
+  ]
+}

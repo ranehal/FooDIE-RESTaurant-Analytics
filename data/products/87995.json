@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "87995",
+    "sku": "TAT4U1300MTPO",
+    "name": "TP-Link Archer T4U 1300Mbps Dual Band High Gain USB LAN Card",
+    "slug": "tp-link-archer-t4u-1300mbps-dual-band-high-gain-usb-lan-card",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/t/p/tp-link-archer-t4u-1300mbps-dual-band-high-gain-usb-lan-card.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2390.0,
+    "special_price": 2049.0,
+    "discount": 14.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2190.0,
+      "special_price": 2050.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:12:22"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 2050.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:11:47"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 2050.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:06:18"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 2050.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:09:00"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 2050.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:31:30"
+    },
+    {
+      "price": 2190.0,
+      "special_price": 2050.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:41:12"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2049.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:53:30"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2049.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:12"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2049.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:56:13"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2049.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:02:51"
+    },
+    {
+      "price": 2390.0,
+      "special_price": 2049.0,
+      "discount": 14.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:17:31"
+    }
+  ]
+}

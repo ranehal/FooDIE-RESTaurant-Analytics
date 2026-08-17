@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115152",
+    "sku": "PLG18ADR",
+    "name": "Plextone Type-C Wired Gaming Earphone (G18) - Black",
+    "slug": "plextone-g18-type-c-wired-gaming-earphone-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/P/l/Plextone-G18-Type-C-Wired-Gaming-1200x900-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 2000.0,
+    "special_price": 1599.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:48:38"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:50:35"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:43:23"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:44:35"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:00:31"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:27:18"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:12"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:53"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:15"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:29"
+    },
+    {
+      "price": 2000.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:15"
+    }
+  ]
+}

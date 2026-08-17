@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "107469",
+    "sku": "PMG593065GSB",
+    "name": "Philips All in One 13-in-1 Trimmer for Men (MG5930/65)",
+    "slug": "philips-all-in-one-13-in-1-trimmer-for-men-mg5930-65",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/philips-trimmer-13-in-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 7720.0,
+    "special_price": 5940.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:21:14"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:19:48"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:05:43"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:18:27"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:42:43"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:48"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:57"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:32"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:30"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:04"
+    },
+    {
+      "price": 7720.0,
+      "special_price": 5940.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:19:45"
+    }
+  ]
+}

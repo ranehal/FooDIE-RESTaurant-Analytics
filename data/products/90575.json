@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90575",
+    "sku": "BOSCHPBP6BSH",
+    "name": "BOSCH PBP6C5B62M Series 2 60cm Stainless Steel Gas Hob ",
+    "slug": "bosch-pbp6c5b62m-series-2-60cm-stainless-steel-gas-hob",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/b/pbp6c5b62m-24-5-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 58900.0,
+    "special_price": 57722.0,
+    "discount": 2.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:31:53"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:33"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:31"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:05"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:21"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 22:33:00"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:51:53"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 13:46:13"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 12:18:10"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 21:51:08"
+    },
+    {
+      "price": 58900.0,
+      "special_price": 57722.0,
+      "discount": 2.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:17:44"
+    }
+  ]
+}

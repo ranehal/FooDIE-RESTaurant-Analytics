@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108241",
+    "sku": "F30WEU61MOV",
+    "name": "FONENG 30W GaN Charger With 1M Type-C to Type-C Cable (EU61)",
+    "slug": "foneng-30w-gan-charger-with-1m-type-c-to-type-c-cable-eu61",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/_/e/_eu61_-7-2-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1099.0,
+    "special_price": 715.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:01"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:44"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:47"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:03"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:04:55"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:56"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:15"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:13"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:15"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:45"
+    },
+    {
+      "price": 1099.0,
+      "special_price": 715.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:48"
+    }
+  ]
+}

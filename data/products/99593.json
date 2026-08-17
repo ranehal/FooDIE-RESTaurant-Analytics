@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "99593",
+    "sku": "BC1115930011100ATL",
+    "name": "Baseus Super Mini Pro 4000mAh Wireless Car Inflator Pump (C11159300111-00) - Black",
+    "slug": "baseus-super-mini-pro-4000mah-wireless-car-inflator-pump-c11159300111-00-black",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/c/1/c11159300111-00-22.4.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5460.0,
+    "special_price": 4849.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:30:19"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:35:10"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:27:13"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:26:38"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:36:45"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:20:30"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:59"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:39"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:37"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:26"
+    },
+    {
+      "price": 5460.0,
+      "special_price": 4849.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:04"
+    }
+  ]
+}

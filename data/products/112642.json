@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "112642",
+    "sku": "V30WFAKB0UKGLO",
+    "name": "Vention 30W UK GaN Fast Charging Adapter-Black (FAKB0-UK)",
+    "slug": "vention-30w-uk-gan-fast-charging-adapter-black-fakb0-uk",
+    "category_id": "201",
+    "category_name": "Charger & Adapter",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/v/e/vention-30w-uk-4-9-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1350.0,
+    "special_price": 999.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1350.0,
+      "special_price": 999.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:19"
+    },
+    {
+      "price": 1350.0,
+      "special_price": 999.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:24"
+    }
+  ]
+}

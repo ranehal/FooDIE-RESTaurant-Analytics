@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112494",
+    "sku": "PBHD34010MBT",
+    "name": "Philips EssentialCare 3000 Series Hair Dryer (BHD340/10)",
+    "slug": "philips-essentialcare-3000-series-hair-dryer-bhd340-10",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/h/phlips-16-7-25-1.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 4599.0,
+    "special_price": 4095.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:06"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:16:49"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:02:25"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:14:52"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:38:58"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:11"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:58"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:41"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:00:19"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:11:31"
+    },
+    {
+      "price": 4599.0,
+      "special_price": 4095.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:20:58"
+    }
+  ]
+}

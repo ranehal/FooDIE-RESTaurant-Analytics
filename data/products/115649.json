@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115649",
+    "sku": "D15V2400REE",
+    "name": "Doublepow 1.5V 2400mWh Lithium-ion Rechargeable Battery Cell",
+    "slug": "doublepow-1-5v-2400mwh-lithium-ion-rechargeable-battery-cell",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/o/doublepow-1-5v-2400-28-feb-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 450.0,
+    "special_price": 390.0,
+    "discount": 13.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:39"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:30"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:21:46"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:20:55"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:43"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:14"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:35"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:10:34"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:33:10"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:39:25"
+    },
+    {
+      "price": 450.0,
+      "special_price": 390.0,
+      "discount": 13.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:56:34"
+    }
+  ]
+}

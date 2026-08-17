@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "112673",
+    "sku": "FXPROASWSLX",
+    "name": "Fastrack Xtreme Pro 1.43\u201d AMOLED Smart Watch",
+    "slug": "fastrack-xtreme-pro-1-43-amoled-smart-watch",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/f/a/fastrack-xtreme-pro.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8595.0,
+    "special_price": 5799.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 0
+  },
+  "history": [
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-06 20:50:23"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-07 21:52:11"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-08 21:45:06"
+    },
+    {
+      "price": 0.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 0,
+      "scraped_at": "2026-08-09 21:46:23"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:53"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:24:28"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:17"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:51:32"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:08"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:46:22"
+    },
+    {
+      "price": 8595.0,
+      "special_price": 5799.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:40"
+    }
+  ]
+}

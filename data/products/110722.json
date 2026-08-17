@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "110722",
+    "sku": "F6307WM01WOG",
+    "name": "Fastrack Style Up Quartz Analog Stainless Steel Strap Watch for Women (6307WM01)",
+    "slug": "fastrack-style-up-quartz-analog-stainless-steel-strap-watch-for-women-6307wm01",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/6/3/6307wm01-16-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8500.0,
+    "special_price": 6800.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:19:20"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:18:02"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:03:41"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:16:12"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:40:25"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:43:47"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:25"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:32:57"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:06:56"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:05:09"
+    },
+    {
+      "price": 8500.0,
+      "special_price": 6800.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:25:34"
+    }
+  ]
+}

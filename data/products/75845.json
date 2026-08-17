@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "75845",
+    "sku": "H94298HCL",
+    "name": "Havells SUPERMIX 94298 500w 3 in 1 Mixer Grinder",
+    "slug": "havells-supermix-94298-500w-3-in-1-mixer-grinder",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/a/havells-supermix-94298-500w-3-in-1-mixer-grinder1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8480.0,
+    "special_price": 5530.0,
+    "discount": 35.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:55"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:37:32"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:38"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:29:06"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:39:46"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:17"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:29"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:31"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:50"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:35:57"
+    },
+    {
+      "price": 8480.0,
+      "special_price": 5530.0,
+      "discount": 35.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:54:51"
+    }
+  ]
+}

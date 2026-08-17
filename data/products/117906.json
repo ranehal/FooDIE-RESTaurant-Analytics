@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117906",
+    "sku": "QK6272FAEP",
+    "name": "Qulik Q-K6272 48\" Remote Control Chandelier Ceiling Fan",
+    "slug": "qulik-q-k6272-48-remote-control-chandelier-ceiling-fan",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/q/-/q-k6272-5-april-2026.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 36875.0,
+    "special_price": 29500.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:33"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:29"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:19:56"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:19:00"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:26"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:17:50"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:58"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:09:38"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:31:46"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:58"
+    },
+    {
+      "price": 36875.0,
+      "special_price": 29500.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:53"
+    }
+  ]
+}

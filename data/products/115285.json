@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115285",
+    "sku": "GSGMC3LGZO",
+    "name": "Gazi Smiss GMC-3L 1000W Multi Cooker",
+    "slug": "gazi-smiss-gmc-3l-1000w-multi-cooker",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/g/a/gazi-smiss-1-13-2026-1_2.jpg",
+    "unit": "L",
+    "unit_value": 3.0,
+    "price": 6000.0,
+    "special_price": 4990.0,
+    "discount": 17.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:24:49"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:29:39"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:01"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:10"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:29:54"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:14:46"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:23:30"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:06:09"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:29:00"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:36:09"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 4990.0,
+      "discount": 17.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:52:38"
+    }
+  ]
+}

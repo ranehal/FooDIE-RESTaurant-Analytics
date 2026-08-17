@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122249",
+    "sku": "VX16EDLG",
+    "name": "Vigo\u00a02000W Induction Cooker (RE-VIG-XI-1601-Eco)",
+    "slug": "vigo-2000w-induction-cooker-re-vig-xi-1601-eco",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/r/e/re-vig-xi-1601-eco-15-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 3750.0,
+    "special_price": 3090.0,
+    "discount": 18.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3750.0,
+      "special_price": 3090.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 17:58:54"
+    },
+    {
+      "price": 3750.0,
+      "special_price": 3090.0,
+      "discount": 18.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "98339",
+    "sku": "CAE1200WH1BVDFAMZ",
+    "name": "Casio AE-1200WH-1BVDF Youth World Time Digital Resin Belt Men\u2019s Watch ",
+    "slug": "casio-ae-1200wh-1bvdf-mens-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/e/ae-1200wh-1bvdf-31.12.23..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 4990.0,
+    "special_price": 4210.0,
+    "discount": 16.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:23:27"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:21:57"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:08:04"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:20:46"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:45:26"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:55:15"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:04:04"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:40:17"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:13:57"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:15:16"
+    },
+    {
+      "price": 4990.0,
+      "special_price": 4210.0,
+      "discount": 16.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:27:53"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "116928",
+    "sku": "MMTSG147NEP",
+    "name": "Many 2 Pin 4 Port Extension Socket (Multiplug)| MTS- G147",
+    "slug": "many-2-pin-4-port-extension-socket-multiplug-mts-g147",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/4/147-5-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1370.0,
+    "special_price": 780.0,
+    "discount": 43.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1370.0,
+      "special_price": 780.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:23:48"
+    },
+    {
+      "price": 1370.0,
+      "special_price": 780.0,
+      "discount": 43.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:28:41"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "103105",
+    "sku": "CGSDW5600E1VDAMZ",
+    "name": "Casio G-Shock DW-5600UE-1DR Digital Men\u2019s Watch ",
+    "slug": "casio-g-shock-dw-5600e-1vd-digital-men-s-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/d/w/dw-5600e-1vd-8.6.24..jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 12990.0,
+    "special_price": 9890.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:22:16"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:20:49"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:06:50"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:19:31"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:43:58"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:53:17"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:03:10"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:38:51"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:12:27"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:13:58"
+    },
+    {
+      "price": 12990.0,
+      "special_price": 9890.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:26:38"
+    }
+  ]
+}

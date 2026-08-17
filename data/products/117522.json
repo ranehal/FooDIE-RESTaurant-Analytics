@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117522",
+    "sku": "SSRSXP500STB",
+    "name": "Sony X-Series Portable Wireless Bluetooth Karaoke Party Speaker (SRS-XP500)",
+    "slug": "sony-x-series-portable-wireless-bluetooth-karaoke-party-speaker-srs-xp500",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/r/srs-xp500-25-3-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 57900.0,
+    "special_price": 38910.0,
+    "discount": 33.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:47:10"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:49:12"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:42:01"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:43:16"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:58:34"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:24"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:36:25"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:17:38"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:41:21"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:49:52"
+    },
+    {
+      "price": 57900.0,
+      "special_price": 38910.0,
+      "discount": 33.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:05:39"
+    }
+  ]
+}

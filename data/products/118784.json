@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "118784",
+    "sku": "IAM2000WSNEP",
+    "name": "I-AM 2000W (20 Light, 14 Fan, 2 Smart TV, 1 Refrigerator) Portable Lithium Iron Phosphate (LiFePO4) Battery IPS with UPS Function",
+    "slug": "i-am-2000w-20-light-14-fan-2-smart-tv-1-refrigerator-portable-ips-with-ups-function",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/i/-/i-am-2000w-23-4-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 142900.0,
+    "special_price": 101840.0,
+    "discount": 29.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 142900.0,
+      "special_price": 101840.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:21:48"
+    },
+    {
+      "price": 142900.0,
+      "special_price": 101840.0,
+      "discount": 29.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:26:46"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121528",
+    "sku": "HOEQ34PLADR",
+    "name": "Hoco EQ34 Plus TWS Earbuds- Black",
+    "slug": "hoco-eq34-plus-true-wireless-earbuds-black",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/e/q/eq34-plus-02-500x500-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1200.0,
+    "special_price": 950.0,
+    "discount": 21.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:33"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:46:54"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:29"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:40:39"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:25"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:25:55"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:05"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:32"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:37:33"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:07"
+    },
+    {
+      "price": 1200.0,
+      "special_price": 950.0,
+      "discount": 21.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:04"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "108132",
+    "sku": "CCAPD5010V2EUWHATL",
+    "name": "Choetech 20W Type-C PD Fast Charging Adapter (PD5010-V2-EU-WH)",
+    "slug": "choetech-usb-type-c-pd-20w-charging-adapter-pd5010-v2-eu-wh",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/p/d/pd5010-v2-eu-wh-19-2-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 980.0,
+    "special_price": 949.0,
+    "discount": 3.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:52:06"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:53:49"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:46:52"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:48:09"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:05:01"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:34:00"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:41:38"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:58:21"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:46:21"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:45"
+    },
+    {
+      "price": 980.0,
+      "special_price": 949.0,
+      "discount": 3.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:10:48"
+    }
+  ]
+}

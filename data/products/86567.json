@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "86567",
+    "sku": "HEPP50JDSQ",
+    "name": "Hitachi EP-P50J Air Purifier",
+    "slug": "hitachi-ep-p50j-air-purifier",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/h/e/hepp50jtrt-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 46500.0,
+    "special_price": 42490.0,
+    "discount": 9.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:19"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:58"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:29:01"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:31"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:58"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:16:05"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:24:30"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:07:55"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:30:51"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:37:32"
+    },
+    {
+      "price": 46500.0,
+      "special_price": 42490.0,
+      "discount": 9.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:53:47"
+    }
+  ]
+}

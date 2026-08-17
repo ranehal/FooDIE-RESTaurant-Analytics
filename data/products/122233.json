@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122233",
+    "sku": "C14IRTFDLG",
+    "name": "Click 14 Inch Rechargeable Table Fan with USB Charging-Blue",
+    "slug": "click-14-inch-rechargeable-table-fan-with-usb-charging-blue",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/1/4/14-inch-fan-15-aug-2026-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 5250.0,
+    "special_price": 4940.0,
+    "discount": 6.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 5250.0,
+      "special_price": 4940.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 17:58:54"
+    },
+    {
+      "price": 5250.0,
+      "special_price": 4940.0,
+      "discount": 6.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:23"
+    }
+  ]
+}

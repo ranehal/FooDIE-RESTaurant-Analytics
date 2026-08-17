@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90951",
+    "sku": "O5563SGLWHG",
+    "name": "Olevs 5563G Stainless Steel Men's Watch\u2013Gold & Silver",
+    "slug": "olevs-5563sgl-men-s-quartz-watch",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/5/5/5563sgl.jpg",
+    "unit": "g",
+    "unit_value": 5563.0,
+    "price": 1999.0,
+    "special_price": 1599.0,
+    "discount": 20.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:25:02"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:23:29"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:09:46"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:22:26"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:47:38"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:57:37"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 00:05:11"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:42:11"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:15:46"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:17:19"
+    },
+    {
+      "price": 1999.0,
+      "special_price": 1599.0,
+      "discount": 20.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:29:40"
+    }
+  ]
+}

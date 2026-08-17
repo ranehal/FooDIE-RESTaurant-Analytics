@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114477",
+    "sku": "ACISWSGJ057ACI",
+    "name": "ACI Smart Weight Scale Grove CLASSIC -30Kg",
+    "slug": "aci-smart-weight-scale-grove-classic-30-kg",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/0/j057-14-12-25.jpg",
+    "unit": "kg",
+    "unit_value": 30.0,
+    "price": 4940.0,
+    "special_price": 2700.0,
+    "discount": 45.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:25:40"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:30:32"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:22:45"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:21:57"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:31:06"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:19:44"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:26:59"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:11:39"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:37"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:40:26"
+    },
+    {
+      "price": 4940.0,
+      "special_price": 2700.0,
+      "discount": 45.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:57:04"
+    }
+  ]
+}

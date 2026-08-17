@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "96146",
+    "sku": "XXC02T10WAJW",
+    "name": "Xpert XC02T 10W Dual USB Fast Charging Adapter",
+    "slug": "xpert-xc02t-10w-dual-usb-fast-charging-adapter",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/c/xc02t-11.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 599.0,
+    "special_price": 449.0,
+    "discount": 25.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:57:43"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:59:01"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:52:27"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:53:57"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:12:17"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:35:43"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:47"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:59:06"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:47:38"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:08"
+    },
+    {
+      "price": 599.0,
+      "special_price": 449.0,
+      "discount": 25.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:09"
+    }
+  ]
+}

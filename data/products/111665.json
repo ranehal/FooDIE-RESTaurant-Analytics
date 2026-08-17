@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "111665",
+    "sku": "CAQS820W5AVWEC",
+    "name": "Casio Standard Watch for Men (AQ-S820W-5AV)",
+    "slug": "casio-standard-watch-for-men-aq-s820w-5av",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/q/aq-s820w-5av-17-7-25-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 8249.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:18:20"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:17:02"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:02:39"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:15:11"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:39:14"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:47:33"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:58:50"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:33:17"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 05:01:25"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:07:53"
+    },
+    {
+      "price": 8249.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:22:27"
+    }
+  ]
+}

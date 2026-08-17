@@ -1,0 +1,34 @@
+{
+  "product": {
+    "id": "122219",
+    "sku": "DS2CD1323G0EIBEA",
+    "name": "Hikvision DS-2CD1323G0E-I 2MP Basic IR Mini Dome IP-Camera",
+    "slug": "hikvision-ds-2cd1323g0e-i-2mp-basic-ir-mini-dome-ip-camera",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/h/i/hikvision-ds-2cd1323g0e-i-2mp-basic-ir-mini-dome-ip-camera-8-15-26-1.jpg",
+    "unit": "g",
+    "unit_value": 1323.0,
+    "price": 3800.0,
+    "special_price": 0.0,
+    "discount": 0.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:57:51"
+    },
+    {
+      "price": 3800.0,
+      "special_price": 0.0,
+      "discount": 0.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}

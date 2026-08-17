@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "114966",
+    "sku": "TW3PSWPPMIPK",
+    "name": "Tuya 3500W 3 Pin Smart WiFi Plug with Power\u00a0Monitor (IP270)",
+    "slug": "tuya-3500w-3-pin-smart-wifi-plug-with-power-monitor",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/w/i/wifi-smart-3-pin-1-1-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 2500.0,
+    "special_price": 1190.0,
+    "discount": 52.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:18:43"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:23:59"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:30"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:15:25"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:14"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:21"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:21:48"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:04:49"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:04"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:33:30"
+    },
+    {
+      "price": 2500.0,
+      "special_price": 1190.0,
+      "discount": 52.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:50:39"
+    }
+  ]
+}

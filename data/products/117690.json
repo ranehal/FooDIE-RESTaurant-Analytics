@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "117690",
+    "sku": "ACISCVN506MACI",
+    "name": "ACI Smart Concrete Vibrator Nozzle (50X6m)",
+    "slug": "aci-smart-concrete-vibrator-nozzle-50x6m",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/aci-smart-concrete-vibrator-nozzle-3-30-26-1_1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 6690.0,
+    "special_price": 4890.0,
+    "discount": 27.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:22:59"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:27:54"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:20:18"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:19:20"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:27:50"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:18:08"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:25:50"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:09:40"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:32:46"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:38:43"
+    },
+    {
+      "price": 6690.0,
+      "special_price": 4890.0,
+      "discount": 27.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:55:51"
+    }
+  ]
+}

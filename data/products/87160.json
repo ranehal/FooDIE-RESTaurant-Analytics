@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "87160",
+    "sku": "XMIKLCZTC",
+    "name": "Xiaomi Lemo Kaco LCD Smart Desktop Electronic Calculator\u2013White",
+    "slug": "xiaomi-kaco-lemo-calculator-white",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/x/i/xiaomi-kaco-lemo-calculator-_-white-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1440.0,
+    "special_price": 1099.0,
+    "discount": 24.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:32:14"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:36:53"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:28:56"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:28:31"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:38:52"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 21:29:00"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:28:37"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:12:27"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:34:46"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 18:06:10"
+    },
+    {
+      "price": 1440.0,
+      "special_price": 1099.0,
+      "discount": 24.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:58:16"
+    }
+  ]
+}

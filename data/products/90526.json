@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "90526",
+    "sku": "AGTS4MZTC",
+    "name": "Amazfit GTS 4 Mini Smart Watch Screen Protector",
+    "slug": "amazfit-gts-4-mini-smart-watch-screen-protector",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/m/amazfit-gts-4-mini.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 120.0,
+    "special_price": 65.0,
+    "discount": 46.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:58:51"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:00:04"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:53:33"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:55:07"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:13:39"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 11:00:33"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:32:40"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 12:54:39"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:39:43"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:47:54"
+    },
+    {
+      "price": 120.0,
+      "special_price": 65.0,
+      "discount": 46.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 06:20:33"
+    }
+  ]
+}

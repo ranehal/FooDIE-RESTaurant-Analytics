@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "113542",
+    "sku": "ACD56ADR",
+    "name": "Acefast D56 Magnetic Universal Car Mount Holder ",
+    "slug": "acefast-d56-magnetic-car-mount",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/a/c/acefast-d56-one-key-lock-car-holder-for-air-vent-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1100.0,
+    "special_price": 849.0,
+    "discount": 23.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:49:56"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:51:47"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:44:40"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:45:57"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:02:19"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:33:30"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:43:47"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:22:49"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:49:59"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:55:59"
+    },
+    {
+      "price": 1100.0,
+      "special_price": 849.0,
+      "discount": 23.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:12:03"
+    }
+  ]
+}

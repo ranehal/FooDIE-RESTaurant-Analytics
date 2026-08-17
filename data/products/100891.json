@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "100891",
+    "sku": "SRW18GDBL",
+    "name": "Panasonic 1.8L Rice Cooker (SR-W18G)",
+    "slug": "panasonic-1-8l-rice-cooker-sr-w18g",
+    "category_id": "7",
+    "category_name": "Electronics & Appliances",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/s/r/sr-w18g-red-29-4-25.jpg",
+    "unit": "L",
+    "unit_value": 1.8,
+    "price": 6000.0,
+    "special_price": 3990.0,
+    "discount": 34.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:19:01"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:24:13"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:16:45"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:15:42"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:23:32"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:13:41"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:22:35"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:05:15"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:27:38"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:34:01"
+    },
+    {
+      "price": 6000.0,
+      "special_price": 3990.0,
+      "discount": 34.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 03:51:09"
+    }
+  ]
+}

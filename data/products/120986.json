@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "120986",
+    "sku": "MCCGQ02ADR",
+    "name": "Xiaomi Door & Window Sensor 2 (MCCGQ02HL) - White",
+    "slug": "xiaomi-door-and-window-sensor-2-mccgq02hl",
+    "category_id": "197",
+    "category_name": "Mobile Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/i/mi-door-and-window-sensor-2-700x700-removebg-preview.png",
+    "unit": null,
+    "unit_value": null,
+    "price": 1800.0,
+    "special_price": 1600.0,
+    "discount": 11.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 20:44:55"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 21:47:13"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 21:39:50"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 21:41:00"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 18:55:51"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:29:39"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:35:19"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:19:53"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:40:45"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:50:05"
+    },
+    {
+      "price": 1800.0,
+      "special_price": 1600.0,
+      "discount": 11.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:06:08"
+    }
+  ]
+}

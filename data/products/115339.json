@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "115339",
+    "sku": "KKM1741SSB",
+    "name": "Kemei Rechargeable Beard & Hair Trimmer For Men (KM-1741)",
+    "slug": "kemei-km-1741-rechargeable-beard-hair-clipper",
+    "category_id": "1837",
+    "category_name": "Lifestyle",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/k/e/kemei-trimmer-14-jan-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 1699.0,
+    "special_price": 1250.0,
+    "discount": 26.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:16:43"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:15:30"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 00:00:54"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:13:32"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:37:09"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:46:41"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:56:49"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:31:20"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:58:26"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 08:07:57"
+    },
+    {
+      "price": 1699.0,
+      "special_price": 1250.0,
+      "discount": 26.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:19:33"
+    }
+  ]
+}

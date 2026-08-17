@@ -1,0 +1,48 @@
+{
+  "product": {
+    "id": "122191",
+    "sku": "J245NCTWEGSB",
+    "name": "JBL Tune 245NC True Wireless ANC Earbuds",
+    "slug": "jbl-tune-245nc-true-wireless-anc-earbuds",
+    "category_id": "2057",
+    "category_name": "True Wireless Earbuds",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/j/b/jbl-tune-245nc-13-8-26-1.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 11170.0,
+    "special_price": 7700.0,
+    "discount": 31.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 11170.0,
+      "special_price": 7700.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:16:32"
+    },
+    {
+      "price": 11170.0,
+      "special_price": 7700.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:37:33"
+    },
+    {
+      "price": 11170.0,
+      "special_price": 7700.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:45:07"
+    },
+    {
+      "price": 11170.0,
+      "special_price": 7700.0,
+      "discount": 31.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:02:04"
+    }
+  ]
+}

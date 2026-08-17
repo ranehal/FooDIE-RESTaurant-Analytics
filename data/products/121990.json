@@ -1,0 +1,97 @@
+{
+  "product": {
+    "id": "121990",
+    "sku": "XG27ACMESGLO",
+    "name": "ASUS ROG Strix 27 Inch QHD 255Hz Type-C Fast IPS Gaming Monitor (XG27ACMES)",
+    "slug": "asus-rog-strix-27-inch-qhd-255hz-type-c-fast-ips-gaming-monitor-xg27acmes",
+    "category_id": "20",
+    "category_name": "Computer Accessories",
+    "product_img": "https://storage.googleapis.com/pickaboo-prod/media/catalog/product/cache/948612736c72ae3709677d5981c43a49/m/1/m13-6-8-26.jpg",
+    "unit": null,
+    "unit_value": null,
+    "price": 46000.0,
+    "special_price": 45500.0,
+    "discount": 1.0,
+    "stock_available": 1,
+    "is_atl": 1
+  },
+  "history": [
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-06 21:09:53"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-07 22:09:36"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-08 22:03:49"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-09 22:06:22"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-10 19:27:52"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-11 10:36:03"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-12 21:46:00"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-13 11:24:23"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-14 04:52:11"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-15 07:58:32"
+    },
+    {
+      "price": 46000.0,
+      "special_price": 45500.0,
+      "discount": 1.0,
+      "stock_available": 1,
+      "scraped_at": "2026-08-16 04:13:04"
+    }
+  ]
+}
