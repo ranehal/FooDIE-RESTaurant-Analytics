@@ -2104,7 +2104,7 @@
       "slug": "regular-alu",
       "sku": "oAGHBm9E",
       "category_id": "4",
-      "category": null,
+      "category": "Fresh Vegetables",
       "unit": "KG",
       "volume": "50",
       "image": "https://sharedealnow.com/storage/1022/WhatsApp-Image-2026-08-16-at-3.10.37-PM.jpg",
@@ -2772,8 +2772,8 @@
     },
     "487": {
       "id": 487,
-      "name": "ACI Nutrilife Brown Flour (Atta)",
-      "slug": "aci-nutrilife-brown-flour-atta",
+      "name": "ACI Nutrilife Brown Flour (Atta) 2KG",
+      "slug": "aci-nutrilife-brown-flour-atta-2kg",
       "sku": "Bn4yCuxT",
       "category_id": "5",
       "category": "Cooking",
@@ -5099,10 +5099,10 @@
       "name": "রমজান ফ্যামিলি কম্বো",
       "slug": "rmjan-fzamili-kmbo",
       "sku": "ds7jWMAE",
-      "category_id": "32",
-      "category": "বাজার ধামাকা অফার",
+      "category_id": "23",
+      "category": "Snacks",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/630/Creative_04_optimized_1000.png",
       "best_selling": "0",
       "history": [
@@ -7092,7 +7092,7 @@
           "price": 985.0,
           "offer": 980.0,
           "group": 950.0,
-          "stock": 100.0
+          "stock": 99.0
         }
       ]
     },
@@ -7876,7 +7876,7 @@
           "price": 45.0,
           "offer": 42.0,
           "group": null,
-          "stock": 100.0
+          "stock": 97.0
         }
       ]
     },
@@ -8053,10 +8053,10 @@
       "name": "ACI Savlon Liquid Antiseptic 1000 ml",
       "slug": "aci-savlon-liquid-antiseptic-1000-ml",
       "sku": "ns77EFsO",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Home & Cleaning",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/444/aci-savlon-liquid-antiseptic-1000-ml.jpg",
       "best_selling": "0",
       "history": [
@@ -8165,10 +8165,10 @@
       "name": "ACI Aerosol Insect Spray 475ml",
       "slug": "aci-aerosol-insect-spray-475ml",
       "sku": "Zd9ABPcW",
-      "category_id": "6",
-      "category": null,
+      "category_id": "22",
+      "category": "Home & Cleaning",
       "unit": "Piece",
-      "volume": null,
+      "volume": "1",
       "image": "https://sharedealnow.com/storage/439/iEvxAjChaTjuXthxgsk1vSwtoAZpogl3FjT8hXbc.jpeg",
       "best_selling": "0",
       "history": [
@@ -9612,7 +9612,7 @@
           "price": 75.0,
           "offer": 67.0,
           "group": null,
-          "stock": 100.0
+          "stock": 99.0
         }
       ]
     },
@@ -13626,7 +13626,7 @@
       "slug": "savlon-twinkle-baby-pant-diaper-l-8-15kg-34-pieces",
       "sku": "ED2ftSPU",
       "category_id": "17",
-      "category": null,
+      "category": "Baby & Children Care",
       "unit": "Piece",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/1042/Max_a_give_me_product_desg-%2815%29.jpg",
