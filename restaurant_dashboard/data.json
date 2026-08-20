@@ -44702,7 +44702,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-21T02:00:00Z",
+          "openAt": "2026-08-22T02:00:00Z",
           "distance": 1.1798304379151265,
           "deliveryTime": 15,
           "totalDeliveryTime": 15,
@@ -88630,10 +88630,10 @@
           "isPopular": false,
           "isTakePreOrder": true,
           "deliveryCharge": 39,
-          "rating": 2.6666667,
-          "ratingCount": 15,
-          "averageReviewCount": 2.6666667461395264,
-          "totalReviewCount": 15,
+          "rating": 2.8125,
+          "ratingCount": 16,
+          "averageReviewCount": 2.8125,
+          "totalReviewCount": 16,
           "priceRange": "৳৳",
           "location": {
             "latitude": 23.76116826149037,
@@ -139677,7 +139677,7 @@
           "deliveryCharge": 57,
           "rating": 3.877905368804931,
           "ratingCount": 2367,
-          "averageReviewCount": 3.877905368804931,
+          "averageReviewCount": 3.8779053688049316,
           "totalReviewCount": 2367,
           "priceRange": "৳৳",
           "location": {
@@ -196324,10 +196324,10 @@
           "isPopular": false,
           "isTakePreOrder": true,
           "deliveryCharge": 39,
-          "rating": 2.6666667,
-          "ratingCount": 15,
-          "averageReviewCount": 2.6666667461395264,
-          "totalReviewCount": 15,
+          "rating": 2.8125,
+          "ratingCount": 16,
+          "averageReviewCount": 2.8125,
+          "totalReviewCount": 16,
           "priceRange": "৳৳",
           "location": {
             "latitude": 23.76116826149037,
@@ -281487,7 +281487,7 @@
           "image": "/restaurant-service/Bangali-Bhorta-Ghor-Logo-PNG-1d79-20251221083344784.png",
           "coverImage": "/restaurant-service/1000059394-7260-20250905082423450.jpg",
           "primaryCuisine": "Bengali",
-          "openAt": "2026-08-21T02:00:00Z",
+          "openAt": "2026-08-22T02:00:00Z",
           "distance": 1.4868074137607907,
           "deliveryTime": 15,
           "totalDeliveryTime": 23.920844482564746,
@@ -281965,9 +281965,12 @@
               "name": "Curry",
               "priorityNumber": 2,
               "menuIds": [
+                872234,
                 872230,
                 872229,
-                872228
+                872228,
+                872235,
+                872231
               ]
             },
             {
@@ -281975,6 +281978,7 @@
               "name": "Sides",
               "priorityNumber": 3,
               "menuIds": [
+                872241,
                 872242
               ]
             },
@@ -282002,12 +282006,27 @@
               "priorityNumber": 7,
               "menuIds": [
                 872343,
+                872347,
                 872349,
                 872345
               ]
             }
           ],
           "menus": {
+            "872241": {
+              "id": 872241,
+              "name": "Egg Omelette",
+              "price": "30",
+              "oldPrice": "40",
+              "hasVariation": 0,
+              "image": "",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "872294": {
               "id": 872294,
               "name": "Mola Shutki Bhorta",
@@ -282106,6 +282125,20 @@
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
             },
+            "872234": {
+              "id": 872234,
+              "name": "Chepa Shutki Bhuna",
+              "price": "52.5",
+              "oldPrice": "70",
+              "hasVariation": 0,
+              "image": "",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
             "872303": {
               "id": 872303,
               "name": "Aloo Tomato Mixed Bhorta",
@@ -282130,6 +282163,20 @@
               "bannerImage": null,
               "isPopular": false,
               "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "872347": {
+              "id": 872347,
+              "name": "Budget Belly",
+              "price": "135",
+              "oldPrice": "180",
+              "hasVariation": 0,
+              "image": "",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": "1:1 consists of plain rice with broiler chicken bhuna & plain daal",
               "variationIds": [],
               "addOnCategoryIds": [],
               "variationOtherInfo": {}
@@ -282251,6 +282298,34 @@
               "name": "Egg Bhuna",
               "price": "37.5",
               "oldPrice": "50",
+              "hasVariation": 0,
+              "image": "",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "872235": {
+              "id": 872235,
+              "name": "Loitta Shutki Bhuna",
+              "price": "52.5",
+              "oldPrice": "70",
+              "hasVariation": 0,
+              "image": "",
+              "bannerImage": null,
+              "isPopular": false,
+              "description": null,
+              "variationIds": [],
+              "addOnCategoryIds": [],
+              "variationOtherInfo": {}
+            },
+            "872231": {
+              "id": 872231,
+              "name": "Broiler Chicken Curry",
+              "price": "105",
+              "oldPrice": "140",
               "hasVariation": 0,
               "image": "",
               "bannerImage": null,
@@ -352043,6 +352118,6 @@
     }
   ],
   "totalRestaurants": 336,
-  "totalDishes": 13531,
-  "scrapedAt": "2026-08-20T19:30:23.200320+00:00"
+  "totalDishes": 13536,
+  "scrapedAt": "2026-08-20T21:12:40.586612+00:00"
 }
