@@ -400,23 +400,87 @@ def main():
     for wc in _worker_clients:
         wc.close()
 
+    if total_restaurants == 0:
+        print("\n[WARN] 0 restaurants scraped. Keeping existing dataset to avoid data loss.")
+        return
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+    today_str = datetime.now().strftime("%Y-%m-%d")
+
+    # Merge with existing historical data
+    merged_locations = merge_dish_histories(output_locations, now_iso, today_str)
+
     output = {
-        "locations": output_locations,
-        "totalRestaurants": total_restaurants,
-        "totalDishes": total_dishes,
-        "scrapedAt": datetime.now(timezone.utc).isoformat(),
+        "locations": merged_locations,
+        "totalRestaurants": sum(len(l["restaurants"]) for l in merged_locations),
+        "totalDishes": sum(len(r.get("menus", {})) for l in merged_locations for r in l["restaurants"]),
+        "scrapedAt": now_iso,
     }
 
     with open(DATA_FILE, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
+    # Save daily history snapshot
+    hist_dir = os.path.join(DATA_DIR, "history")
+    os.makedirs(hist_dir, exist_ok=True)
+    snapshot_file = os.path.join(hist_dir, f"foodie_restaurants_{today_str}.json")
+    with open(snapshot_file, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False)
+    print(f"  Saved snapshot: {snapshot_file}")
+
     print(f"\n{'=' * 60}")
     print(f"  DONE")
-    print(f"  Restaurants: {total_restaurants}")
-    print(f"  Dishes:      {total_dishes}")
+    print(f"  Restaurants: {output['totalRestaurants']}")
+    print(f"  Dishes:      {output['totalDishes']}")
     print(f"  File:        {DATA_FILE}")
     print(f"  Size:        {os.path.getsize(DATA_FILE) / 1024:.0f} KB")
     print(f"{'=' * 60}")
+
+
+def merge_dish_histories(new_locations, now_iso, today_str):
+    existing_dish_hist = {}
+    if os.path.exists(DATA_FILE):
+        try:
+            with open(DATA_FILE, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+                for loc in old_data.get("locations", []):
+                    for rest in loc.get("restaurants", []):
+                        rid = str(rest.get("id"))
+                        for did, menu in rest.get("menus", {}).items():
+                            key = f"{rid}:{did}"
+                            hist = menu.get("price_history") or menu.get("history") or []
+                            if isinstance(hist, list):
+                                existing_dish_hist[key] = [h for h in hist if isinstance(h, dict)]
+        except Exception as e:
+            print(f"  [WARN] Failed to load previous dish history: {e}")
+
+    for loc in new_locations:
+        for rest in loc.get("restaurants", []):
+            rid = str(rest.get("id"))
+            for did, menu in rest.get("menus", {}).items():
+                key = f"{rid}:{did}"
+                hist = list(existing_dish_hist.get(key, []))
+                try:
+                    curr_price = float(menu.get("price", 0))
+                except (ValueError, TypeError):
+                    curr_price = 0
+                try:
+                    old_price = float(menu.get("oldPrice", curr_price) or curr_price)
+                except (ValueError, TypeError):
+                    old_price = curr_price
+
+                # Remove any existing entry for today and append latest
+                hist = [h for h in hist if h.get("date") != today_str and str(h.get("date"))[:10] != today_str]
+                if curr_price > 0:
+                    hist.append({
+                        "date": today_str,
+                        "timestamp": now_iso,
+                        "price": curr_price,
+                        "oldPrice": old_price
+                    })
+                menu["price_history"] = hist
+
+    return new_locations
 
 
 def _save(locations):
