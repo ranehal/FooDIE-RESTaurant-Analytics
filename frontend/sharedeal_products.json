@@ -2773,7 +2773,7 @@
           "price": 99.0,
           "offer": 85.0,
           "group": 65.0,
-          "stock": 25.0
+          "stock": 23.0
         }
       ]
     },
@@ -3455,7 +3455,7 @@
       "slug": "mashkolai-dal-maskalai-dal-per-kg",
       "sku": "wCoRNUa3",
       "category_id": "5",
-      "category": null,
+      "category": "Cooking",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/533/Mashkolai-Dal-%28%E0%A6%AE%E0%A6%BE%E0%A6%B8%E0%A6%95%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%87-%E0%A6%A1%E0%A6%BE%E0%A6%B2%29-Per-KG.png",
