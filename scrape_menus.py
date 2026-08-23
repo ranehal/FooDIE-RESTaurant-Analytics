@@ -430,10 +430,13 @@ def main():
 
     print(f"\n{'=' * 60}")
     print(f"  DONE")
-    print(f"  Restaurants: {output['totalRestaurants']}")
-    print(f"  Dishes:      {output['totalDishes']}")
-    print(f"  File:        {DATA_FILE}")
-    print(f"  Size:        {os.path.getsize(DATA_FILE) / 1024:.0f} KB")
+    print(f"  Restaurants:    {output['totalRestaurants']}")
+    print(f"  Dishes:         {output['totalDishes']}")
+    print(f"  Total Dishes:   {output['totalDishes']}")
+    print(f"  Total Products: {output['totalDishes']}")
+    print(f"  Scraped {output['totalDishes']} products")
+    print(f"  File:           {DATA_FILE}")
+    print(f"  Size:           {os.path.getsize(DATA_FILE) / 1024:.0f} KB")
     print(f"{'=' * 60}")
 
 
