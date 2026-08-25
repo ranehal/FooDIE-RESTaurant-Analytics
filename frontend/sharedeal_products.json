@@ -3100,8 +3100,8 @@
         {
           "date": "2026-08-25",
           "price": 65.0,
-          "offer": 45.0,
-          "group": 40.0,
+          "offer": 50.0,
+          "group": 45.0,
           "stock": 100.0
         }
       ]
@@ -3427,7 +3427,7 @@
       "slug": "chola-boot-chola-but-per-kg",
       "sku": "yATdEgwd",
       "category_id": "4",
-      "category": null,
+      "category": "Fresh Vegetables",
       "unit": "KG",
       "volume": "1",
       "image": "https://sharedealnow.com/storage/365/Chola-But-selefe-grocery-online-store.jpeg",
@@ -3466,7 +3466,7 @@
           "price": 99.0,
           "offer": 85.0,
           "group": 65.0,
-          "stock": 92.0
+          "stock": 85.0
         }
       ]
     },
