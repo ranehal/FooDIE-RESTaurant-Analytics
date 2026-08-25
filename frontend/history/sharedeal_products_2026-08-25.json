@@ -583,7 +583,7 @@
         "price": 90.0,
         "offer": 76.0,
         "group": 65.0,
-        "stock": 100.0
+        "stock": 94.0
       }
     ]
   },
@@ -688,7 +688,7 @@
         "price": 99.0,
         "offer": 85.0,
         "group": 65.0,
-        "stock": 96.0
+        "stock": 92.0
       }
     ]
   },
@@ -793,7 +793,7 @@
         "price": 67.0,
         "offer": 60.0,
         "group": 53.0,
-        "stock": 95.0
+        "stock": 89.0
       }
     ]
   },
@@ -814,7 +814,7 @@
         "price": 108.0,
         "offer": 85.0,
         "group": 75.0,
-        "stock": 95.0
+        "stock": 84.0
       }
     ]
   },
@@ -2265,8 +2265,8 @@
   },
   "392": {
     "id": 392,
-    "name": "Fresh Oil 500ml",
-    "slug": "fresh-oil-500ml",
+    "name": "Fresh Fortified Soybean Oil - 500 ML",
+    "slug": "fresh-fortified-soybean-oil-500-ml",
     "sku": "18t0l0Gk",
     "category_id": "5",
     "category": null,
