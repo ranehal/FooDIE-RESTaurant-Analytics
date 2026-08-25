@@ -329,10 +329,129 @@ def scrape_restaurant_menu(rest, lat, lng, seed_sxsrf, idx, total_to_scrape):
     return ok
 
 
+def load_all_existing_history():
+    """Load historical price records across all previous history snapshot JSONs and data.json."""
+    import glob
+    existing_dish_hist = {}
+
+    # 1. Load from all history snapshot files
+    hist_dir = os.path.join(DATA_DIR, "history")
+    if os.path.exists(hist_dir):
+        for f in sorted(glob.glob(os.path.join(hist_dir, "*.json"))):
+            try:
+                fname = os.path.basename(f)
+                date_part = fname.replace(".json", "").split("_")[-1]
+                with open(f, "r", encoding="utf-8") as fh:
+                    h_data = json.load(fh)
+                for loc in h_data.get("locations", []):
+                    for rest in loc.get("restaurants", []):
+                        rid = str(rest.get("id"))
+                        for did, menu in rest.get("menus", {}).items():
+                            key = f"{rid}:{did}"
+                            p_hist = menu.get("price_history") or menu.get("priceHistory") or menu.get("history") or []
+                            if isinstance(p_hist, list) and p_hist:
+                                for entry in p_hist:
+                                    if isinstance(entry, dict) and entry.get("date"):
+                                        if key not in existing_dish_hist:
+                                            existing_dish_hist[key] = []
+                                        if not any(h.get("date") == entry.get("date") for h in existing_dish_hist[key]):
+                                            existing_dish_hist[key].append(entry)
+                            else:
+                                try: p = float(menu.get("price", 0))
+                                except: p = 0
+                                if p > 0:
+                                    if key not in existing_dish_hist:
+                                        existing_dish_hist[key] = []
+                                    if not any(h.get("date") == date_part for h in existing_dish_hist[key]):
+                                        existing_dish_hist[key].append({
+                                            "date": date_part,
+                                            "price": p,
+                                            "oldPrice": float(menu.get("oldPrice", p) or p)
+                                        })
+            except Exception:
+                pass
+
+    # 2. Also load from current DATA_FILE if available
+    if os.path.exists(DATA_FILE):
+        try:
+            with open(DATA_FILE, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+            for loc in old_data.get("locations", []):
+                for rest in loc.get("restaurants", []):
+                    rid = str(rest.get("id"))
+                    for did, menu in rest.get("menus", {}).items():
+                        key = f"{rid}:{did}"
+                        p_hist = menu.get("price_history") or menu.get("priceHistory") or menu.get("history") or []
+                        if isinstance(p_hist, list):
+                            for entry in p_hist:
+                                if isinstance(entry, dict) and entry.get("date"):
+                                    if key not in existing_dish_hist:
+                                        existing_dish_hist[key] = []
+                                    if not any(h.get("date") == entry.get("date") for h in existing_dish_hist[key]):
+                                        existing_dish_hist[key].append(entry)
+        except Exception as e:
+            print(f"  [WARN] Failed to load previous dish history: {e}")
+
+    for key in existing_dish_hist:
+        existing_dish_hist[key].sort(key=lambda x: str(x.get("date", "")))
+
+    return existing_dish_hist
+
+
+def merge_dish_histories(new_locations, now_iso, today_str, existing_dish_hist=None):
+    if existing_dish_hist is None:
+        existing_dish_hist = load_all_existing_history()
+
+    for loc in new_locations:
+        for rest in loc.get("restaurants", []):
+            rid = str(rest.get("id"))
+            for did, menu in rest.get("menus", {}).items():
+                key = f"{rid}:{did}"
+                hist = list(existing_dish_hist.get(key, []))
+                try:
+                    curr_price = float(menu.get("price", 0))
+                except (ValueError, TypeError):
+                    curr_price = 0
+                try:
+                    old_price = float(menu.get("oldPrice", curr_price) or curr_price)
+                except (ValueError, TypeError):
+                    old_price = curr_price
+
+                # Remove any existing entry for today and append latest
+                hist = [h for h in hist if h.get("date") != today_str and str(h.get("date"))[:10] != today_str]
+                if curr_price > 0:
+                    hist.append({
+                        "date": today_str,
+                        "timestamp": now_iso,
+                        "price": curr_price,
+                        "oldPrice": old_price
+                    })
+                menu["price_history"] = hist
+
+    return new_locations
+
+
+def _save(locations, existing_dish_hist=None):
+    if not locations:
+        return
+    now_iso = datetime.now(timezone.utc).isoformat()
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    merged = merge_dish_histories(locations, now_iso, today_str, existing_dish_hist)
+    total_r = sum(len(loc["restaurants"]) for loc in merged)
+    total_d = sum(len(r.get("menus", {})) for loc in merged for r in loc["restaurants"])
+    with _save_lock:
+        with open(DATA_FILE, "w", encoding="utf-8") as f:
+            json.dump({"locations": merged, "totalRestaurants": total_r, "totalDishes": total_d, "scrapedAt": now_iso}, f, ensure_ascii=False, indent=2)
+
+
 def main():
     print("=" * 60)
     print("  FoodiEATS Live Scraper")
     print("=" * 60)
+
+    # Load multi-day history upfront so it is never overwritten during scraping
+    existing_dish_hist = load_all_existing_history()
+    print(f"  [history] Loaded historical price trends for {len(existing_dish_hist)} dishes")
 
     client = httpx.Client(http2=True, follow_redirects=True)
     output_locations = []
@@ -380,7 +499,7 @@ def main():
                     failed += 1
 
                 if completed % 20 == 0:
-                    _save(output_locations)
+                    _save(output_locations, existing_dish_hist)
 
         loc_dishes = sum(len(r.get("menus", {})) for r in restaurants)
         total_restaurants += len(restaurants)
@@ -407,8 +526,8 @@ def main():
     now_iso = datetime.now(timezone.utc).isoformat()
     today_str = datetime.now().strftime("%Y-%m-%d")
 
-    # Merge with existing historical data
-    merged_locations = merge_dish_histories(output_locations, now_iso, today_str)
+    # Merge with loaded historical data
+    merged_locations = merge_dish_histories(output_locations, now_iso, today_str, existing_dish_hist)
 
     output = {
         "locations": merged_locations,
@@ -438,62 +557,6 @@ def main():
     print(f"  File:           {DATA_FILE}")
     print(f"  Size:           {os.path.getsize(DATA_FILE) / 1024:.0f} KB")
     print(f"{'=' * 60}")
-
-
-def merge_dish_histories(new_locations, now_iso, today_str):
-    existing_dish_hist = {}
-    if os.path.exists(DATA_FILE):
-        try:
-            with open(DATA_FILE, "r", encoding="utf-8") as f:
-                old_data = json.load(f)
-                for loc in old_data.get("locations", []):
-                    for rest in loc.get("restaurants", []):
-                        rid = str(rest.get("id"))
-                        for did, menu in rest.get("menus", {}).items():
-                            key = f"{rid}:{did}"
-                            hist = menu.get("price_history") or menu.get("history") or []
-                            if isinstance(hist, list):
-                                existing_dish_hist[key] = [h for h in hist if isinstance(h, dict)]
-        except Exception as e:
-            print(f"  [WARN] Failed to load previous dish history: {e}")
-
-    for loc in new_locations:
-        for rest in loc.get("restaurants", []):
-            rid = str(rest.get("id"))
-            for did, menu in rest.get("menus", {}).items():
-                key = f"{rid}:{did}"
-                hist = list(existing_dish_hist.get(key, []))
-                try:
-                    curr_price = float(menu.get("price", 0))
-                except (ValueError, TypeError):
-                    curr_price = 0
-                try:
-                    old_price = float(menu.get("oldPrice", curr_price) or curr_price)
-                except (ValueError, TypeError):
-                    old_price = curr_price
-
-                # Remove any existing entry for today and append latest
-                hist = [h for h in hist if h.get("date") != today_str and str(h.get("date"))[:10] != today_str]
-                if curr_price > 0:
-                    hist.append({
-                        "date": today_str,
-                        "timestamp": now_iso,
-                        "price": curr_price,
-                        "oldPrice": old_price
-                    })
-                menu["price_history"] = hist
-
-    return new_locations
-
-
-def _save(locations):
-    if not locations:
-        return
-    total_r = sum(len(loc["restaurants"]) for loc in locations)
-    total_d = sum(len(r.get("menus", {})) for loc in locations for r in loc["restaurants"])
-    with _save_lock:
-        with open(DATA_FILE, "w", encoding="utf-8") as f:
-            json.dump({"locations": locations, "totalRestaurants": total_r, "totalDishes": total_d}, f, ensure_ascii=False)
 
 
 if __name__ == "__main__":
