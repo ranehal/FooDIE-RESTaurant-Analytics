@@ -163,7 +163,7 @@
         "price": 50.0,
         "offer": 48.0,
         "group": null,
-        "stock": 100.0
+        "stock": 99.0
       }
     ]
   },
@@ -688,7 +688,7 @@
         "price": 99.0,
         "offer": 85.0,
         "group": 65.0,
-        "stock": 85.0
+        "stock": 77.0
       }
     ]
   },
@@ -793,7 +793,7 @@
         "price": 67.0,
         "offer": 60.0,
         "group": 53.0,
-        "stock": 89.0
+        "stock": 81.0
       }
     ]
   },
@@ -2138,8 +2138,8 @@
     "history": [
       {
         "date": "2026-08-27",
-        "price": 195.0,
-        "offer": 195.0,
+        "price": 205.0,
+        "offer": 199.0,
         "group": null,
         "stock": 97.0
       }
@@ -2886,8 +2886,8 @@
     "history": [
       {
         "date": "2026-08-27",
-        "price": 110.0,
-        "offer": 105.0,
+        "price": 120.0,
+        "offer": 110.0,
         "group": null,
         "stock": 100.0
       }
@@ -4091,7 +4091,7 @@
         "price": 180.0,
         "offer": 170.0,
         "group": null,
-        "stock": 100.0
+        "stock": 99.0
       }
     ]
   },
@@ -4280,7 +4280,7 @@
         "price": 160.0,
         "offer": 155.0,
         "group": null,
-        "stock": 100.0
+        "stock": 99.0
       }
     ]
   },
@@ -5312,7 +5312,7 @@
       {
         "date": "2026-08-27",
         "price": 400.0,
-        "offer": 390.0,
+        "offer": 396.0,
         "group": null,
         "stock": 100.0
       }
