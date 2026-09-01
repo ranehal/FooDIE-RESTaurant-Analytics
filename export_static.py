@@ -5,7 +5,10 @@ import os, sqlite3, json, sys, io
 
 # Fix Windows console encoding
 try:
-    sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8', errors='replace')
+    try:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception: pass
 except Exception:
     pass
 
