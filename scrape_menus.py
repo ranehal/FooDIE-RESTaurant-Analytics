@@ -14,6 +14,7 @@ from datetime import datetime, timezone
 
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_FILE = os.path.join(DATA_DIR, "restaurant_dashboard", "data.json")
+PARQUET_FILE = os.path.join(DATA_DIR, "restaurant_dashboard", "data.parquet")
 
 BASE_URL = "https://api.foodibd.com"
 
@@ -330,11 +331,55 @@ def scrape_restaurant_menu(rest, lat, lng, seed_sxsrf, idx, total_to_scrape):
 
 
 def load_all_existing_history():
-    """Load historical price records across all previous history snapshot JSONs and data.json."""
+    """Load historical price records across data.parquet, previous history snapshot JSONs, and data.json."""
     import glob
     existing_dish_hist = {}
 
-    # 1. Load from all history snapshot files
+    # 1. First priority: load directly and fast from PARQUET_FILE if it exists
+    if os.path.exists(PARQUET_FILE):
+        try:
+            import pyarrow.parquet as pq
+            table = pq.read_table(PARQUET_FILE, columns=['r_id', 'd_id', 'd_history'])
+            r_ids = table['r_id'].to_pylist()
+            d_ids = table['d_id'].to_pylist()
+            d_hists = table['d_history'].to_pylist()
+            for rid, did, h_json in zip(r_ids, d_ids, d_hists):
+                if rid and did and h_json:
+                    key = f"{str(rid).strip()}:{str(did).strip()}"
+                    try:
+                        p_hist = json.loads(h_json) if isinstance(h_json, str) else h_json
+                        if isinstance(p_hist, list) and p_hist:
+                            existing_dish_hist[key] = p_hist
+                    except Exception:
+                        pass
+            if existing_dish_hist:
+                print(f"  [history] Loaded {len(existing_dish_hist)} continuous dish histories instantly from {os.path.basename(PARQUET_FILE)}")
+                return existing_dish_hist
+        except Exception as e:
+            print(f"  [WARN] Failed to load history from parquet: {e}")
+
+    # 2. Second priority: current DATA_FILE if available
+    if os.path.exists(DATA_FILE):
+        try:
+            with open(DATA_FILE, "r", encoding="utf-8") as f:
+                old_data = json.load(f)
+            for loc in old_data.get("locations", []):
+                for rest in loc.get("restaurants", []):
+                    rid = str(rest.get("id"))
+                    for did, menu in rest.get("menus", {}).items():
+                        key = f"{rid}:{did}"
+                        p_hist = menu.get("price_history") or menu.get("priceHistory") or menu.get("history") or []
+                        if isinstance(p_hist, list):
+                            for entry in p_hist:
+                                if isinstance(entry, dict) and entry.get("date"):
+                                    if key not in existing_dish_hist:
+                                        existing_dish_hist[key] = []
+                                    if not any(h.get("date") == entry.get("date") for h in existing_dish_hist[key]):
+                                        existing_dish_hist[key].append(entry)
+        except Exception as e:
+            print(f"  [WARN] Failed to load previous dish history from data.json: {e}")
+
+    # 3. Third priority: history snapshots
     hist_dir = os.path.join(DATA_DIR, "history")
     if os.path.exists(hist_dir):
         for f in sorted(glob.glob(os.path.join(hist_dir, "*.json"))):
@@ -371,27 +416,6 @@ def load_all_existing_history():
             except Exception:
                 pass
 
-    # 2. Also load from current DATA_FILE if available
-    if os.path.exists(DATA_FILE):
-        try:
-            with open(DATA_FILE, "r", encoding="utf-8") as f:
-                old_data = json.load(f)
-            for loc in old_data.get("locations", []):
-                for rest in loc.get("restaurants", []):
-                    rid = str(rest.get("id"))
-                    for did, menu in rest.get("menus", {}).items():
-                        key = f"{rid}:{did}"
-                        p_hist = menu.get("price_history") or menu.get("priceHistory") or menu.get("history") or []
-                        if isinstance(p_hist, list):
-                            for entry in p_hist:
-                                if isinstance(entry, dict) and entry.get("date"):
-                                    if key not in existing_dish_hist:
-                                        existing_dish_hist[key] = []
-                                    if not any(h.get("date") == entry.get("date") for h in existing_dish_hist[key]):
-                                        existing_dish_hist[key].append(entry)
-        except Exception as e:
-            print(f"  [WARN] Failed to load previous dish history: {e}")
-
     for key in existing_dish_hist:
         existing_dish_hist[key].sort(key=lambda x: str(x.get("date", "")))
 
@@ -417,31 +441,156 @@ def merge_dish_histories(new_locations, now_iso, today_str, existing_dish_hist=N
                 except (ValueError, TypeError):
                     old_price = curr_price
 
-                # Remove any existing entry for today and append latest
-                hist = [h for h in hist if h.get("date") != today_str and str(h.get("date"))[:10] != today_str]
+                # Remove any existing entry for today
+                hist = [h for h in hist if str(h.get("date"))[:10] != today_str]
                 if curr_price > 0:
-                    hist.append({
+                    entry = {
                         "date": today_str,
-                        "timestamp": now_iso,
                         "price": curr_price,
-                        "oldPrice": old_price
-                    })
+                    }
+                    if old_price > 0 and old_price != curr_price:
+                        entry["oldPrice"] = old_price
+                    hist.append(entry)
+
+                # Deduplicate consecutive identical prices to keep payload ultra-lean!
+                if len(hist) > 1:
+                    deduped = [hist[0]]
+                    for pt in hist[1:]:
+                        p_val = float(pt.get("price") or 0)
+                        if p_val > 0 and p_val != float(deduped[-1].get("price") or 0):
+                            d_entry = {"date": str(pt.get("date"))[:10], "price": p_val}
+                            if pt.get("oldPrice") and float(pt.get("oldPrice")) != p_val:
+                                d_entry["oldPrice"] = float(pt.get("oldPrice"))
+                            deduped.append(d_entry)
+                    # Always preserve latest observation date
+                    last_pt = hist[-1]
+                    last_p = float(last_pt.get("price") or 0)
+                    last_d = str(last_pt.get("date"))[:10]
+                    if last_p > 0 and last_d and last_d != str(deduped[-1].get("date"))[:10]:
+                        d_entry = {"date": last_d, "price": last_p}
+                        if last_pt.get("oldPrice") and float(last_pt.get("oldPrice")) != last_p:
+                            d_entry["oldPrice"] = float(last_pt.get("oldPrice"))
+                        deduped.append(d_entry)
+                    hist = deduped
+
                 menu["price_history"] = hist
+                menu.pop("priceHistory", None)
 
     return new_locations
 
 
-def _save(locations, existing_dish_hist=None):
-    if not locations:
-        return
+def save_parquet(locations, total_r, total_d, scraped_at):
+    try:
+        import pyarrow as pa
+        import pyarrow.parquet as pq
+    except ImportError:
+        print("  [parquet] pyarrow not installed — skipping parquet export")
+        return False
+
+    rows = []
+    for loc in locations:
+        loc_name = loc.get("name", "")
+        loc_lat = float(loc.get("lat") or 0)
+        loc_lng = float(loc.get("lng") or 0)
+        for rest in loc.get("restaurants", []):
+            base = {
+                "meta_scraped_at": scraped_at,
+                "loc_name": loc_name,
+                "loc_lat": loc_lat,
+                "loc_lng": loc_lng,
+                "r_id": int(rest.get("id") or 0),
+                "r_name": rest.get("name", ""),
+                "r_image": rest.get("image", ""),
+                "r_primary": rest.get("primaryCuisine", ""),
+                "r_rating": float(rest.get("rating") or 0),
+                "r_rating_count": int(rest.get("ratingCount") or 0),
+                "r_delivery_time": str(rest.get("deliveryTime") or ""),
+                "r_delivery_charge": float(rest.get("deliveryCharge") or 0),
+            }
+            menus = rest.get("menus", {})
+            if not menus:
+                rows.append({**base, "d_id": 0, "d_name": "", "d_price": 0.0, "d_old_price": 0.0, "d_desc": "", "d_image": "", "d_popular": False, "d_history": None})
+            else:
+                for mid, m in menus.items():
+                    p_hist = m.get("price_history") or []
+                    rows.append({
+                        **base,
+                        "d_id": int(m.get("id") or mid or 0),
+                        "d_name": str(m.get("name") or ""),
+                        "d_price": float(m.get("price") or 0),
+                        "d_old_price": float(m.get("oldPrice") or 0),
+                        "d_desc": str(m.get("description") or ""),
+                        "d_image": str(m.get("image") or ""),
+                        "d_popular": bool(m.get("isPopular") or False),
+                        "d_history": json.dumps(p_hist, separators=(',', ':'), ensure_ascii=False) if p_hist else None,
+                    })
+
+    if not rows:
+        return False
+
+    table = pa.Table.from_pylist(rows)
+    pq.write_table(table, PARQUET_FILE, compression="zstd", compression_level=12)
+    if os.path.exists(PARQUET_FILE):
+        pq_mb = os.path.getsize(PARQUET_FILE) / (1024 * 1024)
+        print(f"  [parquet] Stored continuous history in {os.path.basename(PARQUET_FILE)} ({pq_mb:.2f} MB)")
+        return True
+    return False
+
+
+def save_output(locations, is_final=False, existing_dish_hist=None):
+    if not locations or sum(len(l["restaurants"]) for l in locations) == 0:
+        return 0, 0
     now_iso = datetime.now(timezone.utc).isoformat()
     today_str = datetime.now().strftime("%Y-%m-%d")
     merged = merge_dish_histories(locations, now_iso, today_str, existing_dish_hist)
     total_r = sum(len(loc["restaurants"]) for loc in merged)
     total_d = sum(len(r.get("menus", {})) for loc in merged for r in loc["restaurants"])
+
+    output = {
+        "locations": merged,
+        "totalRestaurants": total_r,
+        "totalDishes": total_d,
+        "scrapedAt": now_iso
+    }
+
     with _save_lock:
+        os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
         with open(DATA_FILE, "w", encoding="utf-8") as f:
-            json.dump({"locations": merged, "totalRestaurants": total_r, "totalDishes": total_d, "scrapedAt": now_iso}, f, ensure_ascii=False, indent=2)
+            json.dump(output, f, ensure_ascii=False, separators=(',', ':'))
+
+        if is_final:
+            save_parquet(merged, total_r, total_d, now_iso)
+            if total_d > 0:
+                # Save daily history snapshot: compact without nested bloated history array
+                compact_locations = []
+                for loc in merged:
+                    c_loc = {k: v for k, v in loc.items() if k != "restaurants"}
+                    c_rests = []
+                    for r in loc.get("restaurants", []):
+                        cr = {k: v for k, v in r.items() if k != "menus"}
+                        cm = {}
+                        for did, m in r.get("menus", {}).items():
+                            cm[did] = {k: v for k, v in m.items() if k not in ("price_history", "priceHistory", "history")}
+                        cr["menus"] = cm
+                        c_rests.append(cr)
+                    c_loc["restaurants"] = c_rests
+                    compact_locations.append(c_loc)
+
+                snap_output = {
+                    "locations": compact_locations,
+                    "totalRestaurants": total_r,
+                    "totalDishes": total_d,
+                    "scrapedAt": now_iso
+                }
+                hist_dir = os.path.join(DATA_DIR, "history")
+                os.makedirs(hist_dir, exist_ok=True)
+                snapshot_file = os.path.join(hist_dir, f"foodie_restaurants_{today_str}.json")
+                with open(snapshot_file, "w", encoding="utf-8") as f:
+                    json.dump(snap_output, f, ensure_ascii=False, separators=(',', ':'))
+                snap_mb = os.path.getsize(snapshot_file) / (1024 * 1024)
+                print(f"  [snapshot] Saved daily history: {snapshot_file} ({snap_mb:.2f} MB)")
+
+    return total_r, total_d
 
 
 def main():
@@ -499,7 +648,7 @@ def main():
                     failed += 1
 
                 if completed % 20 == 0:
-                    _save(output_locations, existing_dish_hist)
+                    save_output(output_locations, is_final=False, existing_dish_hist=existing_dish_hist)
 
         loc_dishes = sum(len(r.get("menus", {})) for r in restaurants)
         total_restaurants += len(restaurants)
@@ -523,39 +672,18 @@ def main():
         print("\n[WARN] 0 restaurants scraped. Keeping existing dataset to avoid data loss.")
         return
 
-    now_iso = datetime.now(timezone.utc).isoformat()
-    today_str = datetime.now().strftime("%Y-%m-%d")
-
-    # Merge with loaded historical data
-    merged_locations = merge_dish_histories(output_locations, now_iso, today_str, existing_dish_hist)
-
-    output = {
-        "locations": merged_locations,
-        "totalRestaurants": sum(len(l["restaurants"]) for l in merged_locations),
-        "totalDishes": sum(len(r.get("menus", {})) for l in merged_locations for r in l["restaurants"]),
-        "scrapedAt": now_iso,
-    }
-
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False, indent=2)
-
-    # Save daily history snapshot
-    hist_dir = os.path.join(DATA_DIR, "history")
-    os.makedirs(hist_dir, exist_ok=True)
-    snapshot_file = os.path.join(hist_dir, f"foodie_restaurants_{today_str}.json")
-    with open(snapshot_file, "w", encoding="utf-8") as f:
-        json.dump(output, f, ensure_ascii=False)
-    print(f"  Saved snapshot: {snapshot_file}")
+    total_r, total_d = save_output(output_locations, is_final=True, existing_dish_hist=existing_dish_hist)
 
     print(f"\n{'=' * 60}")
     print(f"  DONE")
-    print(f"  Restaurants:    {output['totalRestaurants']}")
-    print(f"  Dishes:         {output['totalDishes']}")
-    print(f"  Total Dishes:   {output['totalDishes']}")
-    print(f"  Total Products: {output['totalDishes']}")
-    print(f"  Scraped {output['totalDishes']} products")
-    print(f"  File:           {DATA_FILE}")
-    print(f"  Size:           {os.path.getsize(DATA_FILE) / 1024:.0f} KB")
+    print(f"  Restaurants:    {total_r}")
+    print(f"  Dishes:         {total_d}")
+    print(f"  Total Dishes:   {total_d}")
+    print(f"  Total Products: {total_d}")
+    print(f"  Scraped {total_d} products")
+    print(f"  JSON:           {DATA_FILE} ({os.path.getsize(DATA_FILE) / 1024:.0f} KB)")
+    if os.path.exists(PARQUET_FILE):
+        print(f"  Parquet:        {PARQUET_FILE} ({os.path.getsize(PARQUET_FILE) / 1024:.0f} KB)")
     print(f"{'=' * 60}")
 
 
